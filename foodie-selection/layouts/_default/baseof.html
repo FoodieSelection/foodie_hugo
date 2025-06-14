@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-B2KVJ21NQT"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-B2KVJ21NQT');
+  </script>
+  
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ if .Title }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
+  
+  {{ block "ldjson" . }}{{ end }}
+  
+  <link rel="icon" href="/favicon.ico" type="image/x-icon">
+  <meta name="description" content="{{ .Params.description }}">
+  <meta name="keywords" content="{{ if .Params.Keywords }}{{ delimit .Params.Keywords ", " }}{{ end }}">
+  <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large">
+  <meta name="author" content="{{ .Site.Title }}">
+  <link rel="canonical" href="{{ .Permalink }}">
+
+  <!-- Open Graph (og) -->
+  <meta property="og:title" content="{{ if .Title }}{{ .Title }} | {{ end }}{{ .Site.Title }}">
+  <meta property="og:description" content="{{ .Params.description }}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ .Permalink }}">
+  <meta property="og:image" content="{{ .Site.BaseURL }}{{ .Site.Params.logo }}">
+  <meta property="og:site_name" content="{{ .Site.Title }}">
+  <meta property="fb:app_id" content="{{ .Site.Params.fbAppId }}">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ if .Title }}{{ .Title }} | {{ end }}{{ .Site.Title }}">
+  <meta name="twitter:description" content="{{ .Params.description }}">
+  <meta name="twitter:image" content="{{ .Site.BaseURL }}{{ .Site.Params.logo }}">
+
+  {{ block "font" . }}{{ end }}
+  
+  {{ with .Params.custom_css }}
+    {{ $style := resources.Get . | fingerprint }}
+    <link rel="stylesheet" href="{{ $style.Permalink }}">
+  {{ end }}
+
+</head>
+<body>
+  {{ block "main" . }}{{ end }}
+</body>
+</html>
