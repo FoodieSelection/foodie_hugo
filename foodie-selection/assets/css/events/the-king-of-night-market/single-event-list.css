@@ -222,6 +222,10 @@ header {
         padding: 0.5rem;
     }
 
+    .header-title {
+        font-size: 1.4rem;
+    }
+
     .card {
         padding: 0.9rem 0.6rem 0.6rem 0.6rem;
     }

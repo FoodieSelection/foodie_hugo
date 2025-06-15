@@ -75,5 +75,5 @@ events:
     nightMarket: "一中街夜市"
     google_map: "https://maps.app.goo.gl/uXV9DoCZHr1XCe5r6"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8C%97%E5%8D%80/362075/"
-    description: "夜市王牛肉項目，第七名，一中街夜市蘇坤蔚牛排"
+    description: "夜市王牛肉項目，第七名，一中街夜市蘇坤蔚牛排 Sukhumvit STEAK"
 ---
