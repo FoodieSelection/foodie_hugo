@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "吃貨精選-Foodie Selection"
 description: "探索全台美食競賽，發現在地美味，品嚐競技精神"
 keywords:
   - 美食競賽

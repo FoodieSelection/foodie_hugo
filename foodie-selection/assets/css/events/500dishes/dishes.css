@@ -1,0 +1,218 @@
+<style>
+html {
+    margin: 0;
+    padding: 0;
+    background: transparent;
+}
+
+body {
+    margin: 0;
+    font-family: "Noto Sans TC", Arial, sans-serif;
+    background: #d66616;
+    color: #222;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    background: #d66616;
+    box-shadow: 0 2px 8px #0001;
+    padding: 0 1rem;
+    height: 64px;
+}
+
+.header-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 44px;
+    height: 44px;
+    margin-right: 1rem;
+    border-radius: 50%;
+    overflow: hidden;
+    background: #fffbe6;
+    flex-shrink: 0;
+    transition: background 0.2s;
+}
+
+.header-btn:hover {
+    background: #ffe066;
+}
+
+.header-btn img {
+    width: 28px;
+    height: 28px;
+    object-fit: contain;
+    display: block;
+}
+
+.header-title {
+    flex: 1;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color: #fff;
+    user-select: none;
+}
+
+.header-btn-placeholder {
+    width: 44px;
+    height: 44px;
+    margin-left: 1rem;
+    opacity: 0;
+    pointer-events: none;
+}
+
+.restaurant-list {
+    max-width: 800px;
+    margin: 1.5rem auto;
+    padding: 0 1rem;
+}
+
+.restaurant {
+    margin-bottom: 1rem;
+    border-radius: 10px;
+    background: #fffbe6;
+    box-shadow: 0 2px 8px #0001;
+    overflow: hidden;
+    transition: box-shadow 0.2s;
+}
+
+.restaurant-info {
+    padding: 1rem 1rem 0.7rem 1rem;
+    cursor: pointer;
+    background: #fffbe6;
+    border-bottom: 1px solid #ffd699;
+    outline: none;
+    user-select: none;
+}
+
+.info-row1 {
+    display: flex;
+    align-items: center;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #d66616;
+    margin-bottom: 0.2em;
+}
+
+.name-text {
+    flex: 1;
+    text-align: left;
+    min-width: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.info-row2 {
+    font-size: 1rem;
+    color: #333;
+    margin-bottom: 0.5em;
+    padding-left: 0.1em;
+    word-break: break-all;
+}
+
+.info-row3 {
+    display: flex;
+    align-items: center;
+    gap: 0.7em;
+    margin-bottom: 0.1em;
+}
+
+.info-btn {
+    display: inline-block;
+    background: #d66616;
+    color: #fff;
+    border-radius: 5px;
+    padding: 0.3em 1em;
+    font-size: 1rem;
+    text-decoration: none;
+    border: none;
+    transition: background 0.2s;
+    font-weight: 500;
+}
+
+.info-btn:hover,
+.info-btn:focus {
+    background: #ff8c1a;
+}
+
+.dropdown-icon {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    transition: transform 0.3s cubic-bezier(0.6, 0, 0.4, 1);
+}
+
+.restaurant.open .dropdown-icon {
+    transform: rotate(180deg);
+}
+
+.menu-list {
+    max-height: 0;
+    overflow: hidden;
+    background: #fff;
+    margin: 0;
+    padding: 0 1rem;
+    list-style: none;
+    transition: max-height 0.35s cubic-bezier(0.6, 0, 0.4, 1), padding 0.25s;
+}
+
+.restaurant.open .menu-list {
+    max-height: 2000px;
+    padding: 0.8rem 1rem 1rem 1.5rem;
+}
+
+.menu-list li {
+    padding: 0.5rem 0;
+    border-bottom: 1px solid #ffe066;
+    font-size: 1.05rem;
+    color: #444;
+}
+
+.menu-list li:last-child {
+    border-bottom: none;
+}
+
+@media (max-width: 600px) {
+    .header-title {
+        flex: 1;
+        text-align: center;
+        font-size: 1.4rem;
+        font-weight: bold;
+        letter-spacing: 2px;
+        color: #fff;
+        user-select: none;
+    }
+
+    .restaurant-list {
+        max-width: 100%;
+        padding: 0 0.2rem;
+    }
+
+    .restaurant-info {
+        padding: 0.8rem 0.7rem 0.5rem 0.7rem;
+    }
+
+    .info-row1 {
+        font-size: 1rem;
+    }
+
+    .info-row2 {
+        font-size: 0.92rem;
+    }
+
+    .info-btn {
+        font-size: 0.92rem;
+        padding: 0.23em 0.8em;
+    }
+
+    .dropdown-icon svg {
+        width: 18px;
+        height: 18px;
+    }
+}
+
+</style>

@@ -1,0 +1,62 @@
+{{ define "ldjson" }}
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "CollectionPage",
+      "name": "{{ .Title }}",
+      "description": "{{ .Params.description }}",
+      "url": "{{ .Permalink }}",
+      "image": "{{ .Site.BaseURL }}{{ .Site.Params.logo }}",
+      "inLanguage": "zh-Hant",
+      "datePublished": "{{ .Params.datePublished }}",
+      "dateModified": "{{ .Params.dateModified }}",
+      "publisher": {
+        "@type": "Organization",
+        "name": "{{ .Site.Title }}",
+        "url": "{{ .Site.BaseURL }}",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "{{ .Site.BaseURL }}{{ .Site.Params.logo }}"
+        }
+      },
+      "isPartOf": {
+        "@type": "CollectionPage",
+        "name": "{{ .Parent.Title }}",
+        "url": "{{ .Parent.Permalink }}"
+      },
+      "hasPart": [
+      {{ range $i, $event := .Params.events }}
+      {{ if $i }},{{ end }}
+        {
+          "@type": "WebPage",
+          "name": {{ $event.name }},
+          "url": {{ absURL (printf "%s%s" $.Permalink $event.link) }},
+          "description": {{ $event.description }}
+        }
+      {{ end }}
+      ]
+    }
+    </script>
+{{ end }}
+
+{{ define "main" }}
+<header>
+    <a class="header-btn" href="{{ .Site.BaseURL }}">
+        <img src="{{ .Site.BaseURL }}{{ .Site.Params.logo }}" alt="回首頁">
+    </a>
+    <div class="header-title">{{ .Title }}</div>
+    <div class="header-btn-placeholder"></div>
+</header>
+<main>
+    <section class="image-grid">
+        {{ range .Params.events }}
+        <div class="image-item">
+            <a class="image-link" href="{{ .link }}">
+                <img src="{{ .image }}" alt="尚未獲得圖片授權">
+                <div class="image-caption">{{ .name }}</div>
+            </a>
+        </div>
+        {{ end }}
+    </section>
+</main>
+{{ end }}
