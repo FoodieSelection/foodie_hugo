@@ -25,7 +25,7 @@
         {{ if $i }},{{ end }}
         {
           "@type": "CollectionPage",
-          "name": {{ $city.name }},
+          "name": {{ printf "%s美食競賽" $city.name }},
           "url": {{ (absURL $city.link) }},
           "description": {{ printf "精選%s在地美食。" $city.name }}
         }

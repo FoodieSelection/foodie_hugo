@@ -2,7 +2,7 @@
     {
         "city": "花蓮縣",
         "nightMarket": "東大門夜市",
-        "type": "雞排",
+        "food_type": "雞排",
         "rank": "第二名",
         "name": "宜蘭香炸螃蟹(東大門店)(C17)",
         "address": "花蓮縣花蓮市中山路38號C17",
@@ -13,7 +13,7 @@
     {
         "city": "花蓮縣",
         "nightMarket": "東大門夜市",
-        "type": "蚵仔煎",
+        "food_type": "蚵仔煎",
         "rank": "第四名",
         "name": "蚵仔酥煎(E28)",
         "address": "花蓮縣花蓮市東大門夜市原住民一條街E28",
@@ -24,7 +24,7 @@
     {
         "city": "花蓮縣",
         "nightMarket": "東大門夜市",
-        "type": "臭豆腐",
+        "food_type": "臭豆腐",
         "rank": "第一名",
         "name": "夜市王 玉里臭豆腐(F29)",
         "address": "花蓮縣花蓮市東大門各省一條街F29",
@@ -35,7 +35,7 @@
     {
         "city": "花蓮縣",
         "nightMarket": "東大門夜市",
-        "type": "甜點",
+        "food_type": "甜點",
         "rank": "第六名",
         "name": "原香嘟論竹筒飯(D21)",
         "address": "花蓮縣花蓮市中山路50號原住民一條街D21",
@@ -46,7 +46,7 @@
     {
         "city": "花蓮縣",
         "nightMarket": "東大門夜市",
-        "type": "牛肉",
+        "food_type": "牛肉",
         "rank": "第六名",
         "name": "蛤蜊波特熱炒燒烤Bar(哈力坡特熱炒燒烤)(C23)",
         "address": "花蓮縣花蓮市中山路福町夜市中山門C23",
@@ -57,7 +57,7 @@
     {
         "city": "花蓮縣",
         "nightMarket": "東大門夜市",
-        "type": "海鮮",
+        "food_type": "海鮮",
         "rank": "第四名",
         "name": "苡娜廚房(夜市王白帶魚卷)(E6)",
         "address": "花蓮縣花蓮市中山路福町夜市中山門E6",
@@ -68,7 +68,7 @@
     {
         "city": "花蓮縣",
         "nightMarket": "東大門夜市",
-        "type": "一飯一湯",
+        "food_type": "一飯一湯",
         "rank": "第一名",
         "name": "阿讓原美味月桃飯(E35)",
         "address": "花蓮縣花蓮市中山路50號E35",
@@ -79,7 +79,7 @@
     {
         "city": "花蓮縣",
         "nightMarket": "東大門夜市",
-        "type": "一飯一湯",
+        "food_type": "一飯一湯",
         "rank": "第一名",
         "name": "烤哇咦燒烤(A32)",
         "address": "花蓮縣花蓮市中山路50號A32",
@@ -90,7 +90,7 @@
     {
         "city": "花蓮縣",
         "nightMarket": "東大門夜市",
-        "type": "老字號",
+        "food_type": "老字號",
         "rank": "第一名",
         "name": "福町本舖檸檬汁(A35)",
         "address": "花蓮縣花蓮市970東大門福町夜市A35",
@@ -101,7 +101,7 @@
     {
         "city": "花蓮縣",
         "nightMarket": "東大門夜市",
-        "type": "新創料理",
+        "food_type": "新創料理",
         "rank": "第二名",
         "name": "強蛋餅(E79)",
         "address": "花蓮縣花蓮市明義街E79",
@@ -112,7 +112,7 @@
     {
         "city": "高雄市",
         "nightMarket": "瑞豐夜市",
-        "type": "雞排",
+        "food_type": "雞排",
         "rank": "第四名",
         "name": "天使雞排-瑞豐店",
         "address": "高雄市左營區裕誠路南屏路",
@@ -123,7 +123,7 @@
     {
         "city": "高雄市",
         "nightMarket": "瑞豐夜市",
-        "type": "蚵仔煎",
+        "food_type": "蚵仔煎",
         "rank": "第一名",
         "name": "瑞豐昌海鮮燒烤",
         "address": "高雄市左營區裕誠路南屏路",
@@ -134,7 +134,7 @@
     {
         "city": "高雄市",
         "nightMarket": "瑞豐夜市",
-        "type": "臭豆腐",
+        "food_type": "臭豆腐",
         "rank": "第七名",
         "name": "好福氣臭豆腐",
         "address": "高雄市左營區裕誠路南屏路",
@@ -145,7 +145,7 @@
     {
         "city": "高雄市",
         "nightMarket": "瑞豐夜市",
-        "type": "甜點",
+        "food_type": "甜點",
         "rank": "第七名",
         "name": "蘋什麼日式蘋果糖Candy Apple",
         "address": "高雄市左營區裕誠路154號右邊第十四格中間段面對夜市右邊開始算第三排",
@@ -156,7 +156,7 @@
     {
         "city": "高雄市",
         "nightMarket": "瑞豐夜市",
-        "type": "牛肉",
+        "food_type": "牛肉",
         "rank": "第五名",
         "name": "長紅牛排 EVER RED Steakhouse",
         "address": "高雄市左營區裕誠路南屏路",
@@ -167,7 +167,7 @@
     {
         "city": "高雄市",
         "nightMarket": "瑞豐夜市",
-        "type": "海鮮",
+        "food_type": "海鮮",
         "rank": "第三名",
         "name": "沖繩酥炸大魷魚",
         "address": "高雄市左營區裕誠路南屏路",
@@ -178,7 +178,7 @@
     {
         "city": "高雄市",
         "nightMarket": "瑞豐夜市",
-        "type": "一飯一湯",
+        "food_type": "一飯一湯",
         "rank": "第二名",
         "name": "阿嬤ㄟ麻油雞飯",
         "address": "高雄市左營區裕誠路南屏路",
@@ -189,7 +189,7 @@
     {
         "city": "高雄市",
         "nightMarket": "瑞豐夜市",
-        "type": "老字號",
+        "food_type": "老字號",
         "rank": "第四名",
         "name": "來吃沙威瑪",
         "address": "高雄市左營區裕誠路南屏路",
@@ -200,7 +200,7 @@
     {
         "city": "高雄市",
         "nightMarket": "瑞豐夜市",
-        "type": "新創料理",
+        "food_type": "新創料理",
         "rank": "第三名",
         "name": "薯小二馬鈴薯煎餅-瑞豐總店",
         "address": "高雄市鼓山區裕誠路1128號",
@@ -211,7 +211,7 @@
     {
         "city": "新北市",
         "nightMarket": "樂華夜市",
-        "type": "雞排",
+        "food_type": "雞排",
         "rank": "第六名",
         "name": "成銘月亮蝦餅",
         "address": "新北市永和區保平路18巷2號",
@@ -222,7 +222,7 @@
     {
         "city": "新北市",
         "nightMarket": "樂華夜市",
-        "type": "蚵仔煎",
+        "food_type": "蚵仔煎",
         "rank": "第九名",
         "name": "東石蚵仔煎",
         "address": "新北市永和區永平路159號",
@@ -233,7 +233,7 @@
     {
         "city": "新北市",
         "nightMarket": "樂華夜市",
-        "type": "臭豆腐",
+        "food_type": "臭豆腐",
         "rank": "第二名",
         "name": "方家園臭豆腐",
         "address": "新北市永和區永平路26號",
@@ -244,7 +244,7 @@
     {
         "city": "新北市",
         "nightMarket": "樂華夜市",
-        "type": "甜點",
+        "food_type": "甜點",
         "rank": "第三名",
         "name": "小鹿梅花糕樂華店",
         "address": "新北市永和區永平路84號號前",
@@ -255,7 +255,7 @@
     {
         "city": "新北市",
         "nightMarket": "樂華夜市",
-        "type": "牛肉",
+        "food_type": "牛肉",
         "rank": "第四名",
         "name": "阿泰鐵板燒/牛排",
         "address": "新北市永和區保平路18巷21號",
@@ -266,7 +266,7 @@
     {
         "city": "新北市",
         "nightMarket": "樂華夜市",
-        "type": "海鮮",
+        "food_type": "海鮮",
         "rank": "第二名",
         "name": "成銘月亮蝦餅",
         "address": "新北市永和區保平路18巷2號",
@@ -277,7 +277,7 @@
     {
         "city": "台中市",
         "nightMarket": "逢甲夜市",
-        "type": "雞排",
+        "food_type": "雞排",
         "rank": "第九名",
         "name": "逢甲發倆醬烤雞排（夯雞排）",
         "address": "台中市西屯區慶和街92-1號",
@@ -288,7 +288,7 @@
     {
         "city": "台中市",
         "nightMarket": "逢甲夜市",
-        "type": "蚵仔煎",
+        "food_type": "蚵仔煎",
         "rank": "第六名",
         "name": "嵐豐火烤魚",
         "address": "台中市西屯區逢甲路20巷8號",
@@ -299,7 +299,7 @@
     {
         "city": "台中市",
         "nightMarket": "逢甲夜市",
-        "type": "臭豆腐",
+        "food_type": "臭豆腐",
         "rank": "第八名",
         "name": "台中甜不辣 逢甲臭豆腐",
         "address": "台中市西屯區文華路71號D1",
@@ -310,7 +310,7 @@
     {
         "city": "台中市",
         "nightMarket": "一中街夜市",
-        "type": "雞排",
+        "food_type": "雞排",
         "rank": "第五名",
         "name": "一中8兩碳烤雞排",
         "address": "台中市北區尊賢街9號",
@@ -321,7 +321,7 @@
     {
         "city": "台中市",
         "nightMarket": "一中街夜市",
-        "type": "蚵仔煎",
+        "food_type": "蚵仔煎",
         "rank": "第二名",
         "name": "一中蠔大一口-蚵蛋燒",
         "address": "台中市北區一中街261號",
@@ -332,7 +332,7 @@
     {
         "city": "台中市",
         "nightMarket": "一中街夜市",
-        "type": "臭豆腐",
+        "food_type": "臭豆腐",
         "rank": "第三名",
         "name": "手工臭豆腐",
         "address": "台中市北區一中街21-2號",
@@ -343,7 +343,7 @@
     {
         "city": "台中市",
         "nightMarket": "一中街夜市",
-        "type": "甜點",
+        "food_type": "甜點",
         "rank": "第一名",
         "name": "一中豐仁冰",
         "address": "台中市北區育才街3巷4-6號",
@@ -354,7 +354,7 @@
     {
         "city": "台中市",
         "nightMarket": "一中街夜市",
-        "type": "牛肉",
+        "food_type": "牛肉",
         "rank": "第七名",
         "name": "蘇坤蔚牛排 Sukhumvit STEAK",
         "address": "台中市北區一中街99號",
@@ -365,7 +365,7 @@
     {
         "city": "台中市",
         "nightMarket": "一中街夜市",
-        "type": "海鮮",
+        "food_type": "海鮮",
         "rank": "第四名",
         "name": "益香轟炸魷魚",
         "address": "台中市北區一中街43號",
@@ -376,7 +376,7 @@
     {
         "city": "台中市",
         "nightMarket": "一中街夜市",
-        "type": "一飯一湯",
+        "food_type": "一飯一湯",
         "rank": "第三名",
         "name": "食の初-炸蛋雞魯飯職人專門店",
         "address": "台中市北區三民路三段126巷3號1F",
@@ -387,7 +387,7 @@
     {
         "city": "台中市",
         "nightMarket": "一中街夜市",
-        "type": "老字號",
+        "food_type": "老字號",
         "rank": "第三名",
         "name": "盧の堡半月燒餡餅",
         "address": "台中市北區育才南街31號",
@@ -398,7 +398,7 @@
     {
         "city": "台中市",
         "nightMarket": "一中街夜市",
-        "type": "新創料理",
+        "food_type": "新創料理",
         "rank": "第四名",
         "name": "桐生日式可麗餅",
         "address": "台中市北區一中街179巷1號",
@@ -409,7 +409,7 @@
     {
         "city": "台南市",
         "nightMarket": "大東夜市",
-        "type": "雞排",
+        "food_type": "雞排",
         "rank": "第三名",
         "name": "德聖炭烤醬燒雞排（大東夜市）",
         "address": "台南市東區林森路一段701號",
@@ -420,7 +420,7 @@
     {
         "city": "台南市",
         "nightMarket": "大東夜市",
-        "type": "蚵仔煎",
+        "food_type": "蚵仔煎",
         "rank": "第七名",
         "name": "四草蚵仔煎海產粥",
         "address": "台南市東區林森路一段316號",
@@ -431,7 +431,7 @@
     {
         "city": "台南市",
         "nightMarket": "大東夜市",
-        "type": "臭豆腐",
+        "food_type": "臭豆腐",
         "rank": "第九名",
         "name": "蔡家豬血湯臭豆腐",
         "address": "台南市東區林森路一段276號",
@@ -442,7 +442,7 @@
     {
         "city": "台南市",
         "nightMarket": "花園夜市",
-        "type": "雞排",
+        "food_type": "雞排",
         "rank": "第八名",
         "name": "碳烤雄大香雞排",
         "address": "台南市北區海安路三段533號",
@@ -453,7 +453,7 @@
     {
         "city": "台南市",
         "nightMarket": "花園夜市",
-        "type": "蚵仔煎",
+        "food_type": "蚵仔煎",
         "rank": "第三名",
         "name": "阿三哥蚵仔煎",
         "address": "台南市北區海安路三段533號",
@@ -464,7 +464,7 @@
     {
         "city": "台南市",
         "nightMarket": "花園夜市",
-        "type": "臭豆腐",
+        "food_type": "臭豆腐",
         "rank": "第五名",
         "name": "延記臭豆腐",
         "address": "台南市北區海安路三段533號",
@@ -475,7 +475,7 @@
     {
         "city": "台南市",
         "nightMarket": "花園夜市",
-        "type": "甜點",
+        "food_type": "甜點",
         "rank": "第五名",
         "name": "濃五吉拿棒",
         "address": "台南市北區海安路三段533號花園夜市18排34號",
@@ -486,7 +486,7 @@
     {
         "city": "台南市",
         "nightMarket": "花園夜市",
-        "type": "牛肉",
+        "food_type": "牛肉",
         "rank": "第一名",
         "name": "全壘打牛排",
         "address": "台南市北區海安路三段533號",
@@ -497,7 +497,7 @@
     {
         "city": "台南市",
         "nightMarket": "花園夜市",
-        "type": "海鮮",
+        "food_type": "海鮮",
         "rank": "第六名",
         "name": "魷皇駕到",
         "address": "台南市北區海安路三段533號",
@@ -508,7 +508,7 @@
     {
         "city": "台北市",
         "nightMarket": "南機場夜市",
-        "type": "雞排",
+        "food_type": "雞排",
         "rank": "第一名",
         "name": "好吃炸雞",
         "address": "台北市中正區中華路二段315巷41號",
@@ -519,7 +519,7 @@
     {
         "city": "台北市",
         "nightMarket": "南機場夜市",
-        "type": "蚵仔煎",
+        "food_type": "蚵仔煎",
         "rank": "第八名",
         "name": "銘鄉豬高飯",
         "address": "台北市中正區中華路二段311巷",
@@ -530,7 +530,7 @@
     {
         "city": "台北市",
         "nightMarket": "南機場夜市",
-        "type": "臭豆腐",
+        "food_type": "臭豆腐",
         "rank": "第三名",
         "name": "禾甲蒸豆腐食堂",
         "address": "台北市中正區中華路二段313巷18號",
@@ -541,7 +541,7 @@
     {
         "city": "台北市",
         "nightMarket": "南機場夜市",
-        "type": "甜點",
+        "food_type": "甜點",
         "rank": "第二名",
         "name": "英姐黑糖珍珠鮮奶",
         "address": "台北市中正區中華路二段309巷22號",
@@ -552,7 +552,7 @@
     {
         "city": "台北市",
         "nightMarket": "南機場夜市",
-        "type": "牛肉",
+        "food_type": "牛肉",
         "rank": "第三名",
         "name": "胖媽大塊牛肉麵",
         "address": "台北市中正區中華路二段307巷5號",
@@ -563,7 +563,7 @@
     {
         "city": "台北市",
         "nightMarket": "南機場夜市",
-        "type": "海鮮",
+        "food_type": "海鮮",
         "rank": "第一名",
         "name": "海王烤魚",
         "address": "台北市中正區中華路二段315巷21號",
@@ -574,7 +574,7 @@
     {
         "city": "台北市",
         "nightMarket": "南機場夜市",
-        "type": "一飯一湯",
+        "food_type": "一飯一湯",
         "rank": "第四名",
         "name": "曉迪筒仔米糕",
         "address": "台北市中正區中華路二段307巷22號",
@@ -585,7 +585,7 @@
     {
         "city": "台北市",
         "nightMarket": "南機場夜市",
-        "type": "老字號",
+        "food_type": "老字號",
         "rank": "第二名",
         "name": "饗咬好佳蚵嗲",
         "address": "台北市中正區中華路二段315巷4弄",
@@ -596,7 +596,7 @@
     {
         "city": "台北市",
         "nightMarket": "南機場夜市",
-        "type": "新創料理",
+        "food_type": "新創料理",
         "rank": "第一名",
         "name": "捲捲村",
         "address": "台北市中正區中華路二段313巷5弄20-1號",
@@ -607,7 +607,7 @@
     {
         "city": "台北市",
         "nightMarket": "寧夏夜市",
-        "type": "雞排",
+        "food_type": "雞排",
         "rank": "第六名",
         "name": "FUN SUN G",
         "address": "台北市大同區寧夏夜市071號攤位",
@@ -618,7 +618,7 @@
     {
         "city": "台北市",
         "nightMarket": "寧夏夜市",
-        "type": "蚵仔煎",
+        "food_type": "蚵仔煎",
         "rank": "第五名",
         "name": "圓環邊蚵仔煎",
         "address": "台北市大同區寧夏路46號",
@@ -629,7 +629,7 @@
     {
         "city": "台北市",
         "nightMarket": "寧夏夜市",
-        "type": "臭豆腐",
+        "food_type": "臭豆腐",
         "rank": "第五名",
         "name": "李掌伯",
         "address": "台北市大同區寧夏路22之9號",
@@ -640,7 +640,7 @@
     {
         "city": "台北市",
         "nightMarket": "寧夏夜市",
-        "type": "甜點",
+        "food_type": "甜點",
         "rank": "第四名",
         "name": "林振櫂燒麻糬",
         "address": "台北市大同區寧夏路97號攤位",
@@ -651,7 +651,7 @@
     {
         "city": "台北市",
         "nightMarket": "寧夏夜市",
-        "type": "牛肉",
+        "food_type": "牛肉",
         "rank": "第二名",
         "name": "飄香牛肉麵館",
         "address": "台北市大同區寧夏路12號1樓",
@@ -662,7 +662,7 @@
     {
         "city": "台北市",
         "nightMarket": "寧夏夜市",
-        "type": "海鮮",
+        "food_type": "海鮮",
         "rank": "第七名",
         "name": "先來厚到章魚燒",
         "address": "台北市大同區寧夏路007號攤位",

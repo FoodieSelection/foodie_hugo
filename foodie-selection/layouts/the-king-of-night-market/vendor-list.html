@@ -41,7 +41,7 @@
           "@type": "FoodEstablishment",
           "name": "{{ $event.name }}",
           "address": "{{ $event.address }}",
-          "award": "{{ $event.type }}",
+          "award": "{{ $event.food_type }}",
           "rank": "{{ $event.rank }}",
           "sameAs": [
             "{{ $event.google_map }}"
@@ -75,7 +75,7 @@
       {{ range where (where $nightMarkets "city" $city) "nightMarket" $nightMarket }}
       <div class="card">
         <div class="card-content">
-          <div class="rank-badge">{{ .type }} {{ .rank }}</div>
+          <div class="rank-badge">{{ .food_type }} {{ .rank }}</div>
           <div class="shop-name">{{ .name }}</div>
           <div class="address">{{ .address }}</div>
           <div class="card-actions">
