@@ -180,19 +180,9 @@ header {
     color: #9e7c35;
 }
 
-/* 手機排版 */
-@media (max-width: 768px) {
-    .container {
-        padding: 0.5rem;
-    }
-
-    .card {
-        padding: 0.9rem 0.6rem 0.6rem 0.6rem;
-    }
-
-    .card-actions a {
-        font-size: 0.95em;
-        padding: 0.35em 0.7em;
+@media (max-width: 388px) {
+    .header-title {
+        font-size: 1.7rem;
     }
 }
 

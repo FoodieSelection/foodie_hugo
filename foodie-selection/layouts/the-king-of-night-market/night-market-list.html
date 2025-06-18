@@ -54,11 +54,9 @@
 <main class="container">
   <div class="image-grid">
     {{ range .Params.events }}
-    <div class="image-item">
-      <a class="image-link" href="{{ if .link }}{{ .link }}{{ else }}#{{ end }}">
-        <div class="image-caption">{{ .name }}</div>
-      </a>
-    </div>
+    <a class="image-item" href="{{ if .link }}{{ .link }}{{ else }}#{{ end }}">
+      <div class="image-caption">{{ .name }}</div>
+    </a>
     {{ end }}
   </div>
 </main>

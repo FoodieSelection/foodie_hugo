@@ -94,26 +94,7 @@ header {
   align-items: center;
   justify-content: center;
   box-sizing: border-box;
-}
-
-.image-item:hover {
-  box-shadow: 0 4px 16px #0002;
-}
-
-.image-link {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
   text-decoration: none;
-  color: inherit;
-  width: 100%;
-}
-
-.image-link img {
-  width: 100%;
-  aspect-ratio: 4/3;
-  object-fit: cover;
-  border-radius: 10px 10px 0 0;
 }
 
 .image-caption {
