@@ -28,7 +28,7 @@
     "@type": "ItemList",
     "name": "{{ .Title }}夜市王店家名次",
     "itemListElement": [
-      {{ $nightMarkets := .Site.Data.theKingOfNightMarket }}
+      {{ $nightMarkets := .Site.Data.theKingOfNightMarket.y2024 }}
       {{ $city := .Params.city }}
       {{ $nightMarket := .Params.nightMarket }}
       {{ $events := where (where $nightMarkets "city" $city) "nightMarket" $nightMarket }}
@@ -69,7 +69,7 @@
 <main class="container">
   <section class="category-group">
     <div class="cards-grid">
-      {{ $nightMarkets := .Site.Data.theKingOfNightMarket }}
+      {{ $nightMarkets := .Site.Data.theKingOfNightMarket.y2024 }}
       {{ $city := .Params.city }}
       {{ $nightMarket := .Params.nightMarket }}
       {{ range where (where $nightMarkets "city" $city) "nightMarket" $nightMarket }}

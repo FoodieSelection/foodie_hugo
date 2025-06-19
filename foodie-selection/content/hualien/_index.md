@@ -17,7 +17,7 @@ events:
     image: "../images/events/the-king-of-night-market.png"
     description: "花蓮縣夜市王賽事，精選在地夜市美食與人氣攤位。"
   - name: "500盤"
-    link: "500dishes/"
+    link: "dishes500/"
     image: "../images/events/uc-w.png"
     description: "花蓮縣500盤，精選在地精緻料理。"
   - name: "500碗"

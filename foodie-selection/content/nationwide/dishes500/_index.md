@@ -5,15 +5,15 @@ keywords:
   - 台灣美食
   - 美食精選
   - 500盤
-custom_css: "/css/events/500dishes/year-list.css"
-type: "500dishes"
+custom_css: "/css/events/dishes500/year-list.css"
+type: "dishes500"
 layout: "year-list"
 datePublished: "2025-06-15"
 dateModified: "2025-06-15"
 
 events:
   - name: "2024"
-    link: "2024/"
-    image: "../images/events/500dishes/2024.png"
+    link: "y2024/"
+    image: "../images/events/dishes500/y2024.png"
     description: "2024年度全台500盤，精選在地精緻料理。"
 ---

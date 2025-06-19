@@ -6,11 +6,12 @@ keywords:
   - 台灣美食
   - 美食精選
   - 500盤
-custom_css: "/css/events/500dishes/dishes.css"
-type: "500dishes"
+custom_css: "/css/events/dishes500/dishes.css"
+type: "dishes500"
 layout: "dishes"
 datePublished: "2025-06-15"
 dateModified: "2025-06-15"
+year: "y2024"
 
 restaurants:
   - name: "晶華軒 Silks House"

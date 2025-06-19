@@ -28,7 +28,7 @@
     "@type": "ItemList",
     "name": "{{ .Title }}",
     "itemListElement": [
-      {{ $nightMarkets := .Site.Data.theKingOfNightMarket }}
+      {{ $nightMarkets := .Site.Data.theKingOfNightMarket.y2024 }}
       {{ $food_type := .Params.food_type }}
       {{ $filtered := where $nightMarkets "food_type" $food_type }}
       {{ $ranks := slice "第一名" "第二名" "第三名" "第四名" "第五名" "第六名" "第七名" "第八名" "第九名" }}
@@ -78,7 +78,7 @@
 <main class="container">
   <section class="category-group">
     <div class="cards-grid">
-      {{ $nightMarkets := .Site.Data.theKingOfNightMarket }}
+      {{ $nightMarkets := .Site.Data.theKingOfNightMarket.y2024 }}
       {{ $food_type := .Params.food_type }}
       {{ $filtered := where $nightMarkets "food_type" $food_type }}
       {{ $ranks := slice "第一名" "第二名" "第三名" "第四名" "第五名" "第六名" "第七名" "第八名" "第九名" }}
