@@ -3,22 +3,4873 @@
         "city": "台北市",
         "district": "中山區",
         "name": "晶華軒 Silks House",
-        "food_type": ["粵式", "廣東"],
+        "food_type": [
+            "粵式",
+            "中菜"
+        ],
         "address": "台北市中山區中山北路二段39巷3號3樓",
         "google_map": "https://maps.app.goo.gl/RcyyZu9cmmkmzSJH6",
         "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/31232/",
-        "dishes": ["松茸竹笙燉花膠", "生拆泥鯭粥", "八寶冬瓜盅", "豬腳薑醋", "老香港咖哩蟹", "蜜汁叉燒", "鱈蟹西施泡飯", "梅菜松阪肉蒸圓茄", "龍蝦馬蹄蒸肉餅", "油浸筍殼魚", "生拆蟹膏麻婆豆腐", "港式麻香蔥油餅"],
+        "dishes": [
+            "松茸竹笙燉花膠",
+            "生拆泥鯭粥",
+            "八寶冬瓜盅",
+            "豬腳薑醋",
+            "老香港咖哩蟹",
+            "蜜汁叉燒",
+            "鱈蟹西施泡飯",
+            "梅菜松阪肉蒸圓茄",
+            "龍蝦馬蹄蒸肉餅",
+            "油浸筍殼魚",
+            "生拆蟹膏麻婆豆腐",
+            "港式麻香蔥油餅"
+        ],
         "award": 17
     },
     {
         "city": "台北市",
         "district": "松山區",
         "name": "鄒記食舖",
-        "food_type": ["浙江"],
+        "food_type": [
+            "江浙",
+            "中菜"
+        ],
         "address": "台北市松山區復興北路313巷43號",
         "google_map": "https://maps.app.goo.gl/w7pW6acHTFGeTnE9A",
         "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/133658/",
-        "dishes": ["花雕黃豆醬燒元蹄", "剁椒豬腳", "煙燻圓鱈", "花椒神仙雞", "烏參燴花膠東坡肉", "牛奶紅棗銀耳湯", "薺菜春捲", "麻辣牛舌"],
+        "dishes": [
+            "花雕黃豆醬燒元蹄",
+            "剁椒豬腳",
+            "煙燻圓鱈",
+            "花椒神仙雞",
+            "烏參燴花膠東坡肉",
+            "牛奶紅棗銀耳湯",
+            "薺菜春捲",
+            "麻辣牛舌"
+        ],
         "award": 10
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "Restaurant A",
+        "food_type": [
+            "法式"
+        ],
+        "address": "台北市大安區忠孝東路三段282號四樓新光三越Diamond Towers 二館4樓",
+        "google_map": "https://maps.app.goo.gl/crekXAb8UAhz8DxGA",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/362095/",
+        "dishes": [
+            "魚子醬玉米金杯",
+            "白的點線面",
+            "刺山奶油青花焗白蘆筍",
+            "酸模鮭魚",
+            "桂花海膽芙蓉盅",
+            "奇幻的盎格魯餐桌：英式早餐",
+            "白酒松露燴犢牛",
+            "皙澈(釋迦/萊姆蘆薈/伏特加)",
+            "軟木塞"
+        ],
+        "award": 9
+    },
+    {
+        "city": "台北市",
+        "district": "中正區",
+        "name": "NOBUO",
+        "food_type": [
+            "法式"
+        ],
+        "address": "台北市中正區泰安街8號",
+        "google_map": "https://maps.app.goo.gl/EbNR51k4LpATs9189",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80/362097/",
+        "dishes": [
+            "李氏咖哩",
+            "蕎麥鰆魚",
+            "帆立貝",
+            "南島羊里肌/百合根/血旺"
+        ],
+        "award": 6
+    },
+    {
+        "city": "台北市",
+        "district": "中山區",
+        "name": "COAST",
+        "food_type": [
+            "泰式"
+        ],
+        "address": "台北市中山區中山北路二段39巷3號B2",
+        "google_map": "https://maps.app.goo.gl/KxvabBugrVPU1FRw9",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/47019/",
+        "dishes": [
+            "龍蝦炒飯",
+            "泰式奶茶",
+            "海鱺/蘋果瓜/岡頌",
+            "海膽義大利麵"
+        ],
+        "award": 6
+    },
+    {
+        "city": "台北市",
+        "district": "中山區",
+        "name": "RAW",
+        "food_type": [
+            "法式"
+        ],
+        "address": "台北市中山區樂群三路301號",
+        "google_map": "https://maps.app.goo.gl/hCHcddkjTbQKy2Ly8",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/1511/",
+        "dishes": [
+            "Memory 1997/經典黑松露鴨肝暖凍",
+            "爆漿麻婆豆卷",
+            "炙燒軟絲/煙燻魚子醬/藜麥茄泥",
+            "漢方：鴨肝麵茶/秋栗/印加果"
+        ],
+        "award": 5
+    },
+    {
+        "city": "台北市",
+        "district": "中山區",
+        "name": "fumée",
+        "food_type": [
+            "日式"
+        ],
+        "address": "台北市中山區中山北路二段39巷3號B3",
+        "google_map": "https://maps.app.goo.gl/7T5J3c4qH8j2msMD6",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/362099/",
+        "dishes": [
+            "雞屁股",
+            "釜飯",
+            "雞翅",
+            "雞蠔",
+            "漬雞肉海苔捲"
+        ],
+        "award": 5
+    },
+    {
+        "city": "台北市",
+        "district": "中正區",
+        "name": "山海樓",
+        "food_type": [
+            "台式"
+        ],
+        "address": "台北市中正區仁愛路二段94號",
+        "google_map": "https://maps.app.goo.gl/JuyfEg4LrBj17Ujz7",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e6%ad%a3%e5%8d%80/8005/",
+        "dishes": [
+            "扁魚春捲",
+            "清粥小菜宴",
+            "山海珍寶魚",
+            "烏魚子炒飯",
+            "太平町玫瑰蝦"
+        ],
+        "award": 5
+    },
+    {
+        "city": "台北市",
+        "district": "大同區",
+        "name": "頤宮中餐廳 Le Palais",
+        "food_type": [
+            "粵式",
+            "中菜"
+        ],
+        "address": "台北市大同區承德路一段3號17樓",
+        "google_map": "https://maps.app.goo.gl/rdq5ecBtenHNZU1j7",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%90%8c%e5%8d%80/604/",
+        "dishes": [
+            "米皇百合菜苗",
+            "紅燒乳鴿",
+            "春風得意腸",
+            "火焰片皮鴨",
+            "福州蔥油餅"
+        ],
+        "award": 5
+    },
+    {
+        "city": "台北市",
+        "district": "中山區",
+        "name": "Ad astra",
+        "food_type": [
+            "北歐",
+            "日式",
+            "紐約"
+        ],
+        "address": "台北市中山區中山北路二段45巷23號",
+        "google_map": "https://maps.app.goo.gl/ckoSsMNEWfXxbEwRA",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/52852/",
+        "dishes": [
+            "玫瑰鴨",
+            "海膽鬆餅",
+            "釜飯"
+        ],
+        "award": 5
+    },
+    {
+        "city": "台北市",
+        "district": "信義區",
+        "name": "鼎泰豐",
+        "food_type": [
+            "台式",
+            "滬菜",
+            "中菜"
+        ],
+        "address": "分店眾多請自行搜尋",
+        "google_map": "https://www.google.com/maps/search/%E9%BC%8E%E6%B3%B0%E8%B1%90/@25.0779634,121.5403163,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYxNi4wIKXMDSoASAFQAw%3D%3D",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/31446/",
+        "dishes": [
+            "元盅雞麵",
+            "松露小籠包",
+            "鮮肉粽子",
+            "紅油燃麵"
+        ],
+        "award": 4
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "海倫鮮土司施家粵菜",
+        "food_type": [
+            "粵式",
+            "中菜"
+        ],
+        "address": "台北市大安區浦城街9-4號",
+        "google_map": "https://maps.app.goo.gl/upKYDbHcZoHWYhZU9",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/362101/",
+        "dishes": [
+            "馬友鹹魚蒸肉餅",
+            "懷舊陳皮牛肉",
+            "砂鍋雲吞雞",
+            "水磨芝麻糊"
+        ],
+        "award": 4
+    },
+    {
+        "city": "台北市",
+        "district": "大同區",
+        "name": "盈科EIKA",
+        "food_type": [
+            "日式",
+            "台式"
+        ],
+        "address": "台北市大同區民樂街58號",
+        "google_map": "https://maps.app.goo.gl/qvcHzwEWBfE2aWkF6",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%90%8C%E5%8D%80/362105/",
+        "dishes": [
+            "烏骨雞粥",
+            "脆皮乳鴿潤餅",
+            "季節刺身",
+            "椀物"
+        ],
+        "award": 4
+    },
+    {
+        "city": "台北市",
+        "district": "中山區",
+        "name": "TUTTO BELLO",
+        "food_type": [
+            "義式"
+        ],
+        "address": "台北市中山區雙城街25巷15號1樓",
+        "google_map": "https://maps.app.goo.gl/qXdwx3EQkqstWGeG9",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/31289/",
+        "dishes": [
+            "乾煎日本黑鮑",
+            "螯蝦義大利麵",
+            "松露蘑菇卡布奇諾"
+        ],
+        "award": 4
+    },
+    {
+        "city": "台中市",
+        "district": "南屯區",
+        "name": "JL STUDIO",
+        "food_type": [
+            "新加坡"
+        ],
+        "address": "台中市南屯區益豐路四段689號2樓",
+        "google_map": "https://maps.app.goo.gl/nk9Mg95M5nRLidjAA",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e4%b8%ad%e5%b8%82%e5%8d%97%e5%b1%af%e5%8d%80/411/",
+        "dishes": [
+            "透抽 | 咖哩葉 | 參峇",
+            "咖哩餃",
+            "經典語錄：和牛/開心果/鳳梨/香茅",
+            "市場鮮魚 | 竹筍 | 茉莉香米"
+        ],
+        "award": 4
+    },
+    {
+        "city": "台北市",
+        "district": "信義區",
+        "name": "TIPSY Sparrow",
+        "food_type": [
+            "美式",
+            "法式"
+        ],
+        "address": "台北市信義區松仁路38號遠東百貨鼎泰豐對面",
+        "google_map": "https://maps.app.goo.gl/zg7UATFJBHzPApa49",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80/362103/",
+        "dishes": [
+            "炸全雞，鴨油薯條，鄉村肉汁",
+            "炭烤青甘魚下巴，參巴醬，四季豆"
+        ],
+        "award": 4
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "EMBERS",
+        "food_type": [
+            "台式"
+        ],
+        "address": "台北市大安區仁愛路四段122巷24號",
+        "google_map": "https://maps.app.goo.gl/BDrqN9jA3JANWghY6",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/8741/",
+        "dishes": [
+            "香鍋飯",
+            "ta'nas",
+            "麭薯薯",
+            "SEAESE CAKE"
+        ],
+        "award": 4
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "三六食府",
+        "food_type": [
+            "中菜"
+        ],
+        "address": "台北市大安區師大路92巷13號",
+        "google_map": "https://maps.app.goo.gl/ugsFgGTdWaN53mbb8",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/7857/",
+        "dishes": [
+            "花膠火瞳砂鍋燉土雞",
+            "芝麻脆鱔",
+            "香酥芋泥鴨"
+        ],
+        "award": 4
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "牡丹．極上 天ぷら",
+        "food_type": [
+            "日式"
+        ],
+        "address": "台北市大安區四維路52巷17號",
+        "google_map": "https://maps.app.goo.gl/oDQU8Z7ek8MxHWhE7",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/105329/",
+        "dishes": [
+            "魚翅Tempura",
+            "頂級本枯節/兵庫牡蠣椀盛",
+            "《牡丹食事》海老 海鮮針天丼",
+            "紫蘇包海膽"
+        ],
+        "award": 4
+    },
+    {
+        "city": "台北市",
+        "district": "中山區",
+        "name": "牛肆",
+        "food_type": [
+            "日式",
+            "火鍋"
+        ],
+        "address": "台北市中山區吉林路422號",
+        "google_map": "https://maps.app.goo.gl/NuEGDtwpxNo7xeqr8",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/47043/",
+        "dishes": [
+            "上選溫體牛肉",
+            "牛肉爐",
+            "雜炊"
+        ],
+        "award": 3
+    },
+    {
+        "city": "台北市",
+        "district": "士林區",
+        "name": "金蓬萊遵古台菜",
+        "food_type": [
+            "台式"
+        ],
+        "address": "台北市士林區天母東路101號",
+        "google_map": "https://maps.app.goo.gl/ufhpfWnX9qeaUw9PA",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a3%ab%e6%9e%97%e5%8d%80/7910/",
+        "dishes": [
+            "蔥燒煨蔘海膽麵",
+            "蓬萊排骨酥"
+        ],
+        "award": 3
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "秀蘭小館",
+        "food_type": [
+            "江浙",
+            "中菜"
+        ],
+        "address": "台北市大安區信義路二段198巷5-5號",
+        "google_map": "https://maps.app.goo.gl/gnNZDUWcKoG3pRCt6",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/35536/",
+        "dishes": [
+            "文武筍雞湯",
+            "白菜獅子頭",
+            "葱㸆鯽魚"
+        ],
+        "award": 3
+    },
+    {
+        "city": "台北市",
+        "district": "信義區",
+        "name": "Adachi足立壽司",
+        "food_type": [
+            "日式"
+        ],
+        "address": "台北市信義區莊敬路239巷12號",
+        "google_map": "https://maps.app.goo.gl/5zp3MoMsGV7c77Rp8",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80/110724/",
+        "dishes": [
+            "碳烤鰻魚",
+            "竹筴魚壽司",
+            "鮟鱇魚肝"
+        ],
+        "award": 3
+    },
+    {
+        "city": "台北市",
+        "district": "松山區",
+        "name": "Ashin阿鑫小料理",
+        "food_type": [
+            "日式"
+        ],
+        "address": "台北市松山區民權東路三段160巷19弄36號",
+        "google_map": "https://maps.app.goo.gl/WATLuFo1jufKWuCD8",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e6%9d%be%e5%b1%b1%e5%8d%80/168883/",
+        "dishes": [
+            "鰻魚飯",
+            "上野雞肝",
+            "水果玉米"
+        ],
+        "award": 3
+    },
+    {
+        "city": "台北市",
+        "district": "中山區",
+        "name": "La Vie by Thomas Bühner",
+        "food_type": [
+            "法式"
+        ],
+        "address": "台北市中山區樂群三路200號1樓",
+        "google_map": "https://maps.app.goo.gl/geFrEGcUpknygmzYA",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/176129/",
+        "dishes": [
+            "熟成鴨 覆盆子 長胡椒",
+            "馬賽魚湯 干貝 海膽",
+            "乳酪鹹泡芙"
+        ],
+        "award": 3
+    },
+    {
+        "city": "台北市",
+        "district": "中山區",
+        "name": "Curious Table(永久歇業)",
+        "food_type": [
+            "法式",
+            "蔬食"
+        ],
+        "address": "台北市中山北路二段39巷3號Regent Galleria B2",
+        "google_map": "https://maps.app.goo.gl/UazsyfRFHP5nEYkf8",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/52556/",
+        "dishes": [
+            "阿拉伯的勞倫斯",
+            "威靈頓",
+            "月球旅行記"
+        ],
+        "award": 3
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "Solo Pasta",
+        "food_type": [
+            "義式"
+        ],
+        "address": "台北市大安區安和路一段29-1號",
+        "google_map": "https://maps.app.goo.gl/76gNRKNC3L82JdFt6",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82/8766/",
+        "dishes": [
+            "後花園義大利麵",
+            "西班牙鐵鍋海鮮飯"
+        ],
+        "award": 3
+    },
+    {
+        "city": "台北市",
+        "district": "松山區",
+        "name": "富錦樹台菜香檳",
+        "food_type": [
+            "台式"
+        ],
+        "address": "台北市松山區敦化北路199巷17號1樓",
+        "google_map": "https://maps.app.goo.gl/M4DZnfyXXNdF1UTY9",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/251/",
+        "dishes": [
+            "油淋蟹黃麻婆豆腐",
+            "剝皮辣椒滑蛋"
+        ],
+        "award": 3
+    },
+    {
+        "city": "台北市",
+        "district": "萬華區",
+        "name": "華西街台南擔仔麵海鮮餐廳",
+        "food_type": [
+            "台式"
+        ],
+        "address": "台北市萬華區青山里華西街31-1號",
+        "google_map": "https://maps.app.goo.gl/hLaN5dbM56hzFV36A",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E8%90%AC%E8%8F%AF%E5%8D%80/5587/",
+        "dishes": [
+            "清蒸紅魚",
+            "香酥鮮蝦卷",
+            "法式焗明蝦"
+        ],
+        "award": 3
+    },
+    {
+        "city": "台北市",
+        "district": "松山區",
+        "name": "貓下去敦北俱樂部",
+        "food_type": [
+            "台式"
+        ],
+        "address": "台北市松山區敦化北路218號",
+        "google_map": "https://maps.app.goo.gl/PWqVCnArLbKX7ofm8",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/8611/",
+        "dishes": [
+            "鹹水雞沙拉",
+            "紅燒牛筋乾拌麵",
+            "冠軍薯條"
+        ],
+        "award": 3
+    },
+    {
+        "city": "台北市",
+        "district": "中山區",
+        "name": "明福台菜",
+        "food_type": [
+            "台式"
+        ],
+        "address": "台北市中山區中山北路二段137巷18-1號",
+        "google_map": "https://maps.app.goo.gl/QyMYUT9nqXdwE6KH8",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/31277/",
+        "dishes": [
+            "清燉牛肉羹",
+            "粉嫩豬肝"
+        ],
+        "award": 3
+    },
+    {
+        "city": "台北市",
+        "district": "中山區",
+        "name": "朧粵",
+        "food_type": [
+            "粵式",
+            "中菜"
+        ],
+        "address": "台北市中山區樂群三路303號2樓",
+        "google_map": "https://maps.app.goo.gl/HhMpAuqEXUrsDkqz9",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/8935/",
+        "dishes": [
+            "清湯燉象拔蚌",
+            "冰燒三層肉",
+            "蒜香生爆芥蘭"
+        ],
+        "award": 3
+    },
+    {
+        "city": "台北市",
+        "district": "中山區",
+        "name": "天香樓",
+        "food_type": [
+            "杭州",
+            "中菜"
+        ],
+        "address": "台北市中山區民權東路二段41號B1",
+        "google_map": "https://maps.app.goo.gl/7s39NQC9oKE45Dij8",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/13051/",
+        "dishes": [
+            "龍井蝦仁",
+            "天香東坡佐三御品"
+        ],
+        "award": 3
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "驥園川菜餐廳",
+        "food_type": [
+            "川菜",
+            "中菜"
+        ],
+        "address": "台北市大安區敦化南路1段324號B1",
+        "google_map": "https://maps.app.goo.gl/wGUGyETnmYnEWYwd8",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/32970/",
+        "dishes": [
+            "砂鍋土雞湯"
+        ],
+        "award": 3
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "橘色涮涮屋",
+        "food_type": [
+            "日式",
+            "火鍋"
+        ],
+        "address": "台北市大安區大安路一段135號B1",
+        "google_map": "https://maps.app.goo.gl/fQq38hBWrPXavLth8",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/32704/",
+        "dishes": [
+            "芝麻拌麵",
+            "烏骨雞",
+            "雜炊"
+        ],
+        "award": 3
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "上膳若川",
+        "food_type": [
+            "川菜",
+            "中菜"
+        ],
+        "address": "台北市大安區濟南路三段59-1號一樓",
+        "google_map": "https://maps.app.goo.gl/QKQV1qp7MF8g6HjP7",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/133637/",
+        "dishes": [
+            "鹽焗雞",
+            "黃金皮蛋",
+            "藤香酸湯肥牛魚"
+        ],
+        "award": 3
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "葉公館滬菜",
+        "food_type": [
+            "滬菜",
+            "中菜"
+        ],
+        "address": "台北市大安區安和路二段118號",
+        "google_map": "https://maps.app.goo.gl/ZJNXD8mSoFZAZGEu5",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/36433/",
+        "dishes": [
+            "葉公館蟹粉豆腐",
+            "上海紅燒肉"
+        ],
+        "award": 3
+    },
+    {
+        "city": "台北市",
+        "district": "大同區",
+        "name": "元味料理",
+        "food_type": [
+            "台式"
+        ],
+        "address": "台北市大同區華陰街227巷2號",
+        "google_map": "https://maps.app.goo.gl/A8eoDHveYgshKE717",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%90%8C%E5%8D%80/7646/",
+        "dishes": [
+            "古早味麻油雞",
+            "番茄炒飯",
+            "元味炒飯"
+        ],
+        "award": 3
+    },
+    {
+        "city": "台北市",
+        "district": "信義區",
+        "name": "貳零捌公館",
+        "food_type": [
+            "粵式",
+            "中菜"
+        ],
+        "address": "台北市信義區松仁路208號",
+        "google_map": "https://maps.app.goo.gl/dFBBggwnh3FKzPFQ9",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%bf%a1%e7%be%a9%e5%8d%80/362114/",
+        "dishes": [
+            "仙鶴神針",
+            "極品圍村盆菜",
+            "脆皮黑棕鵝"
+        ],
+        "award": 3
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "earnestos",
+        "food_type": [
+            "新加坡"
+        ],
+        "address": "台北市大安區瑞安街208巷5號",
+        "google_map": "https://maps.app.goo.gl/BycsdSrifbumZoEr7",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/362116/",
+        "dishes": [
+            "經典娘惹糕",
+            "富山灣螢烏賊",
+            "草仔粿/巴拉醬"
+        ],
+        "award": 3
+    },
+    {
+        "city": "台北市",
+        "district": "信義區",
+        "name": "inari Izakaya 現代居酒屋",
+        "food_type": [
+            "日式"
+        ],
+        "address": "台北市信義區松壽路9號6樓",
+        "google_map": "https://maps.app.goo.gl/oRYhNgGCZ7LDFCCh9",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%bf%a1%e7%be%a9%e5%8d%80/362118/",
+        "dishes": [
+            "海膽烏龍麵",
+            "油封鱒魚茶泡飯",
+            "烏魚子蕎麥麵"
+        ],
+        "award": 3
+    },
+    {
+        "city": "台北市",
+        "district": "松山區",
+        "name": "T+T",
+        "food_type": [
+            "法式"
+        ],
+        "address": "台北市松山區敦化北路165巷11號",
+        "google_map": "https://maps.app.goo.gl/6oB55JhYPXfsXX7a6",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/8794/",
+        "dishes": [
+            "生蠔 | 麵線 | 蒜泥",
+            "松露 | 鴨腿 | 車輪餅"
+        ],
+        "award": 3
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "Wild Donkey 野驢小餐館",
+        "food_type": [
+            "法式"
+        ],
+        "address": "台北市大安區忠孝東路四段216巷33弄5號",
+        "google_map": "https://maps.app.goo.gl/x6RT7re7sQajWu8R9",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/13159/",
+        "dishes": [
+            "野生龍蝦雨櫻桃番茄起司疙瘩",
+            "伏特加番茄奶油水管麵與章魚",
+            "蒸海蛤與透抽和黃瓜濃湯"
+        ],
+        "award": 3
+    },
+    {
+        "city": "台北市",
+        "district": "信義區",
+        "name": "台北寒舍艾美 寒舍食譜",
+        "food_type": [
+            "粵式",
+            "中菜"
+        ],
+        "address": "台北市信義區松仁路38號2樓",
+        "google_map": "https://maps.app.goo.gl/JQBae3swo4nkLsJU6",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80/138/",
+        "dishes": [
+            "花膠雞粥",
+            "脆皮先知鴨"
+        ],
+        "award": 3
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "伍佰雞屋",
+        "food_type": [
+            "台式"
+        ],
+        "address": "台北市大安區仁愛路四段375號",
+        "google_map": "https://maps.app.goo.gl/KigYvnjoMCcbheRZ6",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/33217/",
+        "dishes": [
+            "白切雞",
+            "白切雞、松阪肉雙拼"
+        ],
+        "award": 2
+    },
+    {
+        "city": "台北市",
+        "district": "松山區",
+        "name": "雅閣",
+        "food_type": [
+            "粵式",
+            "中菜"
+        ],
+        "address": "台北市松山區敦化北路158號",
+        "google_map": "https://maps.app.goo.gl/jjqFTTTLoUfN5Ubi7",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/13143/",
+        "dishes": [
+            "金魚帶子餃、黑松露蟹肉蘿蔔絲酥、鮑魚鹹水餃",
+            "澎湖龍蝦鼓汁蒸"
+        ],
+        "award": 2
+    },
+    {
+        "city": "台北市",
+        "district": "中山區",
+        "name": "斑泊餐廳",
+        "food_type": [
+            "台式"
+        ],
+        "address": "台北市中山區樂群二路265巷38號",
+        "google_map": "https://maps.app.goo.gl/PS7J6uornGR3usmz8",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/43675/",
+        "dishes": [
+            "聚",
+            "鵝肝慕斯"
+        ],
+        "award": 2
+    },
+    {
+        "city": "台北市",
+        "district": "信義區",
+        "name": "捌伍添第85TD",
+        "food_type": [
+            "中菜"
+        ],
+        "address": "台北市信義區信義路五段7號85樓",
+        "google_map": "https://maps.app.goo.gl/rkmGsuzE6usX3XzE8",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80/9091/",
+        "dishes": [
+            "海膽脆戈渣",
+            "雞油蔥香紅海斑柳"
+        ],
+        "award": 2
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "好嶼 HOSU",
+        "food_type": [
+            "台式"
+        ],
+        "address": "台北市大安區仁愛路四段300巷20弄17號",
+        "google_map": "https://maps.app.goo.gl/5E3eQedNQyxSg3g26",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/176070/",
+        "dishes": [
+            "馬祖蠔/紅甜椒/稻草",
+            "雲林鵝/黑蒜/雲吞"
+        ],
+        "award": 2
+    },
+    {
+        "city": "台北市",
+        "district": "中山區",
+        "name": "雞家莊本店",
+        "food_type": [
+            "台式"
+        ],
+        "address": "台北市中山區長春路55號",
+        "google_map": "https://maps.app.goo.gl/xpVTT7kSXZ6U8cKF9",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/31241/",
+        "dishes": [
+            "三杯雞",
+            "三味雞"
+        ],
+        "award": 2
+    },
+    {
+        "city": "台中市",
+        "district": "西屯區",
+        "name": "元紀．台灣菜",
+        "food_type": [
+            "台式"
+        ],
+        "address": "台中市西屯區安和東路5號",
+        "google_map": "https://maps.app.goo.gl/KoXqNq9PGGYY3sLG7",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e4%b8%ad%e5%b8%82%e8%a5%bf%e5%b1%af%e5%8d%80/362120/",
+        "dishes": [
+            "西瓜綿虱目魚湯",
+            "北港麻油薑羊腩"
+        ],
+        "award": 2
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "昭和食堂",
+        "food_type": [
+            "日式"
+        ],
+        "address": "台北市大安區仁愛路四段48巷30號",
+        "google_map": "https://maps.app.goo.gl/vi4FdkonRW972EgD7",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/36311/",
+        "dishes": [
+            "玉子燒搭蒲燒鰻魚",
+            "臭豆腐煎餃"
+        ],
+        "award": 2
+    },
+    {
+        "city": "台北市",
+        "district": "中山區",
+        "name": "九記港式海鮮餐廳",
+        "food_type": [
+            "港式"
+        ],
+        "address": "台北市中山區長春路104號",
+        "google_map": "https://maps.app.goo.gl/Q3TNGyHd9GHkPA2D9",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/8269/",
+        "dishes": [
+            "冬瓜盅",
+            "鼓椒炒生腸"
+        ],
+        "award": 2
+    },
+    {
+        "city": "台北市",
+        "district": "中山區",
+        "name": "Birdy Yakitori 燒鳥狂想曲",
+        "food_type": [
+            "日式"
+        ],
+        "address": "台北市中山區樂群三路303號2F",
+        "google_map": "https://maps.app.goo.gl/5zSFtDbZ6PPX2Rzz8",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/42538/",
+        "dishes": [
+            "鹽烤阿基里斯腱",
+            "醬煮雞肝/紅酒李子醬/花生焦糖醬/杏仁果"
+        ],
+        "award": 2
+    },
+    {
+        "city": "台北市",
+        "district": "中山區",
+        "name": "明壽司",
+        "food_type": [
+            "日式"
+        ],
+        "address": "台北市中山區雙城街25巷6之3號",
+        "google_map": "https://maps.app.goo.gl/xXqyu7pzHrktN7xK8",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/31291/",
+        "dishes": [
+            "蒲燒鰻魚手卷",
+            "明蝦"
+        ],
+        "award": 2
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "渡邊日本料理",
+        "food_type": [
+            "日式"
+        ],
+        "address": "台北市大安區忠孝東路四段216巷27弄10號",
+        "google_map": "https://maps.app.goo.gl/er8KxSwXRWaEA2Hn8",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/105052/",
+        "dishes": [
+            "炸和牛菲力味噌三明治",
+            "烤白鰻"
+        ],
+        "award": 2
+    },
+    {
+        "city": "台北市",
+        "district": "中山區",
+        "name": "台北萬豪酒店 宴客樓中餐廳",
+        "food_type": [
+            "粵式",
+            "台式",
+            "中菜"
+        ],
+        "address": "台北市中山區樂群二路199號三樓",
+        "google_map": "https://maps.app.goo.gl/GM3cgbjFbHit65bH6",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/8805/",
+        "dishes": [
+            "鮑魚福州炒飯",
+            "椒麻松花皮蛋麵"
+        ],
+        "award": 2
+    },
+    {
+        "city": "台北市",
+        "district": "大同區",
+        "name": "涼州游嚴行 D-Place",
+        "food_type": [
+            "法式"
+        ],
+        "address": "台北市大同區涼州街72巷2-1號",
+        "google_map": "https://maps.app.goo.gl/8J64RLNgD47S4YN1A",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82/34877/",
+        "dishes": [
+            "白蘆筍凍/糟滷鮑魚與豬肚/白蘆筍慕絲/甜豆仁與花椒青蔥油",
+            "炭烤肝醬鮑魚"
+        ],
+        "award": 2
+    },
+    {
+        "city": "台北市",
+        "district": "中山區",
+        "name": "吉甘槑喆",
+        "food_type": [
+            "地中海"
+        ],
+        "address": "台北市中山區中山北路二段11巷7-2號",
+        "google_map": "https://maps.app.goo.gl/cG5nNamC7RM6K5oR9",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/362122/",
+        "dishes": [
+            "慢燉雞湯蘿蔔",
+            "煎烤現流小卷/煙燻香草醬汁/優格茄子泥"
+        ],
+        "award": 2
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "吉兆割烹壽司KITCHO",
+        "food_type": [
+            "日式"
+        ],
+        "address": "台北市大安區忠孝東路四段181巷48號1樓",
+        "google_map": "https://maps.app.goo.gl/iVWj6Zt7emCz7MmbA",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/36465/",
+        "dishes": [
+            "烤鰻魚",
+            "松露白子蒸蛋"
+        ],
+        "award": 2
+    },
+    {
+        "city": "台北市",
+        "district": "中山區",
+        "name": "欣葉台菜創始店",
+        "food_type": [
+            "台式"
+        ],
+        "address": "台北市中山區雙城街34之1號",
+        "google_map": "https://maps.app.goo.gl/bBtfQV3DJY1DwtBh9",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/7773/",
+        "dishes": [
+            "手工菜丸湯",
+            "麻油腰花"
+        ],
+        "award": 2
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "小小樹食",
+        "food_type": [
+            "美式",
+            "蔬食"
+        ],
+        "address": "台北市大安區大安路一段116巷17號",
+        "google_map": "https://maps.app.goo.gl/MKCwZjMry6STeR6g9",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/47870/",
+        "dishes": [
+            "小樹酪梨蔬菜佛陀碗",
+            "紅油皮蛋豆腐餃"
+        ],
+        "award": 2
+    },
+    {
+        "city": "台北市",
+        "district": "內湖區",
+        "name": "喜相逢麵館",
+        "food_type": [
+            "潮州菜",
+            "粵式"
+        ],
+        "address": "台北市內湖區東湖路106巷7弄3號",
+        "google_map": "https://maps.app.goo.gl/kMmuPQzaZQ31yoKL9",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%85%A7%E6%B9%96%E5%8D%80/9863/",
+        "dishes": [
+            "魚汁滑蛋"
+        ],
+        "award": 2
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "鮨二七",
+        "food_type": [
+            "日式"
+        ],
+        "address": "台北市大安區安和路二段167號1樓",
+        "google_map": "https://maps.app.goo.gl/emYgipnArUuaBcxs6",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/36432/",
+        "dishes": [
+            "北京鰻魚手卷",
+            "金目鯛"
+        ],
+        "award": 2
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "成海壽司 narumi sushi",
+        "food_type": [
+            "日式"
+        ],
+        "address": "台北市大安區仁愛路四段300巷29號1樓",
+        "google_map": "https://maps.app.goo.gl/s4qWkS9F7jwi4RDS6",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/110871/",
+        "dishes": [
+            "台式炒米粉",
+            "烏魚子"
+        ],
+        "award": 2
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "雙月食品社",
+        "food_type": [
+            "台式"
+        ],
+        "address": "台北市大安區和平東路二段52號",
+        "google_map": "https://maps.app.goo.gl/FoNMYhmEUsdqbtLZ8",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/32035/",
+        "dishes": [
+            "蛤蝌燉雞湯",
+            "阿甘剝皮辣椒燉雞腿湯"
+        ],
+        "award": 2
+    },
+    {
+        "city": "台北市",
+        "district": "松山區",
+        "name": "十里。尋",
+        "food_type": [
+            "中菜"
+        ],
+        "address": "台北市松山區富錦街446號",
+        "google_map": "https://maps.app.goo.gl/P5eUtNFEzrtMbA5s5",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/362124/",
+        "dishes": [
+            "南非26頭吉品鮑"
+        ],
+        "award": 2
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "酉志",
+        "food_type": [
+            "日式"
+        ],
+        "address": "台北市大安區愛國東路99號1樓",
+        "google_map": "https://maps.app.goo.gl/L8MQgVdEp4ruNQPBA",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/52921/",
+        "dishes": [
+            "剝皮辣椒炸雞翅",
+            "雞肉串沾生蛋"
+        ],
+        "award": 2
+    },
+    {
+        "city": "台北市",
+        "district": "松山區",
+        "name": "彧割烹",
+        "food_type": [
+            "日式"
+        ],
+        "address": "台北市松山區三民路9-1號",
+        "google_map": "https://maps.app.goo.gl/g3MNvNsAnwYXJKbd8",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/9076/",
+        "dishes": [
+            "鰻魚釜飯"
+        ],
+        "award": 2
+    },
+    {
+        "city": "台北市",
+        "district": "中山區",
+        "name": "鮨香",
+        "food_type": [
+            "日式"
+        ],
+        "address": "台北市中山區林森北路485巷10號1樓",
+        "google_map": "https://maps.app.goo.gl/5s3ya9spiKFv6E799",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/362126/",
+        "dishes": [
+            "海苔鰻魚",
+            "龍蝦蛋汁"
+        ],
+        "award": 2
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "鮨天本 Amamoto",
+        "food_type": [
+            "日式"
+        ],
+        "address": "台北市大安區仁愛路四段371號",
+        "google_map": "https://maps.app.goo.gl/hk5D1Ek4gYKsFXt67",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/105061/",
+        "dishes": [
+            "鮟鱇魚肝最中餅"
+        ],
+        "award": 2
+    },
+    {
+        "city": "台中市",
+        "district": "新社區",
+        "name": "飛花落院",
+        "food_type": [
+            "日式"
+        ],
+        "address": "台中市新社區中興嶺街一段111號",
+        "google_map": "https://maps.app.goo.gl/ewBeFDS5eq3NURGv7",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e4%b8%ad%e5%b8%82%e6%96%b0%e7%a4%be%e5%8d%80/410/",
+        "dishes": [
+            "青柚甜蝦燉大根",
+            "淺草甘露車海老"
+        ],
+        "award": 2
+    },
+    {
+        "city": "台中市",
+        "district": "西區",
+        "name": "鳥苑",
+        "food_type": [
+            "日式"
+        ],
+        "address": "台中市西區忠明南路48號",
+        "google_map": "https://maps.app.goo.gl/T26d6GK26xq3qJNE6",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82/131433/",
+        "dishes": [
+            "鳳翅鑲干貝麻辣醤",
+            "柚香雞肉丸"
+        ],
+        "award": 2
+    },
+    {
+        "city": "台中市",
+        "district": "南屯區",
+        "name": "霧都老火鍋",
+        "food_type": [
+            "川菜",
+            "火鍋",
+            "中菜"
+        ],
+        "address": "台中市南屯區大墩路28號",
+        "google_map": "https://maps.app.goo.gl/cuBjpuCZFe5u6BJC9",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8D%97%E5%B1%AF%E5%8D%80/103129/",
+        "dishes": [
+            "麻辣火鍋"
+        ],
+        "award": 2
+    },
+    {
+        "city": "高雄市",
+        "district": "新興區",
+        "name": "海天下海產餐廳",
+        "food_type": [
+            "台式"
+        ],
+        "address": "高雄市新興區林森二路188號",
+        "google_map": "https://maps.app.goo.gl/ULanB9xjikcwfoj17",
+        "footinder": "https://footinder.com.tw/%E9%AB%98%E9%9B%84%E5%B8%82%E6%96%B0%E8%88%88%E5%8D%80/11708/",
+        "dishes": [
+            "炒野生紫菜",
+            "海膽山藥"
+        ],
+        "award": 2
+    },
+    {
+        "city": "花蓮縣",
+        "district": "鳳林鎮",
+        "name": "遺忘的故鄉月廬食堂",
+        "food_type":[
+            "客家",
+            "台式"
+        ],
+        "address": "花蓮縣鳳林鎮鳳鳴一路71號",
+        "google_map": "https://maps.app.goo.gl/3m8QfCK9weCCvXSq6",
+        "footinder": "https://footinder.com.tw/%E8%8A%B1%E8%93%AE%E7%B8%A3%E9%B3%B3%E6%9E%97%E9%8E%AE/14171/",
+        "dishes": [
+            "梅子烤雞"
+        ],
+        "award": 2
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "de nuit",
+        "food_type": [
+            "法式"
+        ],
+        "address": "台北市大安區信義路四段175號",
+        "google_map": "https://maps.app.goo.gl/Ya54yVc8JkWpqMnJ8",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/153101/",
+        "dishes": [
+            "市場鮮魚丨魚子醬丨淡菜",
+            "市場鮮魚丨海苔丨山椒"
+        ],
+        "award": 2
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "Divino TAipei",
+        "food_type": [
+            "義式"
+        ],
+        "address": "台北市大安區安和路二段71巷15號",
+        "google_map": "https://maps.app.goo.gl/CLmouZAxttfTHeXbA",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/47916/",
+        "dishes": [
+            "Carbonara",
+            "帶骨小羔羊排"
+        ],
+        "award": 2
+    },
+    {
+        "city": "台北市",
+        "district": "信義區",
+        "name": "gubami Social",
+        "food_type": [
+            "台式",
+            "法式"
+        ],
+        "address": "台北市信義區松壽路9號6樓",
+        "google_map": "https://maps.app.goo.gl/8vemw5RiefZa2FjX9",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80/168891/",
+        "dishes": [
+            "烏梅慢慢烤豬肋排",
+            "酥燒鰻"
+        ],
+        "award": 2
+    },
+    {
+        "city": "台北市",
+        "district": "中山區",
+        "name": "Impromptu by Paul Lee",
+        "food_type": [
+            "美式"
+        ],
+        "address": "台北市中山區中山北路二段39巷3號B1",
+        "google_map": "https://maps.app.goo.gl/KzbjU6DDMxacNCKE6",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/46994/",
+        "dishes": [
+            "龍蝦拌麵",
+            "烤胭脂蝦"
+        ],
+        "award": 2
+    },
+    {
+        "city": "台北市",
+        "district": "松山區",
+        "name": "M&CO",
+        "food_type": [
+            "日式"
+        ],
+        "address": "台北市松山區民生東路三段127巷6號1樓",
+        "google_map": "https://maps.app.goo.gl/K5ZbXAtKZQ1MWPVu5",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/47863/",
+        "dishes": [
+            "神隱咖哩",
+            "Chawnmushi with ice cream茶碗蒸"
+        ],
+        "award": 2
+    },
+    {
+        "city": "高雄市",
+        "district": "前金區",
+        "name": "Marc L³",
+        "food_type": [
+            "法式"
+        ],
+        "address": "高雄市前金區仁義街231號",
+        "google_map": "https://maps.app.goo.gl/cUKQNxUizNdCKf3i7",
+        "footinder": "https://footinder.com.tw/%E9%AB%98%E9%9B%84%E5%B8%82%E5%89%8D%E9%87%91%E5%8D%80/155022/",
+        "dishes": [
+            "土魠/紅椒/蛤蜊",
+            "白鯷魚麵包"
+        ],
+        "award": 2
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "nabo ulv",
+        "food_type": [
+            "北歐"
+        ],
+        "address": "台北市大安區敦化南路一段160巷18號",
+        "google_map": "https://maps.app.goo.gl/PrDH2vAcV7WitEFC8",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/362128/",
+        "dishes": [
+            "烤鴨，煙燻麵疙瘩，西梅李醬",
+            "蒜頭辣椒麵"
+        ],
+        "award": 2
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "瑪黑餐酒 光復店 Ochre Grill & Bar",
+        "food_type":[
+            "法式"
+        ],
+        "address": "台北市大安區光復南路240巷3號",
+        "google_map": "https://maps.app.goo.gl/jCxxXwJ72Mu9d7it5",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/362130/",
+        "dishes": [
+            "炭烤小卷"
+        ],
+        "award": 2
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "RÒU X James Sharman",
+        "food_type":[
+            "英式"
+        ],
+        "address": "台北市樂群二路199號10萬豪酒店中城廣場一樓",
+        "google_map": "https://maps.app.goo.gl/5Nqrz56ujoCWYFi98",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/362132/",
+        "dishes": [
+            "布拉塔起司沙拉",
+            "麥年比目魚排"
+        ],
+        "award": 2
+    },
+    {
+        "city": "高雄市",
+        "district": "前鎮區",
+        "name": "Ukai-tei Kaohsiung",
+        "food_type":[
+            "日式"
+        ],
+        "address": "高雄市前鎮區中山二路199號3樓",
+        "google_map": "https://maps.app.goo.gl/aptTf3VLPcRXgtbz8",
+        "footinder": "https://footinder.com.tw/%E9%AB%98%E9%9B%84%E5%B8%82%E5%89%8D%E9%8E%AE%E5%8D%80/168893/",
+        "dishes": [
+            "昆布鹽焗鮑魚",
+            "鹽蒸白蘆筍"
+        ],
+        "award": 2
+    },
+    {
+        "city": "台北市",
+        "district": "信義區",
+        "name": "夜上海 Ye Shanghai (Taipei)",
+        "food_type":[
+            "滬菜",
+            "中菜"
+        ],
+        "address": "台北市信義區松高路19號新光三越5樓",
+        "google_map": "https://maps.app.goo.gl/WiR37A5CQ3nNWNgt7",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80/148550/",
+        "dishes": [
+            "蟹粉釀蟹蓋",
+            "椒鹽小黃魚"
+        ],
+        "award": 2
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "大來小館",
+        "food_type":[
+            "台式"
+        ],
+        "address": "台北市大安區金華街140號",
+        "google_map": "https://maps.app.goo.gl/bgkLoHrRyBe6NisS9",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/8012/",
+        "dishes": [
+            "龍蝦燴麵",
+            "炸雞捲"
+        ],
+        "award": 2
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "六品小館",
+        "food_type":[
+            "江浙",
+            "中菜"      
+        ],
+        "address": "台北市大安區金華街199巷3弄8號",
+        "google_map": "https://maps.app.goo.gl/WChRWo3rotLX7B2U7",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/31435/",
+        "dishes": [
+            "快炒豆干肉絲"
+        ],
+        "award": 2
+    },
+    {
+        "city": "台北市",
+        "district": "內湖區",
+        "name": "三元花園韓式餐廳",
+        "food_type":[
+            "韓式"
+        ],
+        "address": "台北市內湖區瑞光路188巷43號1F",
+        "google_map": "https://maps.app.goo.gl/hx9pNixaaB1s69sk9",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%85%A7%E6%B9%96%E5%8D%80/9161/",
+        "dishes": [
+            "招牌牛小排",
+            "三元甜辣炸雞"
+        ],
+        "award": 2
+    },
+    {
+        "city": "台北市",
+        "district": "中山區",
+        "name": "台北晶華蘭亭",
+        "food_type":[
+            "滬菜",
+            "中菜"
+        ],
+        "address": "台北市中山區中山北路二段39巷3號",
+        "google_map": "https://maps.app.goo.gl/48jZuEnSb5hXnG729",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/52645/",
+        "dishes": [
+            "四季豆捲餅",
+            "東坡肉"
+        ],
+        "award": 2
+    },
+    {
+        "city": "台北市",
+        "district": "北投區",
+        "name": "北投奇岩一號",
+        "food_type":[
+            "川菜",
+            "湘菜",
+            "中菜"
+        ],
+        "address": "台北市北投區奇岩路1號",
+        "google_map": "https://maps.app.goo.gl/4ysUPW9c1XVuevog8",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%8C%97%E6%8A%95%E5%8D%80/7325/",
+        "dishes": [
+            "豌豆花膠肚條湯"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "八和和牛燒肉專門店",
+        "food_type":[
+            "日式"
+        ],
+        "address": "台北市大安區安和路一段102巷4號",
+        "google_map": "https://maps.app.goo.gl/hkbwgDRRRLpeSdDX8",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/47908/",
+        "dishes": [
+            "法式吐司"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "大同區",
+        "name": "杯底香(永久歇業)",
+        "food_type":[
+            "中菜"
+        ],
+        "address": "台北市大同區西寧北路90之1號2樓",
+        "google_map": "https://maps.app.goo.gl/rtAcjz7TomKxxhUf8",
+        "footinder": "",
+        "dishes": [
+            "花椒花雕蟹"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "松山區",
+        "name": "爸爸Kevin美食BBQ",
+        "food_type":[
+            "美式"
+        ],
+        "address": "台北市松山區南京東路三段303巷8弄5號",
+        "google_map": "https://maps.app.goo.gl/SQfDLAPR3Qjot1xM6",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e6%9d%be%e5%b1%b1%e5%8d%80/31849/",
+        "dishes": [
+            "牛前胸肉"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "貝菈小屋",
+        "food_type":[
+            "義式"
+        ],
+        "address": "台北市大安區辛亥路二段159號",
+        "google_map": "https://maps.app.goo.gl/h4n1xXYRsJo2BC5v5",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/32328/",
+        "dishes": [
+            "青醬海鮮義大利麵"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "本家BORNGA韓式燒肉",
+        "food_type":[
+            "韓式"
+        ],
+        "address": "台北市大安區市民大道四段102號",
+        "google_map": "https://maps.app.goo.gl/5MVLgBx3hB435PY27",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/362134/",
+        "dishes": [
+            "牛肉年糕末餅"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "中山區",
+        "name": "彭園",
+        "food_type":[
+            "湘菜",
+            "中菜"
+        ],
+        "address": "台北市中山區林森北路380號2F",
+        "google_map": "https://maps.app.goo.gl/ALFGjEpnxhH3mtKf7",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/31250/",
+        "dishes": [
+            "譚府黃金酸菜魚"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "中山區",
+        "name": "茂園餐廳",
+        "food_type":[
+            "台式"
+        ],
+        "address": "台北市中山區長安東路二段185號",
+        "google_map": "https://maps.app.goo.gl/GoACVTevY2bM3yVF8",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/267/",
+        "dishes": [
+            "白斬雞"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "湄河泰國料理",
+        "food_type":[
+            "泰式"
+        ],
+        "address": "台北市大安區延吉街157-3號",
+        "google_map": "https://maps.app.goo.gl/pkiRsKHubQYLMPXt9",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/36601/",
+        "dishes": [
+            "香蘭雞"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "中山區",
+        "name": "明水397食堂(暫時關閉)",
+        "food_type":[
+            "台式"
+        ],
+        "address": "台北市中山區北安路538巷1弄11號",
+        "google_map": "https://maps.app.goo.gl/w64f3A2jxzkmWee89",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/50077/",
+        "dishes": [
+            "乾煎馬頭魚"
+        ],
+        "award": 1
+    },
+    {
+        "city": "新北市",
+        "district": "板橋區",
+        "name": "豐華小館",
+        "food_type":[
+            "江浙",
+            "中菜"
+        ],
+        "address": "新北市板橋區雙十路二段209號",
+        "google_map": "https://maps.app.goo.gl/ZE5UPg3uecsF1xG78",
+        "footinder": "https://footinder.com.tw/%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80/6644/",
+        "dishes": [
+            "冰糖蹄膀"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "都鮨蘭奢待 日法小料亭",
+        "food_type": [
+            "日式",
+            "法式"
+        ],
+        "address": "台北市大安區敦化南路一段295巷10號",
+        "google_map": "https://maps.app.goo.gl/QNsB2zh5x8WXSgU28",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/32981/",
+        "dishes": [
+          "煙燻漢堡肉佐熟成鵝肝"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "鼎旺麻辣鍋",
+        "food_type": [
+            "川菜",
+            "中菜"
+        ],
+        "address": "台北市大安區大安路一段251號1樓",
+        "google_map": "https://maps.app.goo.gl/cYp9TAkUa5Tqy9Cm9",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/32694/",
+        "dishes": [
+          "鳳爪"
+        ],
+        "award": 1
+    },
+    {
+        "city": "苗栗縣",
+        "name": "斗煥坪水餃館",
+        "food_type": [
+            "台式"
+        ],
+        "address": "苗栗縣頭份市中正二路210號",
+        "google_map": "https://maps.app.goo.gl/6oHAV4658nAmiz7R9",
+        "footinder": "https://footinder.com.tw/%E8%8B%97%E6%A0%97%E7%B8%A3%E9%A0%AD%E4%BB%BD%E5%B8%82/74641/",
+        "dishes": [
+          "薑絲大腸"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "內湖區",
+        "name": "德朗火鍋",
+        "food_type": [
+            "法式",
+            "火鍋"
+        ],
+        "address": "台北市內湖區行善路385號",
+        "google_map": "https://maps.app.goo.gl/Ns5Wpm1FdtfkVerc9",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%85%A7%E6%B9%96%E5%8D%80/42802/",
+        "dishes": [
+          "美國牛小排套餐"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "中山區",
+        "name": "大正浪漫日本料理",
+        "food_type": [
+            "日式"
+        ],
+        "address": "台北市中山區復興南路一段30巷1號",
+        "google_map": "https://maps.app.goo.gl/ixRWfUEn4JqfgiBu7",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/8442/",
+        "dishes": [
+          "烏龍冷麵"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "大同區",
+        "name": "東方饌黔天下貴州主題餐廳",
+        "food_type": [
+            "貴州"
+        ],
+        "address": "台北市大同區迪化街一段358之2號",
+        "google_map": "https://maps.app.goo.gl/LejgiNmG5sWQmCm67",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%90%8c%e5%8d%80/7487/",
+        "dishes": [
+          "酸湯豆花牛肉"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "中正區",
+        "name": "添財日本料理武昌店",
+        "food_type": [
+            "日式"
+        ],
+        "address": "台北市中正區武昌街一段16巷6號",
+        "google_map": "https://maps.app.goo.gl/Bu5ywofJC3PxvUSj9",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e6%ad%a3%e5%8d%80/30353/",
+        "dishes": [
+          "關東煮"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "中山區",
+        "name": "天婦羅杉村",
+        "food_type": [
+            "日式"
+        ],
+        "address": "台北市中山區樂群二路199號中城廣場2樓",
+        "google_map": "https://maps.app.goo.gl/GW598p5d4WVbARM5A",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/362136/",
+        "dishes": [
+          "炸海膽"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "大同區",
+        "name": "Ciao by Fratelli Pennisi Macelleria Sicilia 西西里牛排餐酒館",
+        "food_type": [
+            "義式"
+        ],
+        "address": "台北市大同區承德路一段3號6樓",
+        "google_map": "https://maps.app.goo.gl/17vBMKB7N4QhHrLk8",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%90%8c%e5%8d%80/7651/",
+        "dishes": [
+          "馬頭魚義大利麵"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "中正區",
+        "name": "台北喜來登大飯店 請客樓",
+        "food_type": [
+            "川菜"
+        ],
+        "address": "台北市中正區忠孝東路一段12號17樓",
+        "google_map": "https://maps.app.goo.gl/DC7NdPfPSidVhZiu6",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80/7837/",
+        "dishes": [
+          "花膠砂鍋一品雞湯"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "中正區",
+        "name": "台北美味小館",
+        "food_type": [
+            "中菜"
+        ],
+        "address": "台北市中正區林森南路61巷17號",
+        "google_map": "https://maps.app.goo.gl/isGdem8c9q4PQf5V8",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e6%ad%a3%e5%8d%80/7888/",
+        "dishes": [
+          "魚頭砂鍋加巨無霸獅子頭"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "中山區",
+        "name": "牛琅",
+        "food_type": [
+            "台式",
+            "火鍋"
+        ],
+        "address": "台北市中山區樂群三路303號3樓",
+        "google_map": "https://maps.app.goo.gl/k4M7Ez7e3c9izAZD7",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/362138/",
+        "dishes": [
+          "牛琅溫體牛火鍋"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "牛吉燒肉",
+        "food_type": [
+            "日式"
+        ],
+        "address": "台北市大安區通安街38-1號",
+        "google_map": "https://maps.app.goo.gl/tLgsoYRJGBkFQo1QA",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/120264/",
+        "dishes": [
+          "沙朗涮涮燒(搭A5和牛辣油)"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "牛B燒肉 GyuB Yakiniku",
+        "food_type": [
+            "日式"
+        ],
+        "address": "台北市大安區東豐街64號",
+        "google_map": "https://maps.app.goo.gl/LycmXKQK7jNz9x3w8",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/104634/",
+        "dishes": [
+          "厚切牛舌"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "士林區",
+        "name": "鳥哲 燒物專門店",
+        "food_type": [
+            "日式"
+        ],
+        "address": "台北市士林區福華路128巷12號",
+        "google_map": "https://maps.app.goo.gl/gEe3qWPVruFSfU9g6",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A3%AB%E6%9E%97%E5%8D%80/7705/",
+        "dishes": [
+          "烤雞翅"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "大同區",
+        "name": "寧夏夜市千歲宴",
+        "food_type": [
+            "台式"
+        ],
+        "address": "台北市大同區寧夏路58號2樓",
+        "google_map": "https://maps.app.goo.gl/5piZfcfCfs4tdboNA",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%90%8c%e5%8d%80/35031/",
+        "dishes": [
+          "滷肉飯、臭豆腐、香腸、雞捲"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "南村｜私廚‧小酒棧",
+        "food_type": [
+            "中菜"
+        ],
+        "address": "台北市大安區忠孝東路四段216巷33弄10號",
+        "google_map": "https://maps.app.goo.gl/Dx7oHUpgYxi57vsQ8",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/124224/",
+        "dishes": [
+          "毛澤東紅燒肉刈包"
+        ],
+        "award": 1
+    },
+    {
+        "city": "基隆市",
+        "district": "中山區",
+        "name": "李津好。津烹派",
+        "food_type": [
+            "台式"
+        ],
+        "address": "基隆市中山區西定路120號",
+        "google_map": "https://maps.app.goo.gl/HX891u1SFFhyQidx7",
+        "footinder": "https://footinder.com.tw/%e5%9f%ba%e9%9a%86%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/362148/",
+        "dishes": [
+          "煎魚(黑喉、油帶魚)"
+        ],
+        "award": 1
+    },
+    {
+        "city": "新北市",
+        "district": "八里區",
+        "name": "落日崖之飄逸居咖啡小屋",
+        "food_type": [
+            "台式"
+        ],
+        "address": "新北市八里區華富山路14號",
+        "google_map": "https://maps.app.goo.gl/yPa78sFjduoeNEgb8",
+        "footinder": "https://footinder.com.tw/%E6%96%B0%E5%8C%97%E5%B8%82%E5%85%AB%E9%87%8C%E5%8D%80/85291/",
+        "dishes": [
+          "刈菜雞"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "北投區",
+        "name": "冠宸食館",
+        "food_type": [
+            "台式"
+        ],
+        "address": "台北市北投區竹子湖路67號",
+        "google_map": "https://maps.app.goo.gl/Xna1Z1L18DP3xckM8",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%8C%97%E6%8A%95%E5%8D%80/8051/",
+        "dishes": [
+          "鹽酥竹雞"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "中山區",
+        "name": "國賓中餐廳",
+        "food_type": [
+            "川菜",
+            "粵式",
+            "中菜"
+        ],
+        "address": "台北市中山區遼寧街177號2F",
+        "google_map": "https://maps.app.goo.gl/KHzp5ADf4X7zmeYY6",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/57/",
+        "dishes": [
+          "麻油螃蟹"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "格格的幸福廚房",
+        "food_type": [
+            "川菜",
+            "北京",
+            "中菜"
+        ],
+        "address": "台北市大安區建國南路一段160號2樓",
+        "google_map": "https://maps.app.goo.gl/vgkzfJpqDrDH832fA",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/362140/",
+        "dishes": [
+          "韭菜盒"
+        ],
+        "award": 1
+    },
+    {
+        "city": "桃園市",
+        "district": "復興區",
+        "name": "光明農場(馬告磚窯雞)",
+        "food_type": [
+            "台式"
+        ],
+        "address": "桃園市復興區復興鄉神木路192-8號",
+        "google_map": "https://maps.app.goo.gl/1cen18b5cTtKZgeHA",
+        "footinder": "https://footinder.com.tw/%E6%A1%83%E5%9C%92%E5%B8%82%E5%BE%A9%E8%88%88%E5%8D%80/13824/",
+        "dishes": [
+          "馬告全雞"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "空盤 komboi",
+        "food_type": [
+            "法式"
+        ],
+        "address": "台北市大安區敦化南路一段270巷28號-8號",
+        "google_map": "https://maps.app.goo.gl/vHQVDUAG4B4r3qJL7",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/8683/",
+        "dishes": [
+          "豆花|時令魚|龍蒿"
+        ],
+        "award": 1
+    },
+    {
+        "city": "新竹市",
+        "district": "東區",
+        "name": "菜園上海餐廳",
+        "food_type": [
+            "滬菜",
+            "中菜"
+        ],
+        "address": "新竹市東區東大路一段136號",
+        "google_map": "https://maps.app.goo.gl/okbenzsF7BQb8mpYA",
+        "footinder": "https://footinder.com.tw/%E6%96%B0%E7%AB%B9%E5%B8%82%E6%9D%B1%E5%8D%80/127814/",
+        "dishes": [
+          "白菜燉雞湯"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "信義區",
+        "name": "漢來名人坊",
+        "food_type": [
+            "粵式",
+            "中菜"
+        ],
+        "address": "台北市信義區基隆路一段333號34樓",
+        "google_map": "https://maps.app.goo.gl/G6gFQewFMnKDhCsSA",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82/9094/",
+        "dishes": [
+          "經典編織酥"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "松山區",
+        "name": "花娘小廚",
+        "food_type": [
+            "川菜",
+            "中菜"
+        ],
+        "address": "台北市松山區敦化北路165巷9號1樓",
+        "google_map": "https://maps.app.goo.gl/K5nT32WX1pQgXSCdA",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e6%9d%be%e5%b1%b1%e5%8d%80/33049/",
+        "dishes": [
+          "蒼蠅頭"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "北投區",
+        "name": "磺溪小鎮",
+        "food_type": [
+            "台式"
+        ],
+        "address": "台北市北投區石牌路二段360號",
+        "google_map": "https://maps.app.goo.gl/S133WamZSotEy5g98",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%8C%97%E6%8A%95%E5%8D%80/7824/",
+        "dishes": [
+          "鮮蚵"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "中正區",
+        "name": "皇膳餐廳",
+        "food_type": [
+            "中菜"
+        ],
+        "address": "台北市中正區仁愛路二段48號",
+        "google_map": "https://maps.app.goo.gl/hmS9RsxCCea4iwmy9",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80/80/",
+        "dishes": [
+          "台塑牛小排"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "信義區",
+        "name": "琥珀割烹 Kohaku",
+        "food_type": [
+            "日式"
+        ],
+        "address": "台北市信義區逸仙路32巷15號1樓",
+        "google_map": "https://maps.app.goo.gl/JLfFhzJ3cLJhZphr5",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%bf%a1%e7%be%a9%e5%8d%80/362142/",
+        "dishes": [
+          "薄片鮪魚飯"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "士林區",
+        "name": "好麵煮私房麵館",
+        "food_type": [
+            "中菜"
+        ],
+        "address": "台北市士林區士東路100號",
+        "google_map": "https://maps.app.goo.gl/2CsBXNpXEqWBVkMb9",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A3%AB%E6%9E%97%E5%8D%80/42241/",
+        "dishes": [
+          "好麵煮臭仙蓋麵"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "松山區",
+        "name": "海真私房菜",
+        "food_type": [
+            "中菜"
+        ],
+        "address": "台北市松山區民生東路三段130巷7弄15號",
+        "google_map": "https://maps.app.goo.gl/LZcubm5tS9FfE5nu9",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/8666/",
+        "dishes": [
+          "炒五絲"
+        ],
+        "award": 1
+    },
+    {
+        "city": "宜蘭縣",
+        "district": "宜蘭市",
+        "name": "紅樓中餐廳",
+        "food_type": [
+            "中菜"
+        ],
+        "address": "宜蘭縣宜蘭市民權路二段36號6樓",
+        "google_map": "https://maps.app.goo.gl/3ndJ711xV9VrfVrH7",
+        "footinder": "https://footinder.com.tw/%E5%AE%9C%E8%98%AD%E7%B8%A3%E5%AE%9C%E8%98%AD%E5%B8%82/86/",
+        "dishes": [
+          "櫻桃霸王鴨五吃"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "紅皇后川酒·RED QUEEN BISTRO",
+        "food_type": [
+            "川菜"
+        ],
+        "address": "台北市大安區樂利路11巷32號1樓",
+        "google_map": "https://maps.app.goo.gl/3WtC6N6ZG8CwFjfW9",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/8821/",
+        "dishes": [
+          "芙蓉水煮牛"
+        ],
+        "award": 1
+    },
+    {
+        "city": "新北市",
+        "district": "中和區",
+        "name": "漢堡排 嘉",
+        "food_type": [
+            "日式"
+        ],
+        "address": "新北市中和區中山路三段122號4樓",
+        "google_map": "https://maps.app.goo.gl/ESeBuJDP1hVtHquo7",
+        "footinder": "https://footinder.com.tw/%e6%96%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%92%8c%e5%8d%80/362144/",
+        "dishes": [
+          "牛舌漢堡排定食"
+        ],
+        "award": 1
+    },
+    {
+        "city": "宜蘭縣",
+        "district": "冬山鄉",
+        "name": "花愛現小酒館",
+        "food_type": [
+            "台式"
+        ],
+        "address": "宜蘭縣冬山鄉八仙一路117號往前20公尺",
+        "google_map": "https://maps.app.goo.gl/xS5Dqq8fPeUmuwny6",
+        "footinder": "https://footinder.com.tw/%E5%AE%9C%E8%98%AD%E7%B8%A3%E5%86%AC%E5%B1%B1%E9%84%89/938/",
+        "dishes": [
+          "蘭城干貝西魯肉"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "大同區",
+        "name": "江牛樓",
+        "food_type": [
+            "台式",
+            "日式"
+        ],
+        "address": "台北市大同區民樂街6號",
+        "google_map": "https://maps.app.goo.gl/HeZwPDgFPksGptQd8",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%90%8c%e5%8d%80/362146/",
+        "dishes": [
+          "紅燒刀削牛肉麵"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "季肴酒駄介 Dasuke by Sakemaru",
+        "food_type": [
+            "日式"
+        ],
+        "address": "台北市大安區四維路375-2號1樓",
+        "google_map": "https://maps.app.goo.gl/HYTeYy26pZpz3XK57",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/362150/",
+        "dishes": [
+          "DAS BURGER"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "江蘇菜盒店",
+        "food_type": [
+            "江浙",
+            "中菜"
+        ],
+        "address": "台北市大安區忠孝東路三段216巷3弄6號",
+        "google_map": "https://maps.app.goo.gl/XjCnE3qGaVARA2U67",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/168844/",
+        "dishes": [
+          "涼拌白菜"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "松山區",
+        "name": "錦富日本料理",
+        "food_type": [
+            "日式"
+        ],
+        "address": "台北市松山區民生東路五段137巷6弄36號",
+        "google_map": "https://maps.app.goo.gl/ZGrdFkBeUqgEwVG76",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/36934/",
+        "dishes": [
+          "鮑魚冷盤"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "松山區",
+        "name": "金山客家小館創始店",
+        "food_type": [
+            "台式",
+            "客家"
+        ],
+        "address": "台北市松山區南京東路五段250巷2弄5號1樓",
+        "google_map": "https://maps.app.goo.gl/KKrNjL5wFHSXgBmy8",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/9079/",
+        "dishes": [
+          "炸銀絲卷"
+        ],
+        "award": 1
+    },
+    {
+        "city": "新北市",
+        "district": "萬里區",
+        "name": "酒莊美食餐廳",
+        "food_type": [
+            "台式"
+        ],
+        "address": "新北市萬里區內中福路4號",
+        "google_map": "https://maps.app.goo.gl/1QK6sfMwxTyoedtz8",
+        "footinder": "https://footinder.com.tw/%E6%96%B0%E5%8C%97%E5%B8%82%E8%90%AC%E9%87%8C%E5%8D%80/9683/",
+        "dishes": [
+          "地瓜桔捲"
+        ],
+        "award": 1
+    },
+    {
+        "city": "新北市",
+        "district": "坪林區",
+        "name": "金華飯店",
+        "food_type": [
+            "台式"
+        ],
+        "address": "新北市坪林區北宜路八段341號",
+        "google_map": "https://maps.app.goo.gl/dfhWqutvKCGiSykj6",
+        "footinder": "https://footinder.com.tw/%E6%96%B0%E5%8C%97%E5%B8%82%E5%9D%AA%E6%9E%97%E5%8D%80/60864/",
+        "dishes": [
+          "古茶油煎鱸鰻"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "松山區",
+        "name": "聚苑Ju Yuan(永久歇業)",
+        "food_type": [
+            "中菜"
+        ],
+        "address": "台北市松山區民生東路四段131巷21號",
+        "google_map": "https://maps.app.goo.gl/TKfbW97UXZJruxmW9",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/48047/",
+        "dishes": [
+          "泡椒酸菜水煮老虎斑"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "犬犬家",
+        "food_type": [
+            "日式"
+        ],
+        "address": "台北市大安區金山南路二段85巷7號1樓之3",
+        "google_map": "https://maps.app.goo.gl/S5npvieNJTDyCdUK8",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/35381/",
+        "dishes": [
+          "烏魚子年糕"
+        ],
+        "award": 1
+    },
+    {
+        "city": "新竹縣",
+        "district": "關西鎮",
+        "name": "清香飲食店",
+        "food_type": [
+            "台式",
+            "客家"
+        ],
+        "address": "新竹縣關西鎮中豐路一段422號",
+        "google_map": "https://maps.app.goo.gl/zeHsRpfwUyR6WpfY7",
+        "footinder": "https://footinder.com.tw/%e6%96%b0%e7%ab%b9%e7%b8%a3%e9%97%9c%e8%a5%bf%e9%8e%ae/89662/",
+        "dishes": [
+          "仙草鷄湯"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "北投區",
+        "name": "青菜園",
+        "food_type": [
+            "台式"
+        ],
+        "address": "台北市北投區竹子湖路55之11號往中正山方向",
+        "google_map": "https://maps.app.goo.gl/mCDQwBZZ927hr7uc6",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%8c%97%e6%8a%95%e5%8d%80/6689/",
+        "dishes": [
+          "放山白斬雞"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "鮨崤",
+        "food_type": [
+            "日式"
+        ],
+        "address": "台北市大安區大安路一段31巷12號1",
+        "google_map": "https://maps.app.goo.gl/Msa9iN56PGf1GePz5",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/111124/",
+        "dishes": [
+          "溏心烏魚子"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "中正區",
+        "name": "香色 XIANG SE",
+        "food_type": [
+            "台式"
+        ],
+        "address": "台北市中正區湖口街1-2號",
+        "google_map": "https://maps.app.goo.gl/EZmGWooWzTDH6ET39",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e6%ad%a3%e5%8d%80/190/",
+        "dishes": [
+          "綠竹筍 梅乾菜 夏季松露"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "巷子龍家常菜",
+        "food_type": [
+            "湘菜",
+            "江浙",
+            "中菜"
+        ],
+        "address": "台北市大安區四維路25號",
+        "google_map": "https://maps.app.goo.gl/kBLim7TJ8VGPzLwg7",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/8585/",
+        "dishes": [
+          "蒼蠅頭"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "千壽 日本料理 懷石X壽司",
+        "food_type": [
+            "日式"
+        ],
+        "address": "台北市大安區忠孝東路四段216巷27弄17號入口有點難找",
+        "google_map": "https://maps.app.goo.gl/i3Ccj49uQzevho5D8",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/13160/",
+        "dishes": [
+          "千壽海鮮太捲"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "信義區",
+        "name": "心潮飯店",
+        "food_type": [
+            "台式"
+        ],
+        "address": "台北市信義區忠孝東路五段68號2樓",
+        "google_map": "https://maps.app.goo.gl/sc5p8KWoJY9GeC2h9",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%bf%a1%e7%be%a9%e5%8d%80/9026/",
+        "dishes": [
+          "蒜香紐約客牛排炒飯"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "松山區",
+        "name": "徐家私廚",
+        "food_type": [
+            "中菜"
+        ],
+        "address": "台北市松山區復興北路313巷37號",
+        "google_map": "https://maps.app.goo.gl/fUNQCn4QZYsw2VvM8",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/168881/",
+        "dishes": [
+          "冰糖叉燒肉"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "中正區",
+        "name": "興鐵板燒 Xing Teppanyaki",
+        "food_type": [
+            "台式"
+        ],
+        "address": "台北市中正區仁愛路二段7號",
+        "google_map": "https://maps.app.goo.gl/XAD2wKJgH2CiNBnb7",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80/31091/",
+        "dishes": [
+          "黃金雞排"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "松山區",
+        "name": "祥和蔬食料理",
+        "food_type": [
+            "蔬食",
+            "台式"
+        ],
+        "address": "台北市松山區南京東路三段303巷7弄7號",
+        "google_map": "https://maps.app.goo.gl/ePet1PZ1hFG1HyVu6",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/158981/",
+        "dishes": [
+          "香椿拌麵"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "夏花餐室 Summer Flowers Dining Room",
+        "food_type": [
+            "印度"
+        ],
+        "address": "台北市大安區忠孝東路三段282號入口在Dior精品店旁側3樓",
+        "google_map": "https://maps.app.goo.gl/feD9PDWq1FRNiwhQ8",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/362154/",
+        "dishes": [
+          "果阿的鮮魚咖哩"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "士林區",
+        "name": "香料屋印度料理 Spice Shop",
+        "food_type": [
+            "印度"
+        ],
+        "address": "台北市士林區天母東路65號",
+        "google_map": "https://maps.app.goo.gl/AHGJ6nyErtHrHiCNA",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A3%AB%E6%9E%97%E5%8D%80/42340/",
+        "dishes": [
+          "雞肉雪茄捲"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "小林海產",
+        "food_type": [
+            "台式"
+        ],
+        "address": "台北市大安區光復南路574-1號",
+        "google_map": "https://maps.app.goo.gl/9Qc5HDxMUNWtNEMC6",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/9088/",
+        "dishes": [
+          "臭豆腐"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "徐羅伐韓式餐廳",
+        "food_type": [
+            "韓式"
+        ],
+        "address": "台北市大安區永康街14巷5號1樓",
+        "google_map": "https://maps.app.goo.gl/DbMKPJG3dm78ARwE6",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/31436/",
+        "dishes": [
+          "韓式冷麵"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "詹記麻辣火鍋",
+        "food_type": [
+            "火鍋",
+            "台式"
+        ],
+        "address": "台北市大安區和平東路三段60號",
+        "google_map": "https://maps.app.goo.gl/bZzYwAbBsEhb7EvV9",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/36261/",
+        "dishes": [
+          "鍋底鴨血"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "萬華區",
+        "name": "周記肉粥店",
+        "food_type": [
+            "台式"
+        ],
+        "address": "台北市萬華區廣州街104號",
+        "google_map": "https://maps.app.goo.gl/CyC4X85C91FbKeQa6",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E8%90%AC%E8%8F%AF%E5%8D%80/7467/",
+        "dishes": [
+          "紅燒肉"
+        ],
+        "award": 1
+    },
+    {
+        "city": "",
+        "district": "",
+        "name": "國城定潮飯店-正寬法師餐會",
+        "food_type": [
+        ],
+        "address": "",
+        "google_map": "https://www.google.com/maps",
+        "footinder": "",
+        "dishes": [
+          "鉢盂供養"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "中正區",
+        "name": "春水堂",
+        "food_type": [
+            "台式"
+        ],
+        "address": "分店眾多請自行搜尋",
+        "google_map": "https://www.google.com/maps/search/%E6%98%A5%E6%B0%B4%E5%A0%82/@25.0417308,121.3938917,10z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/43663/",
+        "dishes": [
+          "金菇豆皮"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "醇一拉麵",
+        "food_type": [
+            "日式"
+        ],
+        "address": "台北市大安區仁愛路四段48巷30-1號",
+        "google_map": "https://maps.app.goo.gl/3fysJuC5jUdZzdbc7",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/362156/",
+        "dishes": [
+          "醇金濃湯鮮貝拉麵"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "中山區",
+        "name": "春韭",
+        "food_type": [
+            "台式"
+        ],
+        "address": "台北市中山區中山北路二段183巷1-5號",
+        "google_map": "https://maps.app.goo.gl/Qmni6uNzNo1H8R9t9",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/362158/",
+        "dishes": [
+          "和牛銀絲卷"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "中山區",
+        "name": "承家私廚",
+        "food_type": [
+            "台式"
+        ],
+        "address": "台北市中山區民權東路二段92巷6號",
+        "google_map": "https://maps.app.goo.gl/TMwqdshzAeN5Jej87",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/176131/",
+        "dishes": [
+          "韭菜花炒皮蛋臭豆腐櫻花蝦"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "中山區",
+        "name": "赤身燒肉 USHIO Taipei",
+        "food_type": [
+            "日式"
+        ],
+        "address": "台北市中山區中山北路一段57號",
+        "google_map": "https://maps.app.goo.gl/cJ1NvP67rdE76gnT7",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/362160/",
+        "dishes": [
+          "鹽燒厚切牛舌"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "中正區",
+        "name": "川揚郁坊小館",
+        "food_type": [
+            "川菜",
+            "中菜"
+        ],
+        "address": "台北市中正區延平南路163巷2號",
+        "google_map": "https://maps.app.goo.gl/h1mtBDCE8Jdm22aP6",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80/7460/",
+        "dishes": [
+          "蔥開煨麵"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "信義區",
+        "name": "川雅",
+        "food_type": [
+            "川菜",
+            "中菜"
+        ],
+        "address": "台北市信義區松智路17號微風南山46樓",
+        "google_map": "https://maps.app.goo.gl/DWjnxi15bCxumJUUA",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%bf%a1%e7%be%a9%e5%8d%80/362162/",
+        "dishes": [
+          "開水白菜"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "松山區",
+        "name": "辰壽司·割烹·會席",
+        "food_type": [
+            "日式"
+        ],
+        "address": "台北市松山區敦化北路167號B1",
+        "google_map": "https://maps.app.goo.gl/VQVxZzJpD9a8eaL88",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/47741/",
+        "dishes": [
+          "北海道縞蝦握壽司"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "壽司芳 台北 Sushiyoshi Taipei",
+        "food_type": [
+            "日式"
+        ],
+        "address": "台北市大安區忠孝東路四段216巷19弄12號",
+        "google_map": "https://maps.app.goo.gl/KTLvcLChsTBH9fdu5",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/110875/",
+        "dishes": [
+          "蜆湯素麵"
+        ],
+        "award": 1
+    },
+    {
+        "city": "新竹縣",
+        "district": "竹北市",
+        "name": "首烏廚EAT",
+        "food_type": [
+            "台式"
+        ],
+        "address": "新竹縣竹北市成功二街31號",
+        "google_map": "https://maps.app.goo.gl/xk4nBoghWkthcgor6",
+        "footinder": "https://footinder.com.tw/%E6%96%B0%E7%AB%B9%E7%B8%A3%E7%AB%B9%E5%8C%97%E5%B8%82/127911/",
+        "dishes": [
+          "酸菜炒飯"
+        ],
+        "award": 1
+    },
+    {
+        "city": "嘉義縣",
+        "district": "竹崎鄉",
+        "name": "石桌羊肉店",
+        "food_type": [
+            "台式"
+        ],
+        "address": "嘉義縣竹崎鄉中和村石棹21之39號",
+        "google_map": "https://maps.app.goo.gl/bM6oijU6BwvzL9Gr7",
+        "footinder": "https://footinder.com.tw/%E5%98%89%E7%BE%A9%E7%B8%A3%E7%AB%B9%E5%B4%8E%E9%84%89/128986/",
+        "dishes": [
+          "羊肉爐"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "BANKER Martini Bar (深夜銀行家牛排館)",
+        "food_type": [
+            "美式"
+        ],
+        "address": "台北市大安區安和路一段83號",
+        "google_map": "https://maps.app.goo.gl/e7tW5qM1HTNut3tU9",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/36448/",
+        "dishes": [
+          "豬肉三星蔥冰花煎餃"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "中山區",
+        "name": "時時香",
+        "food_type": [
+            "台式"
+        ],
+        "address": "分店眾多請自行搜尋",
+        "google_map": "https://www.google.com/maps/search/%E6%99%82%E6%99%82%E9%A6%99/@25.0630022,121.4293789,11.63z?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80/33920/",
+        "dishes": [
+          "阿婆紅燒肉"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "信義區",
+        "name": "雙城雙廚",
+        "food_type": [
+            "滬菜",
+            "中菜"
+        ],
+        "address": "台北市信義區嘉興街175巷2弄8號",
+        "google_map": "https://maps.app.goo.gl/43WJp92iomFfxDnr9",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80/362164/",
+        "dishes": [
+          "糟乳鴿"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "中山區",
+        "name": "十得私廚",
+        "food_type": [
+            "台式"
+        ],
+        "address": "台北市中山區中山北路二段185號2樓",
+        "google_map": "https://maps.app.goo.gl/mZtSoEDiC8dVomu86",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/7753/",
+        "dishes": [
+          "脆皮雞"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "侍燒肉",
+        "food_type": [
+            "日式"
+        ],
+        "address": "台北市大安區敦化南路一段177巷22號1樓",
+        "google_map": "https://maps.app.goo.gl/yVygpqd32E3QZw6Z7",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/362166/",
+        "dishes": [
+          "厚切牛舌"
+        ],
+        "award": 1
+    },
+    {
+        "city": "新北市",
+        "district": "瑞芳區",
+        "name": "食不厭",
+        "food_type": [
+            "台式"
+        ],
+        "address": "新北市瑞芳區金光路221號",
+        "google_map": "https://maps.app.goo.gl/1xW46FMmZCtLcNLu9",
+        "footinder": "https://footinder.com.tw/%E6%96%B0%E5%8C%97%E5%B8%82%E7%91%9E%E8%8A%B3%E5%8D%80/236/",
+        "dishes": [
+          "午魚一夜干"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "榮榮園浙寧餐廳",
+        "food_type": [
+            "江浙",
+            "中菜"
+        ],
+        "address": "台北市大安區信義路四段25號2樓",
+        "google_map": "https://maps.app.goo.gl/T9SL41jzPjr1FqoY7",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/8589/",
+        "dishes": [
+          "烤光餅與㸆排骨"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "嵩SUNG 台北大安",
+        "food_type": [
+            "法式",
+            "歐陸"
+        ],
+        "address": "台北市大安區延吉街131巷35號",
+        "google_map": "https://maps.app.goo.gl/JtKAYUYfMazEJDfn6",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/362168/",
+        "dishes": [
+          "法式黑松露油封鴨腿燉飯"
+        ],
+        "award": 1
+    },
+    {
+        "city": "新北市",
+        "district": "永和區",
+        "name": "三分俗氣",
+        "food_type": [
+            "江浙",
+            "中菜"
+        ],
+        "address": "新北市永和區國光路49巷8號",
+        "google_map": "https://maps.app.goo.gl/HGWEEUyJ9Z91zQtX7",
+        "footinder": "https://footinder.com.tw/%e6%96%b0%e5%8c%97%e5%b8%82%e6%b0%b8%e5%92%8c%e5%8d%80/12941/",
+        "dishes": [
+          "扁尖火筒雞湯"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "中山區",
+        "name": "阿正廚坊",
+        "food_type": [
+            "台式"
+        ],
+        "address": "台北市中山區建國北路三段80巷1號",
+        "google_map": "https://maps.app.goo.gl/tJp4JMz8Dd2HdYBDA",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/362170/",
+        "dishes": [
+          "嫩薑透抽"
+        ],
+        "award": 1
+    },
+    {
+        "city": "新北市",
+        "district": "平溪區",
+        "name": "阿真的店",
+        "food_type": [
+            "台式"
+        ],
+        "address": "新北市平溪區靜安路二段402號",
+        "google_map": "https://maps.app.goo.gl/caDd2F9jHdYa4BAQA",
+        "footinder": "https://footinder.com.tw/%E6%96%B0%E5%8C%97%E5%B8%82%E5%B9%B3%E6%BA%AA%E5%8D%80/109591/",
+        "dishes": [
+          "白斬雞"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "阿嬌海鮮料理",
+        "food_type": [
+            "台式"
+        ],
+        "address": "台北市大安區大安路二段19號",
+        "google_map": "https://maps.app.goo.gl/ywhRk8dwK9yjZ5n86",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/36286/",
+        "dishes": [
+          "酸菜蚵仔"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "鵝川(永久歇業)",
+        "food_type": [
+            "中菜"
+        ],
+        "address": "台北市大安區復興南路二段130號",
+        "google_map": "https://maps.app.goo.gl/ExqHYcyPiisCtcqGA",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/133635/",
+        "dishes": [
+          "老罈子酸菜魚"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "中正區",
+        "name": "一碗來TaiwanMama",
+        "food_type": [
+            "台式"
+        ],
+        "address": "台北市中正區八德路一段1號中4D, 華山1914文創園區內 中4D館",
+        "google_map": "https://maps.app.goo.gl/15uCH78kdASc39Vr8",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80/31499/",
+        "dishes": [
+          "手工白菜獅子頭飯"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "中山區",
+        "name": "養心茶樓 蔬食飲茶",
+        "food_type": [
+            "蔬食"
+        ],
+        "address": "台北市中山區松江路128號",
+        "google_map": "https://maps.app.goo.gl/sS2XTsmHyJmovFYS6",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/31832/",
+        "dishes": [
+          "蘿蔔絲酥餅"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "中山區",
+        "name": "味处初梅(初梅)",
+        "food_type": [
+            "日式"
+        ],
+        "address": "台北市中山區松江路362巷57號",
+        "google_map": "https://maps.app.goo.gl/nJpy35RZpYv7Fm2PA",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/362173/",
+        "dishes": [
+          "御節二段重"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "松山區",
+        "name": "萬客什鍋",
+        "food_type": [
+            "台式",
+            "火鍋"
+        ],
+        "address": "台北市松山區八德路四段217號",
+        "google_map": "https://maps.app.goo.gl/493rsYuS2B6ywguB8",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/76083/",
+        "dishes": [
+          "招牌麻油炸蛋"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "中山區",
+        "name": "吳留手串燒居酒屋",
+        "food_type": [
+            "日式"
+        ],
+        "address": "台北市中山區八德路二段312巷13號",
+        "google_map": "https://maps.app.goo.gl/WuN4qqhBQw9K5hX2A",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/32415/",
+        "dishes": [
+          "鹽烤雞膝軟骨"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "中正區",
+        "name": "巫雲",
+        "food_type": [
+            "台式"
+        ],
+        "address": "台北市中正區羅斯福路三段244巷9弄7號",
+        "google_map": "https://maps.app.goo.gl/k2GMed3M5cQ2YakJ6",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80/31356/",
+        "dishes": [
+          "酸辣薯泥"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "大同區",
+        "name": "丸隆生魚行",
+        "food_type": [
+            "日式"
+        ],
+        "address": "台北市大同區迪化街一段21號",
+        "google_map": "https://maps.app.goo.gl/QufstdKZ22jG2S2f8",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%90%8C%E5%8D%80/46579/",
+        "dishes": [
+          "味噌湯"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "中山區",
+        "name": "月夜岩 蟹懷石",
+        "food_type": [
+            "日式"
+        ],
+        "address": "台北市中山區雙城街25巷9號1樓",
+        "google_map": "https://maps.app.goo.gl/TCfbegMbxJroGo39A",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/46905/",
+        "dishes": [
+          "主鮮帝王蟹腳壽司"
+        ],
+        "award": 1
+    },
+    {
+        "city": "新竹縣",
+        "district": "竹北市",
+        "name": "鮨安",
+        "food_type": [
+            "日式"
+        ],
+        "address": "新竹縣竹北市嘉豐南路一段62號",
+        "google_map": "https://maps.app.goo.gl/LpRGLAPYyLjn7H4P9",
+        "footinder": "https://footinder.com.tw/%e6%96%b0%e7%ab%b9%e7%b8%a3%e7%ab%b9%e5%8c%97%e5%b8%82/362175/",
+        "dishes": [
+          "天草車蝦握壽司"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "圍爐酸菜白肉鍋",
+        "food_type": [
+            "中菜"
+        ],
+        "address": "台北市大安區仁愛路四段345巷4弄36號",
+        "google_map": "https://maps.app.goo.gl/ffMmmFf3H9qLu88u5",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/33199/",
+        "dishes": [
+          "酸菜白肉鍋"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "1976道地香港美食",
+        "food_type": [
+            "港式"
+        ],
+        "address": "台北市大安區敦化南路一段233巷11號",
+        "google_map": "https://maps.app.goo.gl/miga63o4jKNpqd9s6",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/36457/",
+        "dishes": [
+          "排骨撈麵"
+        ],
+        "award": 1
+    },
+    {
+        "city": "新竹縣",
+        "district": "峨眉鄉",
+        "name": "悅鄉田園",
+        "food_type": [
+            "台式"
+        ],
+        "address": "新竹縣峨眉鄉竹49鄉道",
+        "google_map": "https://maps.app.goo.gl/wD4hkeVqwrR5Yc8G9",
+        "footinder": "https://footinder.com.tw/%E6%96%B0%E7%AB%B9%E7%B8%A3%E5%B3%A8%E7%9C%89%E9%84%89/74805/",
+        "dishes": [
+          "客家小炒"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "中山區",
+        "name": "丸滿台灣味手路菜",
+        "food_type": [
+            "台式"
+        ],
+        "address": "台北市中山區林森北路353巷21號",
+        "google_map": "https://maps.app.goo.gl/gd2DtqDxpw61WrFe9",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/362177/",
+        "dishes": [
+          "鷄腰小卷三味丸米粉鍋"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台中市",
+        "district": "西屯區",
+        "name": "頂粵吉品",
+        "food_type": [
+            "中菜"
+        ],
+        "address": "台中市西屯區市政南一路288號",
+        "google_map": "https://maps.app.goo.gl/aWoTiE6UNYCZafFT6",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e4%b8%ad%e5%b8%82%e8%a5%bf%e5%b1%af%e5%8d%80/131520/",
+        "dishes": [
+          "香檸脆皮松阪叉燒"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台中市",
+        "district": "西區",
+        "name": "小樂沐 Le Coté LM",
+        "food_type": [
+            "法式"
+        ],
+        "address": "台中市西區存中街59號1樓",
+        "google_map": "https://maps.app.goo.gl/nxWL7XRFwTwVDoYu9",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e4%b8%ad%e5%b8%82%e8%a5%bf%e5%8d%80/153108/",
+        "dishes": [
+          "生蠔綠蘆筍"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台中市",
+        "district": "北屯區",
+        "name": "春日宴 粵菜喜宴",
+        "food_type": [
+            "粵式"
+        ],
+        "address": "台中市北屯區山西路三段133號",
+        "google_map": "https://maps.app.goo.gl/5s4Nhw19ZorRGRuv5",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8C%97%E5%B1%AF%E5%8D%80/141577/",
+        "dishes": [
+          "粵式招牌炒米粉"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台中市",
+        "district": "西區",
+        "name": "膳馨民間創作料理",
+        "food_type": [
+            "台式"
+        ],
+        "address": "台中市西區存中街21號",
+        "google_map": "https://maps.app.goo.gl/jUBML8ksNa74PSLi7",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E8%A5%BF%E5%8D%80/132086/",
+        "dishes": [
+          "芋頭海鮮米粉湯"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台中市",
+        "district": "西區",
+        "name": "燒肉本氣",
+        "food_type": [
+            "日式"
+        ],
+        "address": "台中市西區華美西街一段32號",
+        "google_map": "https://maps.app.goo.gl/swqnLgQ55Y29krv59",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E8%A5%BF%E5%8D%80/133066/",
+        "dishes": [
+          "蔥玉拌飯"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台中市",
+        "district": "西區",
+        "name": "俺達の肉屋 日本和牛燒肉店",
+        "food_type": [
+            "日式"
+        ],
+        "address": "台中市西區公益路194-1號",
+        "google_map": "https://maps.app.goo.gl/2vU3epw9iMbZYw27A",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E8%A5%BF%E5%8D%80/104680/",
+        "dishes": [
+          "牛舌"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台中市",
+        "district": "南屯區",
+        "name": "阿助鵝肉攤",
+        "food_type": [
+            "台式"
+        ],
+        "address": "台中市南屯區南屯路二段160號",
+        "google_map": "https://maps.app.goo.gl/nAfUVrftfQgQkKbF9",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8D%97%E5%B1%AF%E5%8D%80/134916/",
+        "dishes": [
+          "鹹水鵝肉"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台中市",
+        "district": "北屯區",
+        "name": "溫叨古早味料理餐廳",
+        "food_type": [
+            "台式"
+        ],
+        "address": "台中市北屯區太原路三段191號",
+        "google_map": "https://maps.app.goo.gl/XWQXxYkR2XsbjfHF6",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8C%97%E5%B1%AF%E5%8D%80/129434/",
+        "dishes": [
+          "古早味金瓜米粉"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台中市",
+        "district": "南屯區",
+        "name": "与玥樓頂級粵菜餐廳",
+        "food_type": [
+            "粵式"
+        ],
+        "address": "台中市南屯區公益路二段783號",
+        "google_map": "https://maps.app.goo.gl/o7Dtf5YD8hPruhQ26",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8D%97%E5%B1%AF%E5%8D%80/437/",
+        "dishes": [
+          "酸菜魚"
+        ],
+        "award": 1
+    },
+    {
+        "city": "雲林縣",
+        "district": "水林鄉",
+        "name": "蔦松客棧",
+        "food_type": [
+            "台式"
+        ],
+        "address": "雲林縣水林鄉蔦松路8號",
+        "google_map": "https://maps.app.goo.gl/gdbKHR1MNyWigvdTA",
+        "footinder": "https://footinder.com.tw/%E9%9B%B2%E6%9E%97%E7%B8%A3%E6%B0%B4%E6%9E%97%E9%84%89/2153/",
+        "dishes": [
+          "龍葵排骨粥"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台南市",
+        "district": "中西區",
+        "name": "麥謎食驗室 Bue mi.Lab",
+        "food_type": [
+            "台式"
+        ],
+        "address": "台南市中西區青年路90號1樓",
+        "google_map": "https://maps.app.goo.gl/b5UZWUiHozdvCAb29",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8d%97%e5%b8%82%e4%b8%ad%e8%a5%bf%e5%8d%80/362179/",
+        "dishes": [
+          "學甲無毒蝦·台.參巴醬·剝皮辣椒"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台南市",
+        "district": "安平區",
+        "name": "大員皇冠假日酒店彩豐樓",
+        "food_type": [
+            "粵式"
+        ],
+        "address": "台南市安平區州平路289號",
+        "google_map": "https://maps.app.goo.gl/YmoeSyP6sUku6K5R8",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E5%8D%80/414/",
+        "dishes": [
+          "燒拌黃魚麻婆豆腐"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台南市",
+        "district": "北區",
+        "name": "廣東汕頭沙茶爐",
+        "food_type": [
+            "粵式"
+        ],
+        "address": "台南市北區成功路422號",
+        "google_map": "https://maps.app.goo.gl/nWR7GicxoZzR6VbV8",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8D%97%E5%B8%82%E5%8C%97%E5%8D%80/102738/",
+        "dishes": [
+          "火鍋"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台南市",
+        "district": "中西區",
+        "name": "根串燒居酒屋",
+        "food_type": [
+            "日式"
+        ],
+        "address": "台南市中西區康樂街341號",
+        "google_map": "https://maps.app.goo.gl/TCYDsQMWYbjFYRYw5",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8D%97%E5%B8%82%E4%B8%AD%E8%A5%BF%E5%8D%80/104884/",
+        "dishes": [
+          "白蘿蔔漬"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台南市",
+        "district": "中西區",
+        "name": "曉璘燒烤",
+        "food_type": [
+            "台式"
+        ],
+        "address": "台南市中西區國華街三段203號",
+        "google_map": "https://maps.app.goo.gl/Ja6BqqAMwiyeLe9R8",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8D%97%E5%B8%82%E4%B8%AD%E8%A5%BF%E5%8D%80/103858/",
+        "dishes": [
+          "烤雞翅"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台南市",
+        "district": "中西區",
+        "name": "鄭牛肉湯",
+        "food_type": [
+            "台式"
+        ],
+        "address": "台南市中西區金華路四段47巷2號",
+        "google_map": "https://maps.app.goo.gl/krpFQFCS5LMkjk2s7",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8D%97%E5%B8%82%E4%B8%AD%E8%A5%BF%E5%8D%80/362181/",
+        "dishes": [
+          "炒牛腩"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台南市",
+        "district": "中西區",
+        "name": "知味",
+        "food_type": [
+            "台式"
+        ],
+        "address": "台南市中西區中成路28號",
+        "google_map": "https://maps.app.goo.gl/ELwckfTEgph4C6qBA",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8d%97%e5%b8%82%e4%b8%ad%e8%a5%bf%e5%8d%80/148680/",
+        "dishes": [
+          "爆炒豬肝"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台南市",
+        "district": "永康區",
+        "name": "阿元羊肉店",
+        "food_type": [
+            "台式"
+        ],
+        "address": "台南市永康區中華路659-3號",
+        "google_map": "https://maps.app.goo.gl/ZVBtyXhoC6z1xsw66",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8D%97%E5%B8%82%E6%B0%B8%E5%BA%B7%E5%8D%80/362183/",
+        "dishes": [
+          "阿元羊肉火鍋"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台南市",
+        "district": "安平區",
+        "name": "阿財牛肉湯安平二店",
+        "food_type": [
+            "台式"
+        ],
+        "address": "台南市安平區平豐路277號",
+        "google_map": "https://maps.app.goo.gl/GDzzJXH1NMsZfqsu8",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8d%97%e5%b8%82%e5%ae%89%e5%b9%b3%e5%8d%80/769/",
+        "dishes": [
+          "牛肉鍋"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台南市",
+        "district": "中西區",
+        "name": "竹海產",
+        "food_type": [
+            "台式"
+        ],
+        "address": "台南市中西區民族路二段252號",
+        "google_map": "https://maps.app.goo.gl/EZLMXTM3USe5RKqC8",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8D%97%E5%B8%82%E4%B8%AD%E8%A5%BF%E5%8D%80/161797/",
+        "dishes": [
+          "炒鱔魚意麵"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台南市",
+        "district": "中西區",
+        "name": "筑馨居",
+        "food_type": [
+            "台式"
+        ],
+        "address": "台南市中西區信義街69號",
+        "google_map": "https://maps.app.goo.gl/ToCGjxUwVjZhz1Jm8",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8D%97%E5%B8%82%E4%B8%AD%E8%A5%BF%E5%8D%80/1942/",
+        "dishes": [
+          "古早味虱目魚臍"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台南市",
+        "district": "安平區",
+        "name": "橄饗家西班牙嚴選美食餐廳",
+        "food_type": [
+            "西班牙"
+        ],
+        "address": "台南市安平區安北路590號590, Anbei Rd., Anping DistNo",
+        "google_map": "https://maps.app.goo.gl/jUG8e7pdfUuqXBqC6",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8d%97%e5%b8%82%e5%ae%89%e5%b9%b3%e5%8d%80/395/",
+        "dishes": [
+            "台南女婿的酒香甜蜜豬舌磚"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台南市",
+        "district": "仁德區",
+        "name": "阿裕牛肉涮涮鍋",
+        "food_type": [
+            "台式",
+            "火鍋"
+        ],
+        "address": "台南市仁德區崑崙路733-1號",
+        "google_map": "https://maps.app.goo.gl/1V9ipnkphHrWyAR89",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8d%97%e5%b8%82%e4%bb%81%e5%be%b7%e5%8d%80/10195/",
+        "dishes": [
+          "牛肉涮涮鍋"
+        ],
+        "award": 1
+    },
+    {
+        "city": "高雄市",
+        "district": "鼓山區",
+        "name": "美享地餐廳 MAJESTY RESTAURANT",
+        "food_type": [
+            "法式"
+        ],
+        "address": "高雄市鼓山區龍德新路222號11F",
+        "google_map": "https://maps.app.goo.gl/E2aM1CUDSaefPajV7",
+        "footinder": "https://footinder.com.tw/%E9%AB%98%E9%9B%84%E5%B8%82%E9%BC%93%E5%B1%B1%E5%8D%80/11685/",
+        "dishes": [
+          "M9和牛肋眼|山藥|薩丁尼亞珍珠麵"
+        ],
+        "award": 1
+    },
+    {
+        "city": "高雄市",
+        "district": "茄萣區",
+        "name": "華榮活海產",
+        "food_type": [
+            "台式"
+        ],
+        "address": "高雄市茄萣區大發路109號111號",
+        "google_map": "https://maps.app.goo.gl/ZH8Tz3smYccnt34o6",
+        "footinder": "https://footinder.com.tw/%E9%AB%98%E9%9B%84%E5%B8%82%E8%8C%84%E8%90%A3%E5%8D%80/1811/",
+        "dishes": [
+          "乾煎鮭魠魚"
+        ],
+        "award": 1
+    },
+    {
+        "city": "高雄市",
+        "district": "前鎮區",
+        "name": "雋GEN by Matt Chen",
+        "food_type": [
+            "粵式",
+            "中菜"
+        ],
+        "address": "高雄市前鎮區復興四路8號",
+        "google_map": "https://maps.app.goo.gl/NSswK2yNTwJaWgCM8",
+        "footinder": "https://footinder.com.tw/%e9%ab%98%e9%9b%84%e5%b8%82%e5%89%8d%e9%8e%ae%e5%8d%80/362185/",
+        "dishes": [
+          "陳年菜脯鮑魚扣花菇"
+        ],
+        "award": 1
+    },
+    {
+        "city": "高雄市",
+        "district": "新興區",
+        "name": "蟳之屋",
+        "food_type": [
+            "台式"
+        ],
+        "address": "高雄市新興區民生一路93號",
+        "google_map": "https://maps.app.goo.gl/zsgBQpGLMfF2K6548",
+        "footinder": "https://footinder.com.tw/%E9%AB%98%E9%9B%84%E5%B8%82%E6%96%B0%E8%88%88%E5%8D%80/11704/",
+        "dishes": [
+          "炸紅新娘"
+        ],
+        "award": 1
+    },
+    {
+        "city": "高雄市",
+        "district": "前鎮區",
+        "name": "承SHO",
+        "food_type": [
+            "日式"
+        ],
+        "address": "高雄市前鎮區中華五路806號",
+        "google_map": "https://maps.app.goo.gl/GLfyUq18FseQpTEc8",
+        "footinder": "https://footinder.com.tw/%E9%AB%98%E9%9B%84%E5%B8%82%E5%89%8D%E9%8E%AE%E5%8D%80/10883/",
+        "dishes": [
+          "揚物 富山灣 螢烏賊 油菜花 | 春雨 |胡麻"
+        ],
+        "award": 1
+    },
+    {
+        "city": "高雄市",
+        "district": "鹽埕區",
+        "name": "曾記廚房",
+        "food_type": [
+            "台式"
+        ],
+        "address": "高雄市鹽埕區新樂街162號",
+        "google_map": "https://maps.app.goo.gl/nvv7pnwK8xWDykiX6",
+        "footinder": "https://footinder.com.tw/%E9%AB%98%E9%9B%84%E5%B8%82%E9%B9%BD%E5%9F%95%E5%8D%80/10743/",
+        "dishes": [
+          "山藥奶豆腐"
+        ],
+        "award": 1
+    },
+    {
+        "city": "高雄市",
+        "district": "苓雅區",
+        "name": "三禾清豐 心臺菜",
+        "food_type": [
+            "台式"
+        ],
+        "address": "高雄市苓雅區江都街63號",
+        "google_map": "https://maps.app.goo.gl/98JNEdhDuCds1kbe9",
+        "footinder": "https://footinder.com.tw/%E9%AB%98%E9%9B%84%E5%B8%82%E8%8B%93%E9%9B%85%E5%8D%80/148611/",
+        "dishes": [
+          "原鄉三色土雞"
+        ],
+        "award": 1
+    },
+    {
+        "city": "高雄市",
+        "district": "前金區",
+        "name": "菜包李小吃部",
+        "food_type": [
+            "台式"
+        ],
+        "address": "高雄市前金區河南二路137號",
+        "google_map": "https://maps.app.goo.gl/x4hrDKPxqJAw7JT46",
+        "footinder": "https://footinder.com.tw/%e9%ab%98%e9%9b%84%e5%b8%82%e5%89%8d%e9%87%91%e5%8d%80/10914/",
+        "dishes": [
+          "鹽烤蛤蠣"
+        ],
+        "award": 1
+    },
+    {
+        "city": "高雄市",
+        "district": "鼓山區",
+        "name": "永心浮島YONSHIN FUDOPIA",
+        "food_type": [
+            "台式"
+        ],
+        "address": "高雄市鼓山區蓬萊路大港倉七庫6之6號",
+        "google_map": "https://maps.app.goo.gl/Gu2LcqCDvWyPcq328",
+        "footinder": "https://footinder.com.tw/%e9%ab%98%e9%9b%84%e5%b8%82%e9%bc%93%e5%b1%b1%e5%8d%80/362187/",
+        "dishes": [
+          "台式青醬牡蠣炒麵"
+        ],
+        "award": 1
+    },
+    {
+        "city": "高雄市",
+        "district": "新興區",
+        "name": "卡拉包泰式餐廳(永久歇業)",
+        "food_type": [
+            "台式"
+        ],
+        "address": "高雄市新興區中正三路54號",
+        "google_map": "https://maps.app.goo.gl/iiGoHinUDjNwHMAK9",
+        "footinder": "https://footinder.com.tw/%e9%ab%98%e9%9b%84%e5%b8%82%e6%96%b0%e8%88%88%e5%8d%80/11516/",
+        "dishes": [
+          "火燒島"
+        ],
+        "award": 1
+    },
+    {
+        "city": "屏東縣",
+        "district": "高樹鄉",
+        "name": "新真珍餐廳",
+        "food_type": [
+            "台式"
+        ],
+        "address": "屏東縣高樹鄉高樹村高華商場43號",
+        "google_map": "https://maps.app.goo.gl/G9Da6yk64ARqUmPC7",
+        "footinder": "https://footinder.com.tw/%E5%B1%8F%E6%9D%B1%E7%B8%A3%E9%AB%98%E6%A8%B9%E9%84%89/5581/",
+        "dishes": [
+          "招牌蘿蔔粄"
+        ],
+        "award": 1
+    },
+    {
+        "city": "屏東縣",
+        "district": "恆春鎮",
+        "name": "福爾摩沙農莊",
+        "food_type": [
+            "台式"
+        ],
+        "address": "屏東縣恆春鎮龍泉路65-36號",
+        "google_map": "https://maps.app.goo.gl/EpfRqv9hoBYyLj8a6",
+        "footinder": "https://footinder.com.tw/%E5%B1%8F%E6%9D%B1%E7%B8%A3%E6%81%86%E6%98%A5%E9%8E%AE/73712/",
+        "dishes": [
+          "雨來菇蘿蔔煎蛋"
+        ],
+        "award": 1
+    },
+    {
+        "city": "屏東縣",
+        "district": "萬巒鄉",
+        "name": "海鴻飯店",
+        "food_type": [
+            "台式"
+        ],
+        "address": "屏東縣萬巒鄉民和路16號",
+        "google_map": "https://maps.app.goo.gl/TxLCA4vi31KcUvas5",
+        "footinder": "https://footinder.com.tw/%E5%B1%8F%E6%9D%B1%E7%B8%A3%E8%90%AC%E5%B7%92%E9%84%89/2842/",
+        "dishes": [
+          "原味豬腳切盤"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台東縣",
+        "district": "關山鎮",
+        "name": "日出禾作",
+        "food_type": [
+            "台式"
+        ],
+        "address": "台東縣關山鎮",
+        "google_map": "https://maps.app.goo.gl/fcdGazZMM8UPkXPcA",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E6%9D%B1%E7%B8%A3%E9%97%9C%E5%B1%B1%E9%8E%AE/75186/",
+        "dishes": [
+          "炙燒SILAW飯糰"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台東縣",
+        "district": "台東市",
+        "name": "特選海產店",
+        "food_type": [
+            "台式"
+        ],
+        "address": "台東縣台東市松江路一段32號",
+        "google_map": "https://maps.app.goo.gl/mNZ21cmpXpzRBajz6",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E6%9D%B1%E7%B8%A3%E5%8F%B0%E6%9D%B1%E5%B8%82/84983/",
+        "dishes": [
+          "龍蝦麵線"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台東縣",
+        "district": "關山鎮",
+        "name": "宏昌客家菜",
+        "food_type": [
+            "台式"
+        ],
+        "address": "台東縣關山鎮6號",
+        "google_map": "https://maps.app.goo.gl/849MTramZnyJYS9w9",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E6%9D%B1%E7%B8%A3%E9%97%9C%E5%B1%B1%E9%8E%AE/75200/",
+        "dishes": [
+          "招牌燜雞"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台東縣",
+        "district": "長濱鄉",
+        "name": "邱爸爸海味",
+        "food_type": [
+            "台式"
+        ],
+        "address": "台東縣長濱鄉10之1號",
+        "google_map": "https://maps.app.goo.gl/ZUF3ousv9tSUXHyi8",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E6%9D%B1%E7%B8%A3%E9%95%B7%E6%BF%B1%E9%84%89/5699/",
+        "dishes": [
+          "當季海鮮"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台東縣",
+        "district": "池上鄉",
+        "name": "翠華小館 客家料理",
+        "food_type": [
+            "台式"
+        ],
+        "address": "台東縣池上鄉中山路237號",
+        "google_map": "https://maps.app.goo.gl/rY6rAEqsSkWJNnf28",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E6%9D%B1%E7%B8%A3%E6%B1%A0%E4%B8%8A%E9%84%89/77682/",
+        "dishes": [
+          "白斬雞"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台東縣",
+        "district": "台東市",
+        "name": "一品香海產",
+        "food_type": [
+            "台式"
+        ],
+        "address": "台東縣台東市福建路102號",
+        "google_map": "https://maps.app.goo.gl/T7jL3cCTU7cp8WQw8",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E6%9D%B1%E7%B8%A3%E5%8F%B0%E6%9D%B1%E5%B8%82/143457/",
+        "dishes": [
+          "旗魚排"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台東縣",
+        "district": "池上鄉",
+        "name": "王群翔慢食家宴",
+        "food_type": [
+            "台式"
+        ],
+        "address": "台東縣池上鄉號",
+        "google_map": "https://maps.app.goo.gl/JQAWDoGTA3m7ps3z9",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E6%9D%B1%E7%B8%A3%E6%B1%A0%E4%B8%8A%E9%84%89/75372/",
+        "dishes": [
+          "米飯三重奏"
+        ],
+        "award": 1
+    },
+    {
+        "city": "花蓮縣",
+        "district": "富里鄉",
+        "name": "邊界。花東",
+        "food_type": [
+            "台式"
+        ],
+        "address": "花蓮縣富里鄉車站街1號",
+        "google_map": "https://maps.app.goo.gl/Rbv7n1mMSiiFHMKc6",
+        "footinder": "",
+        "dishes": [
+          "陳媽媽梅干扣肉"
+        ],
+        "award": 1
+    },
+    {
+        "city": "花蓮縣",
+        "district": "吉安鄉",
+        "name": "牛巴達全牛專賣店",
+        "food_type": [
+            "台式"
+        ],
+        "address": "花蓮縣吉安鄉南海六街7號",
+        "google_map": "https://maps.app.goo.gl/rTFAz2Mgp1getme89",
+        "footinder": "https://footinder.com.tw/%E8%8A%B1%E8%93%AE%E7%B8%A3%E5%90%89%E5%AE%89%E9%84%89/9539/",
+        "dishes": [
+          "牛雜湯"
+        ],
+        "award": 1
+    },
+    {
+        "city": "花蓮縣",
+        "district": "花蓮市",
+        "name": "流流社風味餐",
+        "food_type": [
+            "台式"
+        ],
+        "address": "花蓮縣花蓮市府前路77號",
+        "google_map": "https://maps.app.goo.gl/W5dKRPt6q4JwbSa66",
+        "footinder": "https://footinder.com.tw/%E8%8A%B1%E8%93%AE%E7%B8%A3%E8%8A%B1%E8%93%AE%E5%B8%82/5790/",
+        "dishes": [
+          "綜合拼盤"
+        ],
+        "award": 1
+    },
+    {
+        "city": "花蓮縣",
+        "district": "光復鄉",
+        "name": "紅瓦屋老地方文化美食餐廳",
+        "food_type": [
+            "台式"
+        ],
+        "address": "花蓮縣光復鄉大全街62巷16號",
+        "google_map": "https://maps.app.goo.gl/B2RicZQH2vXwzmuf6",
+        "footinder": "https://footinder.com.tw/%E8%8A%B1%E8%93%AE%E7%B8%A3%E5%85%89%E5%BE%A9%E9%84%89/5714/",
+        "dishes": [
+          "石頭火鍋"
+        ],
+        "award": 1
+    },
+    {
+        "city": "花蓮縣",
+        "district": "花蓮市",
+        "name": "小廢柴 Little Sleepyhead",
+        "food_type": [
+            "義式"
+        ],
+        "address": "花蓮縣花蓮市明義街75號",
+        "google_map": "https://maps.app.goo.gl/LRviE7Yv9wkZ8kn27",
+        "footinder": "https://footinder.com.tw/%e8%8a%b1%e8%93%ae%e7%b8%a3%e8%8a%b1%e8%93%ae%e5%b8%82/154728/",
+        "dishes": [
+          "綜合炸海鮮"
+        ],
+        "award": 1
+    },
+    {
+        "city": "宜蘭縣",
+        "district": "蘇澳鎮",
+        "name": "朝陽社區客來香",
+        "food_type": [
+            "台式"
+        ],
+        "address": "宜蘭縣蘇澳鎮朝陽路38號",
+        "google_map": "https://maps.app.goo.gl/7Zg3KWCqfunq75Jb9",
+        "footinder": "https://footinder.com.tw/%E5%AE%9C%E8%98%AD%E7%B8%A3%E8%98%87%E6%BE%B3%E9%8E%AE/82495/",
+        "dishes": [
+          "白帶魚米粉湯"
+        ],
+        "award": 1
+    },
+    {
+        "city": "宜蘭縣",
+        "district": "宜蘭市",
+        "name": "蜀香四川鮮魚火鍋",
+        "food_type": [
+            "川菜",
+            "火鍋",
+            "中菜"
+        ],
+        "address": "宜蘭縣宜蘭市新興路117號",
+        "google_map": "https://maps.app.goo.gl/9Kd9zYXcBoYpLxRY8",
+        "footinder": "https://footinder.com.tw/%E5%AE%9C%E8%98%AD%E7%B8%A3%E5%AE%9C%E8%98%AD%E5%B8%82/102230/",
+        "dishes": [
+          "蜀香四川鮮魚火鍋"
+        ],
+        "award": 1
+    },
+    {
+        "city": "宜蘭縣",
+        "district": "五結鄉",
+        "name": "饗宴鐵板燒",
+        "food_type": [
+            "日式"
+        ],
+        "address": "宜蘭縣五結鄉溪濱路二段263號",
+        "google_map": "https://maps.app.goo.gl/mxHRndhciJrUaK3u5",
+        "footinder": "https://footinder.com.tw/%E5%AE%9C%E8%98%AD%E7%B8%A3%E4%BA%94%E7%B5%90%E9%84%89/1351/",
+        "dishes": [
+          "清蒸野生笛鯛"
+        ],
+        "award": 1
+    },
+    {
+        "city": "澎湖縣",
+        "district": "馬公市",
+        "name": "花菜干人文懷舊餐廳",
+        "food_type": [
+            "台式"
+        ],
+        "address": "澎湖縣馬公市新店路4之2號",
+        "google_map": "https://maps.app.goo.gl/2CtmbyhaTtodR4Wu7",
+        "footinder": "https://footinder.com.tw/%e6%be%8e%e6%b9%96%e7%b8%a3%e9%a6%ac%e5%85%ac%e5%b8%82/362189/",
+        "dishes": [
+          "原味花菜干"
+        ],
+        "award": 1
+    },
+    {
+        "city": "屏東縣",
+        "district": "霧台鄉",
+        "name": "AKAME",
+        "food_type": [
+            "台式"
+        ],
+        "address": "屏東縣霧台鄉古茶柏安街17巷8號",
+        "google_map": "https://maps.app.goo.gl/F9iMdggmfLCK1jog9",
+        "footinder": "https://footinder.com.tw/%E5%B1%8F%E6%9D%B1%E7%B8%A3%E9%9C%A7%E5%8F%B0%E9%84%89/198/",
+        "dishes": [
+          "烤野生紅蟳"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "AnticoForno 老烤箱義式披薩餐酒",
+        "food_type": [
+            "義式"
+        ],
+        "address": "台北市大安區瑞安街141號",
+        "google_map": "https://maps.app.goo.gl/15zvuB6LQFCeYGE89",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/32335/",
+        "dishes": [
+          "松露小姐 Pizza"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "中山區",
+        "name": "A CUT牛排館",
+        "food_type": [
+            "美式",
+            "牛排"
+        ],
+        "address": "台北市中山區遼寧街177號2樓",
+        "google_map": "https://maps.app.goo.gl/4gUzPGhf5zCV9BVr7",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/32439/",
+        "dishes": [
+          "老饕牛排(美國頂級肋眼蓋A CUT牛排)"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "A.B HOUSE義式私房料理",
+        "food_type": [
+            "義式"
+        ],
+        "address": "台北市大安區潮州街188號",
+        "google_map": "https://maps.app.goo.gl/eEy1HxtUtyUVLkCk7",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/35531/",
+        "dishes": [
+          "生火腿鑲烤全鴨"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "中山區",
+        "name": "AKIN 君尹",
+        "food_type": [
+            "法式"
+        ],
+        "address": "台北市中山區建國北路一段92巷8號",
+        "google_map": "https://maps.app.goo.gl/rEsG2E6YAG1oYkq78",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/362191/",
+        "dishes": [
+          "馬糞海膽、金桔、大葉"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台中市",
+        "district": "西屯區",
+        "name": "Atipic亞提法式餐廳",
+        "food_type": [
+            "法式"
+        ],
+        "address": "台中市西屯區重慶路141之3號",
+        "google_map": "https://maps.app.goo.gl/pmSzVe3f2WmQWPv17",
+        "footinder": "",
+        "dishes": [
+          "諾曼第之旅"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "信義區",
+        "name": "BURGER OUT",
+        "food_type": [
+            "美式"
+        ],
+        "address": "台北市信義區忠孝東路四段553巷22弄2號",
+        "google_map": "https://maps.app.goo.gl/ARbMSjrkXdAK9tds8",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80/36899/",
+        "dishes": [
+          "是拉差美乃滋炸雞漢堡"
+        ],
+        "award": 1
+    },
+    {
+        "city": "高雄市",
+        "district": "前鎮區",
+        "name": "BL.T33大廳酒吧_高雄洲際酒店",
+        "food_type": [
+            "中菜"
+        ],
+        "address": "高雄市前鎮區新光路33號1F",
+        "google_map": "https://maps.app.goo.gl/jHxeDSUQRiK9EQWh8",
+        "footinder": "https://footinder.com.tw/%E9%AB%98%E9%9B%84%E5%B8%82%E5%89%8D%E9%8E%AE%E5%8D%80/100833/",
+        "dishes": [
+          "BL.T33 起士堡"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "松山區",
+        "name": "Cantine Marais|瑪黑餐酒敦南店",
+        "food_type": [
+            "法式",
+            "歐陸"
+        ],
+        "address": "台北市松山區八德路三段8巷36號1F",
+        "google_map": "https://maps.app.goo.gl/TBUyiyoF8ZF3iFQq9",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/8652/",
+        "dishes": [
+          "青蒜魷魚起司燉飯"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "Chale Tacos Taipei 墨西哥餐廳",
+        "food_type": [
+            "墨西哥"
+        ],
+        "address": "台北市大安區敦化南路一段190巷16號",
+        "google_map": "https://maps.app.goo.gl/9bcBgnnj88q1Zrch7",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/362193/",
+        "dishes": [
+          "牛舌Lengua taco"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "信義區",
+        "name": "chateau zoe 酒窖餐廳(永久歇業)",
+        "food_type": [
+            "無國界"
+        ],
+        "address": "台北市信義區逸仙路32巷7號1樓",
+        "google_map": "https://maps.app.goo.gl/Hejkibae3ndWnC6U7",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80/9034/",
+        "dishes": [
+          "漬金棗/油封鴨腿/菠菜野米"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "中山區",
+        "name": "Circum-",
+        "food_type": [
+            "法式"
+        ],
+        "address": "台北市中山區中山北路二段39巷3號Regent Galleria B2麗晶精品 B2B2",
+        "google_map": "https://maps.app.goo.gl/6RSqBDYvjGMZRUK5A",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/362195/",
+        "dishes": [
+          "一抹紅"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台中市",
+        "district": "北區",
+        "name": "enPure瀞",
+        "food_type": [
+            "茶"
+        ],
+        "address": "台中市北區健行路86巷7弄33號",
+        "google_map": "https://maps.app.goo.gl/F53yewtrnYWDvkF3A",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e4%b8%ad%e5%b8%82%e5%8c%97%e5%8d%80/362197/",
+        "dishes": [
+          "墨西哥龍艾/百里香/羅勒/澎湖秋姑/蕃茄"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "中山區",
+        "name": "FRASSI",
+        "food_type": [
+            "義式"
+        ],
+        "address": "台北市中山區樂群三路299號1樓",
+        "google_map": "https://maps.app.goo.gl/5wvjyNiHCT7kRK4HA",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/50250/",
+        "dishes": [
+          "手工義式雞蛋麵、松露、帕瑪森起司"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台南市",
+        "district": "中西區",
+        "name": "Funkoo Bar - Mexican Cuisine & Bar",
+        "food_type": [
+            "墨西哥"
+        ],
+        "address": "台南市中西區海安路二段268號",
+        "google_map": "https://maps.app.goo.gl/zt1s9srVuV4sCLJr9",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8d%97%e5%b8%82%e4%b8%ad%e8%a5%bf%e5%8d%80/15153/",
+        "dishes": [
+          "安琪拉達捲"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "中山區",
+        "name": "Gras",
+        "food_type": [
+            "法式"
+        ],
+        "address": "台北市中山區民權西路56巷2號",
+        "google_map": "https://maps.app.goo.gl/d5x98wxgkscFv8iP9",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/46826/",
+        "dishes": [
+          "鵝頸拐杖手工腸"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "Hanekin 麵屋·羽金",
+        "food_type": [
+            "日式",
+            "拉麵"
+        ],
+        "address": "台北市大安區麗水街13巷2號",
+        "google_map": "https://maps.app.goo.gl/5y6oF1Co91zmf2we9",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/47096/",
+        "dishes": [
+          "烏骨雞白拉麵"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "大同區",
+        "name": "HUGH dessert dining",
+        "food_type": [
+            "甜點"
+        ],
+        "address": "台北市大同區重慶北路三段136巷56號",
+        "google_map": "https://maps.app.goo.gl/JpgyqtcGfw669PY4A",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%90%8c%e5%8d%80/130784/",
+        "dishes": [
+          "新鮮山藥、薑味壽喜燒醬汁、胡麻油冰淇淋"
+        ],
+        "award": 1
+    },
+    {
+        "city": "高雄市",
+        "district": "前鎮區",
+        "name": "HAWKER好客南洋餐廳",
+        "food_type": [
+            "南洋"
+        ],
+        "address": "高雄市前鎮區新光路33號2樓",
+        "google_map": "https://maps.app.goo.gl/ugmBrVcTndYarTiR7",
+        "footinder": "https://footinder.com.tw/%e9%ab%98%e9%9b%84%e5%b8%82%e5%89%8d%e9%8e%ae%e5%8d%80/362199/",
+        "dishes": [
+          "印度抓餅"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "松山區",
+        "name": "INITA",
+        "food_type": [
+            "義式"
+        ],
+        "address": "台北市松山區八德路三段12巷52弄1號1樓",
+        "google_map": "https://maps.app.goo.gl/8bz9dofa92E5vAxx6",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e6%9d%be%e5%b1%b1%e5%8d%80/47659/",
+        "dishes": [
+          "ROSSO E BIANCO 融合燉飯 RisoMi | San Marzano | Almond Milk | 花蓮26號米|聖馬薩諾番茄|杏仁奶(無菜單)"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "松山區",
+        "name": "JUJU Spanish Gastrobar",
+        "food_type": [
+            "西班牙"
+        ],
+        "address": "台北市松山區八德路三段8巷31號",
+        "google_map": "https://maps.app.goo.gl/rdcvPjKvD4dJCcScA",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e6%9d%be%e5%b1%b1%e5%8d%80/33026/",
+        "dishes": [
+          "豬八戒"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "信義區",
+        "name": "JOYCE EAST",
+        "food_type": [
+            "法式",
+            "義式"
+        ],
+        "address": "台北市信義區信義路五段128號1樓",
+        "google_map": "https://maps.app.goo.gl/wBjgUWuAzf3j2i937",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80/9209/",
+        "dishes": [
+          "伊比利豬排"
+        ],
+        "award": 1
+    },
+    {
+        "city": "花蓮縣",
+        "district": "花蓮市",
+        "name": "fūjō restaurant",
+        "food_type": [
+            "歐陸"
+        ],
+        "address": "花蓮縣花蓮市中正路618巷1號",
+        "google_map": "https://maps.app.goo.gl/joFicN7QgNBcV7fr7",
+        "footinder": "https://footinder.com.tw/%e8%8a%b1%e8%93%ae%e7%b8%a3%e8%8a%b1%e8%93%ae%e5%b8%82/362201/",
+        "dishes": [
+          "桌前石鍋烤麵包"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "信義區",
+        "name": "KIKI 餐廳",
+        "food_type": [
+            "川菜",
+            "中菜"
+        ],
+        "address": "台北市信義區松壽路12號6樓",
+        "google_map": "https://maps.app.goo.gl/DWxEhsPUyfCoVVCv5",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%bf%a1%e7%be%a9%e5%8d%80/362203/",
+        "dishes": [
+          "老皮嫩肉"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "內湖區",
+        "name": "Logy",
+        "food_type": [
+            "日式"
+        ],
+        "address": "台北市內湖區瑞光路258巷39號1F",
+        "google_map": "https://maps.app.goo.gl/beknCxr26CaGJ4sP6",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%85%a7%e6%b9%96%e5%8d%80/13177/",
+        "dishes": [
+          "山當歸蟹肉茶碗蒸"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "La Piola Cucina Italiana",
+        "food_type": [
+            "義式"
+        ],
+        "address": "台北市大安區光復南路308巷45號",
+        "google_map": "https://maps.app.goo.gl/J561qRqSFbJb5J3r9",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/158063/",
+        "dishes": [
+          "手工寬麵佐波隆尼肉醬"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "信義區",
+        "name": "Le Duet Modern Kaiseki 演蒔光",
+        "food_type": [
+            "日式"
+        ],
+        "address": "台北市信義區忠孝東路四段553巷16弄9號",
+        "google_map": "https://maps.app.goo.gl/5FTBHZkZj9UgLRas6",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%bf%a1%e7%be%a9%e5%8d%80/105331/",
+        "dishes": [
+          "龍膽石斑 茗荷 山當歸"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "信義區",
+        "name": "L'ATELIER de Joel Robuchon 侯布雄法式餐廳",
+        "food_type": [
+            "法式"
+        ],
+        "address": "台北市信義區松仁路28號5樓",
+        "google_map": "https://maps.app.goo.gl/FskDgajijNvH1QHW8",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%bf%a1%e7%be%a9%e5%8d%80/9247/",
+        "dishes": [
+          "Le Kampachi 青魽魚與酪梨韃靼佐薑黃芥末醬"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "Torishou鳥翔",
+        "food_type": [
+            "日式",
+            "串燒"
+        ],
+        "address": "台北市大安區濟南路三段41號一樓",
+        "google_map": "https://maps.app.goo.gl/u3LHH4rKH9QfidJr5",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/35703/",
+        "dishes": [
+          "雞脖子串燒"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "中山區",
+        "name": "le beaujour 芃卓法式餐廳",
+        "food_type": [
+            "法式"
+        ],
+        "address": "台北市中山區南京東路二段118號",
+        "google_map": "https://maps.app.goo.gl/NUzFiMe4YMDtiLNT7",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/153100/",
+        "dishes": [
+          "松露烤雞"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台中市",
+        "district": "太平區",
+        "name": "L' atelier par Yao",
+        "food_type": [
+            "法式"
+        ],
+        "address": "台中市太平區新福十六街68號2樓",
+        "google_map": "https://maps.app.goo.gl/XrD3Di6Z9HSjf1dX7",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%A4%AA%E5%B9%B3%E5%8D%80/141568/",
+        "dishes": [
+          "黑糖|甘酒|櫻花"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "L' AGE 熟成餐廳",
+        "food_type": [
+            "義式"
+        ],
+        "address": "台北市大安區仁愛路三段143巷25號",
+        "google_map": "https://maps.app.goo.gl/ZhCnCVbN1TZ6fCmCA",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/255/",
+        "dishes": [
+          "炸豬尾與洋蔥圈"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "松山區",
+        "name": "LilyCoco莉莉可可",
+        "food_type": [
+            "義式"
+        ],
+        "address": "台北市松山區八德路二段346巷7弄42號1樓",
+        "google_map": "https://maps.app.goo.gl/egoiDZLq7RqLo72BA",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e6%9d%be%e5%b1%b1%e5%8d%80/362205/",
+        "dishes": [
+          "小牛胸腺 爆米香 肉汁"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "MUME",
+        "food_type": [
+            "義式"
+        ],
+        "address": "台北市大安區四維路28號",
+        "google_map": "https://maps.app.goo.gl/myMWsXLGzsnPhVSC8",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/248/",
+        "dishes": [
+          "龍蝦餅"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "中山區",
+        "name": "Molino de Urdániz Taipei 渥達尼斯磨坊",
+        "food_type": [
+            "西班牙",
+            "法式"
+        ],
+        "address": "台北市中山區建國北路一段61號GF",
+        "google_map": "https://maps.app.goo.gl/y8gUN5w6RCVbN4kKA",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/32099/",
+        "dishes": [
+          "Molino後院"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "中山區",
+        "name": "Mark's Teppanyaki 台北萬豪酒店",
+        "food_type": [
+            "台式"
+        ],
+        "address": "台北市中山區樂群二路199號2樓",
+        "google_map": "https://maps.app.goo.gl/YcyxMsJWo8mdDjKF8",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/8940/",
+        "dishes": [
+          "美國頂級沙朗牛肉捲,生蠔"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台南市",
+        "district": "北區",
+        "name": "MO. Lab",
+        "food_type": [
+            "義式"
+        ],
+        "address": "台南市北區崇安街30號",
+        "google_map": "https://maps.app.goo.gl/RhN1wATgAxmJVW2y9",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8d%97%e5%b8%82%e5%8c%97%e5%8d%80/2260/",
+        "dishes": [
+          "手作Tortellini"
+        ],
+        "award": 1
+    },
+    {
+        "city": "高雄市",
+        "district": "鼓山區",
+        "name": "NIBBON",
+        "food_type": [
+            "法式"
+        ],
+        "address": "高雄市鼓山區龍水二路9號",
+        "google_map": "https://maps.app.goo.gl/39GVz1s12z3z2vvFA",
+        "footinder": "https://footinder.com.tw/%E9%AB%98%E9%9B%84%E5%B8%82%E9%BC%93%E5%B1%B1%E5%8D%80/10595/",
+        "dishes": [
+          "伊比利豬里肌"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "PIZZAROUND 比薩斜躺",
+        "food_type": [
+            "義式"
+        ],
+        "address": "台北市大安區延吉街239號",
+        "google_map": "https://maps.app.goo.gl/kAaMD9aKycnYhfZ37",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/362207/",
+        "dishes": [
+          "布拉塔起司披薩"
+        ],
+        "award": 1
+    },
+    {
+        "city": "新竹縣",
+        "district": "竹北市",
+        "name": "Piccola Enoteca 彼刻義式餐酒館",
+        "food_type": [
+            "義式"
+        ],
+        "address": "新竹縣竹北市成功二街102號",
+        "google_map": "https://maps.app.goo.gl/L1m4HeEY3kjTJ5cR8",
+        "footinder": "https://footinder.com.tw/%E6%96%B0%E7%AB%B9%E7%B8%A3%E7%AB%B9%E5%8C%97%E5%B8%82/158621/",
+        "dishes": [
+          "橄欖油冰淇淋"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "南港區",
+        "name": "PASTi",
+        "food_type": [
+            "義式"
+        ],
+        "address": "台北市南港區中南街30號",
+        "google_map": "https://maps.app.goo.gl/dU6bjfgAEvZipXSN7",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%8D%97%E6%B8%AF%E5%8D%80/9829/",
+        "dishes": [
+          "Saltimgambero"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台中市",
+        "district": "南屯區",
+        "name": "PINOCOCO 皮諾可可",
+        "food_type": [
+            "義式"
+        ],
+        "address": "台中市南屯區益豐路四段689號",
+        "google_map": "https://maps.app.goo.gl/JZmMU3Zv4UZnikZVA",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8D%97%E5%B1%AF%E5%8D%80/644/",
+        "dishes": [
+          "馬世卡邦起士櫛瓜比薩"
+        ],
+        "award": 1
+    },
+    {
+        "city": "高雄市",
+        "district": "三民區",
+        "name": "Pasadena 帕莎蒂娜法式餐廳",
+        "food_type": [
+            "法式",
+            "義式"
+        ],
+        "address": "高雄市三民區明哲路35號",
+        "google_map": "https://maps.app.goo.gl/R19oqpk4qCxGFe4A8",
+        "footinder": "https://footinder.com.tw/%E9%AB%98%E9%9B%84%E5%B8%82%E9%BC%93%E5%B1%B1%E5%8D%80/10658/",
+        "dishes": [
+          "法式牛肉麵"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "中山區",
+        "name": "ROBIN'S 鐵板燒 TEPPANYAKI",
+        "food_type": [
+            "台式"
+        ],
+        "address": "台北市中山區中山北路二段39巷3號2樓",
+        "google_map": "https://maps.app.goo.gl/3FzsW8bTLDFBvoqL8",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/52597/",
+        "dishes": [
+          "西班牙伊比利豚上蓋肉"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "松山區",
+        "name": "SENS",
+        "food_type": [
+            "法式"
+        ],
+        "address": "台北市松山區民生東路三段127巷12號",
+        "google_map": "https://maps.app.goo.gl/ReDet4HDQGdy7TgA6",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/47921/",
+        "dishes": [
+          "熟成乳鴿/鴨肝"
+        ],
+        "award": 1
+    },
+    {
+        "city": "宜蘭縣",
+        "district": "宜蘭市",
+        "name": "Slobber囍伯美式餐廳",
+        "food_type": [
+            "美式"
+        ],
+        "address": "宜蘭縣宜蘭市舊城東路40號",
+        "google_map": "https://maps.app.goo.gl/dtbDKcZzkKSFfLGy7",
+        "footinder": "https://footinder.com.tw/%E5%AE%9C%E8%98%AD%E7%B8%A3%E5%AE%9C%E8%98%AD%E5%B8%82/1044/",
+        "dishes": [
+          "chili burger"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台東縣",
+        "district": "長濱鄉",
+        "name": "Sinasera 24(永久歇業)",
+        "food_type": [
+            "法式"
+        ],
+        "address": "台東縣長濱鄉",
+        "google_map": "https://maps.app.goo.gl/xv6yQbSDcU37Jksz9",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E6%9D%B1%E7%B8%A3%E9%95%B7%E6%BF%B1%E9%84%89/5698/",
+        "dishes": [
+          "廣藿香 玉里蓮貞豬 筆柿"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "中山區",
+        "name": "Tairroir 態芮",
+        "food_type": [
+            "法式"
+        ],
+        "address": "台北市中山區樂群三路299號6樓",
+        "google_map": "https://maps.app.goo.gl/3WsCXWuUgrGpj4HR8",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/13201/",
+        "dishes": [
+          "栗子南瓜濃湯"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "中山區",
+        "name": "The Flow",
+        "food_type": [
+            "無國界"
+        ],
+        "address": "台北市中山區中山北路一段49號",
+        "google_map": "https://maps.app.goo.gl/Reo93jqnnoYqoS5b7",
+        "footinder": "",
+        "dishes": [
+          "美國特級冷藏肋眼12oz/油封蒜頭"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台南市",
+        "district": "中西區",
+        "name": "THINKPIZZA",
+        "food_type": [
+            "義式",
+            "PIZZA"
+        ],
+        "address": "台南市中西區西和路289號",
+        "google_map": "https://maps.app.goo.gl/Vo4B4UvvrWBz3qkU9",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8D%97%E5%B8%82%E4%B8%AD%E8%A5%BF%E5%8D%80/1943/",
+        "dishes": [
+          "美式臘腸"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台中市",
+        "district": "北屯區",
+        "name": "TROIS三ー",
+        "food_type": [
+            "法式"
+        ],
+        "address": "台中市北屯區崇德一路53號",
+        "google_map": "https://maps.app.goo.gl/XUqYEvHq18tRNAh27",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8C%97%E5%B1%AF%E5%8D%80/153117/",
+        "dishes": [
+          "菊芋/煙燻起司/山火腿/榛果"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台南市",
+        "district": "中西區",
+        "name": "Wom salone",
+        "food_type": [
+            "法式"
+        ],
+        "address": "台南市中西區中華西路二段12巷30號",
+        "google_map": "https://maps.app.goo.gl/qAL7ECucSyBwGb9z7",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8D%97%E5%B8%82%E4%B8%AD%E8%A5%BF%E5%8D%80/99006/",
+        "dishes": [
+          "法式紅酒牛肉"
+        ],
+        "award": 1
+    },
+    {
+        "city": "高雄市",
+        "district": "鹽埕區",
+        "name": "Хата(HATA烏克蘭廚房)",
+        "food_type": [
+            "烏克蘭"
+        ],
+        "address": "高雄市鹽埕區五福四路150號",
+        "google_map": "https://maps.app.goo.gl/UTnWL4bsAt8mjfa29",
+        "footinder": "",
+        "dishes": [
+          "薩洛·烏克蘭醃豬油"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "中山區",
+        "name": "YORUよる_by Dennis Wang",
+        "food_type": [
+            "日式"
+        ],
+        "address": "台北市中山區八德路二段332巷16號",
+        "google_map": "https://maps.app.goo.gl/WUZiauA7RPJ6QgkXA",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/105324/",
+        "dishes": [
+          "Yoru限量牛舌定食"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "大安區",
+        "name": "Zea",
+        "food_type": [
+            "拉丁美洲"
+        ],
+        "address": "台北市大安區仁愛路四段300巷20弄5號",
+        "google_map": "https://maps.app.goo.gl/ScwFcevKTtKBrx2S6",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/176069/",
+        "dishes": [
+          "Ceviche 龜山島胭脂蝦/Perseus Oscietra魚子醬/燈籠果"
+        ],
+        "award": 1
+    },
+    {
+        "city": "台北市",
+        "district": "信義區",
+        "name": "Zaaptaipei",
+        "food_type": [
+            "泰式"
+        ],
+        "address": "110台北市信義區吳興街345巷6號",
+        "google_map": "https://maps.app.goo.gl/wDBuepocW8tyz51E9",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%bf%a1%e7%be%a9%e5%8d%80/168894/",
+        "dishes": [
+          "香料炸雞翅"
+        ]
+    },
+    {
+        "city": "台北市",
+        "district": "中山區",
+        "name": "8號極品海鮮餐廳",
+        "food_type": [
+            "台式"
+        ],
+        "address": "台北市中山區一江街8號",
+        "google_map": "https://maps.app.goo.gl/7HosD4zrGgPbV7oG7",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/8184/",
+        "dishes": [
+          "白灼沙蝦"
+        ]
     }
 ]
