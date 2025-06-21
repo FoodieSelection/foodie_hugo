@@ -10,6 +10,6 @@ custom_css: "/css/events/dishes500/dishes.css"
 type: "dishes500"
 layout: "dishes"
 datePublished: "2025-06-15"
-dateModified: "2025-06-15"
+dateModified: "2025-06-20"
 year: "y2024"
 ---

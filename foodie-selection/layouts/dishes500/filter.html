@@ -1,0 +1,150 @@
+{{ define "ldjson" }}
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": "{{ .Title }}",
+      "description": "{{ .Params.description }}",
+      "url": "{{ .Permalink }}",
+      "image": "{{ .Site.BaseURL }}{{ .Site.Params.logo }}",
+          "inLanguage": "zh-Hant",
+          "datePublished": "{{ .Params.datePublished }}",
+          "dateModified": "{{ .Params.dateModified }}",
+          "publisher": {
+            "@type": "Organization",
+            "name": "{{ .Site.Title }}",
+            "url": "{{ .Site.BaseURL }}",
+            "logo": {
+            "@type": "ImageObject",
+            "url": "{{ .Site.BaseURL }}{{ .Site.Params.logo }}"
+            }
+          },
+      "isPartOf": {
+        "@type": "CollectionPage",
+        "name": "{{ .Parent.Title }}",
+        "url": "{{ .Parent.Permalink }}"
+      },
+      "mainEntity": {
+        "@type": "ItemList",
+        "name": "{{ .Title }}",
+        "itemListElement": [
+        {{ $year := .Params.year }}
+        {{ $restaurant := index .Site.Data.dishes500 $year }}
+        {{ $city := .Params.city }}
+        {{ $district := .Params.district | default "" }}
+        {{ $filtered := where $restaurant "city" $city }}
+        {{ if $district }}
+        {{ $filtered = where $filtered "district" $district }}
+        {{ end }}
+        {{ range $i, $restaurant := $filtered }}
+        {{ if $i }},{{ end }}
+        {
+          "@type": "ListItem",
+          "position": {{ add $i 1 }},
+          "item": {
+            "@type": "Restaurant",
+            "name": "{{ $restaurant.name }}",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "{{ $restaurant.address }}"
+            },
+            "sameAs": [
+              "{{ $restaurant.google_map }}"
+              {{ if $restaurant.footinder }}, "{{ $restaurant.footinder }}"{{ end }}
+            ],
+            "hasMenu": {
+              "@type": "Menu",
+              "name": "得獎菜單",
+              "hasMenuSection": [
+                {
+                  "@type": "MenuSection",
+                  "name": "500盤得獎菜色",
+                  "hasMenuItem": [
+                    {{ range $j, $dish := $restaurant.dishes }}
+                      {{ if $j }},{{ end }}
+                      {
+                        "@type": "MenuItem",
+                        "name": "{{ $dish }}"
+                      }
+                    {{ end }}
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      {{ end }}
+        ]
+      }
+    }
+  </script>
+{{ end }}
+
+{{ define "main" }}
+<header>
+  <a class="header-btn" href="{{ .Site.BaseURL }}">
+    <img src="{{ .Site.BaseURL }}{{ .Site.Params.logo }}" alt="回首頁">
+  </a>
+  <div class="header-title">{{ .Title }}</div>
+  <div class="header-btn-placeholder"></div>
+</header>
+<main>
+  <section class="restaurant-list">
+    {{ $year := .Params.year }}
+    {{ $restaurant := index .Site.Data.dishes500 $year }}
+    {{ $city := .Params.city }}
+    {{ $district := .Params.district | default "" }}
+    {{ $filtered := where $restaurant "city" $city }}
+    {{ if $district }}
+    {{ $filtered = where $filtered "district" $district }}
+    {{ end }}
+
+    {{ range $filtered }}
+    <div class="restaurant">
+      <div class="restaurant-info" tabindex="0">
+        <div class="info-row1">
+          <span class="name-text">{{ .name }}</span>
+        </div>
+        <div class="info-row2">
+          {{ .address }}
+        </div>
+        <div class="info-row3">
+          <a class="info-btn" href="{{ .google_map }}" target="_blank" rel="noopener">Google
+            Map</a>
+          {{ if .footinder }}
+          <a class="info-btn" href="{{ .footinder }}" target="_blank" rel="noopener">Footinder</a>
+          {{ end }}
+          <span class="dropdown-icon" aria-hidden="true">
+            <svg width="22" height="22" viewBox="0 0 22 22">
+              <polyline points="6,9 11,14 16,9" fill="none" stroke="#d66616" stroke-width="2" stroke-linecap="round"
+                stroke-linejoin="round" />
+            </svg>
+          </span>
+        </div>
+      </div>
+      <ul class="menu-list">
+        {{ range .dishes }}
+        <li>{{ . }}</li>
+        {{ end }}
+      </ul>
+    </div>
+    {{ end }}
+  </section>
+</main>
+
+<script>
+  document.querySelectorAll('.restaurant-info').forEach(function (info) {
+    info.addEventListener('click', function () {
+      var parent = info.closest('.restaurant');
+      parent.classList.toggle('open');
+    });
+    info.addEventListener('keydown', function (e) {
+      if (e.key === 'Enter' || e.key === ' ') {
+        e.preventDefault();
+        var parent = info.closest('.restaurant');
+        parent.classList.toggle('open');
+      }
+    });
+  });
+</script>
+{{ end }}
