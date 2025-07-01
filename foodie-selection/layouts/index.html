@@ -258,40 +258,88 @@
     });
   });
 
-  // ===== 以下為動態讀取 city_districts.json 並產生城市與行政區選單 =====
-  // 讀取 city_districts.json
-  fetch('/data/city_districts.json')
-    .then(response => response.json())
-    .then(data => {
-      // 從Hugo模板獲取初始值 - 只定義一次
-      const initialCity = "{{ .Params.city | default "" }}";
-      const initialDistrict = "{{ .Params.district | default "" }}";
+  // ===== 同步載入兩份 JSON =====
+  Promise.all([
+    fetch('/data/city_districts.json').then(r => r.json()),
+    fetch('/data/city_awards.json').then(r => r.json())
+  ]).then(([districtData, awardData]) => {
+    // 從Hugo模板獲取初始值 - 只定義一次
+    const initialCity = "{{ .Params.city | default "" }}";
+    const initialDistrict = "{{ .Params.district | default "" }}";
+    const initialAward = "{{ .Params.award | default "" }}";
 
-      // 取得所需的DOM元素
-      const regionDropdown = document.querySelector('.select-dropdown[data-target="region"]');
-      const regionButton = document.querySelector('.select-button[data-target="region"]');
-      const districtButton = document.querySelector('.select-button[data-target="district"]');
-      const districtDropdown = document.querySelector('.select-dropdown[data-target="district"]');
+    // 取得所需的DOM元素
+    const regionDropdown = document.querySelector('.select-dropdown[data-target="region"]');
+    const regionButton = document.querySelector('.select-button[data-target="region"]');
+    const districtButton = document.querySelector('.select-button[data-target="district"]');
+    const districtDropdown = document.querySelector('.select-dropdown[data-target="district"]');
+    const awardButton = document.querySelector('.select-button[data-target="award"]');
+    const awardDropdown = document.querySelector('.select-dropdown[data-target="award"]');
 
-      // 1. 首先填充城市選項
-      data.forEach(item => {
-        const option = document.createElement('div');
-        option.className = 'option';
-        option.dataset.value = item.city;
-        option.textContent = item.city;
-        regionDropdown.appendChild(option);
-      });
+    // 1. 首先填充城市選項
+    districtData.forEach(item => {
+      const option = document.createElement('div');
+      option.className = 'option';
+      option.dataset.value = item.city;
+      option.textContent = item.city;
+      regionDropdown.appendChild(option);
+    });
 
-      // 2. 設定城市初始值
-      if (initialCity) {
-        regionButton.textContent = initialCity;
+    // 2. 設定城市初始值
+    if (initialCity) {
+      regionButton.textContent = initialCity;
+    }
+
+    // 3. 根據初始城市填充行政區選項與獎項選項
+    if (initialCity) {
+      const cityData = districtData.find(item => item.city === initialCity);
+      if (cityData) {
+        districtDropdown.innerHTML = ''; // 清空現有選項
+        cityData.district.forEach(district => {
+          const option = document.createElement('div');
+          option.className = 'option';
+          option.dataset.value = district;
+          option.textContent = district;
+          districtDropdown.appendChild(option);
+        });
+
+        // 設定行政區初始值
+        if (initialDistrict) {
+          districtButton.textContent = initialDistrict;
+        }
       }
 
-      // 3. 根據初始城市填充行政區選項
-      if (initialCity) {
-        const cityData = data.find(item => item.city === initialCity);
+      const awardCityData = awardData.find(item => item.city === initialCity);
+      if (awardCityData) {
+        awardDropdown.innerHTML = ''; // 清空現有選項
+        awardCityData.awards.forEach(award => {
+          const option = document.createElement('div');
+          option.className = 'option';
+          option.dataset.value = award;
+          option.textContent = award;
+          awardDropdown.appendChild(option);
+        });
+
+        // 設定獎項初始值
+        if (initialAward) {
+          awardButton.textContent = initialAward;
+        }
+      }
+    }
+
+    // 4. 城市選單點擊事件
+    regionDropdown.addEventListener('click', function (e) {
+      if (e.target.classList.contains('option')) {
+        regionButton.textContent = e.target.textContent;
+        regionDropdown.style.display = 'none';
+
+        // 重設行政區為預設值
+        districtButton.textContent = '所有行政區';
+        districtDropdown.innerHTML = '';
+
+        // 填充新城市的行政區選項
+        const cityData = districtData.find(item => item.city === e.target.textContent);
         if (cityData) {
-          districtDropdown.innerHTML = ''; // 清空現有選項
           cityData.district.forEach(district => {
             const option = document.createElement('div');
             option.className = 'option';
@@ -299,115 +347,39 @@
             option.textContent = district;
             districtDropdown.appendChild(option);
           });
-
-          // 4. 設定行政區初始值
-          if (initialDistrict) {
-            districtButton.textContent = initialDistrict;
-          }
         }
-      }
 
-      // 5. 城市選單點擊事件
-      regionDropdown.addEventListener('click', function (e) {
-        if (e.target.classList.contains('option')) {
-          regionButton.textContent = e.target.textContent;
-          regionDropdown.style.display = 'none';
-
-          // 重設行政區為預設值
-          districtButton.textContent = '所有行政區';
-          districtDropdown.innerHTML = '';
-
-          // 填充新城市的行政區選項
-          const cityData = data.find(item => item.city === e.target.textContent);
-          if (cityData) {
-            cityData.district.forEach(district => {
-              const option = document.createElement('div');
-              option.className = 'option';
-              option.dataset.value = district;
-              option.textContent = district;
-              districtDropdown.appendChild(option);
-            });
-          }
-        }
-      });
-
-      // 6. 行政區選單點擊事件
-      districtDropdown.addEventListener('click', function (e) {
-        if (e.target.classList.contains('option')) {
-          districtButton.textContent = e.target.textContent;
-          this.style.display = 'none';
-        }
-      });
-    })
-    .catch(error => console.error('讀取 JSON 失敗:', error));
-
-  // ===== 獎項類型與料理類型選單的 option 點擊事件 =====
-  // 獎項類型
-  // 讀取 city_awards.json
-  let cityAwardsData = [];
-  fetch('/data/city_awards.json')
-    .then(response => response.json())
-    .then(data => {
-      const initialCity = "{{ .Params.city | default "" }}";
-      const initialAward = "{{ .Params.award | default "" }}";
-
-      // 取得所需的DOM元素
-      const awardButton = document.querySelector('.select-button[data-target="award"]');
-      const awardDropdown = document.querySelector('.select-dropdown[data-target="award"]');
-
-      // 根據初始城市填充獎項選項
-      if (initialCity) {
-        const cityData = data.find(item => item.city === initialCity);
-        if (cityData) {
+        // 填充新城市的獎項選項
+        const awardCityData = awardData.find(item => item.city === e.target.textContent);
+        if (awardCityData) {
           awardDropdown.innerHTML = ''; // 清空現有選項
-          cityData.awards.forEach(award => {
+          awardCityData.awards.forEach(award => {
             const option = document.createElement('div');
             option.className = 'option';
             option.dataset.value = award;
             option.textContent = award;
             awardDropdown.appendChild(option);
           });
-
-          // 設定獎項初始值
-          if (initialAward) {
-            awardButton.textContent = initialAward;
-          }
         }
       }
+    });
 
-      // 獎項選單點擊事件
-      awardDropdown.addEventListener('click', function (e) {
-        if (e.target.classList.contains('option')) {
-          awardButton.textContent = e.target.textContent;
-          awardDropdown.style.display = 'none';
+    // 5. 行政區選單點擊事件
+    districtDropdown.addEventListener('click', function (e) {
+      if (e.target.classList.contains('option')) {
+        districtButton.textContent = e.target.textContent;
+        this.style.display = 'none';
+      }
+    });
 
-          // 重設為獎項預設值
-          awardButton.textContent = '所有獎項';
-          awardDropdown.innerHTML = '';
-
-          // 填充新城市的獎項選項
-          const cityData = data.find(item => item.city === e.target.textContent);
-          if (cityData) {
-            cityData.awards.forEach(award => {
-              const option = document.createElement('div');
-              option.className = 'option';
-              option.dataset.value = award;
-              option.textContent = award;
-              awardDropdown.appendChild(option);
-            });
-          }
-        }
-      });
-
-      // 獎項選單點擊事件
-      awardDropdown.addEventListener('click', function (e) {
-        if (e.target.classList.contains('option')) {
-          awardButton.textContent = e.target.textContent;
-          this.style.display = 'none';
-        }
-      });
-    })
-    .catch(error => console.error('讀取 JSON 失敗:', error));
+    // 6. 獎項選單點擊事件
+    awardDropdown.addEventListener('click', function (e) {
+      if (e.target.classList.contains('option')) {
+        awardButton.textContent = e.target.textContent;
+        this.style.display = 'none';
+      }
+    });
+  }).catch(err => console.error(err));
 
   // 年分
   fetch('/data/year.json')
