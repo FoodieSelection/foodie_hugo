@@ -44,7 +44,7 @@
       "geo": {
         "@type": "GeoCoordinates",
         "latitude": {{ (index (split $r.geo ",") 0) }},
-        "longitude": {{ (index (split $r.geo ",") 1) }}
+        "longitude": {{ (index (split (replace $r.geo " " "") ",") 1) }}
       },
       {{- end }}
       {{- if $r.phone }}
