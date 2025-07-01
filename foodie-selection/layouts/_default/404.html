@@ -1,0 +1,444 @@
+{{ define "ldjson" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "{{ .Site.Title }}",
+  "description": "{{ .Params.description }}",
+  "url": "{{ .Site.BaseURL }}",
+  "image": "{{ .Site.BaseURL }}{{ .Site.Params.Logo }}",
+  "inLanguage": "zh-Hant",
+  "datePublished": "{{ .Params.datePublished }}",
+  "dateModified": "{{ .Params.dateModified }}",
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ .Site.Title }}",
+    "url": "{{ .Site.BaseURL }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ .Site.BaseURL }}{{ .Site.Params.Logo }}"
+    }
+  },
+  "hasPart": [
+    {{ range $i, $city := .Params.cities }}
+      {{ if $city.link }}
+        {{ if $i }},{{ end }}
+        {
+          "@type": "CollectionPage",
+          "name": {{ printf "%s美食競賽" $city.name }},
+          "url": {{ (absURL $city.link) }},
+          "description": {{ printf "精選%s在地美食。" $city.name }}
+        }
+      {{ end }}
+    {{ end }}
+  ]
+}
+</script>
+{{ end }}
+
+{{ define "main" }}
+<header class="header">
+  <div class="header-container">
+    <div class="site-logo">
+      <div class="logo-circle">
+        <img src="{{ .Site.BaseURL }}{{ .Site.Params.icon }}" alt="Logo">
+      </div>
+    </div>
+    <div class="header-text">
+      <h1 class="header_title">{{ .Site.Title }}</h1>
+      <p class="header_subtitle">{{ .Site.Params.description }}</p>
+    </div>
+  </div>
+</header>
+
+<main class="main">
+  <div class="container">
+    <section class="search-section">
+      <div class="search-container">
+        <div class="search-filters">
+          <div class="filter-row">
+            <!-- 城市 -->
+            <div class="filter-group">
+              <label class="form-label">城市</label>
+              <div class="custom-select">
+                <button class="select-button" data-target="region">所有城市</button>
+                <div class="select-dropdown" data-target="region" style="display: none;">
+                </div>
+              </div>
+            </div>
+
+            <!-- 行政區 -->
+            <div class="filter-group" id="district-group">
+              <label class="form-label">行政區</label>
+              <div class="custom-select">
+                <button class="select-button" data-target="district" disabled>所有行政區</button>
+                <div class="select-dropdown" data-target="district" style="display: none;">
+                </div>
+              </div>
+            </div>
+
+            <!-- 獎項類型 -->
+            <div class="filter-group">
+              <label class="form-label">獎項類型</label>
+              <div class="custom-select">
+                <button class="select-button" data-target="award">所有獎項</button>
+                <div class="select-dropdown" data-target="award" style="display: none;">
+                </div>
+              </div>
+            </div>
+
+            <!-- 年份 -->
+            <div class="filter-group">
+              <label class="form-label">年份</label>
+              <div class="custom-select">
+                <button class="select-button" data-target="year">所有年份</button>
+                <div class="select-dropdown" data-target="year" style="display: none;">
+                </div>
+              </div>
+            </div>
+          </div>
+          <button id="search-btn" class="btn btn-primary">🔍 搜尋</button>
+        </div>
+      </div>
+    </section>
+
+    <section class="results-summary">
+      <div class="summary-bar">
+        {{ $filters := slice }}
+        {{ if .Params.city }}{{ $filters = $filters | append .Params.city }}{{ end }}
+        {{ if .Params.district }}{{ $filters = $filters | append .Params.district }}{{ end }}
+        {{ if .Params.award }}{{ $filters = $filters | append .Params.award }}{{ end }}
+        {{ if .Params.year }}{{ $filters = $filters | append (string .Params.year) }}{{ end }}
+
+        <div class="result-selected-filter">
+          {{ range $index, $filter := $filters }}
+          {{ if $index }}<span class="separator"> . </span>{{ end }}
+          {{ $filter }}
+          {{ end }}
+        </div>
+        <div id="results-count" class="results-count">找到 {{ .Params.count }} 間餐廳</div>
+      </div>
+    </section>
+
+    <section class="results-section">
+      <div id="restaurants-grid" class="restaurants-grid">
+        {{ range .Params.restaurants }}
+        <div class="restaurant-card">
+          <div class="restaurant-header">
+            <h3 class="restaurant-name">{{ .name }}</h3>
+            {{ if .award }}
+            <div class="restaurant-awards">
+              {{ range .award }}
+              <span class="award-badge">
+                {{ .name }}-{{ .year }}
+              </span>
+              {{ end }}
+            </div>
+            {{ end }}
+          </div>
+          <div class="restaurant-body">
+            <div class="restaurant-info">
+              {{ if .address }}
+              <div class="restaurant-address">
+                <span class="info-item__text">📍{{ .address }}</span>
+              </div>
+              {{ end }}
+
+              {{ if .phone }}
+              <div class="restaurant-phone">
+                <span class="info-item__text">📞{{ .phone }}</span>
+              </div>
+              {{ end }}
+            </div>
+            <div class="restaurant-actions">
+              {{ if .google_map }}
+              <a href="{{ .google_map }}" target="_blank" class="btn btn-primary">
+                Google 地圖
+              </a>
+              {{ end }}
+              {{ if .footinder }}
+              <a href="{{ .footinder }}" target="_blank" class="btn btn-primary">
+                Footinder
+              </a>
+              {{ end }}
+              {{ if .official }}
+              <a href="{{ .official }}" target="_blank" class="btn btn-outline">
+                官方網站
+              </a>
+              {{ end }}
+            </div>
+          </div>
+        </div>
+        {{ else }}
+        <div id="no-results" class="no-results hidden">
+          <div class="no-results_content">
+            <h3>未找到符合條件的餐廳</h3>
+          </div>
+        </div>
+        {{ end }}
+      </div>
+    </section>
+
+    <section class="pagination-section">
+      <div id="pagination" class="pagination">
+      </div>
+    </section>
+  </div>
+</main>
+
+<footer>
+  <div class="footer-content">
+    <div class="footer-section">
+      <h3>任何問題? 歡迎與我們聯絡</h3>
+      <div class="contact-links">
+        <button id="copyEmailBtn" class="copy-email-btn">
+          <span>📧</span>
+          <span id="emailText">foodieselectioninfo@gmail.com</span>
+        </button>
+        <span id="copyMsg" class="copy-msg" style="display:none;">已複製 email！ </span>
+      </div>
+      <div class="contact-links">
+        <a href="https://www.facebook.com/people/%E5%90%83%E8%B2%A8%E7%B2%BE%E9%81%B8-Foodie-Selection/61576588634043/"
+          target="_blank" rel="noopener noreferrer"
+          style="display:inline-block;padding:10px 20px;background:#1877f2;color:#fff;border-radius:5px;text-decoration:none;">
+          Facebook 粉絲專頁
+        </a>
+      </div>
+    </div>
+
+    <div class="footer-bottom">
+      <p>&copy; 2025 吃貨精選 - Foodie Selection. 版權所有 | 探索台灣美食競賽的最佳平台</p>
+    </div>
+  </div>
+</footer>
+
+<script>
+  document.getElementById('copyEmailBtn').addEventListener('click', function () {
+    const email = document.getElementById('emailText').innerText;
+    if (navigator.clipboard) {
+      navigator.clipboard.writeText(email).then(function () {
+        showCopyMsg();
+      });
+    } else {
+      const textarea = document.createElement('textarea');
+      textarea.value = email;
+      document.body.appendChild(textarea);
+      textarea.select();
+      document.execCommand('copy');
+      document.body.removeChild(textarea);
+      showCopyMsg();
+    }
+  });
+
+  function showCopyMsg() {
+    const msg = document.getElementById('copyMsg');
+    msg.style.display = 'inline';
+    setTimeout(function () {
+      msg.style.display = 'none';
+    }, 1500);
+  }
+
+  // 點擊 select 按鈕時，展開/收合對應的下拉選單
+  document.querySelectorAll('.select-button').forEach(button => {
+    button.addEventListener('click', function (e) {
+      e.stopPropagation();
+      const target = this.getAttribute('data-target');
+      const dropdown = document.querySelector(`.select-dropdown[data-target="${target}"]`);
+      document.querySelectorAll('.select-dropdown').forEach(d => {
+        if (d !== dropdown) d.style.display = 'none';
+      });
+      dropdown.style.display = dropdown.style.display === 'none' ? 'block' : 'none';
+    });
+  });
+
+  // 點擊其他地方時，收合所有下拉選單
+  document.addEventListener('click', function () {
+    document.querySelectorAll('.select-dropdown').forEach(dropdown => {
+      dropdown.style.display = 'none';
+    });
+  });
+
+  // ===== 以下為動態讀取 city_districts.json 並產生城市與行政區選單 =====
+  // 讀取 city_districts.json
+  fetch('/data/city_districts.json')
+    .then(response => response.json())
+    .then(data => {
+      const regionDropdown = document.querySelector('.select-dropdown[data-target="region"]');
+
+      // 加入所有 city 選項
+      data.forEach(item => {
+        const option = document.createElement('div');
+        option.className = 'option';
+        option.dataset.value = item.city;
+        option.textContent = item.city;
+        regionDropdown.appendChild(option);
+      });
+
+      // 城市選單點擊事件（完整版）
+      regionDropdown.addEventListener('click', function (e) {
+        if (e.target.classList.contains('option')) {
+          const regionButton = document.querySelector('.select-button[data-target="region"]');
+          regionButton.textContent = e.target.textContent;
+          regionDropdown.style.display = 'none';
+
+          const districtButton = document.querySelector('.select-button[data-target="district"]');
+          const districtDropdown = document.querySelector('.select-dropdown[data-target="district"]');
+
+          // 每次切換城市，行政區重設為「所有行政區」
+          districtButton.textContent = '所有行政區';
+          // 若選到「所有城市」，則禁用行政區按鈕
+          if (regionButton.textContent === '所有城市') {
+            districtButton.disabled = true;
+            districtDropdown.innerHTML = ''; // 可選，清空行政區選單
+          } else {
+            districtButton.disabled = false;
+            // 清空行政區選單
+            districtDropdown.innerHTML = '';
+            // 加入該城市的行政區選項
+            const cityData = data.find(item => item.city === regionButton.textContent);
+            if (cityData) {
+              cityData.district.forEach(district => {
+                const option = document.createElement('div');
+                option.className = 'option';
+                option.dataset.value = district;
+                option.textContent = district;
+                districtDropdown.appendChild(option);
+              });
+            }
+          }
+        }
+      });
+
+      // 行政區選單點擊事件（動態綁定）
+      document.querySelector('.select-dropdown[data-target="district"]').addEventListener('click', function (e) {
+        if (e.target.classList.contains('option')) {
+          const button = document.querySelector('.select-button[data-target="district"]');
+          button.textContent = e.target.textContent;
+          this.style.display = 'none';
+        }
+      });
+    })
+    .catch(error => console.error('讀取 JSON 失敗:', error));
+
+  // ===== 獎項類型與料理類型選單的 option 點擊事件 =====
+  // 獎項類型
+  // 讀取 city_awards.json
+  let cityAwardsData = [];
+  fetch('/data/city_awards.json')
+    .then(response => response.json())
+    .then(data => {
+      cityAwardsData = data;
+      // 預設顯示「所有城市」的獎項
+      updateAwardDropdown('所有城市');
+    })
+    .catch(error => console.error('讀取 city_awards.json 失敗:', error));
+
+  // 動態更新獎項選單
+  function updateAwardDropdown(selectedCity) {
+    const awardButton = document.querySelector('.select-button[data-target="award"]');
+    const awardDropdown = document.querySelector('.select-dropdown[data-target="award"]');
+    const currentAward = awardButton.textContent;
+
+    // 清空選單
+    awardDropdown.innerHTML = '';
+
+    // 若該城市存在於資料中，才加入該城市的獎項
+    const cityItem = cityAwardsData.find(item => item.city === selectedCity);
+    if (cityItem && cityItem.awards && cityItem.awards.length > 0) {
+      cityItem.awards.forEach(award => {
+        const option = document.createElement('div');
+        option.className = 'option';
+        option.dataset.value = award;
+        option.textContent = award;
+        awardDropdown.appendChild(option);
+      });
+    }
+
+    // 若目前選的獎項不存在於新城市，則重設為「所有獎項」
+    if (currentAward !== '所有獎項') {
+      if (!cityItem || !cityItem.awards || !cityItem.awards.includes(currentAward)) {
+        awardButton.textContent = '所有獎項';
+      }
+    }
+  }
+
+  // 獎項選單點擊事件
+  document.querySelector('.select-dropdown[data-target="award"]').addEventListener('click', function (e) {
+    if (e.target.classList.contains('option')) {
+      const awardButton = document.querySelector('.select-button[data-target="award"]');
+      awardButton.textContent = e.target.textContent;
+    }
+  });
+
+  // 年分
+  fetch('/data/year.json')
+    .then(response => response.json())
+    .then(data => {
+      const yearDropdown = document.querySelector('.select-dropdown[data-target="year"]');
+      const yearButton = document.querySelector('.select-button[data-target="year"]');
+      yearButton.textContent = '所有年份';
+      data.forEach(year => {
+        const option = document.createElement('div');
+        option.className = 'option';
+        option.dataset.value = year;
+        option.textContent = year;
+        yearDropdown.appendChild(option);
+      });
+
+      document.querySelector('.select-dropdown[data-target="year"]').addEventListener('click', function (e) {
+        if (e.target.classList.contains('option')) {
+          const button = document.querySelector('.select-button[data-target="year"]');
+          button.textContent = e.target.textContent;
+          this.style.display = 'none';
+        }
+      });
+    })
+    .catch(error => console.error('讀取 JSON 失敗:', error));
+
+  // 搜尋按鈕點擊事件
+  document.getElementById('search-btn').addEventListener('click', function () {
+    // 取得各下拉選單目前選項
+    const regionBtn = document.querySelector('.select-button[data-target="region"]');
+    const districtBtn = document.querySelector('.select-button[data-target="district"]');
+    const awardBtn = document.querySelector('.select-button[data-target="award"]');
+    const yearBtn = document.querySelector('.select-button[data-target="year"]');
+
+    // 取得選項文字（若為「所有...」則忽略）
+    const region = regionBtn.textContent.trim() === '所有城市' ? '' : regionBtn.textContent.trim();
+    const district = districtBtn.textContent.trim() === '所有行政區' ? '' : districtBtn.textContent.trim();
+    const award = awardBtn.textContent.trim() === '所有獎項' ? '' : awardBtn.textContent.trim();
+    const year = yearBtn.textContent.trim() === '所有年份' ? '' : yearBtn.textContent.trim();
+
+    // 組裝 path
+    let path = '/';
+    if (region) path += encodeURIComponent(region) + '/';
+    if (district) path += encodeURIComponent(district) + '/';
+    if (award) path += encodeURIComponent(award) + '/';
+    if (year) path += encodeURIComponent(year) + '/';
+    path += '1/'; // 固定第一頁
+
+    // 導航
+    window.location.href = path;
+  });
+
+  // 從 Hugo 輸出 front matter 參數
+  const initialCity = {{ .Params.city | default "" }};
+  const initialDistrict = {{ .Params.district | default "" }};
+  const initialAward = {{ .Params.award | default "" }};
+  const initialYear = {{ .Params.year | default "" }};
+
+  // 設定下拉選單按鈕文字
+  function setSelectButtonValue(target, value) {
+    const button = document.querySelector(`.select-button[data-target="${target}"]`);
+    if (button && value) {
+      button.textContent = value;
+    }
+  }
+
+  // 初始化時設定
+  setSelectButtonValue('region', initialCity);
+  setSelectButtonValue('district', initialDistrict);
+  setSelectButtonValue('award', initialAward);
+  setSelectButtonValue('year', initialYear);
+</script>
+{{ end }}

@@ -1,0 +1,28 @@
+---
+title: "吃貨精選-Foodie Selection"
+description: "探索全台美食競賽，發現在地美味，品嚐競技精神"
+keywords:
+  - 美食競賽
+  - 台灣美食
+  - 美食精選
+datePublished: "2025-06-30"
+dateModified: "2025-07-01"
+city: "所有城市"
+district: "所有行政區"
+award: "所有獎項"
+year: "所有年份"
+page: 46
+count: 406
+
+restaurants:
+  - name: "先來厚到章魚燒"
+    address: "台北市大同區寧夏路007號攤位"
+    phone: "0900115593"
+    geo: "25.05686103296426, 121.51557884017375"
+    google_map: "https://maps.app.goo.gl/7sfCpfBRAakBzhjh7"
+    footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%90%8C%E5%8D%80/362111/"
+    official: "https://www.facebook.com/p/%E5%85%88%E4%BE%86%E5%8E%9A%E5%88%B0%E7%AB%A0%E9%AD%9A%E7%87%92-100054696013318/"
+    award:
+    - name: "夜市王"
+      year: "2024"
+---

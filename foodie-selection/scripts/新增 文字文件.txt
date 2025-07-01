@@ -1,0 +1,4 @@
+執行全部產檔程式
+build hugo
+砍掉github那邊除了.git和CNAME
+public全部複製過去

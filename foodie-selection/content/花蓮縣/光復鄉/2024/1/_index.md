@@ -1,0 +1,28 @@
+---
+title: "吃貨精選-Foodie Selection"
+description: "探索全台美食競賽，發現在地美味，品嚐競技精神"
+keywords:
+  - 美食競賽
+  - 台灣美食
+  - 美食精選
+datePublished: "2025-06-30"
+dateModified: "2025-07-01"
+city: "花蓮縣"
+district: "光復鄉"
+award: "所有獎項"
+year: "2024"
+page: 1
+count: 1
+
+restaurants:
+  - name: "紅瓦屋老地方文化美食餐廳"
+    address: "花蓮縣光復鄉大全街62巷16號"
+    phone: "038704601"
+    geo: "23.660812566619605, 121.41025771649912"
+    google_map: "https://maps.app.goo.gl/B2RicZQH2vXwzmuf6"
+    footinder: "https://footinder.com.tw/%E8%8A%B1%E8%93%AE%E7%B8%A3%E5%85%89%E5%BE%A9%E9%84%89/5714/"
+    official: "https://www.facebook.com/cifadahan6216/"
+    award:
+    - name: "500盤"
+      year: "2024"
+---

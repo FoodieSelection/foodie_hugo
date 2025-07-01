@@ -1,0 +1,28 @@
+---
+title: "吃貨精選-Foodie Selection"
+description: "探索全台美食競賽，發現在地美味，品嚐競技精神"
+keywords:
+  - 美食競賽
+  - 台灣美食
+  - 美食精選
+datePublished: "2025-06-30"
+dateModified: "2025-07-01"
+city: "新北市"
+district: "中和區"
+award: "500盤"
+year: "2024"
+page: 1
+count: 1
+
+restaurants:
+  - name: "漢堡排 嘉"
+    address: "新北市中和區中山路三段122號4樓"
+    phone: ""
+    geo: "25.00696831557478, 121.47495420488349"
+    google_map: "https://maps.app.goo.gl/ESeBuJDP1hVtHquo7"
+    footinder: "https://footinder.com.tw/%e6%96%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%92%8c%e5%8d%80/362144/"
+    official: "https://www.instagram.com/hamburg_yoshi.tw1/"
+    award:
+    - name: "500盤"
+      year: "2024"
+---

@@ -1,0 +1,28 @@
+---
+title: "吃貨精選-Foodie Selection"
+description: "探索全台美食競賽，發現在地美味，品嚐競技精神"
+keywords:
+  - 美食競賽
+  - 台灣美食
+  - 美食精選
+datePublished: "2025-06-30"
+dateModified: "2025-07-01"
+city: "新北市"
+district: "瑞芳區"
+award: "所有獎項"
+year: "所有年份"
+page: 1
+count: 1
+
+restaurants:
+  - name: "食不厭"
+    address: "新北市瑞芳區金光路221號"
+    phone: "0224961231"
+    geo: "25.10681504082231, 121.85171757605686"
+    google_map: "https://maps.app.goo.gl/1xW46FMmZCtLcNLu9"
+    footinder: "https://footinder.com.tw/%E6%96%B0%E5%8C%97%E5%B8%82%E7%91%9E%E8%8A%B3%E5%8D%80/236/"
+    official: "https://www.facebook.com/profile.php?id=100072216530596"
+    award:
+    - name: "500盤"
+      year: "2024"
+---

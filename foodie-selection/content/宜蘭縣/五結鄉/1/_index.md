@@ -1,0 +1,28 @@
+---
+title: "吃貨精選-Foodie Selection"
+description: "探索全台美食競賽，發現在地美味，品嚐競技精神"
+keywords:
+  - 美食競賽
+  - 台灣美食
+  - 美食精選
+datePublished: "2025-06-30"
+dateModified: "2025-07-01"
+city: "宜蘭縣"
+district: "五結鄉"
+award: "所有獎項"
+year: "所有年份"
+page: 1
+count: 1
+
+restaurants:
+  - name: "饗宴鐵板燒"
+    address: "宜蘭縣五結鄉溪濱路二段263號"
+    phone: "039601777"
+    geo: "24.709855581158916, 121.80405051400544"
+    google_map: "https://maps.app.goo.gl/mxHRndhciJrUaK3u5"
+    footinder: "https://footinder.com.tw/%E5%AE%9C%E8%98%AD%E7%B8%A3%E4%BA%94%E7%B5%90%E9%84%89/1351/"
+    official: "https://www.facebook.com/ShenYenTeppanyaki/"
+    award:
+    - name: "500盤"
+      year: "2024"
+---

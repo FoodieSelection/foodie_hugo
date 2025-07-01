@@ -1,0 +1,78 @@
+---
+title: "吃貨精選-Foodie Selection"
+description: "探索全台美食競賽，發現在地美味，品嚐競技精神"
+keywords:
+  - 美食競賽
+  - 台灣美食
+  - 美食精選
+datePublished: "2025-06-30"
+dateModified: "2025-07-01"
+city: "台南市"
+district: "北區"
+award: "夜市王"
+year: "2024"
+page: 1
+count: 6
+
+restaurants:
+  - name: "碳烤雄大香雞排"
+    address: "台南市北區海安路三段533號"
+    phone: "0938553870"
+    geo: "23.010591297064956, 120.19969766137017"
+    google_map: "https://maps.app.goo.gl/zvuLMnp7WK7TAmG77"
+    footinder: ""
+    official: "https://www.facebook.com/profile.php?id=61569993432541"
+    award:
+    - name: "夜市王"
+      year: "2024"
+  - name: "阿三哥蚵仔煎"
+    address: "台南市北區海安路三段533號"
+    phone: ""
+    geo: "23.01048868287764, 120.19970718673113"
+    google_map: "https://maps.app.goo.gl/4GXs8fSc3Vyh5GdF7"
+    footinder: ""
+    official: "https://www.facebook.com/p/%E9%98%BF%E4%B8%89%E5%93%A5%E8%9A%B5%E4%BB%94%E7%85%8E%E8%98%BF%E8%94%94%E7%B3%95-100054472284689/"
+    award:
+    - name: "夜市王"
+      year: "2024"
+  - name: "延記臭豆腐"
+    address: "台南市北區海安路三段533號"
+    phone: "0910098199"
+    geo: "23.010608493924156, 120.19947294466562"
+    google_map: "https://maps.app.goo.gl/KmnjJVWcw2nkkFDj8"
+    footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8D%97%E5%B8%82%E5%8C%97%E5%8D%80/110336/"
+    official: "https://www.facebook.com/p/%E5%BB%B6%E8%A8%98%E8%87%AD%E8%B1%86%E8%85%90-100057585964164/"
+    award:
+    - name: "夜市王"
+      year: "2024"
+  - name: "濃五吉拿棒"
+    address: "台南市北區海安路三段533號花園夜市18排34號"
+    phone: ""
+    geo: "23.011101775738684, 120.20032064145462"
+    google_map: "https://maps.app.goo.gl/UwQGtrZ2g41wMSLC6"
+    footinder: ""
+    official: "https://www.instagram.com/nongwu_churros/"
+    award:
+    - name: "夜市王"
+      year: "2024"
+  - name: "全壘打牛排"
+    address: "台南市北區海安路三段533號"
+    phone: ""
+    geo: "23.010433694903504, 120.20007547175955"
+    google_map: "https://maps.app.goo.gl/eXKJFwKWStAqW89Q9"
+    footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8D%97%E5%B8%82%E5%8C%97%E5%8D%80/362071/"
+    official: "https://www.facebook.com/homerunsteak.nightmarket/"
+    award:
+    - name: "夜市王"
+      year: "2024"
+  - name: "魷皇駕到"
+    address: "台南市北區海安路三段533號"
+    phone: ""
+    geo: "23.011102702508033, 120.20032149827782"
+    google_map: "https://maps.app.goo.gl/KbZRVWhBJpHAC5fq5"
+    footinder: ""
+    official: "https://www.facebook.com/p/%E9%AD%B7%E7%9A%87%E9%A7%95%E5%88%B0-100063970423098"
+    award:
+    - name: "夜市王"
+      year: "2024"
+---

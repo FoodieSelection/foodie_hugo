@@ -8,6 +8,7 @@ disableKinds = ["taxonomy", "term"]
   fbAppId = "4039430719718327"
   logo = "images/logo512.png"
   icon = "images/logo128.png"
+  description = "探索全台美食競賽，發現在地美味，品嚐競技精神"
 
 [outputs]
   home = ["HTML"]

@@ -1,0 +1,98 @@
+---
+title: "吃貨精選-Foodie Selection"
+description: "探索全台美食競賽，發現在地美味，品嚐競技精神"
+keywords:
+  - 美食競賽
+  - 台灣美食
+  - 美食精選
+datePublished: "2025-06-30"
+dateModified: "2025-07-01"
+city: "台南市"
+district: "所有行政區"
+award: "500盤"
+year: "所有年份"
+page: 2
+count: 17
+
+restaurants:
+  - name: "竹海產"
+    address: "台南市中西區民族路二段252號"
+    phone: "062210946"
+    geo: "22.997387034668, 120.20126193532992"
+    google_map: "https://maps.app.goo.gl/EZLMXTM3USe5RKqC8"
+    footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8D%97%E5%B8%82%E4%B8%AD%E8%A5%BF%E5%8D%80/161797/"
+    official: ""
+    award:
+    - name: "500盤"
+      year: "2024"
+  - name: "筑馨居"
+    address: "台南市中西區信義街69號"
+    phone: "0927307890"
+    geo: "23.000310151168772, 120.19498735218367"
+    google_map: "https://maps.app.goo.gl/ToCGjxUwVjZhz1Jm8"
+    footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8D%97%E5%B8%82%E4%B8%AD%E8%A5%BF%E5%8D%80/1942/"
+    official: "https://www.facebook.com/profile.php?id=100063890740362"
+    award:
+    - name: "500盤"
+      year: "2024"
+  - name: "橄饗家西班牙嚴選美食餐廳"
+    address: "台南市安平區安北路590號590, Anbei Rd., Anping DistNo"
+    phone: "063911687"
+    geo: "22.998352566357422, 120.1489561239214"
+    google_map: "https://maps.app.goo.gl/jUG8e7pdfUuqXBqC6"
+    footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8d%97%e5%b8%82%e5%ae%89%e5%b9%b3%e5%8d%80/395/"
+    official: "https://www.naforst.com/"
+    award:
+    - name: "500盤"
+      year: "2024"
+  - name: "阿裕牛肉涮涮鍋"
+    address: "台南市仁德區崑崙路733-1號"
+    phone: "062795500"
+    geo: "22.94042993063004, 120.26110414667649"
+    google_map: "https://maps.app.goo.gl/1V9ipnkphHrWyAR89"
+    footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8d%97%e5%b8%82%e4%bb%81%e5%be%b7%e5%8d%80/10195/"
+    official: "https://www.facebook.com/profile.php?id=100057583984115"
+    award:
+    - name: "500盤"
+      year: "2024"
+  - name: "Funkoo Bar - Mexican Cuisine & Bar"
+    address: "台南市中西區海安路二段268號"
+    phone: "0984067044"
+    geo: "22.997995291575908, 120.19777589969037"
+    google_map: "https://maps.app.goo.gl/zt1s9srVuV4sCLJr9"
+    footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8d%97%e5%b8%82%e4%b8%ad%e8%a5%bf%e5%8d%80/15153/"
+    official: "https://www.facebook.com/mexcafe.tainan"
+    award:
+    - name: "500盤"
+      year: "2024"
+  - name: "MO. Lab"
+    address: "台南市北區崇安街30號"
+    phone: ""
+    geo: "23.0001505084149, 120.20624616196787"
+    google_map: "https://maps.app.goo.gl/RhN1wATgAxmJVW2y9"
+    footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8d%97%e5%b8%82%e5%8c%97%e5%8d%80/2260/"
+    official: ""
+    award:
+    - name: "500盤"
+      year: "2024"
+  - name: "THINKPIZZA"
+    address: "台南市中西區西和路289號"
+    phone: "063589850"
+    geo: "23.003311623866953, 120.19281617437447"
+    google_map: "https://maps.app.goo.gl/Vo4B4UvvrWBz3qkU9"
+    footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8D%97%E5%B8%82%E4%B8%AD%E8%A5%BF%E5%8D%80/1943/"
+    official: "https://www.facebook.com/THINKPIZZANYC/"
+    award:
+    - name: "500盤"
+      year: "2024"
+  - name: "Wom salone"
+    address: "台南市中西區中華西路二段12巷30號"
+    phone: "062998485"
+    geo: "22.987403532617666, 120.18754014421596"
+    google_map: "https://maps.app.goo.gl/qAL7ECucSyBwGb9z7"
+    footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8D%97%E5%B8%82%E4%B8%AD%E8%A5%BF%E5%8D%80/99006/"
+    official: "https://www.instagram.com/wom_salone/"
+    award:
+    - name: "500盤"
+      year: "2024"
+---

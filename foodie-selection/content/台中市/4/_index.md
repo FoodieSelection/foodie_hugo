@@ -1,0 +1,68 @@
+---
+title: "吃貨精選-Foodie Selection"
+description: "探索全台美食競賽，發現在地美味，品嚐競技精神"
+keywords:
+  - 美食競賽
+  - 台灣美食
+  - 美食精選
+datePublished: "2025-06-30"
+dateModified: "2025-07-01"
+city: "台中市"
+district: "所有行政區"
+award: "所有獎項"
+year: "所有年份"
+page: 4
+count: 32
+
+restaurants:
+  - name: "蘇坤蔚牛排 Sukhumvit STEAK"
+    address: "台中市北區一中街99號"
+    phone: "0422250003"
+    geo: "24.150229570482065, 120.68537062420684"
+    google_map: "https://maps.app.goo.gl/uXV9DoCZHr1XCe5r6"
+    footinder: "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8C%97%E5%8D%80/362075/"
+    official: "https://www.facebook.com/SukhumvitSTEAK"
+    award:
+    - name: "夜市王"
+      year: "2024"
+  - name: "益香轟炸魷魚"
+    address: "台中市北區一中街43號"
+    phone: ""
+    geo: "24.148967855271774, 120.68493632362058"
+    google_map: "https://maps.app.goo.gl/Uu6vQAToKHgMJorYA"
+    footinder: "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8C%97%E5%8D%80/362083/"
+    official: ""
+    award:
+    - name: "夜市王"
+      year: "2024"
+  - name: "食の初-炸蛋雞魯飯職人專門店"
+    address: "台中市北區三民路三段126巷3號1F"
+    phone: ""
+    geo: "24.15019702388631, 120.68481586986209"
+    google_map: "https://maps.app.goo.gl/nyHkGoFcPoxnHrGCA"
+    footinder: "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8C%97%E5%8D%80/362079/"
+    official: "https://www.facebook.com/profile.php?id=61552642976611"
+    award:
+    - name: "夜市王"
+      year: "2024"
+  - name: "盧の堡半月燒餡餅"
+    address: "台中市北區育才南街31號"
+    phone: "0915722388"
+    geo: "24.14807353852073, 120.68537514286655"
+    google_map: "https://maps.app.goo.gl/Dfp73uzswcCyxUMA9"
+    footinder: "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8C%97%E5%8D%80/362087/"
+    official: ""
+    award:
+    - name: "夜市王"
+      year: "2024"
+  - name: "桐生日式可麗餅"
+    address: "台中市北區一中街179巷1號"
+    phone: "0422252665"
+    geo: "24.151964710260586, 120.68604025849613"
+    google_map: "https://maps.app.goo.gl/z1LyQ2dEUJ4BTfWt9"
+    footinder: "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8C%97%E5%8D%80/137870/"
+    official: "https://www.kiryucrepe.com/"
+    award:
+    - name: "夜市王"
+      year: "2024"
+---

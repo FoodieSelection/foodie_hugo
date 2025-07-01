@@ -1,0 +1,88 @@
+---
+title: "吃貨精選-Foodie Selection"
+description: "探索全台美食競賽，發現在地美味，品嚐競技精神"
+keywords:
+  - 美食競賽
+  - 台灣美食
+  - 美食精選
+datePublished: "2025-06-30"
+dateModified: "2025-07-01"
+city: "台北市"
+district: "松山區"
+award: "所有獎項"
+year: "所有年份"
+page: 3
+count: 25
+
+restaurants:
+  - name: "萬客什鍋"
+    address: "台北市松山區八德路四段217號"
+    phone: "0227485133"
+    geo: "25.049050192629483, 121.56428903287014"
+    google_map: "https://maps.app.goo.gl/493rsYuS2B6ywguB8"
+    footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/76083/"
+    official: "https://www.wankeshabu.com/"
+    award:
+    - name: "500盤"
+      year: "2024"
+  - name: "Cantine Marais|瑪黑餐酒敦南店"
+    address: "台北市松山區八德路三段8巷36號1F"
+    phone: "0227221987"
+    geo: "25.045858518417187, 121.54962488002633"
+    google_map: "https://maps.app.goo.gl/TBUyiyoF8ZF3iFQq9"
+    footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/8652/"
+    official: "https://www.facebook.com/xoxocantinemarais"
+    award:
+    - name: "500盤"
+      year: "2024"
+  - name: "INITA"
+    address: "台北市松山區八德路三段12巷52弄1號1樓"
+    phone: "0225770886"
+    geo: "25.04611563486958, 121.55058517573683"
+    google_map: "https://maps.app.goo.gl/8bz9dofa92E5vAxx6"
+    footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e6%9d%be%e5%b1%b1%e5%8d%80/47659/"
+    official: "https://www.inita.tw/"
+    award:
+    - name: "500盤"
+      year: "2024"
+  - name: "JUJU Spanish Gastrobar"
+    address: "台北市松山區八德路三段8巷31號"
+    phone: "0225792005"
+    geo: "25.04624983709194, 121.54973368689903"
+    google_map: "https://maps.app.goo.gl/rdcvPjKvD4dJCcScA"
+    footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e6%9d%be%e5%b1%b1%e5%8d%80/33026/"
+    official: "https://jujuspanishgastrobar.my.canva.site/"
+    award:
+    - name: "500盤"
+      year: "2024"
+  - name: "LilyCoco莉莉可可"
+    address: "台北市松山區八德路二段346巷7弄42號1樓"
+    phone: "0227528204"
+    geo: "25.046715584313066, 121.54588405309856"
+    google_map: "https://maps.app.goo.gl/egoiDZLq7RqLo72BA"
+    footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e6%9d%be%e5%b1%b1%e5%8d%80/362205/"
+    official: "https://www.instagram.com/lilycoco_tpe"
+    award:
+    - name: "500盤"
+      year: "2024"
+  - name: "SENS"
+    address: "台北市松山區民生東路三段127巷12號"
+    phone: "0227186388"
+    geo: "25.058867146767504, 121.54737325080312"
+    google_map: "https://maps.app.goo.gl/ReDet4HDQGdy7TgA6"
+    footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/47921/"
+    official: "https://www.senstw.com/tw"
+    award:
+    - name: "500盤"
+      year: "2024"
+  - name: "海峽會"
+    address: "105台北市松山區敦化北路167號B1"
+    phone: "0277076789"
+    geo: "25.05476692436136, 121.54941270143397"
+    google_map: "https://maps.app.goo.gl/CQi3oEJ5mZYxSvjL6"
+    footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/13141/"
+    official: "http://www.csclub.com.tw/"
+    award:
+    - name: "台北國際牛肉麵節"
+      year: "2024"
+---

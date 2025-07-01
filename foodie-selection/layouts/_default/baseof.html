@@ -41,10 +41,7 @@
 
   {{ block "font" . }}{{ end }}
   
-  {{ with .Params.custom_css }}
-    {{ $style := resources.Get . | fingerprint }}
-    <link rel="stylesheet" href="{{ $style.Permalink }}">
-  {{ end }}
+  <link rel="stylesheet" href="{{ "css/style.css" | absURL }}">
 
 </head>
 <body>
