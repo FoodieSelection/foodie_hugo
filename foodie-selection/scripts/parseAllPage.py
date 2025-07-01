@@ -143,8 +143,7 @@ def build_output_path(city, district, award, year, page):
 def generate_md_content(restaurants, today, city, district, award, year, page, count):
     # 基礎frontmatter
     md_content = f'''---
-title: "吃貨精選-Foodie Selection"
-description: "探索全台美食競賽，發現在地美味，品嚐競技精神"
+title: "{city} {district} {award} {year}"
 keywords:
   - 美食競賽
   - 台灣美食

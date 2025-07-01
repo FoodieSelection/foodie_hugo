@@ -1,6 +1,5 @@
 ---
-title: "吃貨精選-Foodie Selection"
-description: "探索全台美食競賽，發現在地美味，品嚐競技精神"
+title: "台中市 所有行政區 所有獎項 所有年份"
 keywords:
   - 美食競賽
   - 台灣美食

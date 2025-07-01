@@ -1,3 +1,4 @@
+remove content除了index.md
 執行全部產檔程式
 build hugo
 砍掉github那邊除了.git和CNAME

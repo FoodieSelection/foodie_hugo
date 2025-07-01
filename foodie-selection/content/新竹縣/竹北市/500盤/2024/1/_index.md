@@ -1,6 +1,5 @@
 ---
-title: "吃貨精選-Foodie Selection"
-description: "探索全台美食競賽，發現在地美味，品嚐競技精神"
+title: "新竹縣 竹北市 500盤 2024"
 keywords:
   - 美食競賽
   - 台灣美食
