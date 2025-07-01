@@ -15,6 +15,8 @@ count: 28
 
 restaurants:
   - name: "魷皇駕到"
+    city: "台南市"
+    district: "北區"
     address: "台南市北區海安路三段533號"
     phone: ""
     geo: "23.011102702508033, 120.20032149827782"

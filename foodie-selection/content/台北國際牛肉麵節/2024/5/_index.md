@@ -15,6 +15,8 @@ count: 37
 
 restaurants:
   - name: "統一企業(股)公司"
+    city: ""
+    district: ""
     address: ""
     phone: ""
     geo: ""

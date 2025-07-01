@@ -15,6 +15,8 @@ count: 2
 
 restaurants:
   - name: "一碗來TaiwanMama"
+    city: "台北市"
+    district: "中正區"
     address: "台北市中正區八德路一段1號中4D, 華山1914文創園區內 中4D館"
     phone: "0233224949"
     geo: "25.044785529668108, 121.52950720132121"
@@ -27,6 +29,8 @@ restaurants:
     - name: "台北國際牛肉麵節"
       year: "2024"
   - name: "詩篇咖啡餐廳"
+    city: "台北市"
+    district: "中正區"
     address: "100台北市中正區中山南路20號B1"
     phone: "0223822666"
     geo: "25.037147815773103, 121.51667019531996"

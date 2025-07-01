@@ -15,6 +15,8 @@ count: 3
 
 restaurants:
   - name: "首烏廚EAT"
+    city: "新竹縣"
+    district: "竹北市"
     address: "新竹縣竹北市成功二街31號"
     phone: "036688609"
     geo: "24.820187283396464, 121.02329568987837"
@@ -25,6 +27,8 @@ restaurants:
     - name: "500盤"
       year: "2024"
   - name: "鮨安"
+    city: "新竹縣"
+    district: "竹北市"
     address: "新竹縣竹北市嘉豐南路一段62號"
     phone: "0919110613"
     geo: "24.81105080518, 121.03408765039525"
@@ -35,6 +39,8 @@ restaurants:
     - name: "500盤"
       year: "2024"
   - name: "Piccola Enoteca 彼刻義式餐酒館"
+    city: "新竹縣"
+    district: "竹北市"
     address: "新竹縣竹北市成功二街102號"
     phone: "036688313"
     geo: "24.81947736215569, 121.0245357659529"

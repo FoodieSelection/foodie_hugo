@@ -15,6 +15,8 @@ count: 1
 
 restaurants:
   - name: "癮-自在(暫時關閉)"
+    city: "新北市"
+    district: "中和區"
     address: "235新北市中和區中安街70號"
     phone: ""
     geo: "25.00221962406057, 121.5124245684332"

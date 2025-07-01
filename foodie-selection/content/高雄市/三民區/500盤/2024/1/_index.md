@@ -15,6 +15,8 @@ count: 1
 
 restaurants:
   - name: "Pasadena 帕莎蒂娜法式餐廳"
+    city: "高雄市"
+    district: "三民區"
     address: "高雄市三民區明哲路35號"
     phone: "073433769"
     geo: "22.661551670054063, 120.3120910403791"

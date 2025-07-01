@@ -15,6 +15,8 @@ count: 10
 
 restaurants:
   - name: "Wom salone"
+    city: "台南市"
+    district: "中西區"
     address: "台南市中西區中華西路二段12巷30號"
     phone: "062998485"
     geo: "22.987403532617666, 120.18754014421596"

@@ -15,6 +15,8 @@ count: 1
 
 restaurants:
   - name: "食不厭"
+    city: "新北市"
+    district: "瑞芳區"
     address: "新北市瑞芳區金光路221號"
     phone: "0224961231"
     geo: "25.10681504082231, 121.85171757605686"

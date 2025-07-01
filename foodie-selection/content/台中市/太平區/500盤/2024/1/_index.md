@@ -15,6 +15,8 @@ count: 1
 
 restaurants:
   - name: "L' atelier par Yao"
+    city: "台中市"
+    district: "太平區"
     address: "台中市太平區新福十六街68號2樓"
     phone: "0968059811"
     geo: "24.152858019081652, 120.7051389087968"

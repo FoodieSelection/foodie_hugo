@@ -15,6 +15,8 @@ count: 1
 
 restaurants:
   - name: "PASTi"
+    city: "台北市"
+    district: "南港區"
     address: "台北市南港區中南街30號"
     phone: "0227851588"
     geo: "25.054555951414603, 121.61521304418571"

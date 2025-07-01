@@ -15,6 +15,8 @@ count: 11
 
 restaurants:
   - name: "Wom salone"
+    city: "台南市"
+    district: "中西區"
     address: "台南市中西區中華西路二段12巷30號"
     phone: "062998485"
     geo: "22.987403532617666, 120.18754014421596"
@@ -25,6 +27,8 @@ restaurants:
     - name: "500盤"
       year: "2024"
   - name: "老龐家傳牛肉麵"
+    city: "台南市"
+    district: "中西區"
     address: "700台南市中西區保安路22號"
     phone: "062055396"
     geo: "22.990330941273367, 120.19711728075148"

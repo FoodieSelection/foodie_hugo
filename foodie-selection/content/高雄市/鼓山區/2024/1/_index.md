@@ -15,6 +15,8 @@ count: 3
 
 restaurants:
   - name: "美享地餐廳 MAJESTY RESTAURANT"
+    city: "高雄市"
+    district: "鼓山區"
     address: "高雄市鼓山區龍德新路222號11F"
     phone: "075596911"
     geo: "22.654568113324757, 120.30628693832335"
@@ -25,6 +27,8 @@ restaurants:
     - name: "500盤"
       year: "2024"
   - name: "永心浮島YONSHIN FUDOPIA"
+    city: "高雄市"
+    district: "鼓山區"
     address: "高雄市鼓山區蓬萊路大港倉七庫6之6號"
     phone: "075216021"
     geo: "22.617182658991844, 120.28402247048"
@@ -35,6 +39,8 @@ restaurants:
     - name: "500盤"
       year: "2024"
   - name: "NIBBON"
+    city: "高雄市"
+    district: "鼓山區"
     address: "高雄市鼓山區龍水二路9號"
     phone: "075869570"
     geo: "22.649653297080786, 120.28419372470813"

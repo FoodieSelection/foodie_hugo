@@ -15,6 +15,8 @@ count: 1
 
 restaurants:
   - name: "三分俗氣"
+    city: "新北市"
+    district: "永和區"
     address: "新北市永和區國光路49巷8號"
     phone: "0222311103"
     geo: "25.00794107137686, 121.5190383341171"

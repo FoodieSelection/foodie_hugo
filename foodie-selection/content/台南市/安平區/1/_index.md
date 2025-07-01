@@ -15,6 +15,8 @@ count: 3
 
 restaurants:
   - name: "大員皇冠假日酒店彩豐樓"
+    city: "台南市"
+    district: "安平區"
     address: "台南市安平區州平路289號"
     phone: "063911899"
     geo: "22.999414848347815, 120.14892822925322"
@@ -25,6 +27,8 @@ restaurants:
     - name: "500盤"
       year: "2024"
   - name: "阿財牛肉湯安平二店"
+    city: "台南市"
+    district: "安平區"
     address: "台南市安平區平豐路277號"
     phone: "062956965"
     geo: "22.992746830519316, 120.16372597309959"
@@ -35,6 +39,8 @@ restaurants:
     - name: "500盤"
       year: "2024"
   - name: "橄饗家西班牙嚴選美食餐廳"
+    city: "台南市"
+    district: "安平區"
     address: "台南市安平區安北路590號590, Anbei Rd., Anping DistNo"
     phone: "063911687"
     geo: "22.998352566357422, 120.1489561239214"

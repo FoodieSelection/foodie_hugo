@@ -15,6 +15,8 @@ count: 2
 
 restaurants:
   - name: "Pasadena 帕莎蒂娜法式餐廳"
+    city: "高雄市"
+    district: "三民區"
     address: "高雄市三民區明哲路35號"
     phone: "073433769"
     geo: "22.661551670054063, 120.3120910403791"
@@ -25,6 +27,8 @@ restaurants:
     - name: "500盤"
       year: "2024"
   - name: "渝味食記重慶小麵"
+    city: "高雄市"
+    district: "三民區"
     address: "807高雄市三民區吉林街243號"
     phone: "073229445"
     geo: "22.64771817418659, 120.30650614059422"

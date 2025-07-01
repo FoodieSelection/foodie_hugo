@@ -15,6 +15,8 @@ count: 2
 
 restaurants:
   - name: "漢堡排 嘉"
+    city: "新北市"
+    district: "中和區"
     address: "新北市中和區中山路三段122號4樓"
     phone: ""
     geo: "25.00696831557478, 121.47495420488349"
@@ -25,6 +27,8 @@ restaurants:
     - name: "500盤"
       year: "2024"
   - name: "癮-自在(暫時關閉)"
+    city: "新北市"
+    district: "中和區"
     address: "235新北市中和區中安街70號"
     phone: ""
     geo: "25.00221962406057, 121.5124245684332"

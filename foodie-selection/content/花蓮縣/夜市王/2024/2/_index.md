@@ -15,6 +15,8 @@ count: 10
 
 restaurants:
   - name: "強蛋餅(E79)"
+    city: "花蓮縣"
+    district: "花蓮市"
     address: "花蓮縣花蓮市明義街E79"
     phone: "0922288775"
     geo: "23.97085864409738, 121.61065466838497"

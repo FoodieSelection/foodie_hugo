@@ -15,6 +15,8 @@ count: 19
 
 restaurants:
   - name: "TROIS三ー"
+    city: "台中市"
+    district: "北屯區"
     address: "台中市北屯區崇德一路53號"
     phone: "0910557730"
     geo: "24.176448657274662, 120.68876781424567"

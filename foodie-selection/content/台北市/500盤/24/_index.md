@@ -15,6 +15,8 @@ count: 210
 
 restaurants:
   - name: "Zea"
+    city: "台北市"
+    district: "大安區"
     address: "台北市大安區仁愛路四段300巷20弄5號"
     phone: ""
     geo: "25.036342071191104, 121.55410521284944"
@@ -25,6 +27,8 @@ restaurants:
     - name: "500盤"
       year: "2024"
   - name: "Zaaptaipei"
+    city: "台北市"
+    district: "信義區"
     address: "110台北市信義區吳興街345巷6號"
     phone: "0227201148"
     geo: "25.02675105456895, 121.56631872872735"
@@ -35,6 +39,8 @@ restaurants:
     - name: "500盤"
       year: "2024"
   - name: "8號極品海鮮餐廳"
+    city: "台北市"
+    district: "中山區"
     address: "台北市中山區一江街8號"
     phone: "0225235588"
     geo: "25.05121954599453, 121.53139531601602"

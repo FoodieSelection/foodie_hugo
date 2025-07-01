@@ -15,6 +15,8 @@ count: 2
 
 restaurants:
   - name: "日出禾作"
+    city: "台東縣"
+    district: "關山鎮"
     address: "台東縣關山鎮"
     phone: "0934254225"
     geo: "23.00883812667777, 121.17446331185239"
@@ -25,6 +27,8 @@ restaurants:
     - name: "500盤"
       year: "2024"
   - name: "宏昌客家菜"
+    city: "台東縣"
+    district: "關山鎮"
     address: "台東縣關山鎮6號"
     phone: "0985697077"
     geo: "23.053307036580946, 121.16618398337785"

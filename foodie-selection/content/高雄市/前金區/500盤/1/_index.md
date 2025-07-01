@@ -15,6 +15,8 @@ count: 2
 
 restaurants:
   - name: "Marc L³"
+    city: "高雄市"
+    district: "前金區"
     address: "高雄市前金區仁義街231號"
     phone: ""
     geo: "22.62049680742647, 120.30097226915365"
@@ -25,6 +27,8 @@ restaurants:
     - name: "500盤"
       year: "2024"
   - name: "菜包李小吃部"
+    city: "高雄市"
+    district: "前金區"
     address: "高雄市前金區河南二路137號"
     phone: "072155566"
     geo: "22.634175164086876, 120.29224845835454"

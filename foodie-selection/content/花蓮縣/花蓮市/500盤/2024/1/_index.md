@@ -15,6 +15,8 @@ count: 3
 
 restaurants:
   - name: "流流社風味餐"
+    city: "花蓮縣"
+    district: "花蓮市"
     address: "花蓮縣花蓮市府前路77號"
     phone: "0989656606"
     geo: "24.004902716588322, 121.61860512094938"
@@ -25,6 +27,8 @@ restaurants:
     - name: "500盤"
       year: "2024"
   - name: "小廢柴 Little Sleepyhead"
+    city: "花蓮縣"
+    district: "花蓮市"
     address: "花蓮縣花蓮市明義街75號"
     phone: "038310311"
     geo: "23.975167991573947, 121.60662849562814"
@@ -35,6 +39,8 @@ restaurants:
     - name: "500盤"
       year: "2024"
   - name: "fūjō restaurant"
+    city: "花蓮縣"
+    district: "花蓮市"
     address: "花蓮縣花蓮市中正路618巷1號"
     phone: "038361628"
     geo: "23.980295657050927, 121.61340298831794"

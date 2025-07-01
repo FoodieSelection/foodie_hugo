@@ -15,6 +15,8 @@ count: 1
 
 restaurants:
   - name: "岩漿漢方麻辣火鍋"
+    city: "新竹縣"
+    district: "竹北市"
     address: "分店眾多請自行搜尋"
     phone: ""
     geo: ""

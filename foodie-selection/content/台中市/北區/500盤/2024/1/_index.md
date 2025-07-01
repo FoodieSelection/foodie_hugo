@@ -15,6 +15,8 @@ count: 1
 
 restaurants:
   - name: "enPure瀞"
+    city: "台中市"
+    district: "北區"
     address: "台中市北區健行路86巷7弄33號"
     phone: ""
     geo: "24.16063757267739, 120.68755330068244"

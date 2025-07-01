@@ -15,6 +15,8 @@ count: 3
 
 restaurants:
   - name: "八方雲集"
+    city: "台北市"
+    district: "大安區"
     address: "分店眾多請自行搜尋"
     phone: ""
     geo: ""
@@ -25,6 +27,8 @@ restaurants:
     - name: "台北國際牛肉麵節"
       year: "2024"
   - name: "竣師父牛肉麵"
+    city: "台北市"
+    district: "大安區"
     address: "106台北市大安區大安路一段52巷24號一樓"
     phone: "0905888123"
     geo: "25.042979674003117, 121.54512414354234"
@@ -35,6 +39,8 @@ restaurants:
     - name: "台北國際牛肉麵節"
       year: "2024"
   - name: "福容大飯店-台北一館"
+    city: "台北市"
+    district: "大安區"
     address: "106台北市大安區建國南路一段266號"
     phone: "0227019266"
     geo: "25.036629451697564, 121.53738803257971"

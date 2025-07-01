@@ -15,6 +15,8 @@ count: 2
 
 restaurants:
   - name: "廣東汕頭沙茶爐"
+    city: "台南市"
+    district: "北區"
     address: "台南市北區成功路422號"
     phone: "062281522"
     geo: "23.00081430667002, 120.19830112716586"
@@ -25,6 +27,8 @@ restaurants:
     - name: "500盤"
       year: "2024"
   - name: "MO. Lab"
+    city: "台南市"
+    district: "北區"
     address: "台南市北區崇安街30號"
     phone: ""
     geo: "23.0001505084149, 120.20624616196787"

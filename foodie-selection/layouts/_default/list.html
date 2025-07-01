@@ -17,20 +17,58 @@
     "logo": {
       "@type": "ImageObject",
       "url": "{{ .Site.BaseURL }}{{ .Site.Params.Logo }}"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "contactType": "customer service",
+      "email": "{{ .Site.Params.email }}"
     }
   },
-  "hasPart": [
-    {{ range $i, $city := .Params.cities }}
-      {{ if $city.link }}
-        {{ if $i }},{{ end }}
-        {
-          "@type": "CollectionPage",
-          "name": {{ printf "%s美食競賽" $city.name }},
-          "url": {{ (absURL $city.link) }},
-          "description": {{ printf "精選%s在地美食。" $city.name }}
-        }
-      {{ end }}
-    {{ end }}
+  "itemListElement": [
+  {{- range $index, $r := .Params.restaurants -}}
+  {
+    "@type": "ListItem",
+    "item": {
+      "@type": "Restaurant",
+      "name": {{ $r.name }},
+      {{- if $r.address }}
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": {{ $r.address }},
+        "addressLocality": {{ $r.city }},
+        "addressRegion": {{ $r.district }},
+        "addressCountry": "TW"
+      },
+      {{- end }}
+      {{- if $r.geo }}
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": {{ (index (split $r.geo ",") 0) }},
+        "longitude": {{ (index (split $r.geo ",") 1) }}
+      },
+      {{- end }}
+      {{- if $r.phone }}
+      "telephone": {{ $r.phone }},
+      {{- end }}
+      {{- if $r.google_map }}
+      "hasMap": {{ $r.google_map }},
+      {{- end }}
+      {{- $sameAs := slice -}}
+      {{- if $r.footinder }}{{ $sameAs = $sameAs | append $r.footinder }}{{ end -}}
+      {{- if $r.official }}{{ $sameAs = $sameAs | append $r.official }}{{ end -}}
+      {{- if gt (len $sameAs) 0 }}
+      "sameAs": {{ $sameAs }}
+      {{- end }}
+      {{- $awards := slice -}}
+      {{- range $r.award -}}
+        {{- $awards = $awards | append (dict "@type" "Award" "awardName" .name "awardDate" .year) -}}
+      {{- end -}}
+      {{- if gt (len $awards) 0 }},
+      "award": {{ $awards }}
+      {{- end }}
+    }
+  }{{ if not (eq $index (sub (len $.Params.restaurants) 1)) }},{{ end }}
+{{- end -}}
   ]
 }
 </script>

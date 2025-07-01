@@ -15,6 +15,8 @@ count: 73
 
 restaurants:
   - name: "Zea"
+    city: "台北市"
+    district: "大安區"
     address: "台北市大安區仁愛路四段300巷20弄5號"
     phone: ""
     geo: "25.036342071191104, 121.55410521284944"

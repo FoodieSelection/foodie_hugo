@@ -15,6 +15,8 @@ count: 1
 
 restaurants:
   - name: "牛巴達全牛專賣店"
+    city: "花蓮縣"
+    district: "吉安鄉"
     address: "花蓮縣吉安鄉南海六街7號"
     phone: "038423491"
     geo: "23.94633150100103, 121.5962888199298"

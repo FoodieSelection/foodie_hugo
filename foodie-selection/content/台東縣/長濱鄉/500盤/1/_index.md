@@ -15,6 +15,8 @@ count: 2
 
 restaurants:
   - name: "邱爸爸海味"
+    city: "台東縣"
+    district: "長濱鄉"
     address: "台東縣長濱鄉10之1號"
     phone: "089801432"
     geo: "23.243997774507985, 121.41648646516678"
@@ -25,6 +27,8 @@ restaurants:
     - name: "500盤"
       year: "2024"
   - name: "Sinasera 24(永久歇業)"
+    city: "台東縣"
+    district: "長濱鄉"
     address: "台東縣長濱鄉"
     phone: "089832558"
     geo: "23.277360797823285, 121.42279232649328"

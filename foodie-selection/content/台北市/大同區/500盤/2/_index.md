@@ -15,6 +15,8 @@ count: 11
 
 restaurants:
   - name: "丸隆生魚行"
+    city: "台北市"
+    district: "大同區"
     address: "台北市大同區迪化街一段21號"
     phone: "0225565276"
     geo: "25.054821063443313, 121.51048663938555"
@@ -25,6 +27,8 @@ restaurants:
     - name: "500盤"
       year: "2024"
   - name: "HUGH dessert dining"
+    city: "台北市"
+    district: "大同區"
     address: "台北市大同區重慶北路三段136巷56號"
     phone: "0225980223"
     geo: "25.06757686716401, 121.51219610221672"

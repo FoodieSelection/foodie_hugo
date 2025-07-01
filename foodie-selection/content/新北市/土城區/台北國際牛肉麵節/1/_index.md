@@ -15,6 +15,8 @@ count: 1
 
 restaurants:
   - name: "兩支北方麵館"
+    city: "新北市"
+    district: "土城區"
     address: "分店眾多請自行搜尋"
     phone: ""
     geo: ""

@@ -15,6 +15,8 @@ count: 1
 
 restaurants:
   - name: "蔦松客棧"
+    city: "雲林縣"
+    district: "水林鄉"
     address: "雲林縣水林鄉蔦松路8號"
     phone: "0935114228"
     geo: "23.51964688200378, 120.23084349051639"

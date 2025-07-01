@@ -163,6 +163,8 @@ restaurants:
     # 添加餐廳資料
     for rest in restaurants:
         md_content += f'''  - name: "{rest.get('name', '')}"
+    city: "{rest.get('city', '')}"
+    district: "{rest.get('district', '')}"
     address: "{rest.get('address', '')}"
     phone: "{rest.get('phone', '')}"
     geo: "{rest.get('geo', '')}"

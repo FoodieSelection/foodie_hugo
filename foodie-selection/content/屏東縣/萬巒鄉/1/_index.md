@@ -15,6 +15,8 @@ count: 1
 
 restaurants:
   - name: "海鴻飯店"
+    city: "屏東縣"
+    district: "萬巒鄉"
     address: "屏東縣萬巒鄉民和路16號"
     phone: "087811220"
     geo: "22.574188019977104, 120.56909577131485"

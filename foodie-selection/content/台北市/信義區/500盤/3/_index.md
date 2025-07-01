@@ -15,6 +15,8 @@ count: 21
 
 restaurants:
   - name: "Le Duet Modern Kaiseki 演蒔光"
+    city: "台北市"
+    district: "信義區"
     address: "台北市信義區忠孝東路四段553巷16弄9號"
     phone: "0237621570"
     geo: "25.04279210361641, 121.56348668717052"
@@ -25,6 +27,8 @@ restaurants:
     - name: "500盤"
       year: "2024"
   - name: "L'ATELIER de Joel Robuchon 侯布雄法式餐廳"
+    city: "台北市"
+    district: "信義區"
     address: "台北市信義區松仁路28號5樓"
     phone: "0287292628"
     geo: "25.03986254498836, 121.56761965397939"
@@ -35,6 +39,8 @@ restaurants:
     - name: "500盤"
       year: "2024"
   - name: "Zaaptaipei"
+    city: "台北市"
+    district: "信義區"
     address: "110台北市信義區吳興街345巷6號"
     phone: "0227201148"
     geo: "25.02675105456895, 121.56631872872735"

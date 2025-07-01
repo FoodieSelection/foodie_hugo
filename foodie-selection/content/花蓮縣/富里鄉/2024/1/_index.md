@@ -15,6 +15,8 @@ count: 1
 
 restaurants:
   - name: "邊界。花東"
+    city: "花蓮縣"
+    district: "富里鄉"
     address: "花蓮縣富里鄉車站街1號"
     phone: "0919830588"
     geo: "23.176415122334912, 121.24818269263858"

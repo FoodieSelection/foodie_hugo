@@ -15,6 +15,8 @@ count: 1
 
 restaurants:
   - name: "悅鄉田園"
+    city: "新竹縣"
+    district: "峨眉鄉"
     address: "新竹縣峨眉鄉竹49鄉道"
     phone: "035800576"
     geo: "24.685387154382493, 121.01047050321395"
