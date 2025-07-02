@@ -3,6 +3,7 @@ languageCode = 'zh-Hant'
 title = '吃貨精選-Foodie Selection'
 enableRobotsTXT = true
 disableKinds = ["taxonomy", "term"]
+disablePathToLower = true
 	
 [params]
   fbAppId = "4039430719718327"
