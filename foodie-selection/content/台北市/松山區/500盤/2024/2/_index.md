@@ -1,11 +1,12 @@
 ---
-title: "台北市 松山區 500盤 2024"
+title: "台北市 松山區 500盤 2024 第2頁"
+description: "台北市 松山區 500盤 2024 獲獎餐廳 第2頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "台北市"
 district: "松山區"
 award: "500盤"
@@ -20,9 +21,9 @@ restaurants:
     address: "台北市松山區南京東路三段303巷8弄5號"
     phone: "0225117427"
     geo: "25.053059733623133, 121.54704628247033"
+    link: "台北市/松山區/爸爸Kevin美食BBQ"
     google_map: "https://maps.app.goo.gl/SQfDLAPR3Qjot1xM6"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e6%9d%be%e5%b1%b1%e5%8d%80/31849/"
-    official: "https://www.88k.com.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "台北市松山區敦化北路165巷9號1樓"
     phone: "0227184469"
     geo: "25.05484497551117, 121.55056568896391"
+    link: "台北市/松山區/花娘小廚"
     google_map: "https://maps.app.goo.gl/K5nT32WX1pQgXSCdA"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e6%9d%be%e5%b1%b1%e5%8d%80/33049/"
-    official: "https://www.facebook.com/p/%E8%8A%B1%E5%A8%98%E5%B0%8F%E9%A4%A8-100063747175185/"
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "台北市松山區民生東路三段130巷7弄15號"
     phone: "0225465655"
     geo: "25.0566510551678, 121.54686406629185"
+    link: "台北市/松山區/海真私房菜"
     google_map: "https://maps.app.goo.gl/LZcubm5tS9FfE5nu9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/8666/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "台北市松山區民生東路五段137巷6弄36號"
     phone: "0227486356"
     geo: "25.060297657276408, 121.56293532605065"
+    link: "台北市/松山區/錦富日本料理"
     google_map: "https://maps.app.goo.gl/ZGrdFkBeUqgEwVG76"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/36934/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台北市松山區南京東路五段250巷2弄5號1樓"
     phone: "0227659906"
     geo: "25.05077240299724, 121.56640052915144"
+    link: "台北市/松山區/金山客家小館創始店"
     google_map: "https://maps.app.goo.gl/KKrNjL5wFHSXgBmy8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/9079/"
-    official: "https://www.jinshan1990.com/"
     award:
     - name: "500盤"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "台北市松山區民生東路四段131巷21號"
     phone: ""
     geo: "25.05916525863324, 121.55356238163422"
+    link: "台北市/松山區/聚苑Ju_Yuan_永久歇業_"
     google_map: "https://maps.app.goo.gl/TKfbW97UXZJruxmW9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/48047/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "台北市松山區復興北路313巷37號"
     phone: ""
     geo: "25.059043357293007, 121.54656539245775"
+    link: "台北市/松山區/徐家私廚"
     google_map: "https://maps.app.goo.gl/fUNQCn4QZYsw2VvM8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/168881/"
-    official: "https://www.instagram.com/ouah.hanchi/"
     award:
     - name: "500盤"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "台北市松山區南京東路三段303巷7弄7號"
     phone: "0225466188"
     geo: "25.052757041498204, 121.54637884125326"
+    link: "台北市/松山區/祥和蔬食料理"
     google_map: "https://maps.app.goo.gl/ePet1PZ1hFG1HyVu6"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/158981/"
-    official: "https://www.serenity.com.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "台北市松山區敦化北路167號B1"
     phone: "0277076666"
     geo: "25.054766997553862, 121.54941188931664"
+    link: "台北市/松山區/辰壽司·割烹·會席"
     google_map: "https://maps.app.goo.gl/VQVxZzJpD9a8eaL88"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/47741/"
-    official: "http://www.csclub.com.tw/"
     award:
     - name: "500盤"
       year: "2024"

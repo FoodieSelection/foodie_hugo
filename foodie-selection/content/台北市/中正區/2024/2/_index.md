@@ -1,11 +1,12 @@
 ---
-title: "台北市 中正區 所有獎項 2024"
+title: "台北市 中正區 所有獎項 2024 第2頁"
+description: "台北市 中正區 所有獎項 2024 獲獎餐廳 第2頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "台北市"
 district: "中正區"
 award: "所有獎項"
@@ -20,9 +21,9 @@ restaurants:
     address: "台北市中正區延平南路163巷2號"
     phone: "0223311117"
     geo: "25.03504999206272, 121.50792876911677"
+    link: "台北市/中正區/川揚郁坊小館"
     google_map: "https://maps.app.goo.gl/h1mtBDCE8Jdm22aP6"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80/7460/"
-    official: "https://www.facebook.com/yufang.restaurant/"
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "台北市中正區八德路一段1號中4D, 華山1914文創園區內 中4D館"
     phone: "0233224949"
     geo: "25.044785529668108, 121.52950720132121"
+    link: "台北市/中正區/一碗來TaiwanMama"
     google_map: "https://maps.app.goo.gl/15uCH78kdASc39Vr8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80/31499/"
-    official: "https://taiwanmama.com/"
     award:
     - name: "500盤"
       year: "2024"
@@ -46,9 +47,9 @@ restaurants:
     address: "台北市中正區羅斯福路三段244巷9弄7號"
     phone: "0223693906"
     geo: "25.017488528733512, 121.5301114755152"
+    link: "台北市/中正區/巫雲"
     google_map: "https://maps.app.goo.gl/k2GMed3M5cQ2YakJ6"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80/31356/"
-    official: "https://www.facebook.com/p/%E5%B7%AB%E9%9B%B2-100063797209875/"
     award:
     - name: "500盤"
       year: "2024"
@@ -58,12 +59,10 @@ restaurants:
     address: "100台北市中正區中山南路20號B1"
     phone: "0223822666"
     geo: "25.037147815773103, 121.51667019531996"
+    link: "台北市/中正區/詩篇咖啡餐廳"
     google_map: "https://maps.app.goo.gl/7QTEcPfYcJQHyFuH7"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80/82/"
-    official: "https://www.facebook.com/PsalmsCafe"
     award:
-    - name: "台北國際牛肉麵節"
-      year: "2024"
     - name: "台北國際牛肉麵節"
       year: "2024"
   - name: "好吃炸雞"
@@ -72,9 +71,9 @@ restaurants:
     address: "台北市中正區中華路二段315巷41號"
     phone: "0223055992"
     geo: "25.028843081272893, 121.5063911104066"
+    link: "台北市/中正區/好吃炸雞"
     google_map: "https://maps.app.goo.gl/ZxNr3GvjPi7f8y5A9"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e6%ad%a3%e5%8d%80/161204/"
-    official: ""
     award:
     - name: "夜市王"
       year: "2024"
@@ -84,9 +83,9 @@ restaurants:
     address: "台北市中正區中華路二段311巷"
     phone: "0930840640"
     geo: "25.028710849274624, 121.50622132683642"
+    link: "台北市/中正區/銘鄉豬高飯"
     google_map: "https://maps.app.goo.gl/hxjeQFv68PfFHZUL8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80/362047/"
-    official: "https://www.facebook.com/profile.php?id=100069267175195"
     award:
     - name: "夜市王"
       year: "2024"
@@ -96,9 +95,9 @@ restaurants:
     address: "台北市中正區中華路二段313巷18號"
     phone: "0223019448"
     geo: "25.02834367699148, 121.50644058142598"
+    link: "台北市/中正區/禾甲蒸豆腐食堂"
     google_map: "https://maps.app.goo.gl/you287hw5x4W3qDh7"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e6%ad%a3%e5%8d%80/34738/"
-    official: "https://www.facebook.com/p/%E7%A6%BE%E7%94%B2-100063825320865/"
     award:
     - name: "夜市王"
       year: "2024"
@@ -108,9 +107,9 @@ restaurants:
     address: "台北市中正區中華路二段309巷22號"
     phone: "0932292995"
     geo: "25.02902115151182, 121.50623058529553"
+    link: "台北市/中正區/英姐黑糖珍珠鮮奶"
     google_map: "https://maps.app.goo.gl/AAAc8axcVs1rQK7N9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80/16435/"
-    official: "https://www.facebook.com/profile.php?id=100063909369643"
     award:
     - name: "夜市王"
       year: "2024"
@@ -120,9 +119,9 @@ restaurants:
     address: "台北市中正區中華路二段307巷5號"
     phone: "0223092988"
     geo: "25.028998622777774, 121.50540516290361"
+    link: "台北市/中正區/胖媽大塊牛肉麵"
     google_map: "https://maps.app.goo.gl/9MVNXLPHVFG9DKNj7"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80/52376/"
-    official: "https://www.facebook.com/profile.php?id=100057698280381"
     award:
     - name: "夜市王"
       year: "2024"

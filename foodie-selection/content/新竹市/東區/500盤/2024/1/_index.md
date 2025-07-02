@@ -1,11 +1,12 @@
 ---
-title: "新竹市 東區 500盤 2024"
+title: "新竹市 東區 500盤 2024 第1頁"
+description: "新竹市 東區 500盤 2024 獲獎餐廳 第1頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "新竹市"
 district: "東區"
 award: "500盤"
@@ -20,9 +21,9 @@ restaurants:
     address: "新竹市東區東大路一段136號"
     phone: "035438898"
     geo: "24.808519554054435, 120.97211164369801"
+    link: "新竹市/東區/菜園上海餐廳"
     google_map: "https://maps.app.goo.gl/okbenzsF7BQb8mpYA"
     footinder: "https://footinder.com.tw/%E6%96%B0%E7%AB%B9%E5%B8%82%E6%9D%B1%E5%8D%80/127814/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"

@@ -1,11 +1,12 @@
 ---
-title: "所有城市 所有行政區 500盤 所有年份"
+title: "所有城市 所有行政區 500盤 所有年份 第4頁"
+description: "所有城市 所有行政區 500盤 所有年份 獲獎餐廳 第4頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "所有城市"
 district: "所有行政區"
 award: "500盤"
@@ -20,9 +21,9 @@ restaurants:
     address: "台北市松山區敦化北路199巷17號1樓"
     phone: "0287128770"
     geo: "25.056527031376323, 121.55272388672925"
+    link: "台北市/松山區/富錦樹台菜香檳"
     google_map: "https://maps.app.goo.gl/M4DZnfyXXNdF1UTY9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/251/"
-    official: "https://www.fujintreeshop.com/"
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "台北市萬華區青山里華西街31-1號"
     phone: "0223081123"
     geo: "25.038018155437342, 121.49844876887356"
+    link: "台北市/萬華區/華西街台南擔仔麵海鮮餐廳"
     google_map: "https://maps.app.goo.gl/hLaN5dbM56hzFV36A"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E8%90%AC%E8%8F%AF%E5%8D%80/5587/"
-    official: "https://www.seafoodtaipei.com.tw/#/top"
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "台北市松山區敦化北路218號"
     phone: "0227177596"
     geo: "25.058454039975512, 121.54873724676541"
+    link: "台北市/松山區/貓下去敦北俱樂部"
     google_map: "https://maps.app.goo.gl/PWqVCnArLbKX7ofm8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/8611/"
-    official: "https://linktr.ee/meowvelousinc"
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "台北市中山區中山北路二段137巷18-1號"
     phone: "0225629287"
     geo: "25.061657306165262, 121.52426435490648"
+    link: "台北市/中山區/明福台菜"
     google_map: "https://maps.app.goo.gl/QyMYUT9nqXdwE6KH8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/31277/"
-    official: "https://www.facebook.com/profile.php?id=100064062872022"
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台北市中山區樂群三路303號2樓"
     phone: "0285025522"
     geo: "25.082829503306375, 121.55991323975417"
+    link: "台北市/中山區/朧粵"
     google_map: "https://maps.app.goo.gl/HhMpAuqEXUrsDkqz9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/8935/"
-    official: "https://www.longyuetw.com/"
     award:
     - name: "500盤"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "台北市中山區民權東路二段41號B1"
     phone: "0225971234"
     geo: "25.062885061149295, 121.52999084573858"
+    link: "台北市/中山區/天香樓"
     google_map: "https://maps.app.goo.gl/7s39NQC9oKE45Dij8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/13051/"
-    official: "https://taipei.landishotelsresorts.com/chinese-trad/dining-list.php"
     award:
     - name: "500盤"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "台北市大安區敦化南路1段324號B1"
     phone: "0227083110"
     geo: "25.035319254473286, 121.54846532286291"
+    link: "台北市/大安區/驥園川菜餐廳"
     google_map: "https://maps.app.goo.gl/wGUGyETnmYnEWYwd8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/32970/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "台北市大安區大安路一段135號B1"
     phone: "0227761658"
     geo: "25.03876971276977, 121.54617981162737"
+    link: "台北市/大安區/橘色涮涮屋"
     google_map: "https://maps.app.goo.gl/fQq38hBWrPXavLth8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/32704/"
-    official: "https://orangeshabushabu.com/zh-TW"
     award:
     - name: "500盤"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "台北市大安區濟南路三段59-1號一樓"
     phone: "0227525101"
     geo: "25.040304716111656, 121.53669341616146"
+    link: "台北市/大安區/上膳若川"
     google_map: "https://maps.app.goo.gl/QKQV1qp7MF8g6HjP7"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/133637/"
-    official: "https://www.facebook.com/tastychuan?mibextid=LQQJ4d"
     award:
     - name: "500盤"
       year: "2024"

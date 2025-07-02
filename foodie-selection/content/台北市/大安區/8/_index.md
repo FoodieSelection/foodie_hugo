@@ -1,11 +1,12 @@
 ---
-title: "台北市 大安區 所有獎項 所有年份"
+title: "台北市 大安區 所有獎項 所有年份 第8頁"
+description: "台北市 大安區 所有獎項 所有年份 獲獎餐廳 第8頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "台北市"
 district: "大安區"
 award: "所有獎項"
@@ -20,9 +21,9 @@ restaurants:
     address: "台北市大安區瑞安街141號"
     phone: "0227063322"
     geo: "25.026690137023905, 121.53963889211907"
+    link: "台北市/大安區/AnticoForno_老烤箱義式披薩餐酒"
     google_map: "https://maps.app.goo.gl/15zvuB6LQFCeYGE89"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/32335/"
-    official: "https://www.facebook.com/anticoforno141/"
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "台北市大安區潮州街188號"
     phone: ""
     geo: "25.028261388389684, 121.53024463876285"
+    link: "台北市/大安區/A.B_HOUSE義式私房料理"
     google_map: "https://maps.app.goo.gl/eEy1HxtUtyUVLkCk7"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/35531/"
-    official: "https://www.facebook.com/A.BHouseYiShiSiFangLiaoLi"
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "台北市大安區敦化南路一段190巷16號"
     phone: "0909220929"
     geo: "25.042533694210622, 121.54763675553635"
+    link: "台北市/大安區/Chale_Tacos_Taipei_墨西哥餐廳"
     google_map: "https://maps.app.goo.gl/9bcBgnnj88q1Zrch7"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/362193/"
-    official: "https://www.instagram.com/chaletacos/"
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "台北市大安區麗水街13巷2號"
     phone: "0223416767"
     geo: "25.030195114568063, 121.52864799516986"
+    link: "台北市/大安區/Hanekin_麵屋·羽金"
     google_map: "https://maps.app.goo.gl/5y6oF1Co91zmf2we9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/47096/"
-    official: "https://www.facebook.com/profile.php?id=100088738488343"
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台北市大安區光復南路308巷45號"
     phone: "0227406638"
     geo: "25.03885883238682, 121.55577391086238"
+    link: "台北市/大安區/La_Piola_Cucina_Italiana"
     google_map: "https://maps.app.goo.gl/J561qRqSFbJb5J3r9"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/158063/"
-    official: "https://lapiolataipei.com/"
     award:
     - name: "500盤"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "台北市大安區濟南路三段41號一樓"
     phone: "0227525357"
     geo: "25.040330972190407, 121.53629962812782"
+    link: "台北市/大安區/Torishou鳥翔"
     google_map: "https://maps.app.goo.gl/u3LHH4rKH9QfidJr5"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/35703/"
-    official: "https://www.facebook.com/profile.php?id=100086996674530"
     award:
     - name: "500盤"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "台北市大安區仁愛路三段143巷25號"
     phone: "0227113881"
     geo: "25.03960909993349, 121.54318238968213"
+    link: "台北市/大安區/L'_AGE_熟成餐廳"
     google_map: "https://maps.app.goo.gl/ZhCnCVbN1TZ6fCmCA"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/255/"
-    official: "https://www.facebook.com/520Lage/"
     award:
     - name: "500盤"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "台北市大安區四維路28號"
     phone: "0227000901"
     geo: "25.036329196613348, 121.54807181035986"
+    link: "台北市/大安區/MUME"
     google_map: "https://maps.app.goo.gl/myMWsXLGzsnPhVSC8"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/248/"
-    official: "https://www.mume.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "台北市大安區延吉街239號"
     phone: ""
     geo: "25.03630143352749, 121.55571343152243"
+    link: "台北市/大安區/PIZZAROUND_比薩斜躺"
     google_map: "https://maps.app.goo.gl/kAaMD9aKycnYhfZ37"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/362207/"
-    official: "https://www.facebook.com/pizzaroundtw/"
     award:
     - name: "500盤"
       year: "2024"

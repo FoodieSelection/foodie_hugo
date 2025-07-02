@@ -1,11 +1,12 @@
 ---
-title: "台北市 大安區 所有獎項 2024"
+title: "台北市 大安區 所有獎項 2024 第3頁"
+description: "台北市 大安區 所有獎項 2024 獲獎餐廳 第3頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "台北市"
 district: "大安區"
 award: "所有獎項"
@@ -20,9 +21,9 @@ restaurants:
     address: "分店眾多請自行搜尋"
     phone: ""
     geo: ""
+    link: "台北市/大安區/小小樹食"
     google_map: "https://www.google.com/maps/search/%E5%B0%8F%E5%B0%8F%E6%A8%B9%E9%A3%9F/@25.0364368,121.497729,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYyMy4yIKXMDSoASAFQAw%3D%3D"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/47870/"
-    official: "https://www.noke.littletreefood.com/"
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "台北市大安區安和路二段167號1樓"
     phone: "0227329920"
     geo: "25.028226418014707, 121.55020137897594"
+    link: "台北市/大安區/鮨二七"
     google_map: "https://maps.app.goo.gl/emYgipnArUuaBcxs6"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/36432/"
-    official: "https://www.2727.com.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "台北市大安區仁愛路四段300巷29號1樓"
     phone: "0900638988"
     geo: "25.035542560578616, 121.55454166935762"
+    link: "台北市/大安區/成海壽司_narumi_sushi"
     google_map: "https://maps.app.goo.gl/s4qWkS9F7jwi4RDS6"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/110871/"
-    official: "https://www.facebook.com/p/%E6%88%90%E6%B5%B7-%E5%AF%BF%E5%8F%B8-100063713755433/"
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "分店眾多請自行搜尋"
     phone: ""
     geo: ""
+    link: "台北市/大安區/雙月食品社"
     google_map: "https://www.google.com/maps/search/%E9%9B%99%E6%9C%88%E9%A3%9F%E5%93%81%E7%A4%BE/@25.016225,121.4503917,11.87z?entry=ttu&g_ep=EgoyMDI1MDYyMy4yIKXMDSoASAFQAw%3D%3D"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/32035/"
-    official: "https://www.moonmoonfood.com/"
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台北市大安區愛國東路99號1樓"
     phone: ""
     geo: "25.031552470475205, 121.528428211202"
+    link: "台北市/大安區/酉志"
     google_map: "https://maps.app.goo.gl/L8MQgVdEp4ruNQPBA"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/52921/"
-    official: "https://www.facebook.com/you.zhiii/"
     award:
     - name: "500盤"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "台北市大安區仁愛路四段371號"
     phone: ""
     geo: "25.038276830789098, 121.55468022592773"
+    link: "台北市/大安區/鮨天本_Amamoto"
     google_map: "https://maps.app.goo.gl/hk5D1Ek4gYKsFXt67"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/105061/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "台北市大安區信義路四段175號"
     phone: "0227001958"
     geo: "25.033421405097084, 121.55053866400769"
+    link: "台北市/大安區/de_nuit"
     google_map: "https://maps.app.goo.gl/Ya54yVc8JkWpqMnJ8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/153101/"
-    official: "https://www.denuit.com.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "台北市大安區安和路二段71巷15號"
     phone: "0227322552"
     geo: "25.02998519193155, 121.55300477385548"
+    link: "台北市/大安區/Divino_TAipei"
     google_map: "https://maps.app.goo.gl/CLmouZAxttfTHeXbA"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/47916/"
-    official: "https://www.divinorestaurants.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "台北市大安區敦化南路一段160巷18號"
     phone: "0287710828"
     geo: "25.04350617482437, 121.5476475299198"
+    link: "台北市/大安區/nabo_ulv"
     google_map: "https://maps.app.goo.gl/PrDH2vAcV7WitEFC8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/362128/"
-    official: "https://www.ulvtaipei.com/"
     award:
     - name: "500盤"
       year: "2024"

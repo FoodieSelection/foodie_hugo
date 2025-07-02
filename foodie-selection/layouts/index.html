@@ -36,6 +36,10 @@
 </script>
 {{ end }}
 
+{{ define "css" }}
+<link rel="stylesheet" href="{{ "css/style.css" | absURL }}">
+{{ end }}
+
 {{ define "main" }}
 <header class="header">
   <div class="header-container">
@@ -54,6 +58,7 @@
 <main class="main">
   <div class="container">
     <section class="search-section">
+      <h2 class="un-seen">餐廳搜尋</h2>
       <div class="search-container">
         <div class="search-filters">
           <div class="filter-row">
@@ -121,6 +126,7 @@
     </section>
 
     <section class="results-section">
+      <h2 class="un-seen">搜尋結果</h2>
       <div id="restaurants-grid" class="restaurants-grid">
         {{ range .Params.restaurants }}
         <div class="restaurant-card">
@@ -172,7 +178,7 @@
         {{ else }}
         <div id="no-results" class="no-results hidden">
           <div class="no-results_content">
-            <h3>未找到符合條件的餐廳</h3>
+            <p>未找到符合條件的餐廳</p>
           </div>
         </div>
         {{ end }}
@@ -189,7 +195,7 @@
 <footer>
   <div class="footer-content">
     <div class="footer-section">
-      <h3>任何問題? 歡迎與我們聯絡</h3>
+      <p>任何問題? 歡迎與我們聯絡</p>
       <div class="contact-links">
         <button id="copyEmailBtn" class="copy-email-btn">
           <span>📧</span>

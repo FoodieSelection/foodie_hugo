@@ -1,11 +1,12 @@
 ---
-title: "台北市 所有行政區 500盤 所有年份"
+title: "台北市 所有行政區 500盤 所有年份 第18頁"
+description: "台北市 所有行政區 500盤 所有年份 獲獎餐廳 第18頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "台北市"
 district: "所有行政區"
 award: "500盤"
@@ -20,9 +21,9 @@ restaurants:
     address: "台北市信義區嘉興街175巷2弄8號"
     phone: ""
     geo: "25.02748479024552, 121.55742378606605"
+    link: "台北市/信義區/雙城雙廚"
     google_map: "https://maps.app.goo.gl/43WJp92iomFfxDnr9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80/362164/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "台北市中山區中山北路二段185號2樓"
     phone: "0933737893"
     geo: "25.063868303245837, 121.5226139269664"
+    link: "台北市/中山區/十得私廚"
     google_map: "https://maps.app.goo.gl/mZtSoEDiC8dVomu86"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/7753/"
-    official: "https://www.10de10der.com/pages/10der-shop"
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "台北市大安區敦化南路一段177巷22號1樓"
     phone: "0227710595"
     geo: "25.043001375359168, 121.55008876697414"
+    link: "台北市/大安區/侍燒肉"
     google_map: "https://maps.app.goo.gl/yVygpqd32E3QZw6Z7"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/362166/"
-    official: "https://www.facebook.com/samuraiyakiniku2023"
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "台北市大安區信義路四段25號2樓"
     phone: "0227038822"
     geo: "25.033581037187666, 121.544639769365"
+    link: "台北市/大安區/榮榮園浙寧餐廳"
     google_map: "https://maps.app.goo.gl/T9SL41jzPjr1FqoY7"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/8589/"
-    official: "https://www.facebook.com/rongrongyuan0227038822"
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台北市大安區延吉街131巷35號"
     phone: "0287720358"
     geo: "25.043005645899484, 121.5557734154559"
+    link: "台北市/大安區/嵩SUNG_台北大安"
     google_map: "https://maps.app.goo.gl/JtKAYUYfMazEJDfn6"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/362168/"
-    official: "https://www.zunhongtw.com/article_d.php?lang=tw&tb=2&id=132"
     award:
     - name: "500盤"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "台北市中山區建國北路三段80巷1號"
     phone: "0227025277"
     geo: "25.065657746664648, 121.5356822394339"
+    link: "台北市/中山區/阿正廚坊"
     google_map: "https://maps.app.goo.gl/tJp4JMz8Dd2HdYBDA"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/362170/"
-    official: "https://www.facebook.com/chefshowtimetw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "台北市大安區大安路二段19號"
     phone: "0227061177"
     geo: "25.032283710807754, 121.5461180859745"
+    link: "台北市/大安區/阿嬌海鮮料理"
     google_map: "https://maps.app.goo.gl/ywhRk8dwK9yjZ5n86"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/36286/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "台北市大安區復興南路二段130號"
     phone: "0223255677"
     geo: "25.029143984320722, 121.54329736375456"
+    link: "台北市/大安區/鵝川_永久歇業_"
     google_map: "https://maps.app.goo.gl/ExqHYcyPiisCtcqGA"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/133635/"
-    official: "https://www.facebook.com/echuan97/"
     award:
     - name: "500盤"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "台北市中正區八德路一段1號中4D, 華山1914文創園區內 中4D館"
     phone: "0233224949"
     geo: "25.044785529668108, 121.52950720132121"
+    link: "台北市/中正區/一碗來TaiwanMama"
     google_map: "https://maps.app.goo.gl/15uCH78kdASc39Vr8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80/31499/"
-    official: "https://taiwanmama.com/"
     award:
     - name: "500盤"
       year: "2024"

@@ -1,0 +1,27 @@
+---
+title: "兩支北方麵館"
+description: "兩支北方麵館"
+layout: shop
+keywords:
+  - 美食競賽
+  - 台灣美食
+  - 美食精選
+datePublished: "2025-06-30"
+dateModified: "2025-07-02"
+city: "新北市"
+district: "土城區"
+address: "分店眾多請自行搜尋"
+phone: ""
+geo: ""
+google_map: "https://www.google.com/maps/search/%E5%85%A9%E6%94%AF%E5%8C%97%E6%96%B9%E9%BA%B5%E9%A4%A8/@25.0195526,121.4027033,15z?entry=ttu&g_ep=EgoyMDI1MDYyMy4yIKXMDSoASAFQAw%3D%3D"
+footinder: "https://footinder.com.tw/%e6%96%b0%e5%8c%97%e5%b8%82%e5%9c%9f%e5%9f%8e%e5%8d%80/5903/"
+official: "https://www.facebook.com/top2food"
+award:
+  - name: "台北國際牛肉麵節"
+    year: "2024"
+    entries:
+      - group: "鮮食組"
+        cooking_style: "樂齡創意"
+        rank: "銅牌"
+
+---

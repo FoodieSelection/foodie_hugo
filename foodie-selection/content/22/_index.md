@@ -1,11 +1,12 @@
 ---
-title: "所有城市 所有行政區 所有獎項 所有年份"
+title: "所有城市 所有行政區 所有獎項 所有年份 第22頁"
+description: "所有城市 所有行政區 所有獎項 所有年份 獲獎餐廳 第22頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "所有城市"
 district: "所有行政區"
 award: "所有獎項"
@@ -20,9 +21,9 @@ restaurants:
     address: "台北市中山區松江路128號"
     phone: "0225428828"
     geo: "25.052787959631914, 121.532792777908"
+    link: "台北市/中山區/養心茶樓_蔬食飲茶"
     google_map: "https://maps.app.goo.gl/sS2XTsmHyJmovFYS6"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/31832/"
-    official: "https://www.ysvege.com/"
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "台北市中山區松江路362巷57號"
     phone: ""
     geo: "25.062021607433522, 121.53117554321011"
+    link: "台北市/中山區/味处初梅_初梅_"
     google_map: "https://maps.app.goo.gl/nJpy35RZpYv7Fm2PA"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/362173/"
-    official: "https://www.facebook.com/profile.php?id=100063701006201"
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "台北市松山區八德路四段217號"
     phone: "0227485133"
     geo: "25.049050192629483, 121.56428903287014"
+    link: "台北市/松山區/萬客什鍋"
     google_map: "https://maps.app.goo.gl/493rsYuS2B6ywguB8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/76083/"
-    official: "https://www.wankeshabu.com/"
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "台北市中山區八德路二段312巷13號"
     phone: "0227761008"
     geo: "25.046761515645123, 121.54299162482125"
+    link: "台北市/中山區/吳留手串燒居酒屋"
     google_map: "https://maps.app.goo.gl/WuN4qqhBQw9K5hX2A"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/32415/"
-    official: "https://www.facebook.com/wuliushou1/"
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台北市中正區羅斯福路三段244巷9弄7號"
     phone: "0223693906"
     geo: "25.017488528733512, 121.5301114755152"
+    link: "台北市/中正區/巫雲"
     google_map: "https://maps.app.goo.gl/k2GMed3M5cQ2YakJ6"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80/31356/"
-    official: "https://www.facebook.com/p/%E5%B7%AB%E9%9B%B2-100063797209875/"
     award:
     - name: "500盤"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "台北市大同區迪化街一段21號"
     phone: "0225565276"
     geo: "25.054821063443313, 121.51048663938555"
+    link: "台北市/大同區/丸隆生魚行"
     google_map: "https://maps.app.goo.gl/QufstdKZ22jG2S2f8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%90%8C%E5%8D%80/46579/"
-    official: "https://www.facebook.com/profile.php?id=100063724282954"
     award:
     - name: "500盤"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "台北市中山區雙城街25巷9號1樓"
     phone: "0225859221"
     geo: "25.066281537588416, 121.52497056486794"
+    link: "台北市/中山區/月夜岩_蟹懷石"
     google_map: "https://maps.app.goo.gl/TCfbegMbxJroGo39A"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/46905/"
-    official: "https://tsukiyoiwa.com/"
     award:
     - name: "500盤"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "新竹縣竹北市嘉豐南路一段62號"
     phone: "0919110613"
     geo: "24.81105080518, 121.03408765039525"
+    link: "新竹縣/竹北市/鮨安"
     google_map: "https://maps.app.goo.gl/LpRGLAPYyLjn7H4P9"
     footinder: "https://footinder.com.tw/%e6%96%b0%e7%ab%b9%e7%b8%a3%e7%ab%b9%e5%8c%97%e5%b8%82/362175/"
-    official: "https://www.facebook.com/profile.php?id=100072667800756"
     award:
     - name: "500盤"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "台北市大安區仁愛路四段345巷4弄36號"
     phone: "0227313439"
     geo: "25.038910754761208, 121.55166428516513"
+    link: "台北市/大安區/圍爐酸菜白肉鍋"
     google_map: "https://maps.app.goo.gl/ffMmmFf3H9qLu88u5"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/33199/"
-    official: "http://www.weiluhotpot.com.tw/"
     award:
     - name: "500盤"
       year: "2024"

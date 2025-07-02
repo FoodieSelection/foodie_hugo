@@ -1,11 +1,12 @@
 ---
-title: "台北市 松山區 所有獎項 2024"
+title: "台北市 松山區 所有獎項 2024 第1頁"
+description: "台北市 松山區 所有獎項 2024 獲獎餐廳 第1頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "台北市"
 district: "松山區"
 award: "所有獎項"
@@ -20,9 +21,9 @@ restaurants:
     address: "台北市松山區復興北路313巷43號"
     phone: "0225465980"
     geo: "25.059036706848254, 121.54693058077201"
+    link: "台北市/松山區/鄒記食舖"
     google_map: "https://maps.app.goo.gl/w7pW6acHTFGeTnE9A"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/133658/"
-    official: "https://www.instagram.com/zoujicuisine"
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "台北市松山區民權東路三段160巷19弄36號"
     phone: ""
     geo: "25.059432931972964, 121.54867021568873"
+    link: "台北市/松山區/Ashin阿鑫小料理"
     google_map: "https://maps.app.goo.gl/WATLuFo1jufKWuCD8"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e6%9d%be%e5%b1%b1%e5%8d%80/168883/"
-    official: "https://www.facebook.com/profile.php?id=100063999757551"
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "台北市松山區敦化北路199巷17號1樓"
     phone: "0287128770"
     geo: "25.056527031376323, 121.55272388672925"
+    link: "台北市/松山區/富錦樹台菜香檳"
     google_map: "https://maps.app.goo.gl/M4DZnfyXXNdF1UTY9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/251/"
-    official: "https://www.fujintreeshop.com/"
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "台北市松山區敦化北路218號"
     phone: "0227177596"
     geo: "25.058454039975512, 121.54873724676541"
+    link: "台北市/松山區/貓下去敦北俱樂部"
     google_map: "https://maps.app.goo.gl/PWqVCnArLbKX7ofm8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/8611/"
-    official: "https://linktr.ee/meowvelousinc"
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台北市松山區敦化北路165巷11號"
     phone: "0227199191"
     geo: "25.054840972665197, 121.5507047785528"
+    link: "台北市/松山區/T_T"
     google_map: "https://maps.app.goo.gl/6oB55JhYPXfsXX7a6"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/8794/"
-    official: "https://www.facebook.com/tt27199191/"
     award:
     - name: "500盤"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "台北市松山區敦化北路158號"
     phone: "0227156788"
     geo: "25.05555317864661, 121.5483278588551"
+    link: "台北市/松山區/雅閣"
     google_map: "https://maps.app.goo.gl/jjqFTTTLoUfN5Ubi7"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/13143/"
-    official: "https://www.mandarinoriental.com/en/taipei/songshan/dine/ya-ge"
     award:
     - name: "500盤"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "台北市松山區富錦街446號"
     phone: ""
     geo: "25.060751043482774, 121.56181748117038"
+    link: "台北市/松山區/十里。尋"
     google_map: "https://maps.app.goo.gl/P5eUtNFEzrtMbA5s5"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/362124/"
-    official: "https://www.instagram.com/seeker_10k/"
     award:
     - name: "500盤"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "台北市松山區三民路9-1號"
     phone: "0225030303"
     geo: "25.053963694958494, 121.56328369553202"
+    link: "台北市/松山區/彧割烹"
     google_map: "https://maps.app.goo.gl/g3MNvNsAnwYXJKbd8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/9076/"
-    official: "https://www.facebook.com/yugepeng/"
     award:
     - name: "500盤"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "台北市松山區民生東路三段127巷6號1樓"
     phone: ""
     geo: "25.0585159762837, 121.54740499143944"
+    link: "台北市/松山區/M_CO"
     google_map: "https://maps.app.goo.gl/K5ZbXAtKZQ1MWPVu5"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/47863/"
-    official: "https://www.facebook.com/MCOrestaurant"
     award:
     - name: "500盤"
       year: "2024"

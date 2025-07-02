@@ -1,11 +1,12 @@
 ---
-title: "台北市 所有行政區 所有獎項 所有年份"
+title: "台北市 所有行政區 所有獎項 所有年份 第6頁"
+description: "台北市 所有行政區 所有獎項 所有年份 獲獎餐廳 第6頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "台北市"
 district: "所有行政區"
 award: "所有獎項"
@@ -20,9 +21,9 @@ restaurants:
     address: "台北市中山區樂群二路265巷38號"
     phone: "0285029168"
     geo: "25.081119516828522, 121.56043162874795"
+    link: "台北市/中山區/斑泊餐廳"
     google_map: "https://maps.app.goo.gl/PS7J6uornGR3usmz8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/43675/"
-    official: "https://www.facebook.com/banborestaurant/"
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "台北市信義區信義路五段7號85樓"
     phone: "0281010085"
     geo: "25.03381952306632, 121.56481445373967"
+    link: "台北市/信義區/捌伍添第85TD"
     google_map: "https://maps.app.goo.gl/rkmGsuzE6usX3XzE8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80/9091/"
-    official: "https://www.85td-101.com/"
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "台北市大安區仁愛路四段300巷20弄17號"
     phone: ""
     geo: "25.036371641301038, 121.55324464548904"
+    link: "台北市/大安區/好嶼_HOSU"
     google_map: "https://maps.app.goo.gl/5E3eQedNQyxSg3g26"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/176070/"
-    official: "https://www.hosutaiwan.com/"
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "台北市中山區長春路55號"
     phone: "0225815954"
     geo: "25.055024231029858, 121.52608830755406"
+    link: "台北市/中山區/雞家莊本店"
     google_map: "https://maps.app.goo.gl/xpVTT7kSXZ6U8cKF9"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/31241/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台北市大安區仁愛路四段48巷30號"
     phone: "0933759009"
     geo: "25.036276913150456, 121.54700647548907"
+    link: "台北市/大安區/昭和食堂"
     google_map: "https://maps.app.goo.gl/vi4FdkonRW972EgD7"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/36311/"
-    official: "https://www.facebook.com/joesuito/"
     award:
     - name: "500盤"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "台北市中山區長春路104號"
     phone: "0225410546"
     geo: "25.05479755130303, 121.52806663188414"
+    link: "台北市/中山區/九記港式海鮮餐廳"
     google_map: "https://maps.app.goo.gl/Q3TNGyHd9GHkPA2D9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/8269/"
-    official: "https://www.facebook.com/profile.php?id=100068289518236"
     award:
     - name: "500盤"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "台北市中山區樂群三路303號2F"
     phone: "0285020308"
     geo: "25.082795719787157, 121.56032849401385"
+    link: "台北市/中山區/Birdy_Yakitori_燒鳥狂想曲"
     google_map: "https://maps.app.goo.gl/5zSFtDbZ6PPX2Rzz8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/42538/"
-    official: "https://www.facebook.com/birdyyakitori/"
     award:
     - name: "500盤"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "台北市中山區雙城街25巷6之3號"
     phone: "0225961069"
     geo: "25.066169086535727, 121.52487349398537"
+    link: "台北市/中山區/明壽司"
     google_map: "https://maps.app.goo.gl/xXqyu7pzHrktN7xK8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/31291/"
-    official: "https://www.facebook.com/profile.php?id=100054190377042"
     award:
     - name: "500盤"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "台北市大安區忠孝東路四段216巷27弄10號"
     phone: "0227788825"
     geo: "25.039791827321462, 121.55357049818812"
+    link: "台北市/大安區/渡邊日本料理"
     google_map: "https://maps.app.goo.gl/er8KxSwXRWaEA2Hn8"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/105052/"
-    official: "https://www.facebook.com/Watanabeshinsuke2020/"
     award:
     - name: "500盤"
       year: "2024"

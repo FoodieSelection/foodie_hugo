@@ -1,11 +1,12 @@
 ---
-title: "所有城市 所有行政區 500盤 所有年份"
+title: "所有城市 所有行政區 500盤 所有年份 第15頁"
+description: "所有城市 所有行政區 500盤 所有年份 獲獎餐廳 第15頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "所有城市"
 district: "所有行政區"
 award: "500盤"
@@ -20,9 +21,9 @@ restaurants:
     address: "新竹市東區東大路一段136號"
     phone: "035438898"
     geo: "24.808519554054435, 120.97211164369801"
+    link: "新竹市/東區/菜園上海餐廳"
     google_map: "https://maps.app.goo.gl/okbenzsF7BQb8mpYA"
     footinder: "https://footinder.com.tw/%E6%96%B0%E7%AB%B9%E5%B8%82%E6%9D%B1%E5%8D%80/127814/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "台北市信義區基隆路一段333號34樓"
     phone: "0227232938"
     geo: "25.034408673671145, 121.56122814947172"
+    link: "台北市/信義區/漢來名人坊"
     google_map: "https://maps.app.goo.gl/G6gFQewFMnKDhCsSA"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82/9094/"
-    official: "https://www.hilai-foods.com/brand-content/7#branch-5/celebrity-cuisine"
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "台北市松山區敦化北路165巷9號1樓"
     phone: "0227184469"
     geo: "25.05484497551117, 121.55056568896391"
+    link: "台北市/松山區/花娘小廚"
     google_map: "https://maps.app.goo.gl/K5nT32WX1pQgXSCdA"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e6%9d%be%e5%b1%b1%e5%8d%80/33049/"
-    official: "https://www.facebook.com/p/%E8%8A%B1%E5%A8%98%E5%B0%8F%E9%A4%A8-100063747175185/"
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "台北市北投區石牌路二段360號"
     phone: "0228731235"
     geo: "25.123408565424207, 121.5254254583324"
+    link: "台北市/北投區/磺溪小鎮"
     google_map: "https://maps.app.goo.gl/S133WamZSotEy5g98"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%8C%97%E6%8A%95%E5%8D%80/7824/"
-    official: "https://www.facebook.com/SulfurCreekTown/"
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台北市中正區仁愛路二段48號"
     phone: "0223960682"
     geo: "25.03803484707546, 121.52800467132023"
+    link: "台北市/中正區/皇膳餐廳"
     google_map: "https://maps.app.goo.gl/hmS9RsxCCea4iwmy9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80/80/"
-    official: "https://www.royal-restaurant.com.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "台北市信義區逸仙路32巷15號1樓"
     phone: "0287863320"
     geo: "25.039912582914482, 121.5627165502999"
+    link: "台北市/信義區/琥珀割烹_Kohaku"
     google_map: "https://maps.app.goo.gl/JLfFhzJ3cLJhZphr5"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%bf%a1%e7%be%a9%e5%8d%80/362142/"
-    official: "https://www.instagram.com/kohaku.tw"
     award:
     - name: "500盤"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "台北市士林區士東路100號"
     phone: "0228317154"
     geo: "25.11207007794423, 121.5292938310075"
+    link: "台北市/士林區/好麵煮私房麵館"
     google_map: "https://maps.app.goo.gl/2CsBXNpXEqWBVkMb9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A3%AB%E6%9E%97%E5%8D%80/42241/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "台北市松山區民生東路三段130巷7弄15號"
     phone: "0225465655"
     geo: "25.0566510551678, 121.54686406629185"
+    link: "台北市/松山區/海真私房菜"
     google_map: "https://maps.app.goo.gl/LZcubm5tS9FfE5nu9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/8666/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "宜蘭縣宜蘭市民權路二段36號6樓"
     phone: "039101011"
     geo: "24.753691685363968, 121.75025374373382"
+    link: "宜蘭縣/宜蘭市/紅樓中餐廳"
     google_map: "https://maps.app.goo.gl/3ndJ711xV9VrfVrH7"
     footinder: "https://footinder.com.tw/%E5%AE%9C%E8%98%AD%E7%B8%A3%E5%AE%9C%E8%98%AD%E5%B8%82/86/"
-    official: "https://www.silksplace-yilan.com.tw/n/food_red_lantern.aspx"
     award:
     - name: "500盤"
       year: "2024"

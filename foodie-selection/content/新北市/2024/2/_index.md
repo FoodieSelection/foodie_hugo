@@ -1,11 +1,12 @@
 ---
-title: "新北市 所有行政區 所有獎項 2024"
+title: "新北市 所有行政區 所有獎項 2024 第2頁"
+description: "新北市 所有行政區 所有獎項 2024 獲獎餐廳 第2頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "新北市"
 district: "所有行政區"
 award: "所有獎項"
@@ -20,9 +21,9 @@ restaurants:
     address: "235新北市中和區中安街70號"
     phone: ""
     geo: "25.00221962406057, 121.5124245684332"
+    link: "新北市/中和區/癮-自在_暫時關閉_"
     google_map: "https://maps.app.goo.gl/g455zVGbFoSWbUqL7"
     footinder: "https://footinder.com.tw/%e6%96%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%92%8c%e5%8d%80/181100/"
-    official: "https://www.facebook.com/profile.php?id=100057685980048"
     award:
     - name: "台北國際牛肉麵節"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "248新北市五股區成泰路三段247號"
     phone: "0222928059"
     geo: "25.093612604703925, 121.44652060392576"
+    link: "新北市/五股區/新九九牛肉麵"
     google_map: "https://maps.app.goo.gl/tqMwNpdqCZUJAT3SA"
     footinder: "https://footinder.com.tw/%E6%96%B0%E5%8C%97%E5%B8%82%E4%BA%94%E8%82%A1%E5%8D%80/61838/"
-    official: "https://www.facebook.com/profile.php?id=100085834876593"
     award:
     - name: "台北國際牛肉麵節"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "237新北市三峽區國際一街66-1號1樓"
     phone: "0286716200"
     geo: "24.942176590197523, 121.37248716140101"
+    link: "新北市/三峽區/老私房牛肉麵"
     google_map: "https://maps.app.goo.gl/jfxtY51ijSGCUGRDA"
     footinder: "https://footinder.com.tw/%E6%96%B0%E5%8C%97%E5%B8%82%E4%B8%89%E5%B3%BD%E5%8D%80/64664/"
-    official: "https://www.facebook.com/profile.php?id=100063614605929"
     award:
     - name: "台北國際牛肉麵節"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "分店眾多請自行搜尋"
     phone: ""
     geo: ""
+    link: "新北市/土城區/兩支北方麵館"
     google_map: "https://www.google.com/maps/search/%E5%85%A9%E6%94%AF%E5%8C%97%E6%96%B9%E9%BA%B5%E9%A4%A8/@25.0195526,121.4027033,15z?entry=ttu&g_ep=EgoyMDI1MDYyMy4yIKXMDSoASAFQAw%3D%3D"
     footinder: "https://footinder.com.tw/%e6%96%b0%e5%8c%97%e5%b8%82%e5%9c%9f%e5%9f%8e%e5%8d%80/5903/"
-    official: "https://www.facebook.com/top2food"
     award:
     - name: "台北國際牛肉麵節"
       year: "2024"
@@ -68,12 +69,10 @@ restaurants:
     address: "新北市永和區保平路18巷2號"
     phone: "0979888215"
     geo: "25.00835352193154, 121.51146774306527"
+    link: "新北市/永和區/成銘月亮蝦餅"
     google_map: "https://maps.app.goo.gl/6JugaaFyeRSPZ2uu5"
     footinder: "https://footinder.com.tw/%E6%96%B0%E5%8C%97%E5%B8%82%E6%B0%B8%E5%92%8C%E5%8D%80/362039/"
-    official: "https://www.instagram.com/chmin888/"
     award:
-    - name: "夜市王"
-      year: "2024"
     - name: "夜市王"
       year: "2024"
   - name: "東石蚵仔煎"
@@ -82,9 +81,9 @@ restaurants:
     address: "新北市永和區永平路159號"
     phone: ""
     geo: "25.00865557804342, 121.51078620570179"
+    link: "新北市/永和區/東石蚵仔煎"
     google_map: "https://maps.app.goo.gl/HtU31fXjZG3p5Qqi6"
     footinder: "https://footinder.com.tw/%E6%96%B0%E5%8C%97%E5%B8%82%E6%B0%B8%E5%92%8C%E5%8D%80/362045/"
-    official: ""
     award:
     - name: "夜市王"
       year: "2024"
@@ -94,9 +93,9 @@ restaurants:
     address: "新北市永和區永平路26號"
     phone: "0222319922"
     geo: "25.008913667984267, 121.51328997827133"
+    link: "新北市/永和區/方家園臭豆腐"
     google_map: "https://maps.app.goo.gl/bS8PTyzoeAxGKuGo7"
     footinder: "https://footinder.com.tw/%E6%96%B0%E5%8C%97%E5%B8%82%E6%B0%B8%E5%92%8C%E5%8D%80/362067/"
-    official: ""
     award:
     - name: "夜市王"
       year: "2024"
@@ -106,9 +105,9 @@ restaurants:
     address: "新北市永和區永平路84號號前"
     phone: ""
     geo: "25.008618098237566, 121.51218146612096"
+    link: "新北市/永和區/小鹿梅花糕樂華店"
     google_map: "https://maps.app.goo.gl/kF8x3pASPzvGhKxTA"
     footinder: "https://footinder.com.tw/%E6%96%B0%E5%8C%97%E5%B8%82%E6%B0%B8%E5%92%8C%E5%8D%80/362069/"
-    official: "https://www.instagram.com/deercake2024"
     award:
     - name: "夜市王"
       year: "2024"
@@ -118,9 +117,9 @@ restaurants:
     address: "新北市永和區保平路18巷21號"
     phone: "0286603456"
     geo: "25.00797063502691, 121.51187453749408"
+    link: "新北市/永和區/阿泰鐵板燒_牛排"
     google_map: "https://maps.app.goo.gl/qSCPEnuUdzWHTxW19"
     footinder: "https://footinder.com.tw/%e6%96%b0%e5%8c%97%e5%b8%82%e6%b0%b8%e5%92%8c%e5%8d%80/7425/"
-    official: ""
     award:
     - name: "夜市王"
       year: "2024"

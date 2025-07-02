@@ -1,11 +1,12 @@
 ---
-title: "所有城市 所有行政區 台北國際牛肉麵節 所有年份"
+title: "所有城市 所有行政區 台北國際牛肉麵節 所有年份 第1頁"
+description: "所有城市 所有行政區 台北國際牛肉麵節 所有年份 獲獎餐廳 第1頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "所有城市"
 district: "所有行政區"
 award: "台北國際牛肉麵節"
@@ -20,9 +21,9 @@ restaurants:
     address: "台北市中正區八德路一段1號中4D, 華山1914文創園區內 中4D館"
     phone: "0233224949"
     geo: "25.044785529668108, 121.52950720132121"
+    link: "台北市/中正區/一碗來TaiwanMama"
     google_map: "https://maps.app.goo.gl/15uCH78kdASc39Vr8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80/31499/"
-    official: "https://taiwanmama.com/"
     award:
     - name: "500盤"
       year: "2024"
@@ -34,9 +35,9 @@ restaurants:
     address: "700台南市中西區保安路22號"
     phone: "062055396"
     geo: "22.990330941273367, 120.19711728075148"
+    link: "台南市/中西區/老龐家傳牛肉麵"
     google_map: "https://maps.app.goo.gl/Ezi8Lsrorr2BtFbE8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8D%97%E5%B8%82%E4%B8%AD%E8%A5%BF%E5%8D%80/181095/"
-    official: "https://www.facebook.com/p/%E8%80%81%E9%BE%90%E5%AE%B6%E5%82%B3%E7%89%9B%E8%82%89%E9%BA%B5-100064117776154/"
     award:
     - name: "台北國際牛肉麵節"
       year: "2024"
@@ -46,9 +47,9 @@ restaurants:
     address: "分店眾多請自行搜尋"
     phone: ""
     geo: ""
+    link: "新竹縣/竹北市/岩漿漢方麻辣火鍋"
     google_map: "https://www.google.com/maps/search/%E5%B2%A9%E6%BC%BF%E6%BC%A2%E6%96%B9%E9%BA%BB%E8%BE%A3%E7%81%AB%E9%8D%8B/@24.5961978,120.7678495,10z?entry=ttu&g_ep=EgoyMDI1MDYyMy4yIKXMDSoASAFQAw%3D%3D"
     footinder: "https://footinder.com.tw/%E6%96%B0%E7%AB%B9%E7%B8%A3%E7%AB%B9%E5%8C%97%E5%B8%82/123043/"
-    official: "https://yenchiang-hotpot.com/"
     award:
     - name: "台北國際牛肉麵節"
       year: "2024"
@@ -58,9 +59,9 @@ restaurants:
     address: "分店眾多請自行搜尋"
     phone: ""
     geo: ""
+    link: "台北市/大安區/八方雲集"
     google_map: "https://www.google.com/maps/search/%E5%85%AB%E6%96%B9%E9%9B%B2%E9%9B%86/@25.0930498,121.5384948,14z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYxNi4wIKXMDSoASAFQAw%3D%3D"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80/180217/"
-    official: "https://www.8way.com.tw/"
     award:
     - name: "台北國際牛肉麵節"
       year: "2024"
@@ -70,9 +71,9 @@ restaurants:
     address: "970花蓮縣花蓮市中美路303巷2號"
     phone: "038227766"
     geo: "23.998933795432528, 121.6320680987923"
+    link: "花蓮縣/花蓮市/六里屯"
     google_map: "https://maps.app.goo.gl/BnDWbsmMxoAV2PTT7"
     footinder: "https://footinder.com.tw/%E8%8A%B1%E8%93%AE%E7%B8%A3%E8%8A%B1%E8%93%AE%E5%B8%82/10010/"
-    official: "https://www.facebook.com/LltMeilun/"
     award:
     - name: "台北國際牛肉麵節"
       year: "2024"
@@ -82,9 +83,9 @@ restaurants:
     address: "807高雄市三民區吉林街243號"
     phone: "073229445"
     geo: "22.64771817418659, 120.30650614059422"
+    link: "高雄市/三民區/渝味食記重慶小麵"
     google_map: "https://maps.app.goo.gl/KT2RTydgXmdwd4uN7"
     footinder: "https://footinder.com.tw/%e9%ab%98%e9%9b%84%e5%b8%82%e4%b8%89%e6%b0%91%e5%8d%80/362213/"
-    official: "https://www.facebook.com/profile.php?id=61563661050239"
     award:
     - name: "台北國際牛肉麵節"
       year: "2024"
@@ -94,9 +95,9 @@ restaurants:
     address: "203基隆市中山區西定路113號"
     phone: "0905272005"
     geo: "25.134102660102265, 121.7347901926764"
+    link: "基隆市/中山區/小羅牛肉麵"
     google_map: "https://maps.app.goo.gl/RmQDEHfwEHpLRYMN9"
     footinder: "https://footinder.com.tw/%E5%9F%BA%E9%9A%86%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/56178/"
-    official: "https://www.facebook.com/loviceva"
     award:
     - name: "台北國際牛肉麵節"
       year: "2024"
@@ -106,9 +107,9 @@ restaurants:
     address: "832高雄市林園區福興街165號"
     phone: "076417870"
     geo: "22.506525164462335, 120.39394452104004"
+    link: "高雄市/林園區/小胖山東麵館"
     google_map: "https://maps.app.goo.gl/q1xDx8rJ5cL4LCbh9"
     footinder: "https://footinder.com.tw/%E9%AB%98%E9%9B%84%E5%B8%82%E6%9E%97%E5%9C%92%E5%8D%80/52751/"
-    official: "https://www.facebook.com/p/%E5%B1%B1%E6%9D%B1%E9%BA%B5%E9%A4%A8%E6%9E%97%E5%9C%92%E5%B0%8F%E8%83%96-100054458829815/"
     award:
     - name: "台北國際牛肉麵節"
       year: "2024"
@@ -118,9 +119,9 @@ restaurants:
     address: "108台北市萬華區成都路27巷3號"
     phone: "0223033960"
     geo: "25.042835397710764, 121.50689539862134"
+    link: "台北市/萬華區/御真牛餐館"
     google_map: "https://maps.app.goo.gl/F3PYdz4HMu2wS2xs8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E8%90%AC%E8%8F%AF%E5%8D%80/63609/"
-    official: "https://www.instagram.com/real_cow23033960/"
     award:
     - name: "台北國際牛肉麵節"
       year: "2024"

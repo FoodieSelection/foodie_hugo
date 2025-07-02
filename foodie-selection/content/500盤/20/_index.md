@@ -1,11 +1,12 @@
 ---
-title: "所有城市 所有行政區 500盤 所有年份"
+title: "所有城市 所有行政區 500盤 所有年份 第20頁"
+description: "所有城市 所有行政區 500盤 所有年份 獲獎餐廳 第20頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "所有城市"
 district: "所有行政區"
 award: "500盤"
@@ -20,9 +21,9 @@ restaurants:
     address: "台北市松山區敦化北路167號B1"
     phone: "0277076666"
     geo: "25.054766997553862, 121.54941188931664"
+    link: "台北市/松山區/辰壽司·割烹·會席"
     google_map: "https://maps.app.goo.gl/VQVxZzJpD9a8eaL88"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/47741/"
-    official: "http://www.csclub.com.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "台北市大安區忠孝東路四段216巷19弄12號"
     phone: "0227215560"
     geo: "25.040238780732103, 121.55369117224443"
+    link: "台北市/大安區/壽司芳_台北_Sushiyoshi_Taipei"
     google_map: "https://maps.app.goo.gl/KTLvcLChsTBH9fdu5"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/110875/"
-    official: "https://www.facebook.com/sushiyoshitaipei/"
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "新竹縣竹北市成功二街31號"
     phone: "036688609"
     geo: "24.820187283396464, 121.02329568987837"
+    link: "新竹縣/竹北市/首烏廚EAT"
     google_map: "https://maps.app.goo.gl/xk4nBoghWkthcgor6"
     footinder: "https://footinder.com.tw/%E6%96%B0%E7%AB%B9%E7%B8%A3%E7%AB%B9%E5%8C%97%E5%B8%82/127911/"
-    official: "https://www.facebook.com/profile.php?id=100064184345026"
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "嘉義縣竹崎鄉中和村石棹21之39號"
     phone: "052562506"
     geo: "23.472616480362042, 120.69662092781182"
+    link: "嘉義縣/竹崎鄉/石桌羊肉店"
     google_map: "https://maps.app.goo.gl/bM6oijU6BwvzL9Gr7"
     footinder: "https://footinder.com.tw/%E5%98%89%E7%BE%A9%E7%B8%A3%E7%AB%B9%E5%B4%8E%E9%84%89/128986/"
-    official: "https://www.facebook.com/Alishanmutton/"
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台北市大安區安和路一段83號"
     phone: "0223253883"
     geo: "25.036609153321766, 121.55233008703554"
+    link: "台北市/大安區/BANKER_Martini_Bar__深夜銀行家牛排館_"
     google_map: "https://maps.app.goo.gl/e7tW5qM1HTNut3tU9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/36448/"
-    official: "https://www.instagram.com/banker_martinibar/"
     award:
     - name: "500盤"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "分店眾多請自行搜尋"
     phone: ""
     geo: ""
+    link: "台北市/中山區/時時香"
     google_map: "https://www.google.com/maps/search/%E6%99%82%E6%99%82%E9%A6%99/@25.0630022,121.4293789,11.63z?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80/33920/"
-    official: "https://ricebar.com.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "台北市信義區嘉興街175巷2弄8號"
     phone: ""
     geo: "25.02748479024552, 121.55742378606605"
+    link: "台北市/信義區/雙城雙廚"
     google_map: "https://maps.app.goo.gl/43WJp92iomFfxDnr9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80/362164/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "台北市中山區中山北路二段185號2樓"
     phone: "0933737893"
     geo: "25.063868303245837, 121.5226139269664"
+    link: "台北市/中山區/十得私廚"
     google_map: "https://maps.app.goo.gl/mZtSoEDiC8dVomu86"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/7753/"
-    official: "https://www.10de10der.com/pages/10der-shop"
     award:
     - name: "500盤"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "台北市大安區敦化南路一段177巷22號1樓"
     phone: "0227710595"
     geo: "25.043001375359168, 121.55008876697414"
+    link: "台北市/大安區/侍燒肉"
     google_map: "https://maps.app.goo.gl/yVygpqd32E3QZw6Z7"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/362166/"
-    official: "https://www.facebook.com/samuraiyakiniku2023"
     award:
     - name: "500盤"
       year: "2024"

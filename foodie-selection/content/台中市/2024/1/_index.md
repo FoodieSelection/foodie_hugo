@@ -1,11 +1,12 @@
 ---
-title: "台中市 所有行政區 所有獎項 2024"
+title: "台中市 所有行政區 所有獎項 2024 第1頁"
+description: "台中市 所有行政區 所有獎項 2024 獲獎餐廳 第1頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "台中市"
 district: "所有行政區"
 award: "所有獎項"
@@ -20,9 +21,9 @@ restaurants:
     address: "台中市南屯區益豐路四段689號2樓"
     phone: "0423803570"
     geo: "24.15048684063746, 120.62854305823515"
+    link: "台中市/南屯區/JL_STUDIO"
     google_map: "https://maps.app.goo.gl/nk9Mg95M5nRLidjAA"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e4%b8%ad%e5%b8%82%e5%8d%97%e5%b1%af%e5%8d%80/411/"
-    official: "https://jlstudiotw.com/"
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "台中市西屯區安和東路5號"
     phone: "0423586368"
     geo: "24.174323830875057, 120.62373768618482"
+    link: "台中市/西屯區/元紀．台灣菜"
     google_map: "https://maps.app.goo.gl/KoXqNq9PGGYY3sLG7"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e4%b8%ad%e5%b8%82%e8%a5%bf%e5%b1%af%e5%8d%80/362120/"
-    official: "https://yuen-ji.com/"
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "台中市新社區中興嶺街一段111號"
     phone: "0425822388"
     geo: "24.209141385848643, 120.78521764689926"
+    link: "台中市/新社區/飛花落院"
     google_map: "https://maps.app.goo.gl/ewBeFDS5eq3NURGv7"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e4%b8%ad%e5%b8%82%e6%96%b0%e7%a4%be%e5%8d%80/410/"
-    official: "https://www.inflorescence.com.tw/index.html"
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "台中市西區忠明南路48號"
     phone: "0423262080"
     geo: "24.15543896924409, 120.65830927409148"
+    link: "台中市/西區/鳥苑"
     google_map: "https://maps.app.goo.gl/T26d6GK26xq3qJNE6"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82/131433/"
-    official: "https://www.facebook.com/profile.php?id=100064704997964"
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台中市南屯區大墩路28號"
     phone: "0424739680"
     geo: "24.137534113599305, 120.6500430134592"
+    link: "台中市/南屯區/霧都老火鍋"
     google_map: "https://maps.app.goo.gl/cuBjpuCZFe5u6BJC9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8D%97%E5%B1%AF%E5%8D%80/103129/"
-    official: "https://www.facebook.com/WUDU.HOTPOT/"
     award:
     - name: "500盤"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "台中市西屯區市政南一路288號"
     phone: "0422534688"
     geo: "24.158497614633525, 120.63108472335189"
+    link: "台中市/西屯區/頂粵吉品"
     google_map: "https://maps.app.goo.gl/aWoTiE6UNYCZafFT6"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e4%b8%ad%e5%b8%82%e8%a5%bf%e5%b1%af%e5%8d%80/131520/"
-    official: "https://www.dyjipin.com.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "台中市西區存中街59號1樓"
     phone: "0423753002"
     geo: "24.1411520614352, 120.65891205566719"
+    link: "台中市/西區/小樂沐_Le_Coté_LM"
     google_map: "https://maps.app.goo.gl/nxWL7XRFwTwVDoYu9"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e4%b8%ad%e5%b8%82%e8%a5%bf%e5%8d%80/153108/"
-    official: "https://www.facebook.com/p/%E5%B0%8F%E6%A8%82%E6%B2%90-Le-C%C3%B4t%C3%A9-LM-100064059639626/"
     award:
     - name: "500盤"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "台中市北屯區山西路三段133號"
     phone: "0424225555"
     geo: "24.185705463967498, 120.68451061850084"
+    link: "台中市/北屯區/春日宴_粵菜喜宴"
     google_map: "https://maps.app.goo.gl/5s4Nhw19ZorRGRuv5"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8C%97%E5%B1%AF%E5%8D%80/141577/"
-    official: "https://www.facebook.com/KASUGA.2020/?ref=page_internal"
     award:
     - name: "500盤"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "台中市西區存中街21號"
     phone: "0423721650"
     geo: "24.141089473365735, 120.66061897484907"
+    link: "台中市/西區/膳馨民間創作料理"
     google_map: "https://maps.app.goo.gl/jUBML8ksNa74PSLi7"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E8%A5%BF%E5%8D%80/132086/"
-    official: "https://www.shan-shin.com/"
     award:
     - name: "500盤"
       year: "2024"

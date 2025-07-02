@@ -1,11 +1,12 @@
 ---
-title: "台北市 所有行政區 所有獎項 2024"
+title: "台北市 所有行政區 所有獎項 2024 第13頁"
+description: "台北市 所有行政區 所有獎項 2024 獲獎餐廳 第13頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "台北市"
 district: "所有行政區"
 award: "所有獎項"
@@ -20,9 +21,9 @@ restaurants:
     address: "台北市北投區竹子湖路67號"
     phone: "0228626408"
     geo: "25.17632351804717, 121.53966463406918"
+    link: "台北市/北投區/冠宸食館"
     google_map: "https://maps.app.goo.gl/Xna1Z1L18DP3xckM8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%8C%97%E6%8A%95%E5%8D%80/8051/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "台北市中山區遼寧街177號2F"
     phone: "0225362370"
     geo: "25.0531219399139, 121.54218040311758"
+    link: "台北市/中山區/國賓中餐廳"
     google_map: "https://maps.app.goo.gl/KHzp5ADf4X7zmeYY6"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/57/"
-    official: "https://www.ambassador-hotels.com/tc/taipei/dining/szechuan-court#story"
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "台北市大安區建國南路一段160號2樓"
     phone: "0226436306"
     geo: "25.04114358656872, 121.53688398031335"
+    link: "台北市/大安區/格格的幸福廚房"
     google_map: "https://maps.app.goo.gl/vgkzfJpqDrDH832fA"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/362140/"
-    official: "https://www.facebook.com/culinaryarts2017/"
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "台北市大安區敦化南路一段270巷28號-8號"
     phone: "0287720372"
     geo: "25.038922335697148, 121.54677454211945"
+    link: "台北市/大安區/空盤_komboi"
     google_map: "https://maps.app.goo.gl/vHQVDUAG4B4r3qJL7"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/8683/"
-    official: "https://www.instagram.com/komboi_taipei/"
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台北市信義區基隆路一段333號34樓"
     phone: "0227232938"
     geo: "25.034408673671145, 121.56122814947172"
+    link: "台北市/信義區/漢來名人坊"
     google_map: "https://maps.app.goo.gl/G6gFQewFMnKDhCsSA"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82/9094/"
-    official: "https://www.hilai-foods.com/brand-content/7#branch-5/celebrity-cuisine"
     award:
     - name: "500盤"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "台北市松山區敦化北路165巷9號1樓"
     phone: "0227184469"
     geo: "25.05484497551117, 121.55056568896391"
+    link: "台北市/松山區/花娘小廚"
     google_map: "https://maps.app.goo.gl/K5nT32WX1pQgXSCdA"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e6%9d%be%e5%b1%b1%e5%8d%80/33049/"
-    official: "https://www.facebook.com/p/%E8%8A%B1%E5%A8%98%E5%B0%8F%E9%A4%A8-100063747175185/"
     award:
     - name: "500盤"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "台北市北投區石牌路二段360號"
     phone: "0228731235"
     geo: "25.123408565424207, 121.5254254583324"
+    link: "台北市/北投區/磺溪小鎮"
     google_map: "https://maps.app.goo.gl/S133WamZSotEy5g98"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%8C%97%E6%8A%95%E5%8D%80/7824/"
-    official: "https://www.facebook.com/SulfurCreekTown/"
     award:
     - name: "500盤"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "台北市中正區仁愛路二段48號"
     phone: "0223960682"
     geo: "25.03803484707546, 121.52800467132023"
+    link: "台北市/中正區/皇膳餐廳"
     google_map: "https://maps.app.goo.gl/hmS9RsxCCea4iwmy9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80/80/"
-    official: "https://www.royal-restaurant.com.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "台北市信義區逸仙路32巷15號1樓"
     phone: "0287863320"
     geo: "25.039912582914482, 121.5627165502999"
+    link: "台北市/信義區/琥珀割烹_Kohaku"
     google_map: "https://maps.app.goo.gl/JLfFhzJ3cLJhZphr5"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%bf%a1%e7%be%a9%e5%8d%80/362142/"
-    official: "https://www.instagram.com/kohaku.tw"
     award:
     - name: "500盤"
       year: "2024"

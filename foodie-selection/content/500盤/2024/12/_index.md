@@ -1,11 +1,12 @@
 ---
-title: "所有城市 所有行政區 500盤 2024"
+title: "所有城市 所有行政區 500盤 2024 第12頁"
+description: "所有城市 所有行政區 500盤 2024 獲獎餐廳 第12頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "所有城市"
 district: "所有行政區"
 award: "500盤"
@@ -20,9 +21,9 @@ restaurants:
     address: "台北市大安區延吉街157-3號"
     phone: "0227523051"
     geo: "25.039559842386122, 121.55507075319439"
+    link: "台北市/大安區/湄河泰國料理"
     google_map: "https://maps.app.goo.gl/pkiRsKHubQYLMPXt9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/36601/"
-    official: "https://www.facebook.com/MaekungRestaurant/"
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "台北市中山區北安路538巷1弄11號"
     phone: "0225325687"
     geo: "25.08011439002764, 121.54845556436868"
+    link: "台北市/中山區/明水397食堂_暫時關閉_"
     google_map: "https://maps.app.goo.gl/w64f3A2jxzkmWee89"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/50077/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "新北市板橋區雙十路二段209號"
     phone: "0282529789"
     geo: "25.028944449484097, 121.47322423616514"
+    link: "新北市/板橋區/豐華小館"
     google_map: "https://maps.app.goo.gl/ZE5UPg3uecsF1xG78"
     footinder: "https://footinder.com.tw/%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80/6644/"
-    official: "https://fonhua.blogspot.com/"
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "台北市大安區敦化南路一段295巷10號"
     phone: "0227000099"
     geo: "25.03542050676442, 121.54978014754603"
+    link: "台北市/大安區/都鮨蘭奢待_日法小料亭"
     google_map: "https://maps.app.goo.gl/QNsB2zh5x8WXSgU28"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/32981/"
-    official: "https://www.facebook.com/SushiRanjatai/"
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台北市大安區大安路一段251號1樓"
     phone: "0227044172"
     geo: "25.03371026536124, 121.54616640063452"
+    link: "台北市/大安區/鼎旺麻辣鍋"
     google_map: "https://maps.app.goo.gl/cYp9TAkUa5Tqy9Cm9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/32694/"
-    official: "https://www.facebook.com/dingwangone/"
     award:
     - name: "500盤"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "苗栗縣頭份市中正二路210號"
     phone: "037660166"
     geo: "24.680302336757983, 120.9468297837565"
+    link: "苗栗縣/頭份市/斗煥坪水餃館"
     google_map: "https://maps.app.goo.gl/6oHAV4658nAmiz7R9"
     footinder: "https://footinder.com.tw/%E8%8B%97%E6%A0%97%E7%B8%A3%E9%A0%AD%E4%BB%BD%E5%B8%82/74641/"
-    official: "https://www.facebook.com/DHPdumpling/"
     award:
     - name: "500盤"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "分店眾多請自行搜尋"
     phone: ""
     geo: ""
+    link: "台北市/內湖區/德朗火鍋"
     google_map: "https://www.google.com/maps/search/%E5%BE%B7%E6%9C%97%E7%81%AB%E9%8D%8B/@25.0637936,121.5392536,13.38z?entry=ttu&g_ep=EgoyMDI1MDYyMy4yIKXMDSoASAFQAw%3D%3D"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%85%A7%E6%B9%96%E5%8D%80/42802/"
-    official: "https://hotpot.deloin.com.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "台北市中山區復興南路一段30巷1號"
     phone: "0227720680"
     geo: "25.046382572792798, 121.5434877645845"
+    link: "台北市/中山區/大正浪漫日本料理"
     google_map: "https://maps.app.goo.gl/ixRWfUEn4JqfgiBu7"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/8442/"
-    official: "https://www.facebook.com/Taishouroman/"
     award:
     - name: "500盤"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "台北市大同區迪化街一段358之2號"
     phone: "0225577872"
     geo: "25.06284714933567, 121.50909957096867"
+    link: "台北市/大同區/東方饌黔天下貴州主題餐廳"
     google_map: "https://maps.app.goo.gl/LejgiNmG5sWQmCm67"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%90%8c%e5%8d%80/7487/"
-    official: "http://www.ocg.url.tw/"
     award:
     - name: "500盤"
       year: "2024"

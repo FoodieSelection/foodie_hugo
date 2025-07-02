@@ -1,11 +1,12 @@
 ---
-title: "台北市 中山區 所有獎項 所有年份"
+title: "台北市 中山區 所有獎項 所有年份 第4頁"
+description: "台北市 中山區 所有獎項 所有年份 獲獎餐廳 第4頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "台北市"
 district: "中山區"
 award: "所有獎項"
@@ -20,9 +21,9 @@ restaurants:
     address: "台北市中山區樂群二路199號中城廣場2樓"
     phone: "0285011157"
     geo: "25.08019745838038, 121.559133398646"
+    link: "台北市/中山區/天婦羅杉村"
     google_map: "https://maps.app.goo.gl/GW598p5d4WVbARM5A"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/362136/"
-    official: "https://www.taipeimarriott.com.tw/websev?cat=page&id=114"
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "台北市中山區樂群三路303號3樓"
     phone: "0285027711"
     geo: "25.08279704353928, 121.56032962199026"
+    link: "台北市/中山區/牛琅"
     google_map: "https://maps.app.goo.gl/k4M7Ez7e3c9izAZD7"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/362138/"
-    official: "https://www.newluxebeef.com/"
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "台北市中山區遼寧街177號2F"
     phone: "0225362370"
     geo: "25.0531219399139, 121.54218040311758"
+    link: "台北市/中山區/國賓中餐廳"
     google_map: "https://maps.app.goo.gl/KHzp5ADf4X7zmeYY6"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/57/"
-    official: "https://www.ambassador-hotels.com/tc/taipei/dining/szechuan-court#story"
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "台北市中山區中山北路二段183巷1-5號"
     phone: "0225930155"
     geo: "25.063860039282382, 121.52300489899268"
+    link: "台北市/中山區/春韭"
     google_map: "https://maps.app.goo.gl/Qmni6uNzNo1H8R9t9"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/362158/"
-    official: "https://www.facebook.com/springleek.tw"
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台北市中山區民權東路二段92巷6號"
     phone: "0225221276"
     geo: "25.060878196777995, 121.53167005765596"
+    link: "台北市/中山區/承家私廚"
     google_map: "https://maps.app.goo.gl/TMwqdshzAeN5Jej87"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/176131/"
-    official: "https://www.facebook.com/CHENGJIA1969/"
     award:
     - name: "500盤"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "台北市中山區中山北路一段57號"
     phone: "0225710357"
     geo: "25.049483340243512, 121.52168135403534"
+    link: "台北市/中山區/赤身燒肉_USHIO_Taipei"
     google_map: "https://maps.app.goo.gl/cJ1NvP67rdE76gnT7"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/362160/"
-    official: "https://www.facebook.com/ushio.taipei"
     award:
     - name: "500盤"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "分店眾多請自行搜尋"
     phone: ""
     geo: ""
+    link: "台北市/中山區/時時香"
     google_map: "https://www.google.com/maps/search/%E6%99%82%E6%99%82%E9%A6%99/@25.0630022,121.4293789,11.63z?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80/33920/"
-    official: "https://ricebar.com.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "台北市中山區中山北路二段185號2樓"
     phone: "0933737893"
     geo: "25.063868303245837, 121.5226139269664"
+    link: "台北市/中山區/十得私廚"
     google_map: "https://maps.app.goo.gl/mZtSoEDiC8dVomu86"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/7753/"
-    official: "https://www.10de10der.com/pages/10der-shop"
     award:
     - name: "500盤"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "台北市中山區建國北路三段80巷1號"
     phone: "0227025277"
     geo: "25.065657746664648, 121.5356822394339"
+    link: "台北市/中山區/阿正廚坊"
     google_map: "https://maps.app.goo.gl/tJp4JMz8Dd2HdYBDA"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/362170/"
-    official: "https://www.facebook.com/chefshowtimetw/"
     award:
     - name: "500盤"
       year: "2024"

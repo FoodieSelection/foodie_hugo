@@ -1,11 +1,12 @@
 ---
-title: "所有城市 所有行政區 500盤 2024"
+title: "所有城市 所有行政區 500盤 2024 第33頁"
+description: "所有城市 所有行政區 500盤 2024 獲獎餐廳 第33頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "所有城市"
 district: "所有行政區"
 award: "500盤"
@@ -20,9 +21,9 @@ restaurants:
     address: "台北市中山區樂群二路199號2樓"
     phone: "0221757952"
     geo: "25.08019849946195, 121.55922599189469"
+    link: "台北市/中山區/Mark's_Teppanyaki_台北萬豪酒店"
     google_map: "https://maps.app.goo.gl/YcyxMsJWo8mdDjKF8"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/8940/"
-    official: "https://www.taipeimarriott.com.tw/websev?cat=page&id=4"
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "台南市北區崇安街30號"
     phone: ""
     geo: "23.0001505084149, 120.20624616196787"
+    link: "台南市/北區/MO._Lab"
     google_map: "https://maps.app.goo.gl/RhN1wATgAxmJVW2y9"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8d%97%e5%b8%82%e5%8c%97%e5%8d%80/2260/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "高雄市鼓山區龍水二路9號"
     phone: "075869570"
     geo: "22.649653297080786, 120.28419372470813"
+    link: "高雄市/鼓山區/NIBBON"
     google_map: "https://maps.app.goo.gl/39GVz1s12z3z2vvFA"
     footinder: "https://footinder.com.tw/%E9%AB%98%E9%9B%84%E5%B8%82%E9%BC%93%E5%B1%B1%E5%8D%80/10595/"
-    official: "https://www.facebook.com/nibbontw"
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "台北市大安區延吉街239號"
     phone: ""
     geo: "25.03630143352749, 121.55571343152243"
+    link: "台北市/大安區/PIZZAROUND_比薩斜躺"
     google_map: "https://maps.app.goo.gl/kAaMD9aKycnYhfZ37"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/362207/"
-    official: "https://www.facebook.com/pizzaroundtw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "新竹縣竹北市成功二街102號"
     phone: "036688313"
     geo: "24.81947736215569, 121.0245357659529"
+    link: "新竹縣/竹北市/Piccola_Enoteca_彼刻義式餐酒館"
     google_map: "https://maps.app.goo.gl/L1m4HeEY3kjTJ5cR8"
     footinder: "https://footinder.com.tw/%E6%96%B0%E7%AB%B9%E7%B8%A3%E7%AB%B9%E5%8C%97%E5%B8%82/158621/"
-    official: "https://www.piccolaenoteca.com/"
     award:
     - name: "500盤"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "台北市南港區中南街30號"
     phone: "0227851588"
     geo: "25.054555951414603, 121.61521304418571"
+    link: "台北市/南港區/PASTi"
     google_map: "https://maps.app.goo.gl/dU6bjfgAEvZipXSN7"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%8D%97%E6%B8%AF%E5%8D%80/9829/"
-    official: "https://www.pasti.com.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "台中市南屯區益豐路四段689號"
     phone: "0423803357"
     geo: "24.15053043965355, 120.62854686110784"
+    link: "台中市/南屯區/PINOCOCO_皮諾可可"
     google_map: "https://maps.app.goo.gl/JZmMU3Zv4UZnikZVA"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8D%97%E5%B1%AF%E5%8D%80/644/"
-    official: "https://www.facebook.com/pinococo23803357/"
     award:
     - name: "500盤"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "高雄市三民區明哲路35號"
     phone: "073433769"
     geo: "22.661551670054063, 120.3120910403791"
+    link: "高雄市/三民區/Pasadena_帕莎蒂娜法式餐廳"
     google_map: "https://maps.app.goo.gl/R19oqpk4qCxGFe4A8"
     footinder: "https://footinder.com.tw/%E9%AB%98%E9%9B%84%E5%B8%82%E9%BC%93%E5%B1%B1%E5%8D%80/10658/"
-    official: "http://bakery.pasadena.com.tw/store.html"
     award:
     - name: "500盤"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "台北市中山區中山北路二段39巷3號2樓"
     phone: "0225238000#3930"
     geo: "25.054178942666436, 121.52425337420513"
+    link: "台北市/中山區/ROBIN'S_鐵板燒_TEPPANYAKI"
     google_map: "https://maps.app.goo.gl/3FzsW8bTLDFBvoqL8"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/52597/"
-    official: "https://www.regenttaiwan.com/dining/robins-teppanyaki"
     award:
     - name: "500盤"
       year: "2024"

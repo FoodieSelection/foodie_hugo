@@ -1,11 +1,12 @@
 ---
-title: "台北市 所有行政區 500盤 2024"
+title: "台北市 所有行政區 500盤 2024 第14頁"
+description: "台北市 所有行政區 500盤 2024 獲獎餐廳 第14頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "台北市"
 district: "所有行政區"
 award: "500盤"
@@ -20,9 +21,9 @@ restaurants:
     address: "台北市士林區士東路100號"
     phone: "0228317154"
     geo: "25.11207007794423, 121.5292938310075"
+    link: "台北市/士林區/好麵煮私房麵館"
     google_map: "https://maps.app.goo.gl/2CsBXNpXEqWBVkMb9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A3%AB%E6%9E%97%E5%8D%80/42241/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "台北市松山區民生東路三段130巷7弄15號"
     phone: "0225465655"
     geo: "25.0566510551678, 121.54686406629185"
+    link: "台北市/松山區/海真私房菜"
     google_map: "https://maps.app.goo.gl/LZcubm5tS9FfE5nu9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/8666/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "台北市大安區樂利路11巷32號1樓"
     phone: "0227323255"
     geo: "25.02826872390276, 121.55244554849739"
+    link: "台北市/大安區/紅皇后川酒·RED_QUEEN_BISTRO"
     google_map: "https://maps.app.goo.gl/3WtC6N6ZG8CwFjfW9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/8821/"
-    official: "https://www.facebook.com/redqueenbistro/"
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "台北市大同區民樂街6號"
     phone: ""
     geo: "25.055712283156602, 121.5108171826953"
+    link: "台北市/大同區/江牛樓"
     google_map: "https://maps.app.goo.gl/HeZwPDgFPksGptQd8"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%90%8c%e5%8d%80/362146/"
-    official: "https://www.facebook.com/profile.php?id=61552768012922"
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台北市大安區四維路375-2號1樓"
     phone: "0227000375"
     geo: "25.025698017861746, 121.54795158279929"
+    link: "台北市/大安區/季肴酒駄介_Dasuke_by_Sakemaru"
     google_map: "https://maps.app.goo.gl/HYTeYy26pZpz3XK57"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/362150/"
-    official: "https://tw.sakemaru.me/pages/dasuke"
     award:
     - name: "500盤"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "台北市大安區忠孝東路三段216巷3弄6號"
     phone: "0227710883"
     geo: "25.04120725076647, 121.54032123902377"
+    link: "台北市/大安區/江蘇菜盒店"
     google_map: "https://maps.app.goo.gl/XjCnE3qGaVARA2U67"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/168844/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "台北市松山區民生東路五段137巷6弄36號"
     phone: "0227486356"
     geo: "25.060297657276408, 121.56293532605065"
+    link: "台北市/松山區/錦富日本料理"
     google_map: "https://maps.app.goo.gl/ZGrdFkBeUqgEwVG76"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/36934/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "台北市松山區南京東路五段250巷2弄5號1樓"
     phone: "0227659906"
     geo: "25.05077240299724, 121.56640052915144"
+    link: "台北市/松山區/金山客家小館創始店"
     google_map: "https://maps.app.goo.gl/KKrNjL5wFHSXgBmy8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/9079/"
-    official: "https://www.jinshan1990.com/"
     award:
     - name: "500盤"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "台北市松山區民生東路四段131巷21號"
     phone: ""
     geo: "25.05916525863324, 121.55356238163422"
+    link: "台北市/松山區/聚苑Ju_Yuan_永久歇業_"
     google_map: "https://maps.app.goo.gl/TKfbW97UXZJruxmW9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/48047/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"

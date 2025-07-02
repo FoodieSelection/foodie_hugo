@@ -1,11 +1,12 @@
 ---
-title: "台中市 所有行政區 台北國際牛肉麵節 2024"
+title: "台中市 所有行政區 台北國際牛肉麵節 2024 第1頁"
+description: "台中市 所有行政區 台北國際牛肉麵節 2024 獲獎餐廳 第1頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "台中市"
 district: "所有行政區"
 award: "台北國際牛肉麵節"
@@ -20,9 +21,9 @@ restaurants:
     address: "412台中市大里區科技路1-56號"
     phone: "0424918327"
     geo: "24.084892701340177, 120.69605130496906"
+    link: "台中市/大里區/淳心製麵"
     google_map: "https://maps.app.goo.gl/AekQkNCtP56zRTBEA"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%A4%A7%E9%87%8C%E5%8D%80/136355/"
-    official: "https://www.facebook.com/Chunhsinnoodles/"
     award:
     - name: "台北國際牛肉麵節"
       year: "2024"

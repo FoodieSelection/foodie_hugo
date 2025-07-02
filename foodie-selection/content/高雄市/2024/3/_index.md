@@ -1,11 +1,12 @@
 ---
-title: "高雄市 所有行政區 所有獎項 2024"
+title: "高雄市 所有行政區 所有獎項 2024 第3頁"
+description: "高雄市 所有行政區 所有獎項 2024 獲獎餐廳 第3頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "高雄市"
 district: "所有行政區"
 award: "所有獎項"
@@ -20,9 +21,9 @@ restaurants:
     address: "807高雄市三民區吉林街243號"
     phone: "073229445"
     geo: "22.64771817418659, 120.30650614059422"
+    link: "高雄市/三民區/渝味食記重慶小麵"
     google_map: "https://maps.app.goo.gl/KT2RTydgXmdwd4uN7"
     footinder: "https://footinder.com.tw/%e9%ab%98%e9%9b%84%e5%b8%82%e4%b8%89%e6%b0%91%e5%8d%80/362213/"
-    official: "https://www.facebook.com/profile.php?id=61563661050239"
     award:
     - name: "台北國際牛肉麵節"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "832高雄市林園區福興街165號"
     phone: "076417870"
     geo: "22.506525164462335, 120.39394452104004"
+    link: "高雄市/林園區/小胖山東麵館"
     google_map: "https://maps.app.goo.gl/q1xDx8rJ5cL4LCbh9"
     footinder: "https://footinder.com.tw/%E9%AB%98%E9%9B%84%E5%B8%82%E6%9E%97%E5%9C%92%E5%8D%80/52751/"
-    official: "https://www.facebook.com/p/%E5%B1%B1%E6%9D%B1%E9%BA%B5%E9%A4%A8%E6%9E%97%E5%9C%92%E5%B0%8F%E8%83%96-100054458829815/"
     award:
     - name: "台北國際牛肉麵節"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "高雄市左營區裕誠路南屏路"
     phone: "0976594881"
     geo: "22.665884574256552, 120.29924021723622"
+    link: "高雄市/左營區/天使雞排-瑞豐店"
     google_map: "https://maps.app.goo.gl/1poRiAFxUCNe6Zm17"
     footinder: "https://footinder.com.tw/%E9%AB%98%E9%9B%84%E5%B8%82%E9%BC%93%E5%B1%B1%E5%8D%80/109326/"
-    official: "https://www.facebook.com/ANGEL594881/"
     award:
     - name: "夜市王"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "高雄市左營區裕誠路南屏路"
     phone: "0986156166"
     geo: "22.666589033186966, 120.29936425568603"
+    link: "高雄市/左營區/瑞豐昌海鮮燒烤"
     google_map: "https://maps.app.goo.gl/EF5W9DTddxFkzhev6"
     footinder: "https://footinder.com.tw/%E9%AB%98%E9%9B%84%E5%B8%82%E5%B7%A6%E7%87%9F%E5%8D%80/362035/"
-    official: ""
     award:
     - name: "夜市王"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "高雄市左營區裕誠路南屏路"
     phone: ""
     geo: "22.666020047832873, 120.29934782534471"
+    link: "高雄市/左營區/好福氣臭豆腐"
     google_map: "https://maps.app.goo.gl/x8yfcqZSwZxozBhZ7"
     footinder: ""
-    official: ""
     award:
     - name: "夜市王"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "高雄市左營區裕誠路154號右邊第十四格中間段面對夜市右邊開始算第三排"
     phone: "0939554312"
     geo: "22.665909784448743, 120.299856339183"
+    link: "高雄市/左營區/蘋什麼日式蘋果糖Candy_Apple"
     google_map: "https://maps.app.goo.gl/8PqsdDRr95J1yEW4A"
     footinder: "https://footinder.com.tw/%E9%AB%98%E9%9B%84%E5%B8%82%E5%B7%A6%E7%87%9F%E5%8D%80/362053/"
-    official: "https://www.instagram.com/sweet_candy_apple_"
     award:
     - name: "夜市王"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "高雄市左營區裕誠路南屏路"
     phone: "0916077225"
     geo: "22.666113865045887, 120.30003453773072"
+    link: "高雄市/左營區/長紅牛排_EVER_RED_Steakhouse"
     google_map: "https://maps.app.goo.gl/Awk9bB9Loxb2y7pb6"
     footinder: "https://footinder.com.tw/%E9%AB%98%E9%9B%84%E5%B8%82%E5%B7%A6%E7%87%9F%E5%8D%80/362073/"
-    official: "https://www.facebook.com/EverRedSteakhouse"
     award:
     - name: "夜市王"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "高雄市左營區裕誠路南屏路"
     phone: ""
     geo: "22.666542969242837, 120.29977140075248"
+    link: "高雄市/左營區/沖繩酥炸大魷魚"
     google_map: "https://maps.app.goo.gl/NVmkXafUByPQzTz16"
     footinder: "https://footinder.com.tw/%E9%AB%98%E9%9B%84%E5%B8%82%E5%B7%A6%E7%87%9F%E5%8D%80/109000/"
-    official: "https://www.facebook.com/profile.php?id=100057655651468"
     award:
     - name: "夜市王"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "高雄市左營區裕誠路南屏路"
     phone: "0938795280"
     geo: "22.666417505890433, 120.29992490739875"
+    link: "高雄市/左營區/阿嬤ㄟ麻油雞飯"
     google_map: "https://maps.app.goo.gl/E4io7fMDtfz7Xf6e9"
     footinder: "https://footinder.com.tw/%E9%AB%98%E9%9B%84%E5%B8%82%E9%BC%93%E5%B1%B1%E5%8D%80/120932/"
-    official: ""
     award:
     - name: "夜市王"
       year: "2024"

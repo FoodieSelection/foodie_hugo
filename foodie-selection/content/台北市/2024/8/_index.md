@@ -1,11 +1,12 @@
 ---
-title: "台北市 所有行政區 所有獎項 2024"
+title: "台北市 所有行政區 所有獎項 2024 第8頁"
+description: "台北市 所有行政區 所有獎項 2024 獲獎餐廳 第8頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "台北市"
 district: "所有行政區"
 award: "所有獎項"
@@ -20,9 +21,9 @@ restaurants:
     address: "分店眾多請自行搜尋"
     phone: ""
     geo: ""
+    link: "台北市/大安區/雙月食品社"
     google_map: "https://www.google.com/maps/search/%E9%9B%99%E6%9C%88%E9%A3%9F%E5%93%81%E7%A4%BE/@25.016225,121.4503917,11.87z?entry=ttu&g_ep=EgoyMDI1MDYyMy4yIKXMDSoASAFQAw%3D%3D"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/32035/"
-    official: "https://www.moonmoonfood.com/"
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "台北市松山區富錦街446號"
     phone: ""
     geo: "25.060751043482774, 121.56181748117038"
+    link: "台北市/松山區/十里。尋"
     google_map: "https://maps.app.goo.gl/P5eUtNFEzrtMbA5s5"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/362124/"
-    official: "https://www.instagram.com/seeker_10k/"
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "台北市大安區愛國東路99號1樓"
     phone: ""
     geo: "25.031552470475205, 121.528428211202"
+    link: "台北市/大安區/酉志"
     google_map: "https://maps.app.goo.gl/L8MQgVdEp4ruNQPBA"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/52921/"
-    official: "https://www.facebook.com/you.zhiii/"
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "台北市松山區三民路9-1號"
     phone: "0225030303"
     geo: "25.053963694958494, 121.56328369553202"
+    link: "台北市/松山區/彧割烹"
     google_map: "https://maps.app.goo.gl/g3MNvNsAnwYXJKbd8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/9076/"
-    official: "https://www.facebook.com/yugepeng/"
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台北市中山區林森北路485巷10號1樓"
     phone: ""
     geo: "25.061113742491376, 121.52615334259835"
+    link: "台北市/中山區/鮨香"
     google_map: "https://maps.app.goo.gl/5s3ya9spiKFv6E799"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/362126/"
-    official: "https://www.instagram.com/sushi_kaori_2024/"
     award:
     - name: "500盤"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "台北市大安區仁愛路四段371號"
     phone: ""
     geo: "25.038276830789098, 121.55468022592773"
+    link: "台北市/大安區/鮨天本_Amamoto"
     google_map: "https://maps.app.goo.gl/hk5D1Ek4gYKsFXt67"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/105061/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "台北市大安區信義路四段175號"
     phone: "0227001958"
     geo: "25.033421405097084, 121.55053866400769"
+    link: "台北市/大安區/de_nuit"
     google_map: "https://maps.app.goo.gl/Ya54yVc8JkWpqMnJ8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/153101/"
-    official: "https://www.denuit.com.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "台北市大安區安和路二段71巷15號"
     phone: "0227322552"
     geo: "25.02998519193155, 121.55300477385548"
+    link: "台北市/大安區/Divino_TAipei"
     google_map: "https://maps.app.goo.gl/CLmouZAxttfTHeXbA"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/47916/"
-    official: "https://www.divinorestaurants.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "台北市信義區松壽路9號6樓"
     phone: "0227588501"
     geo: "25.036295974206595, 121.56685889903974"
+    link: "台北市/信義區/gubami_Social"
     google_map: "https://maps.app.goo.gl/8vemw5RiefZa2FjX9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80/168891/"
-    official: "https://www.facebook.com/gubami.social/"
     award:
     - name: "500盤"
       year: "2024"

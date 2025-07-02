@@ -1,11 +1,12 @@
 ---
-title: "台北市 所有行政區 所有獎項 所有年份"
+title: "台北市 所有行政區 所有獎項 所有年份 第20頁"
+description: "台北市 所有行政區 所有獎項 所有年份 獲獎餐廳 第20頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "台北市"
 district: "所有行政區"
 award: "所有獎項"
@@ -20,9 +21,9 @@ restaurants:
     address: "台北市中山區林森北路353巷21號"
     phone: "0225811511"
     geo: "25.057073594124688, 121.52630461889929"
+    link: "台北市/中山區/丸滿台灣味手路菜"
     google_map: "https://maps.app.goo.gl/gd2DtqDxpw61WrFe9"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/362177/"
-    official: "https://www.wanman.com.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "台北市大安區瑞安街141號"
     phone: "0227063322"
     geo: "25.026690137023905, 121.53963889211907"
+    link: "台北市/大安區/AnticoForno_老烤箱義式披薩餐酒"
     google_map: "https://maps.app.goo.gl/15zvuB6LQFCeYGE89"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/32335/"
-    official: "https://www.facebook.com/anticoforno141/"
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "台北市中山區遼寧街177號2樓"
     phone: "0225710389"
     geo: "25.053122932062056, 121.5421814115792"
+    link: "台北市/中山區/A_CUT牛排館"
     google_map: "https://maps.app.goo.gl/4gUzPGhf5zCV9BVr7"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/32439/"
-    official: "https://www.ambassador-hotels.com/tc/taipei/dining/a-cut-steakhouse#story"
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "台北市大安區潮州街188號"
     phone: ""
     geo: "25.028261388389684, 121.53024463876285"
+    link: "台北市/大安區/A.B_HOUSE義式私房料理"
     google_map: "https://maps.app.goo.gl/eEy1HxtUtyUVLkCk7"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/35531/"
-    official: "https://www.facebook.com/A.BHouseYiShiSiFangLiaoLi"
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台北市中山區建國北路一段92巷8號"
     phone: "0225091070"
     geo: "25.049995899619102, 121.53552306787505"
+    link: "台北市/中山區/AKIN_君尹"
     google_map: "https://maps.app.goo.gl/rEsG2E6YAG1oYkq78"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/362191/"
-    official: "https://www.facebook.com/brise.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "台北市信義區忠孝東路四段553巷22弄2號"
     phone: "0227566860"
     geo: "25.043165741931137, 121.5630643935445"
+    link: "台北市/信義區/BURGER_OUT"
     google_map: "https://maps.app.goo.gl/ARbMSjrkXdAK9tds8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80/36899/"
-    official: "https://www.instagram.com/burgerout/"
     award:
     - name: "500盤"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "台北市松山區八德路三段8巷36號1F"
     phone: "0227221987"
     geo: "25.045858518417187, 121.54962488002633"
+    link: "台北市/松山區/Cantine_Marais_瑪黑餐酒敦南店"
     google_map: "https://maps.app.goo.gl/TBUyiyoF8ZF3iFQq9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/8652/"
-    official: "https://www.facebook.com/xoxocantinemarais"
     award:
     - name: "500盤"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "台北市大安區敦化南路一段190巷16號"
     phone: "0909220929"
     geo: "25.042533694210622, 121.54763675553635"
+    link: "台北市/大安區/Chale_Tacos_Taipei_墨西哥餐廳"
     google_map: "https://maps.app.goo.gl/9bcBgnnj88q1Zrch7"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/362193/"
-    official: "https://www.instagram.com/chaletacos/"
     award:
     - name: "500盤"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "台北市信義區逸仙路32巷7號1樓"
     phone: "0287869663"
     geo: "25.039898005940966, 121.56227833400445"
+    link: "台北市/信義區/chateau_zoe_酒窖餐廳_永久歇業_"
     google_map: "https://maps.app.goo.gl/Hejkibae3ndWnC6U7"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80/9034/"
-    official: "https://www.facebook.com/chateauzoe/"
     award:
     - name: "500盤"
       year: "2024"

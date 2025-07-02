@@ -1,11 +1,12 @@
 ---
-title: "台北市 所有行政區 500盤 所有年份"
+title: "台北市 所有行政區 500盤 所有年份 第3頁"
+description: "台北市 所有行政區 500盤 所有年份 獲獎餐廳 第3頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "台北市"
 district: "所有行政區"
 award: "500盤"
@@ -20,9 +21,9 @@ restaurants:
     address: "台北市中山區吉林路422號"
     phone: ""
     geo: "25.066024685201775, 121.53029759906646"
+    link: "台北市/中山區/牛肆"
     google_map: "https://maps.app.goo.gl/NuEGDtwpxNo7xeqr8"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/47043/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "台北市士林區天母東路101號"
     phone: "0228711517"
     geo: "25.118284829627967, 121.53625610035625"
+    link: "台北市/士林區/金蓬萊遵古台菜"
     google_map: "https://maps.app.goo.gl/ufhpfWnX9qeaUw9PA"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a3%ab%e6%9e%97%e5%8d%80/7910/"
-    official: "http://www.goldenformosa.com.tw/bin/home.php"
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "台北市大安區信義路二段198巷5-5號"
     phone: "0223943905"
     geo: "25.03297521293193, 121.5305630267198"
+    link: "台北市/大安區/秀蘭小館"
     google_map: "https://maps.app.goo.gl/gnNZDUWcKoG3pRCt6"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/35536/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "台北市信義區莊敬路239巷12號"
     phone: "0287860126"
     geo: "25.029936429348112, 121.56288799534865"
+    link: "台北市/信義區/Adachi足立壽司"
     google_map: "https://maps.app.goo.gl/5zp3MoMsGV7c77Rp8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80/110724/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台北市松山區民權東路三段160巷19弄36號"
     phone: ""
     geo: "25.059432931972964, 121.54867021568873"
+    link: "台北市/松山區/Ashin阿鑫小料理"
     google_map: "https://maps.app.goo.gl/WATLuFo1jufKWuCD8"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e6%9d%be%e5%b1%b1%e5%8d%80/168883/"
-    official: "https://www.facebook.com/profile.php?id=100063999757551"
     award:
     - name: "500盤"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "台北市中山區樂群三路200號1樓"
     phone: "0937857869"
     geo: "25.08239805137632, 121.55709045289913"
+    link: "台北市/中山區/La_Vie_by_Thomas_Bühner"
     google_map: "https://maps.app.goo.gl/geFrEGcUpknygmzYA"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/176129/"
-    official: "https://www.laviebythomasbuehner.com/"
     award:
     - name: "500盤"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "台北市中山北路二段39巷3號Regent Galleria B2"
     phone: ""
     geo: "25.054083998737152, 121.52428462415465"
+    link: "台北市/中山區/Curious_Table_永久歇業_"
     google_map: "https://maps.app.goo.gl/UazsyfRFHP5nEYkf8"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/52556/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "台北市大安區安和路一段29-1號"
     phone: "0227753645"
     geo: "25.039197412219607, 121.5506541214211"
+    link: "台北市/大安區/Solo_Pasta"
     google_map: "https://maps.app.goo.gl/76gNRKNC3L82JdFt6"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82/8766/"
-    official: "https://www.facebook.com/solopasta/"
     award:
     - name: "500盤"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "台北市松山區敦化北路199巷17號1樓"
     phone: "0287128770"
     geo: "25.056527031376323, 121.55272388672925"
+    link: "台北市/松山區/富錦樹台菜香檳"
     google_map: "https://maps.app.goo.gl/M4DZnfyXXNdF1UTY9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/251/"
-    official: "https://www.fujintreeshop.com/"
     award:
     - name: "500盤"
       year: "2024"

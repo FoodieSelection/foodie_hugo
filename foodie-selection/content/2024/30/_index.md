@@ -1,11 +1,12 @@
 ---
-title: "所有城市 所有行政區 所有獎項 2024"
+title: "所有城市 所有行政區 所有獎項 2024 第30頁"
+description: "所有城市 所有行政區 所有獎項 2024 獲獎餐廳 第30頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "所有城市"
 district: "所有行政區"
 award: "所有獎項"
@@ -20,9 +21,9 @@ restaurants:
     address: "台北市松山區八德路三段8巷36號1F"
     phone: "0227221987"
     geo: "25.045858518417187, 121.54962488002633"
+    link: "台北市/松山區/Cantine_Marais_瑪黑餐酒敦南店"
     google_map: "https://maps.app.goo.gl/TBUyiyoF8ZF3iFQq9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/8652/"
-    official: "https://www.facebook.com/xoxocantinemarais"
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "台北市大安區敦化南路一段190巷16號"
     phone: "0909220929"
     geo: "25.042533694210622, 121.54763675553635"
+    link: "台北市/大安區/Chale_Tacos_Taipei_墨西哥餐廳"
     google_map: "https://maps.app.goo.gl/9bcBgnnj88q1Zrch7"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/362193/"
-    official: "https://www.instagram.com/chaletacos/"
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "台北市信義區逸仙路32巷7號1樓"
     phone: "0287869663"
     geo: "25.039898005940966, 121.56227833400445"
+    link: "台北市/信義區/chateau_zoe_酒窖餐廳_永久歇業_"
     google_map: "https://maps.app.goo.gl/Hejkibae3ndWnC6U7"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80/9034/"
-    official: "https://www.facebook.com/chateauzoe/"
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "台北市中山區中山北路二段39巷3號Regent Galleria B2麗晶精品 B2B2"
     phone: "0225816575"
     geo: "25.05416178477979, 121.52531790867282"
+    link: "台北市/中山區/Circum-"
     google_map: "https://maps.app.goo.gl/6RSqBDYvjGMZRUK5A"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/362195/"
-    official: "https://www.facebook.com/Circumhyphen/"
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台中市北區健行路86巷7弄33號"
     phone: ""
     geo: "24.16063757267739, 120.68755330068244"
+    link: "台中市/北區/enPure瀞"
     google_map: "https://maps.app.goo.gl/F53yewtrnYWDvkF3A"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e4%b8%ad%e5%b8%82%e5%8c%97%e5%8d%80/362197/"
-    official: "https://www.facebook.com/enpurerestaurant/"
     award:
     - name: "500盤"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "台北市中山區樂群三路299號1樓"
     phone: "0285026383"
     geo: "25.08284602265379, 121.5591589303933"
+    link: "台北市/中山區/FRASSI"
     google_map: "https://maps.app.goo.gl/5wvjyNiHCT7kRK4HA"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/50250/"
-    official: "https://www.frassi.com.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "台南市中西區海安路二段268號"
     phone: "0984067044"
     geo: "22.997995291575908, 120.19777589969037"
+    link: "台南市/中西區/Funkoo_Bar_-_Mexican_Cuisine___Bar"
     google_map: "https://maps.app.goo.gl/zt1s9srVuV4sCLJr9"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8d%97%e5%b8%82%e4%b8%ad%e8%a5%bf%e5%8d%80/15153/"
-    official: "https://www.facebook.com/mexcafe.tainan"
     award:
     - name: "500盤"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "台北市中山區民權西路56巷2號"
     phone: ""
     geo: "25.06247173912014, 121.52037165484737"
+    link: "台北市/中山區/Gras"
     google_map: "https://maps.app.goo.gl/d5x98wxgkscFv8iP9"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/46826/"
-    official: "https://www.gras.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "台北市大安區麗水街13巷2號"
     phone: "0223416767"
     geo: "25.030195114568063, 121.52864799516986"
+    link: "台北市/大安區/Hanekin_麵屋·羽金"
     google_map: "https://maps.app.goo.gl/5y6oF1Co91zmf2we9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/47096/"
-    official: "https://www.facebook.com/profile.php?id=100088738488343"
     award:
     - name: "500盤"
       year: "2024"

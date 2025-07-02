@@ -1,11 +1,12 @@
 ---
-title: "台北市 大安區 所有獎項 所有年份"
+title: "台北市 大安區 所有獎項 所有年份 第1頁"
+description: "台北市 大安區 所有獎項 所有年份 獲獎餐廳 第1頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "台北市"
 district: "大安區"
 award: "所有獎項"
@@ -20,9 +21,9 @@ restaurants:
     address: "台北市大安區忠孝東路三段282號四樓新光三越Diamond Towers 二館4樓"
     phone: "0227218088"
     geo: "25.041423564053865, 121.54269449269432"
+    link: "台北市/大安區/Restaurant_A"
     google_map: "https://maps.app.goo.gl/crekXAb8UAhz8DxGA"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/362095/"
-    official: "https://restaurant-a.com/"
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "台北市大安區浦城街9-4號"
     phone: "0930612789"
     geo: "25.024700948829437, 121.52720306195057"
+    link: "台北市/大安區/海倫鮮土司施家粵菜"
     google_map: "https://maps.app.goo.gl/upKYDbHcZoHWYhZU9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/362101/"
-    official: "https://www.facebook.com/aluenbaker"
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "台北市大安區仁愛路四段122巷24號"
     phone: "0277515598"
     geo: "25.03590358301415, 121.5501756808743"
+    link: "台北市/大安區/EMBERS"
     google_map: "https://maps.app.goo.gl/BDrqN9jA3JANWghY6"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/8741/"
-    official: "https://www.embersdining.com/"
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "台北市大安區師大路92巷13號"
     phone: "0227785899"
     geo: "25.022770935500752, 121.52747976160077"
+    link: "台北市/大安區/三六食府"
     google_map: "https://maps.app.goo.gl/ugsFgGTdWaN53mbb8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/7857/"
-    official: "https://www.facebook.com/36kitchen/"
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台北市大安區四維路52巷17號"
     phone: "0227068699"
     geo: "25.035128866867577, 121.54710593031817"
+    link: "台北市/大安區/牡丹．極上_天ぷら"
     google_map: "https://maps.app.goo.gl/oDQU8Z7ek8MxHWhE7"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/105329/"
-    official: "https://www.mudantempura.com/"
     award:
     - name: "500盤"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "台北市大安區信義路二段198巷5-5號"
     phone: "0223943905"
     geo: "25.03297521293193, 121.5305630267198"
+    link: "台北市/大安區/秀蘭小館"
     google_map: "https://maps.app.goo.gl/gnNZDUWcKoG3pRCt6"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/35536/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "台北市大安區安和路一段29-1號"
     phone: "0227753645"
     geo: "25.039197412219607, 121.5506541214211"
+    link: "台北市/大安區/Solo_Pasta"
     google_map: "https://maps.app.goo.gl/76gNRKNC3L82JdFt6"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82/8766/"
-    official: "https://www.facebook.com/solopasta/"
     award:
     - name: "500盤"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "台北市大安區敦化南路1段324號B1"
     phone: "0227083110"
     geo: "25.035319254473286, 121.54846532286291"
+    link: "台北市/大安區/驥園川菜餐廳"
     google_map: "https://maps.app.goo.gl/wGUGyETnmYnEWYwd8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/32970/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "台北市大安區大安路一段135號B1"
     phone: "0227761658"
     geo: "25.03876971276977, 121.54617981162737"
+    link: "台北市/大安區/橘色涮涮屋"
     google_map: "https://maps.app.goo.gl/fQq38hBWrPXavLth8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/32704/"
-    official: "https://orangeshabushabu.com/zh-TW"
     award:
     - name: "500盤"
       year: "2024"

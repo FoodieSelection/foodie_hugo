@@ -1,11 +1,12 @@
 ---
-title: "台北市 所有行政區 所有獎項 2024"
+title: "台北市 所有行政區 所有獎項 2024 第2頁"
+description: "台北市 所有行政區 所有獎項 2024 獲獎餐廳 第2頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "台北市"
 district: "所有行政區"
 award: "所有獎項"
@@ -20,9 +21,9 @@ restaurants:
     address: "台北市中山區中山北路二段45巷23號"
     phone: ""
     geo: "25.054510077740353, 121.52409925203494"
+    link: "台北市/中山區/Ad_astra"
     google_map: "https://maps.app.goo.gl/ckoSsMNEWfXxbEwRA"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/52852/"
-    official: "https://www.adastra.com.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "分店眾多請自行搜尋"
     phone: ""
     geo: ""
+    link: "台北市/信義區/鼎泰豐"
     google_map: "https://www.google.com/maps/search/%E9%BC%8E%E6%B3%B0%E8%B1%90/@25.0779634,121.5403163,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYxNi4wIKXMDSoASAFQAw%3D%3D"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/31446/"
-    official: "https://www.dintaifung.com.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "台北市大安區浦城街9-4號"
     phone: "0930612789"
     geo: "25.024700948829437, 121.52720306195057"
+    link: "台北市/大安區/海倫鮮土司施家粵菜"
     google_map: "https://maps.app.goo.gl/upKYDbHcZoHWYhZU9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/362101/"
-    official: "https://www.facebook.com/aluenbaker"
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "台北市大同區民樂街58號"
     phone: "0225506863"
     geo: "25.05747948001781, 121.51051499826605"
+    link: "台北市/大同區/盈科EIKA"
     google_map: "https://maps.app.goo.gl/qvcHzwEWBfE2aWkF6"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%90%8C%E5%8D%80/362105/"
-    official: "https://eika.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台北市中山區雙城街25巷15號1樓"
     phone: "0225923355"
     geo: "25.0662700179023, 121.52535190679987"
+    link: "台北市/中山區/TUTTO_BELLO"
     google_map: "https://maps.app.goo.gl/qXdwx3EQkqstWGeG9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/31289/"
-    official: "http://www.tuttobello.com.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "台北市信義區松仁路38號遠東百貨鼎泰豐對面"
     phone: "0266228068"
     geo: "25.03820524947258, 121.56805583836135"
+    link: "台北市/信義區/TIPSY_Sparrow"
     google_map: "https://maps.app.goo.gl/zg7UATFJBHzPApa49"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80/362103/"
-    official: "https://www.lemeridien-taipei.com/websev?lang=zh-tw&ref=pages&id=675"
     award:
     - name: "500盤"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "台北市大安區仁愛路四段122巷24號"
     phone: "0277515598"
     geo: "25.03590358301415, 121.5501756808743"
+    link: "台北市/大安區/EMBERS"
     google_map: "https://maps.app.goo.gl/BDrqN9jA3JANWghY6"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/8741/"
-    official: "https://www.embersdining.com/"
     award:
     - name: "500盤"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "台北市大安區師大路92巷13號"
     phone: "0227785899"
     geo: "25.022770935500752, 121.52747976160077"
+    link: "台北市/大安區/三六食府"
     google_map: "https://maps.app.goo.gl/ugsFgGTdWaN53mbb8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/7857/"
-    official: "https://www.facebook.com/36kitchen/"
     award:
     - name: "500盤"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "台北市大安區四維路52巷17號"
     phone: "0227068699"
     geo: "25.035128866867577, 121.54710593031817"
+    link: "台北市/大安區/牡丹．極上_天ぷら"
     google_map: "https://maps.app.goo.gl/oDQU8Z7ek8MxHWhE7"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/105329/"
-    official: "https://www.mudantempura.com/"
     award:
     - name: "500盤"
       year: "2024"

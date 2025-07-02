@@ -1,6 +1,7 @@
 import json
 import glob
 import os
+import re
 from datetime import datetime
 
 # 讀取餐廳資料
@@ -143,7 +144,8 @@ def build_output_path(city, district, award, year, page):
 def generate_md_content(restaurants, today, city, district, award, year, page, count):
     # 基礎frontmatter
     md_content = f'''---
-title: "{city} {district} {award} {year}"
+title: "{city} {district} {award} {year} 第{page}頁"
+description: "{city} {district} {award} {year} 獲獎餐廳 第{page}頁"
 keywords:
   - 美食競賽
   - 台灣美食
@@ -162,18 +164,27 @@ restaurants:
     
     # 添加餐廳資料
     for rest in restaurants:
+        replace_name = re.sub(r'[<>:"/\\|?* ()#%{},;@&=+]', '_', rest.get('name', ''))
+        replace_name = re.sub(r'³', '3', replace_name)
         md_content += f'''  - name: "{rest.get('name', '')}"
     city: "{rest.get('city', '')}"
     district: "{rest.get('district', '')}"
     address: "{rest.get('address', '')}"
     phone: "{rest.get('phone', '')}"
     geo: "{rest.get('geo', '')}"
+    link: "{rest.get('city', '')}/{rest.get('district', '')}/{replace_name}"
     google_map: "{rest.get('google_map', '')}"
     footinder: "{rest.get('footinder', '')}"
-    official: "{rest.get('official', '')}"
     award:
 '''
+        unique_awards = []
+        seen = set()
         for award_info in rest.get('award', []):
+            key = (award_info.get('name'), award_info.get('year'))
+            if key not in seen:
+                unique_awards.append(award_info)
+                seen.add(key)
+        for award_info in unique_awards:
             md_content += f'''    - name: "{award_info.get('name', '')}"
       year: "{award_info.get('year', '')}"\n'''
     

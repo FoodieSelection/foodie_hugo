@@ -1,11 +1,12 @@
 ---
-title: "台南市 中西區 所有獎項 所有年份"
+title: "台南市 中西區 所有獎項 所有年份 第1頁"
+description: "台南市 中西區 所有獎項 所有年份 獲獎餐廳 第1頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "台南市"
 district: "中西區"
 award: "所有獎項"
@@ -20,9 +21,9 @@ restaurants:
     address: "台南市中西區青年路90號1樓"
     phone: ""
     geo: "22.991971741170726, 120.2081855311068"
+    link: "台南市/中西區/麥謎食驗室_Bue_mi.Lab"
     google_map: "https://maps.app.goo.gl/b5UZWUiHozdvCAb29"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8d%97%e5%b8%82%e4%b8%ad%e8%a5%bf%e5%8d%80/362179/"
-    official: "https://www.facebook.com/buemilab/"
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "台南市中西區康樂街341號"
     phone: "062239881"
     geo: "22.99896311002549, 120.19653251440673"
+    link: "台南市/中西區/根串燒居酒屋"
     google_map: "https://maps.app.goo.gl/TCYDsQMWYbjFYRYw5"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8D%97%E5%B8%82%E4%B8%AD%E8%A5%BF%E5%8D%80/104884/"
-    official: "https://www.facebook.com/profile.php?id=100064150387154"
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "台南市中西區國華街三段203號"
     phone: "062261974"
     geo: "22.998320254575674, 120.19895181891286"
+    link: "台南市/中西區/曉璘燒烤"
     google_map: "https://maps.app.goo.gl/Ja6BqqAMwiyeLe9R8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8D%97%E5%B8%82%E4%B8%AD%E8%A5%BF%E5%8D%80/103858/"
-    official: "https://www.facebook.com/lin2261974/"
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "台南市中西區金華路四段47巷2號"
     phone: "062281025"
     geo: "22.998376866738628, 120.19468317498917"
+    link: "台南市/中西區/鄭牛肉湯"
     google_map: "https://maps.app.goo.gl/krpFQFCS5LMkjk2s7"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8D%97%E5%B8%82%E4%B8%AD%E8%A5%BF%E5%8D%80/362181/"
-    official: "https://www.facebook.com/TainanZhengBeef/"
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台南市中西區中成路28號"
     phone: "062220395"
     geo: "22.99728862176926, 120.20521182380773"
+    link: "台南市/中西區/知味"
     google_map: "https://maps.app.goo.gl/ELwckfTEgph4C6qBA"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8d%97%e5%b8%82%e4%b8%ad%e8%a5%bf%e5%8d%80/148680/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "台南市中西區民族路二段252號"
     phone: "062210946"
     geo: "22.997387034668, 120.20126193532992"
+    link: "台南市/中西區/竹海產"
     google_map: "https://maps.app.goo.gl/EZLMXTM3USe5RKqC8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8D%97%E5%B8%82%E4%B8%AD%E8%A5%BF%E5%8D%80/161797/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "台南市中西區信義街69號"
     phone: "0927307890"
     geo: "23.000310151168772, 120.19498735218367"
+    link: "台南市/中西區/筑馨居"
     google_map: "https://maps.app.goo.gl/ToCGjxUwVjZhz1Jm8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8D%97%E5%B8%82%E4%B8%AD%E8%A5%BF%E5%8D%80/1942/"
-    official: "https://www.facebook.com/profile.php?id=100063890740362"
     award:
     - name: "500盤"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "台南市中西區海安路二段268號"
     phone: "0984067044"
     geo: "22.997995291575908, 120.19777589969037"
+    link: "台南市/中西區/Funkoo_Bar_-_Mexican_Cuisine___Bar"
     google_map: "https://maps.app.goo.gl/zt1s9srVuV4sCLJr9"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8d%97%e5%b8%82%e4%b8%ad%e8%a5%bf%e5%8d%80/15153/"
-    official: "https://www.facebook.com/mexcafe.tainan"
     award:
     - name: "500盤"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "台南市中西區西和路289號"
     phone: "063589850"
     geo: "23.003311623866953, 120.19281617437447"
+    link: "台南市/中西區/THINKPIZZA"
     google_map: "https://maps.app.goo.gl/Vo4B4UvvrWBz3qkU9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8D%97%E5%B8%82%E4%B8%AD%E8%A5%BF%E5%8D%80/1943/"
-    official: "https://www.facebook.com/THINKPIZZANYC/"
     award:
     - name: "500盤"
       year: "2024"

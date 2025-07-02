@@ -1,11 +1,12 @@
 ---
-title: "台北市 所有行政區 所有獎項 所有年份"
+title: "台北市 所有行政區 所有獎項 所有年份 第5頁"
+description: "台北市 所有行政區 所有獎項 所有年份 獲獎餐廳 第5頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "台北市"
 district: "所有行政區"
 award: "所有獎項"
@@ -20,9 +21,9 @@ restaurants:
     address: "台北市大同區華陰街227巷2號"
     phone: "0225590721"
     geo: "25.050784107392538, 121.5141177732158"
+    link: "台北市/大同區/元味料理"
     google_map: "https://maps.app.goo.gl/A8eoDHveYgshKE717"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%90%8C%E5%8D%80/7646/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "台北市信義區松仁路208號"
     phone: ""
     geo: "25.02708470019493, 121.56828487660347"
+    link: "台北市/信義區/貳零捌公館"
     google_map: "https://maps.app.goo.gl/dFBBggwnh3FKzPFQ9"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%bf%a1%e7%be%a9%e5%8d%80/362114/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "台北市大安區瑞安街208巷5號"
     phone: ""
     geo: "25.028398614904827, 121.54060738773825"
+    link: "台北市/大安區/earnestos"
     google_map: "https://maps.app.goo.gl/BycsdSrifbumZoEr7"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/362116/"
-    official: "https://www.facebook.com/earnestos.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "台北市信義區松壽路9號6樓"
     phone: "0227201168"
     geo: "25.03631172057358, 121.56685896335857"
+    link: "台北市/信義區/inari_Izakaya_現代居酒屋"
     google_map: "https://maps.app.goo.gl/oRYhNgGCZ7LDFCCh9"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%bf%a1%e7%be%a9%e5%8d%80/362118/"
-    official: "https://www.facebook.com/inari.Izakaya/"
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台北市松山區敦化北路165巷11號"
     phone: "0227199191"
     geo: "25.054840972665197, 121.5507047785528"
+    link: "台北市/松山區/T_T"
     google_map: "https://maps.app.goo.gl/6oB55JhYPXfsXX7a6"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/8794/"
-    official: "https://www.facebook.com/tt27199191/"
     award:
     - name: "500盤"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "台北市大安區忠孝東路四段216巷33弄5號"
     phone: "0912390398"
     geo: "25.03951681804265, 121.55340180993367"
+    link: "台北市/大安區/Wild_Donkey_野驢小餐館"
     google_map: "https://maps.app.goo.gl/x6RT7re7sQajWu8R9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/13159/"
-    official: "https://www.wilddonkey.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "台北市信義區松仁路38號2樓"
     phone: "0266225820"
     geo: "25.03820629645968, 121.56805539107738"
+    link: "台北市/信義區/台北寒舍艾美_寒舍食譜"
     google_map: "https://maps.app.goo.gl/JQBae3swo4nkLsJU6"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80/138/"
-    official: "https://www.lemeridien-taipei.com/websev?lang=zh-tw&ref=pages&id=4"
     award:
     - name: "500盤"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "台北市大安區仁愛路四段375號"
     phone: "0227718898"
     geo: "25.038242522599116, 121.55474104721537"
+    link: "台北市/大安區/伍佰雞屋"
     google_map: "https://maps.app.goo.gl/KigYvnjoMCcbheRZ6"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/33217/"
-    official: "https://www.facebook.com/profile.php?id=100064149720606"
     award:
     - name: "500盤"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "台北市松山區敦化北路158號"
     phone: "0227156788"
     geo: "25.05555317864661, 121.5483278588551"
+    link: "台北市/松山區/雅閣"
     google_map: "https://maps.app.goo.gl/jjqFTTTLoUfN5Ubi7"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/13143/"
-    official: "https://www.mandarinoriental.com/en/taipei/songshan/dine/ya-ge"
     award:
     - name: "500盤"
       year: "2024"

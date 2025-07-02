@@ -1,11 +1,12 @@
 ---
-title: "台北市 所有行政區 500盤 2024"
+title: "台北市 所有行政區 500盤 2024 第7頁"
+description: "台北市 所有行政區 500盤 2024 獲獎餐廳 第7頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "台北市"
 district: "所有行政區"
 award: "500盤"
@@ -20,9 +21,9 @@ restaurants:
     address: "台北市中山區樂群二路199號三樓"
     phone: "0221757918"
     geo: "25.080450827034152, 121.55894180377362"
+    link: "台北市/中山區/台北萬豪酒店_宴客樓中餐廳"
     google_map: "https://maps.app.goo.gl/GM3cgbjFbHit65bH6"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/8805/"
-    official: "https://www.taipeimarriott.com.tw/websev?cat=page&id=45"
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "台北市大同區涼州街72巷2-1號"
     phone: "0225520767"
     geo: "25.06043099024625, 121.51073870555446"
+    link: "台北市/大同區/涼州游嚴行_D-Place"
     google_map: "https://maps.app.goo.gl/8J64RLNgD47S4YN1A"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82/34877/"
-    official: "https://www.facebook.com/p/%E6%B6%BC%E5%B7%9E%E6%B8%B8%E5%9A%B4%E8%A1%8C-100063822170918/"
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "台北市中山區中山北路二段11巷7-2號"
     phone: ""
     geo: "25.052843290469205, 121.52377659404154"
+    link: "台北市/中山區/吉甘槑喆"
     google_map: "https://maps.app.goo.gl/cG5nNamC7RM6K5oR9"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/362122/"
-    official: "https://www.facebook.com/mezetaipei"
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "台北市大安區忠孝東路四段181巷48號1樓"
     phone: "0227711020"
     geo: "25.04431069844616, 121.55074817379997"
+    link: "台北市/大安區/吉兆割烹壽司KITCHO"
     google_map: "https://maps.app.goo.gl/iVWj6Zt7emCz7MmbA"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/36465/"
-    official: "https://www.facebook.com/profile.php?id=100071565049573"
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台北市中山區雙城街34之1號"
     phone: "0225963255"
     geo: "25.066504585919787, 121.52427856752698"
+    link: "台北市/中山區/欣葉台菜創始店"
     google_map: "https://maps.app.goo.gl/bBtfQV3DJY1DwtBh9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/7773/"
-    official: "https://www.shinyeh.com.tw/content/zh/brand/Index.aspx?BrandId=1"
     award:
     - name: "500盤"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "分店眾多請自行搜尋"
     phone: ""
     geo: ""
+    link: "台北市/大安區/小小樹食"
     google_map: "https://www.google.com/maps/search/%E5%B0%8F%E5%B0%8F%E6%A8%B9%E9%A3%9F/@25.0364368,121.497729,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYyMy4yIKXMDSoASAFQAw%3D%3D"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/47870/"
-    official: "https://www.noke.littletreefood.com/"
     award:
     - name: "500盤"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "台北市內湖區東湖路106巷7弄3號"
     phone: ""
     geo: "25.068019368221286, 121.61493913890837"
+    link: "台北市/內湖區/喜相逢麵館"
     google_map: "https://maps.app.goo.gl/kMmuPQzaZQ31yoKL9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%85%A7%E6%B9%96%E5%8D%80/9863/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "台北市大安區安和路二段167號1樓"
     phone: "0227329920"
     geo: "25.028226418014707, 121.55020137897594"
+    link: "台北市/大安區/鮨二七"
     google_map: "https://maps.app.goo.gl/emYgipnArUuaBcxs6"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/36432/"
-    official: "https://www.2727.com.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "台北市大安區仁愛路四段300巷29號1樓"
     phone: "0900638988"
     geo: "25.035542560578616, 121.55454166935762"
+    link: "台北市/大安區/成海壽司_narumi_sushi"
     google_map: "https://maps.app.goo.gl/s4qWkS9F7jwi4RDS6"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/110871/"
-    official: "https://www.facebook.com/p/%E6%88%90%E6%B5%B7-%E5%AF%BF%E5%8F%B8-100063713755433/"
     award:
     - name: "500盤"
       year: "2024"

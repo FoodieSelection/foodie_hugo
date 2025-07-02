@@ -1,11 +1,12 @@
 ---
-title: "台南市 北區 所有獎項 2024"
+title: "台南市 北區 所有獎項 2024 第1頁"
+description: "台南市 北區 所有獎項 2024 獲獎餐廳 第1頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "台南市"
 district: "北區"
 award: "所有獎項"
@@ -20,9 +21,9 @@ restaurants:
     address: "台南市北區成功路422號"
     phone: "062281522"
     geo: "23.00081430667002, 120.19830112716586"
+    link: "台南市/北區/廣東汕頭沙茶爐"
     google_map: "https://maps.app.goo.gl/nWR7GicxoZzR6VbV8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8D%97%E5%B8%82%E5%8C%97%E5%8D%80/102738/"
-    official: "https://www.facebook.com/profile.php?id=100063786410319"
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "台南市北區崇安街30號"
     phone: ""
     geo: "23.0001505084149, 120.20624616196787"
+    link: "台南市/北區/MO._Lab"
     google_map: "https://maps.app.goo.gl/RhN1wATgAxmJVW2y9"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8d%97%e5%b8%82%e5%8c%97%e5%8d%80/2260/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "台南市北區海安路三段533號"
     phone: "0938553870"
     geo: "23.010591297064956, 120.19969766137017"
+    link: "台南市/北區/碳烤雄大香雞排"
     google_map: "https://maps.app.goo.gl/zvuLMnp7WK7TAmG77"
     footinder: ""
-    official: "https://www.facebook.com/profile.php?id=61569993432541"
     award:
     - name: "夜市王"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "台南市北區海安路三段533號"
     phone: ""
     geo: "23.01048868287764, 120.19970718673113"
+    link: "台南市/北區/阿三哥蚵仔煎"
     google_map: "https://maps.app.goo.gl/4GXs8fSc3Vyh5GdF7"
     footinder: ""
-    official: "https://www.facebook.com/p/%E9%98%BF%E4%B8%89%E5%93%A5%E8%9A%B5%E4%BB%94%E7%85%8E%E8%98%BF%E8%94%94%E7%B3%95-100054472284689/"
     award:
     - name: "夜市王"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台南市北區海安路三段533號"
     phone: "0910098199"
     geo: "23.010608493924156, 120.19947294466562"
+    link: "台南市/北區/延記臭豆腐"
     google_map: "https://maps.app.goo.gl/KmnjJVWcw2nkkFDj8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8D%97%E5%B8%82%E5%8C%97%E5%8D%80/110336/"
-    official: "https://www.facebook.com/p/%E5%BB%B6%E8%A8%98%E8%87%AD%E8%B1%86%E8%85%90-100057585964164/"
     award:
     - name: "夜市王"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "台南市北區海安路三段533號花園夜市18排34號"
     phone: ""
     geo: "23.011101775738684, 120.20032064145462"
+    link: "台南市/北區/濃五吉拿棒"
     google_map: "https://maps.app.goo.gl/UwQGtrZ2g41wMSLC6"
     footinder: ""
-    official: "https://www.instagram.com/nongwu_churros/"
     award:
     - name: "夜市王"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "台南市北區海安路三段533號"
     phone: ""
     geo: "23.010433694903504, 120.20007547175955"
+    link: "台南市/北區/全壘打牛排"
     google_map: "https://maps.app.goo.gl/eXKJFwKWStAqW89Q9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8D%97%E5%B8%82%E5%8C%97%E5%8D%80/362071/"
-    official: "https://www.facebook.com/homerunsteak.nightmarket/"
     award:
     - name: "夜市王"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "台南市北區海安路三段533號"
     phone: ""
     geo: "23.011102702508033, 120.20032149827782"
+    link: "台南市/北區/魷皇駕到"
     google_map: "https://maps.app.goo.gl/KbZRVWhBJpHAC5fq5"
     footinder: ""
-    official: "https://www.facebook.com/p/%E9%AD%B7%E7%9A%87%E9%A7%95%E5%88%B0-100063970423098"
     award:
     - name: "夜市王"
       year: "2024"

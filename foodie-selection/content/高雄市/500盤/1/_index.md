@@ -1,11 +1,12 @@
 ---
-title: "高雄市 所有行政區 500盤 所有年份"
+title: "高雄市 所有行政區 500盤 所有年份 第1頁"
+description: "高雄市 所有行政區 500盤 所有年份 獲獎餐廳 第1頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "高雄市"
 district: "所有行政區"
 award: "500盤"
@@ -20,9 +21,9 @@ restaurants:
     address: "高雄市新興區林森二路188號"
     phone: "072810651"
     geo: "22.62226571248129, 120.30588983098578"
+    link: "高雄市/新興區/海天下海產餐廳"
     google_map: "https://maps.app.goo.gl/ULanB9xjikcwfoj17"
     footinder: "https://footinder.com.tw/%E9%AB%98%E9%9B%84%E5%B8%82%E6%96%B0%E8%88%88%E5%8D%80/11708/"
-    official: "https://www.theseaworld.com.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "高雄市前金區仁義街231號"
     phone: ""
     geo: "22.62049680742647, 120.30097226915365"
+    link: "高雄市/前金區/Marc_L3"
     google_map: "https://maps.app.goo.gl/cUKQNxUizNdCKf3i7"
     footinder: "https://footinder.com.tw/%E9%AB%98%E9%9B%84%E5%B8%82%E5%89%8D%E9%87%91%E5%8D%80/155022/"
-    official: "https://www.instagram.com/marc_l3/"
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "高雄市前鎮區中山二路199號3樓"
     phone: "079730122"
     geo: "22.61064694982192, 120.30552665715516"
+    link: "高雄市/前鎮區/Ukai-tei_Kaohsiung"
     google_map: "https://maps.app.goo.gl/aptTf3VLPcRXgtbz8"
     footinder: "https://footinder.com.tw/%E9%AB%98%E9%9B%84%E5%B8%82%E5%89%8D%E9%8E%AE%E5%8D%80/168893/"
-    official: "https://www.silks-club.com/zh-tw/restaurants/8/7"
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "高雄市鼓山區龍德新路222號11F"
     phone: "075596911"
     geo: "22.654568113324757, 120.30628693832335"
+    link: "高雄市/鼓山區/美享地餐廳_MAJESTY_RESTAURANT"
     google_map: "https://maps.app.goo.gl/E2aM1CUDSaefPajV7"
     footinder: "https://footinder.com.tw/%E9%AB%98%E9%9B%84%E5%B8%82%E9%BC%93%E5%B1%B1%E5%8D%80/11685/"
-    official: "https://www.khhmarriott.com/Foods/Content/MAJESTY_RTR"
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "高雄市茄萣區大發路109號111號"
     phone: "076989843"
     geo: "22.867338572124076, 120.19294440431777"
+    link: "高雄市/茄萣區/華榮活海產"
     google_map: "https://maps.app.goo.gl/ZH8Tz3smYccnt34o6"
     footinder: "https://footinder.com.tw/%E9%AB%98%E9%9B%84%E5%B8%82%E8%8C%84%E8%90%A3%E5%8D%80/1811/"
-    official: "https://www.facebook.com/profile.php?id=100054335637072"
     award:
     - name: "500盤"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "高雄市前鎮區復興四路8號"
     phone: "073384885"
     geo: "22.604326410394755, 120.29928960453516"
+    link: "高雄市/前鎮區/雋GEN_by_Matt_Chen"
     google_map: "https://maps.app.goo.gl/NSswK2yNTwJaWgCM8"
     footinder: "https://footinder.com.tw/%e9%ab%98%e9%9b%84%e5%b8%82%e5%89%8d%e9%8e%ae%e5%8d%80/362185/"
-    official: "https://www.gentaiwan.com/"
     award:
     - name: "500盤"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "高雄市新興區民生一路93號"
     phone: "072266127"
     geo: "22.6277478714885, 120.31184173391658"
+    link: "高雄市/新興區/蟳之屋"
     google_map: "https://maps.app.goo.gl/zsgBQpGLMfF2K6548"
     footinder: "https://footinder.com.tw/%E9%AB%98%E9%9B%84%E5%B8%82%E6%96%B0%E8%88%88%E5%8D%80/11704/"
-    official: "https://www.facebook.com/p/%E8%9F%B3%E4%B9%8B%E5%B1%8B-100071895429807/"
     award:
     - name: "500盤"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "高雄市前鎮區中華五路806號"
     phone: "073346709"
     geo: "22.6061389541691, 120.30555737730485"
+    link: "高雄市/前鎮區/承SHO"
     google_map: "https://maps.app.goo.gl/GLfyUq18FseQpTEc8"
     footinder: "https://footinder.com.tw/%E9%AB%98%E9%9B%84%E5%B8%82%E5%89%8D%E9%8E%AE%E5%8D%80/10883/"
-    official: "https://www.sho.com.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "高雄市鹽埕區新樂街162號"
     phone: "075312881"
     geo: "22.624974737561182, 120.2833228669028"
+    link: "高雄市/鹽埕區/曾記廚房"
     google_map: "https://maps.app.goo.gl/nvv7pnwK8xWDykiX6"
     footinder: "https://footinder.com.tw/%E9%AB%98%E9%9B%84%E5%B8%82%E9%B9%BD%E5%9F%95%E5%8D%80/10743/"
-    official: "https://www.facebook.com/TZKitchen/"
     award:
     - name: "500盤"
       year: "2024"

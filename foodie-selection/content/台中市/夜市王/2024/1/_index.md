@@ -1,11 +1,12 @@
 ---
-title: "台中市 所有行政區 夜市王 2024"
+title: "台中市 所有行政區 夜市王 2024 第1頁"
+description: "台中市 所有行政區 夜市王 2024 獲獎餐廳 第1頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "台中市"
 district: "所有行政區"
 award: "夜市王"
@@ -20,9 +21,9 @@ restaurants:
     address: "台中市西屯區慶和街92-1號"
     phone: "0983687249"
     geo: "24.176052892971956, 120.64654193851347"
+    link: "台中市/西屯區/逢甲發倆醬烤雞排（夯雞排）"
     google_map: "https://maps.app.goo.gl/NatUGxCFwKhp8Gw9A"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E8%A5%BF%E5%B1%AF%E5%8D%80/362041/"
-    official: "https://www.facebook.com/profile.php?id=61551905487137"
     award:
     - name: "夜市王"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "台中市西屯區逢甲路20巷8號"
     phone: ""
     geo: "24.179350592324464, 120.64580755155393"
+    link: "台中市/西屯區/嵐豐火烤魚"
     google_map: "https://maps.app.goo.gl/i1cEpW2D1nyG3uf57"
     footinder: ""
-    official: ""
     award:
     - name: "夜市王"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "台中市西屯區文華路71號D1"
     phone: ""
     geo: "24.177482334013394, 120.64628614158246"
+    link: "台中市/西屯區/台中甜不辣_逢甲臭豆腐"
     google_map: "https://maps.app.goo.gl/MexQMLWA1L2hVbrM6"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E8%A5%BF%E5%B1%AF%E5%8D%80/362049/"
-    official: ""
     award:
     - name: "夜市王"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "台中市北區尊賢街9號"
     phone: "0923177364 "
     geo: "24.149081762910342, 120.68496511081464"
+    link: "台中市/北區/一中8兩碳烤雞排"
     google_map: "https://maps.app.goo.gl/udJuSREHVQJeAXS67"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8C%97%E5%8D%80/168283/"
-    official: "https://www.facebook.com/8BQChicken/"
     award:
     - name: "夜市王"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台中市北區一中街261號"
     phone: "0956118020"
     geo: "24.153726894209537, 120.68673547961365"
+    link: "台中市/北區/一中蠔大一口-蚵蛋燒"
     google_map: "https://maps.app.goo.gl/bbLmv7W9LovuJQGb6"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8C%97%E5%8D%80/362061/"
-    official: "https://www.instagram.com/kirk791205/"
     award:
     - name: "夜市王"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "台中市北區一中街21-2號"
     phone: "0422234614"
     geo: "24.14723632436117, 120.68414831318003"
+    link: "台中市/北區/手工臭豆腐"
     google_map: "https://maps.app.goo.gl/5ianHzWsDEYM4khT9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8C%97%E5%8D%80/362055/"
-    official: ""
     award:
     - name: "夜市王"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "台中市北區育才街3巷4-6號"
     phone: "0972371659"
     geo: "24.148996881217798, 120.68655185208956"
+    link: "台中市/北區/一中豐仁冰"
     google_map: "https://maps.app.goo.gl/XbpRUoLBX6qc213W6"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8C%97%E5%8D%80/362057/"
-    official: "https://www.facebook.com/fengren1946"
     award:
     - name: "夜市王"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "台中市北區一中街99號"
     phone: "0422250003"
     geo: "24.150229570482065, 120.68537062420684"
+    link: "台中市/北區/蘇坤蔚牛排_Sukhumvit_STEAK"
     google_map: "https://maps.app.goo.gl/uXV9DoCZHr1XCe5r6"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8C%97%E5%8D%80/362075/"
-    official: "https://www.facebook.com/SukhumvitSTEAK"
     award:
     - name: "夜市王"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "台中市北區一中街43號"
     phone: ""
     geo: "24.148967855271774, 120.68493632362058"
+    link: "台中市/北區/益香轟炸魷魚"
     google_map: "https://maps.app.goo.gl/Uu6vQAToKHgMJorYA"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8C%97%E5%8D%80/362083/"
-    official: ""
     award:
     - name: "夜市王"
       year: "2024"

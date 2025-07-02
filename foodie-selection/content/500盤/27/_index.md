@@ -1,11 +1,12 @@
 ---
-title: "所有城市 所有行政區 500盤 所有年份"
+title: "所有城市 所有行政區 500盤 所有年份 第27頁"
+description: "所有城市 所有行政區 500盤 所有年份 獲獎餐廳 第27頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "所有城市"
 district: "所有行政區"
 award: "500盤"
@@ -20,9 +21,9 @@ restaurants:
     address: "屏東縣高樹鄉高樹村高華商場43號"
     phone: "087962229"
     geo: "22.82470382992468, 120.60213443559387"
+    link: "屏東縣/高樹鄉/新真珍餐廳"
     google_map: "https://maps.app.goo.gl/G9Da6yk64ARqUmPC7"
     footinder: "https://footinder.com.tw/%E5%B1%8F%E6%9D%B1%E7%B8%A3%E9%AB%98%E6%A8%B9%E9%84%89/5581/"
-    official: "https://www.facebook.com/profile.php?id=100044194255885"
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "屏東縣恆春鎮龍泉路65-36號"
     phone: "0932782528"
     geo: "21.986907518884713, 120.7358936431714"
+    link: "屏東縣/恆春鎮/福爾摩沙農莊"
     google_map: "https://maps.app.goo.gl/EpfRqv9hoBYyLj8a6"
     footinder: "https://footinder.com.tw/%E5%B1%8F%E6%9D%B1%E7%B8%A3%E6%81%86%E6%98%A5%E9%8E%AE/73712/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "屏東縣萬巒鄉民和路16號"
     phone: "087811220"
     geo: "22.574188019977104, 120.56909577131485"
+    link: "屏東縣/萬巒鄉/海鴻飯店"
     google_map: "https://maps.app.goo.gl/TxLCA4vi31KcUvas5"
     footinder: "https://footinder.com.tw/%E5%B1%8F%E6%9D%B1%E7%B8%A3%E8%90%AC%E5%B7%92%E9%84%89/2842/"
-    official: "http://www.haihon.com.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "台東縣關山鎮"
     phone: "0934254225"
     geo: "23.00883812667777, 121.17446331185239"
+    link: "台東縣/關山鎮/日出禾作"
     google_map: "https://maps.app.goo.gl/fcdGazZMM8UPkXPcA"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E6%9D%B1%E7%B8%A3%E9%97%9C%E5%B1%B1%E9%8E%AE/75186/"
-    official: "https://www.facebook.com/richuhezuo/"
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台東縣台東市松江路一段32號"
     phone: "089281447"
     geo: "22.79272824285487, 121.18677965733524"
+    link: "台東縣/台東市/特選海產店"
     google_map: "https://maps.app.goo.gl/mNZ21cmpXpzRBajz6"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E6%9D%B1%E7%B8%A3%E5%8F%B0%E6%9D%B1%E5%B8%82/84983/"
-    official: "https://www.facebook.com/TaitungFeaturedSeafoodRestaurant/"
     award:
     - name: "500盤"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "台東縣關山鎮6號"
     phone: "0985697077"
     geo: "23.053307036580946, 121.16618398337785"
+    link: "台東縣/關山鎮/宏昌客家菜"
     google_map: "https://maps.app.goo.gl/849MTramZnyJYS9w9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E6%9D%B1%E7%B8%A3%E9%97%9C%E5%B1%B1%E9%8E%AE/75200/"
-    official: "https://www.facebook.com/p/%E9%97%9C%E5%B1%B1%E5%AE%8F%E6%98%8C%E5%AE%A2%E5%AE%B6%E8%8F%9C%E9%A4%A8-100063901566703/"
     award:
     - name: "500盤"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "台東縣長濱鄉10之1號"
     phone: "089801432"
     geo: "23.243997774507985, 121.41648646516678"
+    link: "台東縣/長濱鄉/邱爸爸海味"
     google_map: "https://maps.app.goo.gl/ZUF3ousv9tSUXHyi8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E6%9D%B1%E7%B8%A3%E9%95%B7%E6%BF%B1%E9%84%89/5699/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "台東縣池上鄉中山路237號"
     phone: "089863487"
     geo: "23.125247816251342, 121.21940281524563"
+    link: "台東縣/池上鄉/翠華小館_客家料理"
     google_map: "https://maps.app.goo.gl/rY6rAEqsSkWJNnf28"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E6%9D%B1%E7%B8%A3%E6%B1%A0%E4%B8%8A%E9%84%89/77682/"
-    official: "https://www.facebook.com/meihakkafood/"
     award:
     - name: "500盤"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "台東縣台東市福建路102號"
     phone: "089318142"
     geo: "22.75515165434561, 121.15505777426316"
+    link: "台東縣/台東市/一品香海產"
     google_map: "https://maps.app.goo.gl/T7jL3cCTU7cp8WQw8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E6%9D%B1%E7%B8%A3%E5%8F%B0%E6%9D%B1%E5%B8%82/143457/"
-    official: "https://www.facebook.com/sing5486/"
     award:
     - name: "500盤"
       year: "2024"

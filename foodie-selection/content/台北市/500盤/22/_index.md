@@ -1,11 +1,12 @@
 ---
-title: "台北市 所有行政區 500盤 所有年份"
+title: "台北市 所有行政區 500盤 所有年份 第22頁"
+description: "台北市 所有行政區 500盤 所有年份 獲獎餐廳 第22頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "台北市"
 district: "所有行政區"
 award: "500盤"
@@ -20,9 +21,9 @@ restaurants:
     address: "台北市內湖區瑞光路258巷39號1F"
     phone: ""
     geo: "25.074903543245654, 121.57481528946546"
+    link: "台北市/內湖區/Logy"
     google_map: "https://maps.app.goo.gl/beknCxr26CaGJ4sP6"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%85%a7%e6%b9%96%e5%8d%80/13177/"
-    official: "https://logy.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "台北市大安區光復南路308巷45號"
     phone: "0227406638"
     geo: "25.03885883238682, 121.55577391086238"
+    link: "台北市/大安區/La_Piola_Cucina_Italiana"
     google_map: "https://maps.app.goo.gl/J561qRqSFbJb5J3r9"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/158063/"
-    official: "https://lapiolataipei.com/"
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "台北市信義區忠孝東路四段553巷16弄9號"
     phone: "0237621570"
     geo: "25.04279210361641, 121.56348668717052"
+    link: "台北市/信義區/Le_Duet_Modern_Kaiseki_演蒔光"
     google_map: "https://maps.app.goo.gl/5FTBHZkZj9UgLRas6"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%bf%a1%e7%be%a9%e5%8d%80/105331/"
-    official: "https://www.facebook.com/leduet.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "台北市信義區松仁路28號5樓"
     phone: "0287292628"
     geo: "25.03986254498836, 121.56761965397939"
+    link: "台北市/信義區/L'ATELIER_de_Joel_Robuchon_侯布雄法式餐廳"
     google_map: "https://maps.app.goo.gl/FskDgajijNvH1QHW8"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%bf%a1%e7%be%a9%e5%8d%80/9247/"
-    official: "https://www.facebook.com/LatelierdeJoelRobuchonTaipei/"
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台北市大安區濟南路三段41號一樓"
     phone: "0227525357"
     geo: "25.040330972190407, 121.53629962812782"
+    link: "台北市/大安區/Torishou鳥翔"
     google_map: "https://maps.app.goo.gl/u3LHH4rKH9QfidJr5"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/35703/"
-    official: "https://www.facebook.com/profile.php?id=100086996674530"
     award:
     - name: "500盤"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "台北市中山區南京東路二段118號"
     phone: "0221819950"
     geo: "25.051908757185448, 121.53258627362912"
+    link: "台北市/中山區/le_beaujour_芃卓法式餐廳"
     google_map: "https://maps.app.goo.gl/NUzFiMe4YMDtiLNT7"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/153100/"
-    official: "https://lebeaujour.com.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "台北市大安區仁愛路三段143巷25號"
     phone: "0227113881"
     geo: "25.03960909993349, 121.54318238968213"
+    link: "台北市/大安區/L'_AGE_熟成餐廳"
     google_map: "https://maps.app.goo.gl/ZhCnCVbN1TZ6fCmCA"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/255/"
-    official: "https://www.facebook.com/520Lage/"
     award:
     - name: "500盤"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "台北市松山區八德路二段346巷7弄42號1樓"
     phone: "0227528204"
     geo: "25.046715584313066, 121.54588405309856"
+    link: "台北市/松山區/LilyCoco莉莉可可"
     google_map: "https://maps.app.goo.gl/egoiDZLq7RqLo72BA"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e6%9d%be%e5%b1%b1%e5%8d%80/362205/"
-    official: "https://www.instagram.com/lilycoco_tpe"
     award:
     - name: "500盤"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "台北市大安區四維路28號"
     phone: "0227000901"
     geo: "25.036329196613348, 121.54807181035986"
+    link: "台北市/大安區/MUME"
     google_map: "https://maps.app.goo.gl/myMWsXLGzsnPhVSC8"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/248/"
-    official: "https://www.mume.tw/"
     award:
     - name: "500盤"
       year: "2024"

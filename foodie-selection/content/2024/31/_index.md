@@ -1,11 +1,12 @@
 ---
-title: "所有城市 所有行政區 所有獎項 2024"
+title: "所有城市 所有行政區 所有獎項 2024 第31頁"
+description: "所有城市 所有行政區 所有獎項 2024 獲獎餐廳 第31頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "所有城市"
 district: "所有行政區"
 award: "所有獎項"
@@ -20,9 +21,9 @@ restaurants:
     address: "台北市大同區重慶北路三段136巷56號"
     phone: "0225980223"
     geo: "25.06757686716401, 121.51219610221672"
+    link: "台北市/大同區/HUGH_dessert_dining"
     google_map: "https://maps.app.goo.gl/JpgyqtcGfw669PY4A"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%90%8c%e5%8d%80/130784/"
-    official: "https://hughdessert.com/dining"
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "高雄市前鎮區新光路33號2樓"
     phone: "072132037"
     geo: "22.611319256550672, 120.30348383363544"
+    link: "高雄市/前鎮區/HAWKER好客南洋餐廳"
     google_map: "https://maps.app.goo.gl/ugmBrVcTndYarTiR7"
     footinder: "https://footinder.com.tw/%e9%ab%98%e9%9b%84%e5%b8%82%e5%89%8d%e9%8e%ae%e5%8d%80/362199/"
-    official: "https://ickaohsiung.com/restaurant/hawker/"
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "台北市松山區八德路三段12巷52弄1號1樓"
     phone: "0225770886"
     geo: "25.04611563486958, 121.55058517573683"
+    link: "台北市/松山區/INITA"
     google_map: "https://maps.app.goo.gl/8bz9dofa92E5vAxx6"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e6%9d%be%e5%b1%b1%e5%8d%80/47659/"
-    official: "https://www.inita.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "台北市松山區八德路三段8巷31號"
     phone: "0225792005"
     geo: "25.04624983709194, 121.54973368689903"
+    link: "台北市/松山區/JUJU_Spanish_Gastrobar"
     google_map: "https://maps.app.goo.gl/rdcvPjKvD4dJCcScA"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e6%9d%be%e5%b1%b1%e5%8d%80/33026/"
-    official: "https://jujuspanishgastrobar.my.canva.site/"
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台北市信義區信義路五段128號1樓"
     phone: "0287896128"
     geo: "25.03239444153666, 121.56920737741855"
+    link: "台北市/信義區/JOYCE_EAST"
     google_map: "https://maps.app.goo.gl/wBjgUWuAzf3j2i937"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80/9209/"
-    official: "https://www.joycecafetw.com/JOYCEEAST/?action=index"
     award:
     - name: "500盤"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "花蓮縣花蓮市中正路618巷1號"
     phone: "038361628"
     geo: "23.980295657050927, 121.61340298831794"
+    link: "花蓮縣/花蓮市/fūjō_restaurant"
     google_map: "https://maps.app.goo.gl/joFicN7QgNBcV7fr7"
     footinder: "https://footinder.com.tw/%e8%8a%b1%e8%93%ae%e7%b8%a3%e8%8a%b1%e8%93%ae%e5%b8%82/362201/"
-    official: "https://www.facebook.com/fujo1936/"
     award:
     - name: "500盤"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "分店眾多請自行搜尋"
     phone: ""
     geo: ""
+    link: "台北市/信義區/KIKI_餐廳"
     google_map: "https://www.google.com/maps/search/KIKI+%E9%A4%90%E5%BB%B3/@24.5956446,120.7778131,10z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYyMy4yIKXMDSoASAFQAw%3D%3D"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%bf%a1%e7%be%a9%e5%8d%80/362203/"
-    official: "https://www.kiki1991.com/main/tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "台北市內湖區瑞光路258巷39號1F"
     phone: ""
     geo: "25.074903543245654, 121.57481528946546"
+    link: "台北市/內湖區/Logy"
     google_map: "https://maps.app.goo.gl/beknCxr26CaGJ4sP6"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%85%a7%e6%b9%96%e5%8d%80/13177/"
-    official: "https://logy.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "台北市大安區光復南路308巷45號"
     phone: "0227406638"
     geo: "25.03885883238682, 121.55577391086238"
+    link: "台北市/大安區/La_Piola_Cucina_Italiana"
     google_map: "https://maps.app.goo.gl/J561qRqSFbJb5J3r9"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/158063/"
-    official: "https://lapiolataipei.com/"
     award:
     - name: "500盤"
       year: "2024"

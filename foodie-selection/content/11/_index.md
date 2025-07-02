@@ -1,11 +1,12 @@
 ---
-title: "所有城市 所有行政區 所有獎項 所有年份"
+title: "所有城市 所有行政區 所有獎項 所有年份 第11頁"
+description: "所有城市 所有行政區 所有獎項 所有年份 獲獎餐廳 第11頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "所有城市"
 district: "所有行政區"
 award: "所有獎項"
@@ -20,9 +21,9 @@ restaurants:
     address: "台北市中山區中山北路二段39巷3號"
     phone: "0225215000#3680"
     geo: "25.054188522340223, 121.52424008371192"
+    link: "台北市/中山區/台北晶華蘭亭"
     google_map: "https://maps.app.goo.gl/48jZuEnSb5hXnG729"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/52645/"
-    official: "https://www.regenttaiwan.com/dining/lan-ting"
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "台北市北投區奇岩路1號"
     phone: "0255518888"
     geo: "25.13479201635002, 121.50727080784141"
+    link: "台北市/北投區/北投奇岩一號"
     google_map: "https://maps.app.goo.gl/4ysUPW9c1XVuevog8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%8C%97%E6%8A%95%E5%8D%80/7325/"
-    official: "https://www.thegaiahotel.com/restaurants-detail/1__4/"
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "台北市大安區安和路一段102巷4號"
     phone: "0223250531"
     geo: "25.03415778953967, 121.55194771486876"
+    link: "台北市/大安區/八和和牛燒肉專門店"
     google_map: "https://maps.app.goo.gl/hkbwgDRRRLpeSdDX8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/47908/"
-    official: "https://www.facebook.com/BAHO.YAKINIKU/"
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "台北市大同區西寧北路90之1號2樓"
     phone: "0225591775"
     geo: "25.055318438910497, 121.50880195558803"
+    link: "台北市/大同區/杯底香_永久歇業_"
     google_map: "https://maps.app.goo.gl/rtAcjz7TomKxxhUf8"
     footinder: ""
-    official: "https://www.instagram.com/peitihsiang/"
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台北市松山區南京東路三段303巷8弄5號"
     phone: "0225117427"
     geo: "25.053059733623133, 121.54704628247033"
+    link: "台北市/松山區/爸爸Kevin美食BBQ"
     google_map: "https://maps.app.goo.gl/SQfDLAPR3Qjot1xM6"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e6%9d%be%e5%b1%b1%e5%8d%80/31849/"
-    official: "https://www.88k.com.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "台北市大安區辛亥路二段159號"
     phone: "0227368478"
     geo: "25.02167521191937, 121.54069428223595"
+    link: "台北市/大安區/貝菈小屋"
     google_map: "https://maps.app.goo.gl/h4n1xXYRsJo2BC5v5"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/32328/"
-    official: "https://www.facebook.com/goBella/"
     award:
     - name: "500盤"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "台北市大安區市民大道四段102號"
     phone: ""
     geo: "25.04446458959788, 121.54997939633692"
+    link: "台北市/大安區/本家BORNGA韓式燒肉"
     google_map: "https://maps.app.goo.gl/5MVLgBx3hB435PY27"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/362134/"
-    official: "https://www.facebook.com/profile.php?id=100086873505560"
     award:
     - name: "500盤"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "台北市中山區林森北路380號2F"
     phone: "0225519157"
     geo: "25.058392070937916, 121.52540054932882"
+    link: "台北市/中山區/彭園"
     google_map: "https://maps.app.goo.gl/ALFGjEpnxhH3mtKf7"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/31250/"
-    official: "https://www.pengyuan.com.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "台北市中山區長安東路二段185號"
     phone: "0227528587"
     geo: "25.048429960353744, 121.54263645234836"
+    link: "台北市/中山區/茂園餐廳"
     google_map: "https://maps.app.goo.gl/GoACVTevY2bM3yVF8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/267/"
-    official: "http://www.maoyuan.tw/"
     award:
     - name: "500盤"
       year: "2024"

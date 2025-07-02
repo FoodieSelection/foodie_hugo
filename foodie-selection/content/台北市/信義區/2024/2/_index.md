@@ -1,11 +1,12 @@
 ---
-title: "台北市 信義區 所有獎項 2024"
+title: "台北市 信義區 所有獎項 2024 第2頁"
+description: "台北市 信義區 所有獎項 2024 獲獎餐廳 第2頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "台北市"
 district: "信義區"
 award: "所有獎項"
@@ -20,9 +21,9 @@ restaurants:
     address: "台北市信義區基隆路一段333號34樓"
     phone: "0227232938"
     geo: "25.034408673671145, 121.56122814947172"
+    link: "台北市/信義區/漢來名人坊"
     google_map: "https://maps.app.goo.gl/G6gFQewFMnKDhCsSA"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82/9094/"
-    official: "https://www.hilai-foods.com/brand-content/7#branch-5/celebrity-cuisine"
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "台北市信義區逸仙路32巷15號1樓"
     phone: "0287863320"
     geo: "25.039912582914482, 121.5627165502999"
+    link: "台北市/信義區/琥珀割烹_Kohaku"
     google_map: "https://maps.app.goo.gl/JLfFhzJ3cLJhZphr5"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%bf%a1%e7%be%a9%e5%8d%80/362142/"
-    official: "https://www.instagram.com/kohaku.tw"
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "台北市信義區忠孝東路五段68號2樓"
     phone: "0227239976"
     geo: "25.040502108778398, 121.56656937574235"
+    link: "台北市/信義區/心潮飯店"
     google_map: "https://maps.app.goo.gl/sc5p8KWoJY9GeC2h9"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%bf%a1%e7%be%a9%e5%8d%80/9026/"
-    official: "https://www.facebook.com/sinchaoriceshoppe/"
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "台北市信義區松智路17號微風南山46樓"
     phone: "0227220303"
     geo: "25.034280263725563, 121.56687016702816"
+    link: "台北市/信義區/川雅"
     google_map: "https://maps.app.goo.gl/DWjnxi15bCxumJUUA"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%bf%a1%e7%be%a9%e5%8d%80/362162/"
-    official: "https://www.chuan-ya.com/"
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台北市信義區嘉興街175巷2弄8號"
     phone: ""
     geo: "25.02748479024552, 121.55742378606605"
+    link: "台北市/信義區/雙城雙廚"
     google_map: "https://maps.app.goo.gl/43WJp92iomFfxDnr9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80/362164/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "台北市信義區忠孝東路四段553巷22弄2號"
     phone: "0227566860"
     geo: "25.043165741931137, 121.5630643935445"
+    link: "台北市/信義區/BURGER_OUT"
     google_map: "https://maps.app.goo.gl/ARbMSjrkXdAK9tds8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80/36899/"
-    official: "https://www.instagram.com/burgerout/"
     award:
     - name: "500盤"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "台北市信義區逸仙路32巷7號1樓"
     phone: "0287869663"
     geo: "25.039898005940966, 121.56227833400445"
+    link: "台北市/信義區/chateau_zoe_酒窖餐廳_永久歇業_"
     google_map: "https://maps.app.goo.gl/Hejkibae3ndWnC6U7"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80/9034/"
-    official: "https://www.facebook.com/chateauzoe/"
     award:
     - name: "500盤"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "台北市信義區信義路五段128號1樓"
     phone: "0287896128"
     geo: "25.03239444153666, 121.56920737741855"
+    link: "台北市/信義區/JOYCE_EAST"
     google_map: "https://maps.app.goo.gl/wBjgUWuAzf3j2i937"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80/9209/"
-    official: "https://www.joycecafetw.com/JOYCEEAST/?action=index"
     award:
     - name: "500盤"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "分店眾多請自行搜尋"
     phone: ""
     geo: ""
+    link: "台北市/信義區/KIKI_餐廳"
     google_map: "https://www.google.com/maps/search/KIKI+%E9%A4%90%E5%BB%B3/@24.5956446,120.7778131,10z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYyMy4yIKXMDSoASAFQAw%3D%3D"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%bf%a1%e7%be%a9%e5%8d%80/362203/"
-    official: "https://www.kiki1991.com/main/tw/"
     award:
     - name: "500盤"
       year: "2024"

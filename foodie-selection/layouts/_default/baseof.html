@@ -39,10 +39,7 @@
   <meta name="twitter:description" content="{{ .Params.description }}">
   <meta name="twitter:image" content="{{ .Site.BaseURL }}{{ .Site.Params.logo }}">
 
-  {{ block "font" . }}{{ end }}
-  
-  <link rel="stylesheet" href="{{ "css/style.css" | absURL }}">
-
+  {{ block "css" . }}{{ end }}
 </head>
 <body>
   {{ block "main" . }}{{ end }}

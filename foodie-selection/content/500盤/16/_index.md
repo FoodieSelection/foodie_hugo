@@ -1,11 +1,12 @@
 ---
-title: "所有城市 所有行政區 500盤 所有年份"
+title: "所有城市 所有行政區 500盤 所有年份 第16頁"
+description: "所有城市 所有行政區 500盤 所有年份 獲獎餐廳 第16頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "所有城市"
 district: "所有行政區"
 award: "500盤"
@@ -20,9 +21,9 @@ restaurants:
     address: "台北市大安區樂利路11巷32號1樓"
     phone: "0227323255"
     geo: "25.02826872390276, 121.55244554849739"
+    link: "台北市/大安區/紅皇后川酒·RED_QUEEN_BISTRO"
     google_map: "https://maps.app.goo.gl/3WtC6N6ZG8CwFjfW9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/8821/"
-    official: "https://www.facebook.com/redqueenbistro/"
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "新北市中和區中山路三段122號4樓"
     phone: ""
     geo: "25.00696831557478, 121.47495420488349"
+    link: "新北市/中和區/漢堡排_嘉"
     google_map: "https://maps.app.goo.gl/ESeBuJDP1hVtHquo7"
     footinder: "https://footinder.com.tw/%e6%96%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%92%8c%e5%8d%80/362144/"
-    official: "https://www.instagram.com/hamburg_yoshi.tw1/"
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "宜蘭縣冬山鄉八仙一路117號往前20公尺"
     phone: "0934135691"
     geo: "24.661703502547546, 121.78345966391399"
+    link: "宜蘭縣/冬山鄉/花愛現小酒館"
     google_map: "https://maps.app.goo.gl/xS5Dqq8fPeUmuwny6"
     footinder: "https://footinder.com.tw/%E5%AE%9C%E8%98%AD%E7%B8%A3%E5%86%AC%E5%B1%B1%E9%84%89/938/"
-    official: "https://www.facebook.com/lebistrodefleur/"
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "台北市大同區民樂街6號"
     phone: ""
     geo: "25.055712283156602, 121.5108171826953"
+    link: "台北市/大同區/江牛樓"
     google_map: "https://maps.app.goo.gl/HeZwPDgFPksGptQd8"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%90%8c%e5%8d%80/362146/"
-    official: "https://www.facebook.com/profile.php?id=61552768012922"
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台北市大安區四維路375-2號1樓"
     phone: "0227000375"
     geo: "25.025698017861746, 121.54795158279929"
+    link: "台北市/大安區/季肴酒駄介_Dasuke_by_Sakemaru"
     google_map: "https://maps.app.goo.gl/HYTeYy26pZpz3XK57"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/362150/"
-    official: "https://tw.sakemaru.me/pages/dasuke"
     award:
     - name: "500盤"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "台北市大安區忠孝東路三段216巷3弄6號"
     phone: "0227710883"
     geo: "25.04120725076647, 121.54032123902377"
+    link: "台北市/大安區/江蘇菜盒店"
     google_map: "https://maps.app.goo.gl/XjCnE3qGaVARA2U67"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/168844/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "台北市松山區民生東路五段137巷6弄36號"
     phone: "0227486356"
     geo: "25.060297657276408, 121.56293532605065"
+    link: "台北市/松山區/錦富日本料理"
     google_map: "https://maps.app.goo.gl/ZGrdFkBeUqgEwVG76"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/36934/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "台北市松山區南京東路五段250巷2弄5號1樓"
     phone: "0227659906"
     geo: "25.05077240299724, 121.56640052915144"
+    link: "台北市/松山區/金山客家小館創始店"
     google_map: "https://maps.app.goo.gl/KKrNjL5wFHSXgBmy8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/9079/"
-    official: "https://www.jinshan1990.com/"
     award:
     - name: "500盤"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "新北市萬里區內中福路4號"
     phone: "0224921616"
     geo: "25.165212956517355, 121.66764788381585"
+    link: "新北市/萬里區/酒莊美食餐廳"
     google_map: "https://maps.app.goo.gl/1QK6sfMwxTyoedtz8"
     footinder: "https://footinder.com.tw/%E6%96%B0%E5%8C%97%E5%B8%82%E8%90%AC%E9%87%8C%E5%8D%80/9683/"
-    official: "https://www.facebook.com/p/%E9%85%92%E8%8E%8A%E7%BE%8E%E9%A3%9F%E9%A4%90%E5%BB%B3-100043658457279/"
     award:
     - name: "500盤"
       year: "2024"

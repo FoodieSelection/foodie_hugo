@@ -1,11 +1,12 @@
 ---
-title: "台南市 東區 台北國際牛肉麵節 2024"
+title: "台南市 東區 台北國際牛肉麵節 2024 第1頁"
+description: "台南市 東區 台北國際牛肉麵節 2024 獲獎餐廳 第1頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "台南市"
 district: "東區"
 award: "台北國際牛肉麵節"
@@ -20,9 +21,9 @@ restaurants:
     address: "701台南市東區東平路174號"
     phone: "0958185594"
     geo: "22.99559693331438, 120.22902829984864"
+    link: "台南市/東區/黃先生麵舖"
     google_map: "https://maps.app.goo.gl/wXgeBM6FaVFJDExa7"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8d%97%e5%b8%82%e6%9d%b1%e5%8d%80/67078/"
-    official: "https://www.facebook.com/p/%E9%BB%83%E5%85%88%E7%94%9F%E9%BA%B5%E8%88%96-100086620549980/"
     award:
     - name: "台北國際牛肉麵節"
       year: "2024"

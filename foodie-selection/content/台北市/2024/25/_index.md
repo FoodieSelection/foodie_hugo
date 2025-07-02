@@ -1,11 +1,12 @@
 ---
-title: "台北市 所有行政區 所有獎項 2024"
+title: "台北市 所有行政區 所有獎項 2024 第25頁"
+description: "台北市 所有行政區 所有獎項 2024 獲獎餐廳 第25頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "台北市"
 district: "所有行政區"
 award: "所有獎項"
@@ -20,9 +21,9 @@ restaurants:
     address: "105台北市松山區敦化北路167號B1"
     phone: "0277076789"
     geo: "25.05476692436136, 121.54941270143397"
+    link: "台北市/松山區/海峽會"
     google_map: "https://maps.app.goo.gl/CQi3oEJ5mZYxSvjL6"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/13141/"
-    official: "http://www.csclub.com.tw/"
     award:
     - name: "台北國際牛肉麵節"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "106台北市大安區建國南路一段266號"
     phone: "0227019266"
     geo: "25.036629451697564, 121.53738803257971"
+    link: "台北市/大安區/福容大飯店-台北一館"
     google_map: "https://maps.app.goo.gl/GbUDKvsq5h8iAfgm7"
     footinder: ""
-    official: "https://www.fullon-hotels.com.tw/tp/tw/"
     award:
     - name: "台北國際牛肉麵節"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "110台北市信義區菸廠路98號"
     phone: "0266262888"
     geo: "25.04458227840682, 121.56201897364893"
+    link: "台北市/信義區/誠品行旅"
     google_map: "https://maps.app.goo.gl/mfRmyRW5sK5dSZCv8"
     footinder: ""
-    official: "https://www.eslitehotel.com/"
     award:
     - name: "台北國際牛肉麵節"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "台北市中正區中華路二段315巷41號"
     phone: "0223055992"
     geo: "25.028843081272893, 121.5063911104066"
+    link: "台北市/中正區/好吃炸雞"
     google_map: "https://maps.app.goo.gl/ZxNr3GvjPi7f8y5A9"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e6%ad%a3%e5%8d%80/161204/"
-    official: ""
     award:
     - name: "夜市王"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台北市中正區中華路二段311巷"
     phone: "0930840640"
     geo: "25.028710849274624, 121.50622132683642"
+    link: "台北市/中正區/銘鄉豬高飯"
     google_map: "https://maps.app.goo.gl/hxjeQFv68PfFHZUL8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80/362047/"
-    official: "https://www.facebook.com/profile.php?id=100069267175195"
     award:
     - name: "夜市王"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "台北市中正區中華路二段313巷18號"
     phone: "0223019448"
     geo: "25.02834367699148, 121.50644058142598"
+    link: "台北市/中正區/禾甲蒸豆腐食堂"
     google_map: "https://maps.app.goo.gl/you287hw5x4W3qDh7"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e6%ad%a3%e5%8d%80/34738/"
-    official: "https://www.facebook.com/p/%E7%A6%BE%E7%94%B2-100063825320865/"
     award:
     - name: "夜市王"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "台北市中正區中華路二段309巷22號"
     phone: "0932292995"
     geo: "25.02902115151182, 121.50623058529553"
+    link: "台北市/中正區/英姐黑糖珍珠鮮奶"
     google_map: "https://maps.app.goo.gl/AAAc8axcVs1rQK7N9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80/16435/"
-    official: "https://www.facebook.com/profile.php?id=100063909369643"
     award:
     - name: "夜市王"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "台北市中正區中華路二段307巷5號"
     phone: "0223092988"
     geo: "25.028998622777774, 121.50540516290361"
+    link: "台北市/中正區/胖媽大塊牛肉麵"
     google_map: "https://maps.app.goo.gl/9MVNXLPHVFG9DKNj7"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80/52376/"
-    official: "https://www.facebook.com/profile.php?id=100057698280381"
     award:
     - name: "夜市王"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "台北市中正區中華路二段315巷21號"
     phone: "0978205119"
     geo: "25.028401286776475, 121.50679166164532"
+    link: "台北市/中正區/海王烤魚"
     google_map: "https://maps.app.goo.gl/Q537etAtw4w5cdYy8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80/362089/"
-    official: ""
     award:
     - name: "夜市王"
       year: "2024"

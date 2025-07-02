@@ -1,11 +1,12 @@
 ---
-title: "所有城市 所有行政區 夜市王 2024"
+title: "所有城市 所有行政區 夜市王 2024 第5頁"
+description: "所有城市 所有行政區 夜市王 2024 獲獎餐廳 第5頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "所有城市"
 district: "所有行政區"
 award: "夜市王"
@@ -20,9 +21,9 @@ restaurants:
     address: "台南市東區林森路一段701號"
     phone: "0927206816"
     geo: "22.982780458518466, 120.21925601461872"
+    link: "台南市/東區/德聖炭烤醬燒雞排（大東夜市）"
     google_map: "https://maps.app.goo.gl/yxsZqTybYYnbrH438"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8d%97%e5%b8%82%e6%9d%b1%e5%8d%80/362037/"
-    official: "https://www.facebook.com/p/%E5%BE%B7%E8%81%96%E9%86%AC%E7%87%92%E9%9B%9E%E6%8E%92-100069026515008/"
     award:
     - name: "夜市王"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "台南市東區林森路一段316號"
     phone: "0915809885"
     geo: "22.98290440365182, 120.21947612764448"
+    link: "台南市/東區/四草蚵仔煎海產粥"
     google_map: "https://maps.app.goo.gl/wH61jw2Y4JkMKwXn6"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8D%97%E5%B8%82%E6%9D%B1%E5%8D%80/114425/"
-    official: "https://www.facebook.com/p/%E5%9B%9B%E8%8D%89%E8%9A%B5%E4%BB%94%E7%85%8E%E6%A0%AA%E5%BC%8F%E6%9C%83%E7%A4%BE-100054660180752/"
     award:
     - name: "夜市王"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "台南市東區林森路一段276號"
     phone: ""
     geo: "22.982902533852066, 120.21947090638328"
+    link: "台南市/東區/蔡家豬血湯臭豆腐"
     google_map: "https://maps.app.goo.gl/bYtWBt9Pxns7qPVU8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8D%97%E5%B8%82%E6%9D%B1%E5%8D%80/362063/"
-    official: ""
     award:
     - name: "夜市王"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "台南市北區海安路三段533號"
     phone: "0938553870"
     geo: "23.010591297064956, 120.19969766137017"
+    link: "台南市/北區/碳烤雄大香雞排"
     google_map: "https://maps.app.goo.gl/zvuLMnp7WK7TAmG77"
     footinder: ""
-    official: "https://www.facebook.com/profile.php?id=61569993432541"
     award:
     - name: "夜市王"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台南市北區海安路三段533號"
     phone: ""
     geo: "23.01048868287764, 120.19970718673113"
+    link: "台南市/北區/阿三哥蚵仔煎"
     google_map: "https://maps.app.goo.gl/4GXs8fSc3Vyh5GdF7"
     footinder: ""
-    official: "https://www.facebook.com/p/%E9%98%BF%E4%B8%89%E5%93%A5%E8%9A%B5%E4%BB%94%E7%85%8E%E8%98%BF%E8%94%94%E7%B3%95-100054472284689/"
     award:
     - name: "夜市王"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "台南市北區海安路三段533號"
     phone: "0910098199"
     geo: "23.010608493924156, 120.19947294466562"
+    link: "台南市/北區/延記臭豆腐"
     google_map: "https://maps.app.goo.gl/KmnjJVWcw2nkkFDj8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8D%97%E5%B8%82%E5%8C%97%E5%8D%80/110336/"
-    official: "https://www.facebook.com/p/%E5%BB%B6%E8%A8%98%E8%87%AD%E8%B1%86%E8%85%90-100057585964164/"
     award:
     - name: "夜市王"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "台南市北區海安路三段533號花園夜市18排34號"
     phone: ""
     geo: "23.011101775738684, 120.20032064145462"
+    link: "台南市/北區/濃五吉拿棒"
     google_map: "https://maps.app.goo.gl/UwQGtrZ2g41wMSLC6"
     footinder: ""
-    official: "https://www.instagram.com/nongwu_churros/"
     award:
     - name: "夜市王"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "台南市北區海安路三段533號"
     phone: ""
     geo: "23.010433694903504, 120.20007547175955"
+    link: "台南市/北區/全壘打牛排"
     google_map: "https://maps.app.goo.gl/eXKJFwKWStAqW89Q9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8D%97%E5%B8%82%E5%8C%97%E5%8D%80/362071/"
-    official: "https://www.facebook.com/homerunsteak.nightmarket/"
     award:
     - name: "夜市王"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "台南市北區海安路三段533號"
     phone: ""
     geo: "23.011102702508033, 120.20032149827782"
+    link: "台南市/北區/魷皇駕到"
     google_map: "https://maps.app.goo.gl/KbZRVWhBJpHAC5fq5"
     footinder: ""
-    official: "https://www.facebook.com/p/%E9%AD%B7%E7%9A%87%E9%A7%95%E5%88%B0-100063970423098"
     award:
     - name: "夜市王"
       year: "2024"

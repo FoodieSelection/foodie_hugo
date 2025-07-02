@@ -1,11 +1,12 @@
 ---
-title: "台北市 中山區 所有獎項 2024"
+title: "台北市 中山區 所有獎項 2024 第3頁"
+description: "台北市 中山區 所有獎項 2024 獲獎餐廳 第3頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "台北市"
 district: "中山區"
 award: "所有獎項"
@@ -20,9 +21,9 @@ restaurants:
     address: "台北市中山區中山北路二段11巷7-2號"
     phone: ""
     geo: "25.052843290469205, 121.52377659404154"
+    link: "台北市/中山區/吉甘槑喆"
     google_map: "https://maps.app.goo.gl/cG5nNamC7RM6K5oR9"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/362122/"
-    official: "https://www.facebook.com/mezetaipei"
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "台北市中山區雙城街34之1號"
     phone: "0225963255"
     geo: "25.066504585919787, 121.52427856752698"
+    link: "台北市/中山區/欣葉台菜創始店"
     google_map: "https://maps.app.goo.gl/bBtfQV3DJY1DwtBh9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/7773/"
-    official: "https://www.shinyeh.com.tw/content/zh/brand/Index.aspx?BrandId=1"
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "台北市中山區林森北路485巷10號1樓"
     phone: ""
     geo: "25.061113742491376, 121.52615334259835"
+    link: "台北市/中山區/鮨香"
     google_map: "https://maps.app.goo.gl/5s3ya9spiKFv6E799"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/362126/"
-    official: "https://www.instagram.com/sushi_kaori_2024/"
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "台北市中山區中山北路二段39巷3號B1"
     phone: "0225212518"
     geo: "25.05417685841221, 121.52423063792575"
+    link: "台北市/中山區/Impromptu_by_Paul_Lee"
     google_map: "https://maps.app.goo.gl/KzbjU6DDMxacNCKE6"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/46994/"
-    official: "http://www.impromptu.com.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台北市中山區中山北路二段39巷3號"
     phone: "0225215000#3680"
     geo: "25.054188522340223, 121.52424008371192"
+    link: "台北市/中山區/台北晶華蘭亭"
     google_map: "https://maps.app.goo.gl/48jZuEnSb5hXnG729"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/52645/"
-    official: "https://www.regenttaiwan.com/dining/lan-ting"
     award:
     - name: "500盤"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "台北市中山區林森北路380號2F"
     phone: "0225519157"
     geo: "25.058392070937916, 121.52540054932882"
+    link: "台北市/中山區/彭園"
     google_map: "https://maps.app.goo.gl/ALFGjEpnxhH3mtKf7"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/31250/"
-    official: "https://www.pengyuan.com.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "台北市中山區長安東路二段185號"
     phone: "0227528587"
     geo: "25.048429960353744, 121.54263645234836"
+    link: "台北市/中山區/茂園餐廳"
     google_map: "https://maps.app.goo.gl/GoACVTevY2bM3yVF8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/267/"
-    official: "http://www.maoyuan.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "台北市中山區北安路538巷1弄11號"
     phone: "0225325687"
     geo: "25.08011439002764, 121.54845556436868"
+    link: "台北市/中山區/明水397食堂_暫時關閉_"
     google_map: "https://maps.app.goo.gl/w64f3A2jxzkmWee89"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/50077/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "台北市中山區復興南路一段30巷1號"
     phone: "0227720680"
     geo: "25.046382572792798, 121.5434877645845"
+    link: "台北市/中山區/大正浪漫日本料理"
     google_map: "https://maps.app.goo.gl/ixRWfUEn4JqfgiBu7"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/8442/"
-    official: "https://www.facebook.com/Taishouroman/"
     award:
     - name: "500盤"
       year: "2024"

@@ -22,7 +22,10 @@
       "@type": "ContactPoint",
       "contactType": "customer service",
       "email": "{{ .Site.Params.email }}"
-    }
+    },
+    "sameAs": [
+    "https://www.facebook.com/profile.php?id=61576588634043"
+    ]
   },
   "itemListElement": [
   {{- range $index, $r := .Params.restaurants -}}
@@ -64,14 +67,19 @@
         {{- $awards = $awards | append (dict "@type" "Award" "awardName" .name "awardDate" .year) -}}
       {{- end -}}
       {{- if gt (len $awards) 0 }},
-      "award": {{ $awards }}
+      "award": {{ $awards }},
       {{- end }}
+      "hasPart": "{{ $.Site.BaseURL }}{{ $r.link }}"
     }
   }{{ if not (eq $index (sub (len $.Params.restaurants) 1)) }},{{ end }}
 {{- end -}}
   ]
 }
 </script>
+{{ end }}
+
+{{ define "css" }}
+<link rel="stylesheet" href="{{ "css/style.css" | absURL }}">
 {{ end }}
 
 {{ define "main" }}
@@ -83,7 +91,7 @@
       </div>
     </div>
     <div class="header-text">
-      <h1 class="header_title">{{ .Site.Title }}</h1>
+      <p class="header_title">{{ .Site.Title }}</p>
       <p class="header_subtitle">{{ .Site.Params.description }}</p>
     </div>
   </div>
@@ -92,6 +100,7 @@
 <main class="main">
   <div class="container">
     <section class="search-section">
+      <h2 class="un-seen">餐廳搜尋</h2>
       <div class="search-container">
         <div class="search-filters">
           <div class="filter-row">
@@ -159,9 +168,12 @@
     </section>
 
     <section class="results-section">
+      <h1 class="un-seen">{{ .Params.city }} {{ .Params.district }} {{ .Params.award }} {{ .Params.year }} 獲獎餐廳搜尋結果</h1>
+      <h2 class="un-seen">搜尋結果</h2>
       <div id="restaurants-grid" class="restaurants-grid">
         {{ range .Params.restaurants }}
         <div class="restaurant-card">
+          <a class="card-link" href="{{ $.Site.BaseURL }}{{ .link }}"></a>
           <div class="restaurant-header">
             <h3 class="restaurant-name">{{ .name }}</h3>
             {{ if .award }}
@@ -199,18 +211,13 @@
                 Footinder
               </a>
               {{ end }}
-              {{ if .official }}
-              <a href="{{ .official }}" target="_blank" class="btn btn-outline">
-                官方網站
-              </a>
-              {{ end }}
             </div>
           </div>
         </div>
         {{ else }}
         <div id="no-results" class="no-results hidden">
           <div class="no-results_content">
-            <h3>未找到符合條件的餐廳</h3>
+            <p>未找到符合條件的餐廳</p>
           </div>
         </div>
         {{ end }}
@@ -257,7 +264,7 @@
 <footer>
   <div class="footer-content">
     <div class="footer-section">
-      <h3>任何問題? 歡迎與我們聯絡</h3>
+      <p>任何問題? 歡迎與我們聯絡</p>
       <div class="contact-links">
         <button id="copyEmailBtn" class="copy-email-btn">
           <span>📧</span>

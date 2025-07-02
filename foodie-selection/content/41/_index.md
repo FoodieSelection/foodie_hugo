@@ -1,11 +1,12 @@
 ---
-title: "所有城市 所有行政區 所有獎項 所有年份"
+title: "所有城市 所有行政區 所有獎項 所有年份 第41頁"
+description: "所有城市 所有行政區 所有獎項 所有年份 獲獎餐廳 第41頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "所有城市"
 district: "所有行政區"
 award: "所有獎項"
@@ -20,9 +21,9 @@ restaurants:
     address: "高雄市左營區裕誠路南屏路"
     phone: "0916077225"
     geo: "22.666113865045887, 120.30003453773072"
+    link: "高雄市/左營區/長紅牛排_EVER_RED_Steakhouse"
     google_map: "https://maps.app.goo.gl/Awk9bB9Loxb2y7pb6"
     footinder: "https://footinder.com.tw/%E9%AB%98%E9%9B%84%E5%B8%82%E5%B7%A6%E7%87%9F%E5%8D%80/362073/"
-    official: "https://www.facebook.com/EverRedSteakhouse"
     award:
     - name: "夜市王"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "高雄市左營區裕誠路南屏路"
     phone: ""
     geo: "22.666542969242837, 120.29977140075248"
+    link: "高雄市/左營區/沖繩酥炸大魷魚"
     google_map: "https://maps.app.goo.gl/NVmkXafUByPQzTz16"
     footinder: "https://footinder.com.tw/%E9%AB%98%E9%9B%84%E5%B8%82%E5%B7%A6%E7%87%9F%E5%8D%80/109000/"
-    official: "https://www.facebook.com/profile.php?id=100057655651468"
     award:
     - name: "夜市王"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "高雄市左營區裕誠路南屏路"
     phone: "0938795280"
     geo: "22.666417505890433, 120.29992490739875"
+    link: "高雄市/左營區/阿嬤ㄟ麻油雞飯"
     google_map: "https://maps.app.goo.gl/E4io7fMDtfz7Xf6e9"
     footinder: "https://footinder.com.tw/%E9%AB%98%E9%9B%84%E5%B8%82%E9%BC%93%E5%B1%B1%E5%8D%80/120932/"
-    official: ""
     award:
     - name: "夜市王"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "高雄市左營區裕誠路南屏路"
     phone: "0908165665"
     geo: "22.66596001902006, 120.29972647159076"
+    link: "高雄市/左營區/來吃沙威瑪"
     google_map: "https://maps.app.goo.gl/1ntgoxyk5JkkQ8dy7"
     footinder: "https://footinder.com.tw/%E9%AB%98%E9%9B%84%E5%B8%82%E9%BC%93%E5%B1%B1%E5%8D%80/362081/"
-    official: "https://www.instagram.com/turkish_shawarma_tw/"
     award:
     - name: "夜市王"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "高雄市鼓山區裕誠路1128號"
     phone: "0905167227"
     geo: "22.66658969357535, 120.2998883749046"
+    link: "高雄市/左營區/薯小二馬鈴薯煎餅-瑞豐總店"
     google_map: "https://maps.app.goo.gl/AcXLGes8vHnWKcAU8"
     footinder: "https://footinder.com.tw/%E9%AB%98%E9%9B%84%E5%B8%82%E9%BC%93%E5%B1%B1%E5%8D%80/362077/"
-    official: "https://www.instagram.com/two.littlepotatoess/"
     award:
     - name: "夜市王"
       year: "2024"
@@ -80,12 +81,10 @@ restaurants:
     address: "新北市永和區保平路18巷2號"
     phone: "0979888215"
     geo: "25.00835352193154, 121.51146774306527"
+    link: "新北市/永和區/成銘月亮蝦餅"
     google_map: "https://maps.app.goo.gl/6JugaaFyeRSPZ2uu5"
     footinder: "https://footinder.com.tw/%E6%96%B0%E5%8C%97%E5%B8%82%E6%B0%B8%E5%92%8C%E5%8D%80/362039/"
-    official: "https://www.instagram.com/chmin888/"
     award:
-    - name: "夜市王"
-      year: "2024"
     - name: "夜市王"
       year: "2024"
   - name: "東石蚵仔煎"
@@ -94,9 +93,9 @@ restaurants:
     address: "新北市永和區永平路159號"
     phone: ""
     geo: "25.00865557804342, 121.51078620570179"
+    link: "新北市/永和區/東石蚵仔煎"
     google_map: "https://maps.app.goo.gl/HtU31fXjZG3p5Qqi6"
     footinder: "https://footinder.com.tw/%E6%96%B0%E5%8C%97%E5%B8%82%E6%B0%B8%E5%92%8C%E5%8D%80/362045/"
-    official: ""
     award:
     - name: "夜市王"
       year: "2024"
@@ -106,9 +105,9 @@ restaurants:
     address: "新北市永和區永平路26號"
     phone: "0222319922"
     geo: "25.008913667984267, 121.51328997827133"
+    link: "新北市/永和區/方家園臭豆腐"
     google_map: "https://maps.app.goo.gl/bS8PTyzoeAxGKuGo7"
     footinder: "https://footinder.com.tw/%E6%96%B0%E5%8C%97%E5%B8%82%E6%B0%B8%E5%92%8C%E5%8D%80/362067/"
-    official: ""
     award:
     - name: "夜市王"
       year: "2024"
@@ -118,9 +117,9 @@ restaurants:
     address: "新北市永和區永平路84號號前"
     phone: ""
     geo: "25.008618098237566, 121.51218146612096"
+    link: "新北市/永和區/小鹿梅花糕樂華店"
     google_map: "https://maps.app.goo.gl/kF8x3pASPzvGhKxTA"
     footinder: "https://footinder.com.tw/%E6%96%B0%E5%8C%97%E5%B8%82%E6%B0%B8%E5%92%8C%E5%8D%80/362069/"
-    official: "https://www.instagram.com/deercake2024"
     award:
     - name: "夜市王"
       year: "2024"

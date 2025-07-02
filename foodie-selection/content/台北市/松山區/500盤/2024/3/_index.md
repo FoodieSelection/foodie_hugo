@@ -1,11 +1,12 @@
 ---
-title: "台北市 松山區 500盤 2024"
+title: "台北市 松山區 500盤 2024 第3頁"
+description: "台北市 松山區 500盤 2024 獲獎餐廳 第3頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "台北市"
 district: "松山區"
 award: "500盤"
@@ -20,9 +21,9 @@ restaurants:
     address: "台北市松山區八德路四段217號"
     phone: "0227485133"
     geo: "25.049050192629483, 121.56428903287014"
+    link: "台北市/松山區/萬客什鍋"
     google_map: "https://maps.app.goo.gl/493rsYuS2B6ywguB8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/76083/"
-    official: "https://www.wankeshabu.com/"
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "台北市松山區八德路三段8巷36號1F"
     phone: "0227221987"
     geo: "25.045858518417187, 121.54962488002633"
+    link: "台北市/松山區/Cantine_Marais_瑪黑餐酒敦南店"
     google_map: "https://maps.app.goo.gl/TBUyiyoF8ZF3iFQq9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/8652/"
-    official: "https://www.facebook.com/xoxocantinemarais"
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "台北市松山區八德路三段12巷52弄1號1樓"
     phone: "0225770886"
     geo: "25.04611563486958, 121.55058517573683"
+    link: "台北市/松山區/INITA"
     google_map: "https://maps.app.goo.gl/8bz9dofa92E5vAxx6"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e6%9d%be%e5%b1%b1%e5%8d%80/47659/"
-    official: "https://www.inita.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "台北市松山區八德路三段8巷31號"
     phone: "0225792005"
     geo: "25.04624983709194, 121.54973368689903"
+    link: "台北市/松山區/JUJU_Spanish_Gastrobar"
     google_map: "https://maps.app.goo.gl/rdcvPjKvD4dJCcScA"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e6%9d%be%e5%b1%b1%e5%8d%80/33026/"
-    official: "https://jujuspanishgastrobar.my.canva.site/"
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台北市松山區八德路二段346巷7弄42號1樓"
     phone: "0227528204"
     geo: "25.046715584313066, 121.54588405309856"
+    link: "台北市/松山區/LilyCoco莉莉可可"
     google_map: "https://maps.app.goo.gl/egoiDZLq7RqLo72BA"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e6%9d%be%e5%b1%b1%e5%8d%80/362205/"
-    official: "https://www.instagram.com/lilycoco_tpe"
     award:
     - name: "500盤"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "台北市松山區民生東路三段127巷12號"
     phone: "0227186388"
     geo: "25.058867146767504, 121.54737325080312"
+    link: "台北市/松山區/SENS"
     google_map: "https://maps.app.goo.gl/ReDet4HDQGdy7TgA6"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/47921/"
-    official: "https://www.senstw.com/tw"
     award:
     - name: "500盤"
       year: "2024"

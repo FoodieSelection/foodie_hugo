@@ -1,11 +1,12 @@
 ---
-title: "新北市 所有行政區 所有獎項 2024"
+title: "新北市 所有行政區 所有獎項 2024 第1頁"
+description: "新北市 所有行政區 所有獎項 2024 獲獎餐廳 第1頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "新北市"
 district: "所有行政區"
 award: "所有獎項"
@@ -20,9 +21,9 @@ restaurants:
     address: "新北市板橋區雙十路二段209號"
     phone: "0282529789"
     geo: "25.028944449484097, 121.47322423616514"
+    link: "新北市/板橋區/豐華小館"
     google_map: "https://maps.app.goo.gl/ZE5UPg3uecsF1xG78"
     footinder: "https://footinder.com.tw/%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80/6644/"
-    official: "https://fonhua.blogspot.com/"
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "新北市八里區華富山路14號"
     phone: "0226102445"
     geo: "25.139041676572337, 121.41661319935442"
+    link: "新北市/八里區/落日崖之飄逸居咖啡小屋"
     google_map: "https://maps.app.goo.gl/yPa78sFjduoeNEgb8"
     footinder: "https://footinder.com.tw/%E6%96%B0%E5%8C%97%E5%B8%82%E5%85%AB%E9%87%8C%E5%8D%80/85291/"
-    official: "https://www.facebook.com/elegnatcoffee/"
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "新北市中和區中山路三段122號4樓"
     phone: ""
     geo: "25.00696831557478, 121.47495420488349"
+    link: "新北市/中和區/漢堡排_嘉"
     google_map: "https://maps.app.goo.gl/ESeBuJDP1hVtHquo7"
     footinder: "https://footinder.com.tw/%e6%96%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%92%8c%e5%8d%80/362144/"
-    official: "https://www.instagram.com/hamburg_yoshi.tw1/"
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "新北市萬里區內中福路4號"
     phone: "0224921616"
     geo: "25.165212956517355, 121.66764788381585"
+    link: "新北市/萬里區/酒莊美食餐廳"
     google_map: "https://maps.app.goo.gl/1QK6sfMwxTyoedtz8"
     footinder: "https://footinder.com.tw/%E6%96%B0%E5%8C%97%E5%B8%82%E8%90%AC%E9%87%8C%E5%8D%80/9683/"
-    official: "https://www.facebook.com/p/%E9%85%92%E8%8E%8A%E7%BE%8E%E9%A3%9F%E9%A4%90%E5%BB%B3-100043658457279/"
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "新北市坪林區北宜路八段341號"
     phone: "0925366579"
     geo: "24.933662948059386, 121.71089612702805"
+    link: "新北市/坪林區/金華飯店"
     google_map: "https://maps.app.goo.gl/dfhWqutvKCGiSykj6"
     footinder: "https://footinder.com.tw/%E6%96%B0%E5%8C%97%E5%B8%82%E5%9D%AA%E6%9E%97%E5%8D%80/60864/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "新北市瑞芳區金光路221號"
     phone: "0224961231"
     geo: "25.10681504082231, 121.85171757605686"
+    link: "新北市/瑞芳區/食不厭"
     google_map: "https://maps.app.goo.gl/1xW46FMmZCtLcNLu9"
     footinder: "https://footinder.com.tw/%E6%96%B0%E5%8C%97%E5%B8%82%E7%91%9E%E8%8A%B3%E5%8D%80/236/"
-    official: "https://www.facebook.com/profile.php?id=100072216530596"
     award:
     - name: "500盤"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "新北市永和區國光路49巷8號"
     phone: "0222311103"
     geo: "25.00794107137686, 121.5190383341171"
+    link: "新北市/永和區/三分俗氣"
     google_map: "https://maps.app.goo.gl/HGWEEUyJ9Z91zQtX7"
     footinder: "https://footinder.com.tw/%e6%96%b0%e5%8c%97%e5%b8%82%e6%b0%b8%e5%92%8c%e5%8d%80/12941/"
-    official: "https://www.facebook.com/sanfensuchi/"
     award:
     - name: "500盤"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "新北市平溪區靜安路二段402號"
     phone: "0932236785"
     geo: "25.024333758613057, 121.73883472348255"
+    link: "新北市/平溪區/阿真的店"
     google_map: "https://maps.app.goo.gl/caDd2F9jHdYa4BAQA"
     footinder: "https://footinder.com.tw/%E6%96%B0%E5%8C%97%E5%B8%82%E5%B9%B3%E6%BA%AA%E5%8D%80/109591/"
-    official: "https://www.facebook.com/AZhenDeDian/"
     award:
     - name: "500盤"
       year: "2024"
@@ -116,12 +117,10 @@ restaurants:
     address: "220新北市板橋區新海路134號"
     phone: "0229563718"
     geo: "25.00201663808108, 121.46265103959249"
+    link: "新北市/板橋區/皇家傳承"
     google_map: "https://maps.app.goo.gl/Ep1F3oe8gws2bSBg7"
     footinder: "https://footinder.com.tw/%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80/6380/"
-    official: "https://www.royal-beefnoodles.com/"
     award:
-    - name: "台北國際牛肉麵節"
-      year: "2024"
     - name: "台北國際牛肉麵節"
       year: "2024"
 ---

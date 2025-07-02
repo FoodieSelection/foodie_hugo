@@ -1,11 +1,12 @@
 ---
-title: "台北市 中正區 所有獎項 所有年份"
+title: "台北市 中正區 所有獎項 所有年份 第1頁"
+description: "台北市 中正區 所有獎項 所有年份 獲獎餐廳 第1頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "台北市"
 district: "中正區"
 award: "所有獎項"
@@ -20,9 +21,9 @@ restaurants:
     address: "台北市中正區泰安街8號"
     phone: ""
     geo: "25.03996671939309, 121.52793769185233"
+    link: "台北市/中正區/NOBUO"
     google_map: "https://maps.app.goo.gl/EbNR51k4LpATs9189"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80/362097/"
-    official: "https://nobuo.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "台北市中正區仁愛路二段94號"
     phone: "0223513345"
     geo: "25.037982828032963, 121.53140611653463"
+    link: "台北市/中正區/山海樓"
     google_map: "https://maps.app.goo.gl/JuyfEg4LrBj17Ujz7"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e6%ad%a3%e5%8d%80/8005/"
-    official: "https://www.mountain-n-seahouse.com/zh-hant/"
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "台北市中正區武昌街一段16巷6號"
     phone: "0223615119"
     geo: "25.043560708818415, 121.51255130035192"
+    link: "台北市/中正區/添財日本料理武昌店"
     google_map: "https://maps.app.goo.gl/Bu5ywofJC3PxvUSj9"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e6%ad%a3%e5%8d%80/30353/"
-    official: "https://www.facebook.com/tientsai1957/"
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "台北市中正區忠孝東路一段12號17樓"
     phone: "0223211818"
     geo: "25.044656426578722, 121.52170153240529"
+    link: "台北市/中正區/台北喜來登大飯店_請客樓"
     google_map: "https://maps.app.goo.gl/DC7NdPfPSidVhZiu6"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80/7837/"
-    official: "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=2&id=18"
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台北市中正區林森南路61巷17號"
     phone: "0223215939"
     geo: "25.039721429456574, 121.5228709737999"
+    link: "台北市/中正區/台北美味小館"
     google_map: "https://maps.app.goo.gl/isGdem8c9q4PQf5V8"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e6%ad%a3%e5%8d%80/7888/"
-    official: "https://www.facebook.com/profile.php?id=100063749240640"
     award:
     - name: "500盤"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "台北市中正區仁愛路二段48號"
     phone: "0223960682"
     geo: "25.03803484707546, 121.52800467132023"
+    link: "台北市/中正區/皇膳餐廳"
     google_map: "https://maps.app.goo.gl/hmS9RsxCCea4iwmy9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80/80/"
-    official: "https://www.royal-restaurant.com.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "台北市中正區湖口街1-2號"
     phone: "0223581819"
     geo: "25.03278867603252, 121.51502107590377"
+    link: "台北市/中正區/香色_XIANG_SE"
     google_map: "https://maps.app.goo.gl/EZmGWooWzTDH6ET39"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e6%ad%a3%e5%8d%80/190/"
-    official: "https://xiang-se.com/"
     award:
     - name: "500盤"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "台北市中正區仁愛路二段7號"
     phone: "0223970568"
     geo: "25.038483070157287, 121.52581882558768"
+    link: "台北市/中正區/興鐵板燒_Xing_Teppanyaki"
     google_map: "https://maps.app.goo.gl/XAD2wKJgH2CiNBnb7"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80/31091/"
-    official: "https://www.instagram.com/xing_teppanyaki/"
     award:
     - name: "500盤"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "分店眾多請自行搜尋"
     phone: ""
     geo: ""
+    link: "台北市/中正區/春水堂"
     google_map: "https://www.google.com/maps/search/%E6%98%A5%E6%B0%B4%E5%A0%82/@25.0417308,121.3938917,10z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/43663/"
-    official: "https://www.chunshuitang.com.tw/"
     award:
     - name: "500盤"
       year: "2024"

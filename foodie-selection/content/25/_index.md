@@ -1,11 +1,12 @@
 ---
-title: "所有城市 所有行政區 所有獎項 所有年份"
+title: "所有城市 所有行政區 所有獎項 所有年份 第25頁"
+description: "所有城市 所有行政區 所有獎項 所有年份 獲獎餐廳 第25頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "所有城市"
 district: "所有行政區"
 award: "所有獎項"
@@ -20,9 +21,9 @@ restaurants:
     address: "台南市中西區金華路四段47巷2號"
     phone: "062281025"
     geo: "22.998376866738628, 120.19468317498917"
+    link: "台南市/中西區/鄭牛肉湯"
     google_map: "https://maps.app.goo.gl/krpFQFCS5LMkjk2s7"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8D%97%E5%B8%82%E4%B8%AD%E8%A5%BF%E5%8D%80/362181/"
-    official: "https://www.facebook.com/TainanZhengBeef/"
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "台南市中西區中成路28號"
     phone: "062220395"
     geo: "22.99728862176926, 120.20521182380773"
+    link: "台南市/中西區/知味"
     google_map: "https://maps.app.goo.gl/ELwckfTEgph4C6qBA"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8d%97%e5%b8%82%e4%b8%ad%e8%a5%bf%e5%8d%80/148680/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "台南市永康區中華路659-3號"
     phone: "062334083"
     geo: "23.01552562122151, 120.22923816999837"
+    link: "台南市/永康區/阿元羊肉店"
     google_map: "https://maps.app.goo.gl/ZVBtyXhoC6z1xsw66"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8D%97%E5%B8%82%E6%B0%B8%E5%BA%B7%E5%8D%80/362183/"
-    official: "https://www.facebook.com/profile.php?id=100063862546268"
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "台南市安平區平豐路277號"
     phone: "062956965"
     geo: "22.992746830519316, 120.16372597309959"
+    link: "台南市/安平區/阿財牛肉湯安平二店"
     google_map: "https://maps.app.goo.gl/GDzzJXH1NMsZfqsu8"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8d%97%e5%b8%82%e5%ae%89%e5%b9%b3%e5%8d%80/769/"
-    official: "https://www.facebook.com/TaiNanAnPingACaiNiuRouTang/"
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台南市中西區民族路二段252號"
     phone: "062210946"
     geo: "22.997387034668, 120.20126193532992"
+    link: "台南市/中西區/竹海產"
     google_map: "https://maps.app.goo.gl/EZLMXTM3USe5RKqC8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8D%97%E5%B8%82%E4%B8%AD%E8%A5%BF%E5%8D%80/161797/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "台南市中西區信義街69號"
     phone: "0927307890"
     geo: "23.000310151168772, 120.19498735218367"
+    link: "台南市/中西區/筑馨居"
     google_map: "https://maps.app.goo.gl/ToCGjxUwVjZhz1Jm8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8D%97%E5%B8%82%E4%B8%AD%E8%A5%BF%E5%8D%80/1942/"
-    official: "https://www.facebook.com/profile.php?id=100063890740362"
     award:
     - name: "500盤"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "台南市安平區安北路590號590, Anbei Rd., Anping DistNo"
     phone: "063911687"
     geo: "22.998352566357422, 120.1489561239214"
+    link: "台南市/安平區/橄饗家西班牙嚴選美食餐廳"
     google_map: "https://maps.app.goo.gl/jUG8e7pdfUuqXBqC6"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8d%97%e5%b8%82%e5%ae%89%e5%b9%b3%e5%8d%80/395/"
-    official: "https://www.naforst.com/"
     award:
     - name: "500盤"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "台南市仁德區崑崙路733-1號"
     phone: "062795500"
     geo: "22.94042993063004, 120.26110414667649"
+    link: "台南市/仁德區/阿裕牛肉涮涮鍋"
     google_map: "https://maps.app.goo.gl/1V9ipnkphHrWyAR89"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8d%97%e5%b8%82%e4%bb%81%e5%be%b7%e5%8d%80/10195/"
-    official: "https://www.facebook.com/profile.php?id=100057583984115"
     award:
     - name: "500盤"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "高雄市鼓山區龍德新路222號11F"
     phone: "075596911"
     geo: "22.654568113324757, 120.30628693832335"
+    link: "高雄市/鼓山區/美享地餐廳_MAJESTY_RESTAURANT"
     google_map: "https://maps.app.goo.gl/E2aM1CUDSaefPajV7"
     footinder: "https://footinder.com.tw/%E9%AB%98%E9%9B%84%E5%B8%82%E9%BC%93%E5%B1%B1%E5%8D%80/11685/"
-    official: "https://www.khhmarriott.com/Foods/Content/MAJESTY_RTR"
     award:
     - name: "500盤"
       year: "2024"

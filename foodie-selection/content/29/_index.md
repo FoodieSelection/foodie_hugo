@@ -1,11 +1,12 @@
 ---
-title: "所有城市 所有行政區 所有獎項 所有年份"
+title: "所有城市 所有行政區 所有獎項 所有年份 第29頁"
+description: "所有城市 所有行政區 所有獎項 所有年份 獲獎餐廳 第29頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "所有城市"
 district: "所有行政區"
 award: "所有獎項"
@@ -20,9 +21,9 @@ restaurants:
     address: "澎湖縣馬公市新店路4之2號"
     phone: "069213695"
     geo: "23.564301708691275, 119.58666397848393"
+    link: "澎湖縣/馬公市/花菜干人文懷舊餐廳"
     google_map: "https://maps.app.goo.gl/2CtmbyhaTtodR4Wu7"
     footinder: "https://footinder.com.tw/%e6%be%8e%e6%b9%96%e7%b8%a3%e9%a6%ac%e5%85%ac%e5%b8%82/362189/"
-    official: "https://www.facebook.com/chenxinchenyi0118/"
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "屏東縣霧台鄉古茶柏安街17巷8號"
     phone: ""
     geo: "22.700133180694113, 120.64718033678768"
+    link: "屏東縣/霧台鄉/AKAME"
     google_map: "https://maps.app.goo.gl/F9iMdggmfLCK1jog9"
     footinder: "https://footinder.com.tw/%E5%B1%8F%E6%9D%B1%E7%B8%A3%E9%9C%A7%E5%8F%B0%E9%84%89/198/"
-    official: "https://www.facebook.com/akame.in/"
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "台北市大安區瑞安街141號"
     phone: "0227063322"
     geo: "25.026690137023905, 121.53963889211907"
+    link: "台北市/大安區/AnticoForno_老烤箱義式披薩餐酒"
     google_map: "https://maps.app.goo.gl/15zvuB6LQFCeYGE89"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/32335/"
-    official: "https://www.facebook.com/anticoforno141/"
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "台北市中山區遼寧街177號2樓"
     phone: "0225710389"
     geo: "25.053122932062056, 121.5421814115792"
+    link: "台北市/中山區/A_CUT牛排館"
     google_map: "https://maps.app.goo.gl/4gUzPGhf5zCV9BVr7"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/32439/"
-    official: "https://www.ambassador-hotels.com/tc/taipei/dining/a-cut-steakhouse#story"
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台北市大安區潮州街188號"
     phone: ""
     geo: "25.028261388389684, 121.53024463876285"
+    link: "台北市/大安區/A.B_HOUSE義式私房料理"
     google_map: "https://maps.app.goo.gl/eEy1HxtUtyUVLkCk7"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/35531/"
-    official: "https://www.facebook.com/A.BHouseYiShiSiFangLiaoLi"
     award:
     - name: "500盤"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "台北市中山區建國北路一段92巷8號"
     phone: "0225091070"
     geo: "25.049995899619102, 121.53552306787505"
+    link: "台北市/中山區/AKIN_君尹"
     google_map: "https://maps.app.goo.gl/rEsG2E6YAG1oYkq78"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/362191/"
-    official: "https://www.facebook.com/brise.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "台中市西屯區重慶路141之3號"
     phone: "0423164891"
     geo: "24.166414309165567, 120.65626423516949"
+    link: "台中市/西屯區/Atipic亞提法式餐廳"
     google_map: "https://maps.app.goo.gl/pmSzVe3f2WmQWPv17"
     footinder: ""
-    official: "https://www.atipic.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "台北市信義區忠孝東路四段553巷22弄2號"
     phone: "0227566860"
     geo: "25.043165741931137, 121.5630643935445"
+    link: "台北市/信義區/BURGER_OUT"
     google_map: "https://maps.app.goo.gl/ARbMSjrkXdAK9tds8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80/36899/"
-    official: "https://www.instagram.com/burgerout/"
     award:
     - name: "500盤"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "高雄市前鎮區新光路33號1F"
     phone: "073390303"
     geo: "22.611289731182794, 120.30352411097323"
+    link: "高雄市/前鎮區/BL.T33大廳酒吧_高雄洲際酒店"
     google_map: "https://maps.app.goo.gl/jHxeDSUQRiK9EQWh8"
     footinder: "https://footinder.com.tw/%E9%AB%98%E9%9B%84%E5%B8%82%E5%89%8D%E9%8E%AE%E5%8D%80/100833/"
-    official: "https://ickaohsiung.com/restaurant/blt33/"
     award:
     - name: "500盤"
       year: "2024"

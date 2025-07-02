@@ -1,11 +1,12 @@
 ---
-title: "所有城市 所有行政區 台北國際牛肉麵節 所有年份"
+title: "所有城市 所有行政區 台北國際牛肉麵節 所有年份 第3頁"
+description: "所有城市 所有行政區 台北國際牛肉麵節 所有年份 獲獎餐廳 第3頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "所有城市"
 district: "所有行政區"
 award: "台北國際牛肉麵節"
@@ -20,12 +21,10 @@ restaurants:
     address: "100台北市中正區中山南路20號B1"
     phone: "0223822666"
     geo: "25.037147815773103, 121.51667019531996"
+    link: "台北市/中正區/詩篇咖啡餐廳"
     google_map: "https://maps.app.goo.gl/7QTEcPfYcJQHyFuH7"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80/82/"
-    official: "https://www.facebook.com/PsalmsCafe"
     award:
-    - name: "台北國際牛肉麵節"
-      year: "2024"
     - name: "台北國際牛肉麵節"
       year: "2024"
   - name: "老私房牛肉麵"
@@ -34,9 +33,9 @@ restaurants:
     address: "237新北市三峽區國際一街66-1號1樓"
     phone: "0286716200"
     geo: "24.942176590197523, 121.37248716140101"
+    link: "新北市/三峽區/老私房牛肉麵"
     google_map: "https://maps.app.goo.gl/jfxtY51ijSGCUGRDA"
     footinder: "https://footinder.com.tw/%E6%96%B0%E5%8C%97%E5%B8%82%E4%B8%89%E5%B3%BD%E5%8D%80/64664/"
-    official: "https://www.facebook.com/profile.php?id=100063614605929"
     award:
     - name: "台北國際牛肉麵節"
       year: "2024"
@@ -46,9 +45,9 @@ restaurants:
     address: "412台中市大里區科技路1-56號"
     phone: "0424918327"
     geo: "24.084892701340177, 120.69605130496906"
+    link: "台中市/大里區/淳心製麵"
     google_map: "https://maps.app.goo.gl/AekQkNCtP56zRTBEA"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%A4%A7%E9%87%8C%E5%8D%80/136355/"
-    official: "https://www.facebook.com/Chunhsinnoodles/"
     award:
     - name: "台北國際牛肉麵節"
       year: "2024"
@@ -58,9 +57,9 @@ restaurants:
     address: "105台北市松山區敦化北路167號B1"
     phone: "0277076789"
     geo: "25.05476692436136, 121.54941270143397"
+    link: "台北市/松山區/海峽會"
     google_map: "https://maps.app.goo.gl/CQi3oEJ5mZYxSvjL6"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/13141/"
-    official: "http://www.csclub.com.tw/"
     award:
     - name: "台北國際牛肉麵節"
       year: "2024"
@@ -70,9 +69,9 @@ restaurants:
     address: "分店眾多請自行搜尋"
     phone: ""
     geo: ""
+    link: "新北市/土城區/兩支北方麵館"
     google_map: "https://www.google.com/maps/search/%E5%85%A9%E6%94%AF%E5%8C%97%E6%96%B9%E9%BA%B5%E9%A4%A8/@25.0195526,121.4027033,15z?entry=ttu&g_ep=EgoyMDI1MDYyMy4yIKXMDSoASAFQAw%3D%3D"
     footinder: "https://footinder.com.tw/%e6%96%b0%e5%8c%97%e5%b8%82%e5%9c%9f%e5%9f%8e%e5%8d%80/5903/"
-    official: "https://www.facebook.com/top2food"
     award:
     - name: "台北國際牛肉麵節"
       year: "2024"
@@ -82,12 +81,10 @@ restaurants:
     address: ""
     phone: ""
     geo: ""
+    link: "//藍海饌"
     google_map: ""
     footinder: ""
-    official: "https://www.facebook.com/diamondofsea0523/"
     award:
-    - name: "台北國際牛肉麵節"
-      year: "2024"
     - name: "台北國際牛肉麵節"
       year: "2024"
   - name: "食圓滿國際餐飲有限公司"
@@ -96,9 +93,9 @@ restaurants:
     address: ""
     phone: ""
     geo: ""
+    link: "//食圓滿國際餐飲有限公司"
     google_map: ""
     footinder: ""
-    official: "https://www.foodshop.com.tw/"
     award:
     - name: "台北國際牛肉麵節"
       year: "2024"
@@ -108,9 +105,9 @@ restaurants:
     address: ""
     phone: ""
     geo: ""
+    link: "//愷達生醫有限公司__Gelovery_萬家饗念_"
     google_map: ""
     footinder: ""
-    official: "https://www.gelovery.com/zh"
     award:
     - name: "台北國際牛肉麵節"
       year: "2024"
@@ -120,9 +117,9 @@ restaurants:
     address: "106台北市大安區建國南路一段266號"
     phone: "0227019266"
     geo: "25.036629451697564, 121.53738803257971"
+    link: "台北市/大安區/福容大飯店-台北一館"
     google_map: "https://maps.app.goo.gl/GbUDKvsq5h8iAfgm7"
     footinder: ""
-    official: "https://www.fullon-hotels.com.tw/tp/tw/"
     award:
     - name: "台北國際牛肉麵節"
       year: "2024"

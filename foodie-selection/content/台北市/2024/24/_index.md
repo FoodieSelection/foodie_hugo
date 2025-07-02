@@ -1,11 +1,12 @@
 ---
-title: "台北市 所有行政區 所有獎項 2024"
+title: "台北市 所有行政區 所有獎項 2024 第24頁"
+description: "台北市 所有行政區 所有獎項 2024 獲獎餐廳 第24頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "台北市"
 district: "所有行政區"
 award: "所有獎項"
@@ -20,9 +21,9 @@ restaurants:
     address: "台北市大安區仁愛路四段300巷20弄5號"
     phone: ""
     geo: "25.036342071191104, 121.55410521284944"
+    link: "台北市/大安區/Zea"
     google_map: "https://maps.app.goo.gl/ScwFcevKTtKBrx2S6"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/176069/"
-    official: "https://www.instagram.com/zea.tpe/"
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "110台北市信義區吳興街345巷6號"
     phone: "0227201148"
     geo: "25.02675105456895, 121.56631872872735"
+    link: "台北市/信義區/Zaaptaipei"
     google_map: "https://maps.app.goo.gl/wDBuepocW8tyz51E9"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%bf%a1%e7%be%a9%e5%8d%80/168894/"
-    official: "https://www.facebook.com/zaaptaipei"
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "台北市中山區一江街8號"
     phone: "0225235588"
     geo: "25.05121954599453, 121.53139531601602"
+    link: "台北市/中山區/8號極品海鮮餐廳"
     google_map: "https://maps.app.goo.gl/7HosD4zrGgPbV7oG7"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/8184/"
-    official: "https://www.premium-no8.com/"
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "分店眾多請自行搜尋"
     phone: ""
     geo: ""
+    link: "台北市/大安區/八方雲集"
     google_map: "https://www.google.com/maps/search/%E5%85%AB%E6%96%B9%E9%9B%B2%E9%9B%86/@25.0930498,121.5384948,14z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYxNi4wIKXMDSoASAFQAw%3D%3D"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80/180217/"
-    official: "https://www.8way.com.tw/"
     award:
     - name: "台北國際牛肉麵節"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "108台北市萬華區成都路27巷3號"
     phone: "0223033960"
     geo: "25.042835397710764, 121.50689539862134"
+    link: "台北市/萬華區/御真牛餐館"
     google_map: "https://maps.app.goo.gl/F3PYdz4HMu2wS2xs8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E8%90%AC%E8%8F%AF%E5%8D%80/63609/"
-    official: "https://www.instagram.com/real_cow23033960/"
     award:
     - name: "台北國際牛肉麵節"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "114台北市內湖區環山路一段9巷7號"
     phone: "0227989901"
     geo: "25.082961288139547, 121.56600645040385"
+    link: "台北市/內湖區/達人麵館"
     google_map: "https://maps.app.goo.gl/fb7muVh6Ksfvafx76"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%85%a7%e6%b9%96%e5%8d%80/50268/"
-    official: "https://www.facebook.com/profile.php?id=100095059021569"
     award:
     - name: "台北國際牛肉麵節"
       year: "2024"
@@ -92,12 +93,10 @@ restaurants:
     address: "111台北市士林區後港街204號"
     phone: "072360236"
     geo: "22.637542394178766, 120.30357570183317"
+    link: "台北市/士林區/道品牛肉麵"
     google_map: "https://maps.app.goo.gl/bhSS8nbgtDv5iTx89"
     footinder: "https://footinder.com.tw/%e9%ab%98%e9%9b%84%e5%b8%82%e4%b8%89%e6%b0%91%e5%8d%80/362215/"
-    official: "https://www.facebook.com/profile.php?id=61556557034544"
     award:
-    - name: "台北國際牛肉麵節"
-      year: "2024"
     - name: "台北國際牛肉麵節"
       year: "2024"
   - name: "竣師父牛肉麵"
@@ -106,9 +105,9 @@ restaurants:
     address: "106台北市大安區大安路一段52巷24號一樓"
     phone: "0905888123"
     geo: "25.042979674003117, 121.54512414354234"
+    link: "台北市/大安區/竣師父牛肉麵"
     google_map: "https://maps.app.goo.gl/35eUntYsj1Rvcpcz7"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/136430/"
-    official: "https://www.facebook.com/masterjim168"
     award:
     - name: "台北國際牛肉麵節"
       year: "2024"
@@ -118,12 +117,10 @@ restaurants:
     address: "100台北市中正區中山南路20號B1"
     phone: "0223822666"
     geo: "25.037147815773103, 121.51667019531996"
+    link: "台北市/中正區/詩篇咖啡餐廳"
     google_map: "https://maps.app.goo.gl/7QTEcPfYcJQHyFuH7"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80/82/"
-    official: "https://www.facebook.com/PsalmsCafe"
     award:
-    - name: "台北國際牛肉麵節"
-      year: "2024"
     - name: "台北國際牛肉麵節"
       year: "2024"
 ---

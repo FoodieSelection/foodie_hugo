@@ -1,11 +1,12 @@
 ---
-title: "台北市 信義區 所有獎項 2024"
+title: "台北市 信義區 所有獎項 2024 第1頁"
+description: "台北市 信義區 所有獎項 2024 獲獎餐廳 第1頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "台北市"
 district: "信義區"
 award: "所有獎項"
@@ -20,9 +21,9 @@ restaurants:
     address: "分店眾多請自行搜尋"
     phone: ""
     geo: ""
+    link: "台北市/信義區/鼎泰豐"
     google_map: "https://www.google.com/maps/search/%E9%BC%8E%E6%B3%B0%E8%B1%90/@25.0779634,121.5403163,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYxNi4wIKXMDSoASAFQAw%3D%3D"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/31446/"
-    official: "https://www.dintaifung.com.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "台北市信義區松仁路38號遠東百貨鼎泰豐對面"
     phone: "0266228068"
     geo: "25.03820524947258, 121.56805583836135"
+    link: "台北市/信義區/TIPSY_Sparrow"
     google_map: "https://maps.app.goo.gl/zg7UATFJBHzPApa49"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80/362103/"
-    official: "https://www.lemeridien-taipei.com/websev?lang=zh-tw&ref=pages&id=675"
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "台北市信義區莊敬路239巷12號"
     phone: "0287860126"
     geo: "25.029936429348112, 121.56288799534865"
+    link: "台北市/信義區/Adachi足立壽司"
     google_map: "https://maps.app.goo.gl/5zp3MoMsGV7c77Rp8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80/110724/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "台北市信義區松仁路208號"
     phone: ""
     geo: "25.02708470019493, 121.56828487660347"
+    link: "台北市/信義區/貳零捌公館"
     google_map: "https://maps.app.goo.gl/dFBBggwnh3FKzPFQ9"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%bf%a1%e7%be%a9%e5%8d%80/362114/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台北市信義區松壽路9號6樓"
     phone: "0227201168"
     geo: "25.03631172057358, 121.56685896335857"
+    link: "台北市/信義區/inari_Izakaya_現代居酒屋"
     google_map: "https://maps.app.goo.gl/oRYhNgGCZ7LDFCCh9"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%bf%a1%e7%be%a9%e5%8d%80/362118/"
-    official: "https://www.facebook.com/inari.Izakaya/"
     award:
     - name: "500盤"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "台北市信義區松仁路38號2樓"
     phone: "0266225820"
     geo: "25.03820629645968, 121.56805539107738"
+    link: "台北市/信義區/台北寒舍艾美_寒舍食譜"
     google_map: "https://maps.app.goo.gl/JQBae3swo4nkLsJU6"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80/138/"
-    official: "https://www.lemeridien-taipei.com/websev?lang=zh-tw&ref=pages&id=4"
     award:
     - name: "500盤"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "台北市信義區信義路五段7號85樓"
     phone: "0281010085"
     geo: "25.03381952306632, 121.56481445373967"
+    link: "台北市/信義區/捌伍添第85TD"
     google_map: "https://maps.app.goo.gl/rkmGsuzE6usX3XzE8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80/9091/"
-    official: "https://www.85td-101.com/"
     award:
     - name: "500盤"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "台北市信義區松壽路9號6樓"
     phone: "0227588501"
     geo: "25.036295974206595, 121.56685889903974"
+    link: "台北市/信義區/gubami_Social"
     google_map: "https://maps.app.goo.gl/8vemw5RiefZa2FjX9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80/168891/"
-    official: "https://www.facebook.com/gubami.social/"
     award:
     - name: "500盤"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "台北市信義區松高路19號新光三越5樓"
     phone: "0223450928"
     geo: "25.039788389690152, 121.5665901570069"
+    link: "台北市/信義區/夜上海_Ye_Shanghai__Taipei_"
     google_map: "https://maps.app.goo.gl/WiR37A5CQ3nNWNgt7"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80/148550/"
-    official: "https://www.elite-concepts.com/zh-hk/our-concepts/taipei/ye-shanghai/"
     award:
     - name: "500盤"
       year: "2024"

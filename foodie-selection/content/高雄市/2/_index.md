@@ -1,11 +1,12 @@
 ---
-title: "高雄市 所有行政區 所有獎項 所有年份"
+title: "高雄市 所有行政區 所有獎項 所有年份 第2頁"
+description: "高雄市 所有行政區 所有獎項 所有年份 獲獎餐廳 第2頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "高雄市"
 district: "所有行政區"
 award: "所有獎項"
@@ -20,9 +21,9 @@ restaurants:
     address: "高雄市苓雅區江都街63號"
     phone: "0966063568"
     geo: "22.628106638461414, 120.31969940668854"
+    link: "高雄市/苓雅區/三禾清豐_心臺菜"
     google_map: "https://maps.app.goo.gl/98JNEdhDuCds1kbe9"
     footinder: "https://footinder.com.tw/%E9%AB%98%E9%9B%84%E5%B8%82%E8%8B%93%E9%9B%85%E5%8D%80/148611/"
-    official: "https://www.facebook.com/profile.php?id=100087099223453"
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "高雄市前金區河南二路137號"
     phone: "072155566"
     geo: "22.634175164086876, 120.29224845835454"
+    link: "高雄市/前金區/菜包李小吃部"
     google_map: "https://maps.app.goo.gl/x4hrDKPxqJAw7JT46"
     footinder: "https://footinder.com.tw/%e9%ab%98%e9%9b%84%e5%b8%82%e5%89%8d%e9%87%91%e5%8d%80/10914/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "高雄市鼓山區蓬萊路大港倉七庫6之6號"
     phone: "075216021"
     geo: "22.617182658991844, 120.28402247048"
+    link: "高雄市/鼓山區/永心浮島YONSHIN_FUDOPIA"
     google_map: "https://maps.app.goo.gl/Gu2LcqCDvWyPcq328"
     footinder: "https://footinder.com.tw/%e9%ab%98%e9%9b%84%e5%b8%82%e9%bc%93%e5%b1%b1%e5%8d%80/362187/"
-    official: "https://www.facebook.com/yonshinfodopia/"
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "高雄市新興區中正三路54號"
     phone: "072367668"
     geo: "22.631106261891045, 120.3090951588807"
+    link: "高雄市/新興區/卡拉包泰式餐廳_永久歇業_"
     google_map: "https://maps.app.goo.gl/iiGoHinUDjNwHMAK9"
     footinder: "https://footinder.com.tw/%e9%ab%98%e9%9b%84%e5%b8%82%e6%96%b0%e8%88%88%e5%8d%80/11516/"
-    official: "https://www.facebook.com/profile.php?id=100064301155159"
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "高雄市前鎮區新光路33號1F"
     phone: "073390303"
     geo: "22.611289731182794, 120.30352411097323"
+    link: "高雄市/前鎮區/BL.T33大廳酒吧_高雄洲際酒店"
     google_map: "https://maps.app.goo.gl/jHxeDSUQRiK9EQWh8"
     footinder: "https://footinder.com.tw/%E9%AB%98%E9%9B%84%E5%B8%82%E5%89%8D%E9%8E%AE%E5%8D%80/100833/"
-    official: "https://ickaohsiung.com/restaurant/blt33/"
     award:
     - name: "500盤"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "高雄市前鎮區新光路33號2樓"
     phone: "072132037"
     geo: "22.611319256550672, 120.30348383363544"
+    link: "高雄市/前鎮區/HAWKER好客南洋餐廳"
     google_map: "https://maps.app.goo.gl/ugmBrVcTndYarTiR7"
     footinder: "https://footinder.com.tw/%e9%ab%98%e9%9b%84%e5%b8%82%e5%89%8d%e9%8e%ae%e5%8d%80/362199/"
-    official: "https://ickaohsiung.com/restaurant/hawker/"
     award:
     - name: "500盤"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "高雄市鼓山區龍水二路9號"
     phone: "075869570"
     geo: "22.649653297080786, 120.28419372470813"
+    link: "高雄市/鼓山區/NIBBON"
     google_map: "https://maps.app.goo.gl/39GVz1s12z3z2vvFA"
     footinder: "https://footinder.com.tw/%E9%AB%98%E9%9B%84%E5%B8%82%E9%BC%93%E5%B1%B1%E5%8D%80/10595/"
-    official: "https://www.facebook.com/nibbontw"
     award:
     - name: "500盤"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "高雄市三民區明哲路35號"
     phone: "073433769"
     geo: "22.661551670054063, 120.3120910403791"
+    link: "高雄市/三民區/Pasadena_帕莎蒂娜法式餐廳"
     google_map: "https://maps.app.goo.gl/R19oqpk4qCxGFe4A8"
     footinder: "https://footinder.com.tw/%E9%AB%98%E9%9B%84%E5%B8%82%E9%BC%93%E5%B1%B1%E5%8D%80/10658/"
-    official: "http://bakery.pasadena.com.tw/store.html"
     award:
     - name: "500盤"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "高雄市鹽埕區五福四路150號"
     phone: "0906956650"
     geo: "22.623297451663703, 120.28447960965849"
+    link: "高雄市/鹽埕區/Хата_HATA烏克蘭廚房_"
     google_map: "https://maps.app.goo.gl/UTnWL4bsAt8mjfa29"
     footinder: "https://footinder.com.tw/%e9%ab%98%e9%9b%84%e5%b8%82%e9%b9%bd%e5%9f%95%e5%8d%80/362211/"
-    official: "https://www.facebook.com/hataresto.ofc/"
     award:
     - name: "500盤"
       year: "2024"

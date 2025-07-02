@@ -1,11 +1,12 @@
 ---
-title: "所有城市 所有行政區 500盤 2024"
+title: "所有城市 所有行政區 500盤 2024 第24頁"
+description: "所有城市 所有行政區 500盤 2024 獲獎餐廳 第24頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "所有城市"
 district: "所有行政區"
 award: "500盤"
@@ -20,9 +21,9 @@ restaurants:
     address: "台中市南屯區南屯路二段160號"
     phone: "0424731301"
     geo: "24.136304779338584, 120.65147689127306"
+    link: "台中市/南屯區/阿助鵝肉攤"
     google_map: "https://maps.app.goo.gl/nAfUVrftfQgQkKbF9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8D%97%E5%B1%AF%E5%8D%80/134916/"
-    official: "https://www.facebook.com/p/%E9%98%BF%E5%8A%A9%E9%B5%9D%E8%82%89%E6%B5%B7%E7%94%A2-100069577371965/"
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "台中市北屯區太原路三段191號"
     phone: "0422311699"
     geo: "24.16532814712181, 120.69155050431864"
+    link: "台中市/北屯區/溫叨古早味料理餐廳"
     google_map: "https://maps.app.goo.gl/XWQXxYkR2XsbjfHF6"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8C%97%E5%B1%AF%E5%8D%80/129434/"
-    official: "https://www.facebook.com/mhrstnt.ho"
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "台中市南屯區公益路二段783號"
     phone: "0423829128"
     geo: "24.150942231115817, 120.62928844692372"
+    link: "台中市/南屯區/与玥樓頂級粵菜餐廳"
     google_map: "https://maps.app.goo.gl/o7Dtf5YD8hPruhQ26"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8D%97%E5%B1%AF%E5%8D%80/437/"
-    official: "https://yuyuelou.com.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "雲林縣水林鄉蔦松路8號"
     phone: "0935114228"
     geo: "23.51964688200378, 120.23084349051639"
+    link: "雲林縣/水林鄉/蔦松客棧"
     google_map: "https://maps.app.goo.gl/gdbKHR1MNyWigvdTA"
     footinder: "https://footinder.com.tw/%E9%9B%B2%E6%9E%97%E7%B8%A3%E6%B0%B4%E6%9E%97%E9%84%89/2153/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台南市中西區青年路90號1樓"
     phone: ""
     geo: "22.991971741170726, 120.2081855311068"
+    link: "台南市/中西區/麥謎食驗室_Bue_mi.Lab"
     google_map: "https://maps.app.goo.gl/b5UZWUiHozdvCAb29"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8d%97%e5%b8%82%e4%b8%ad%e8%a5%bf%e5%8d%80/362179/"
-    official: "https://www.facebook.com/buemilab/"
     award:
     - name: "500盤"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "台南市安平區州平路289號"
     phone: "063911899"
     geo: "22.999414848347815, 120.14892822925322"
+    link: "台南市/安平區/大員皇冠假日酒店彩豐樓"
     google_map: "https://maps.app.goo.gl/YmoeSyP6sUku6K5R8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E5%8D%80/414/"
-    official: "https://www.cptainan.com/restaurant-detail/ca-feng-lou/"
     award:
     - name: "500盤"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "台南市北區成功路422號"
     phone: "062281522"
     geo: "23.00081430667002, 120.19830112716586"
+    link: "台南市/北區/廣東汕頭沙茶爐"
     google_map: "https://maps.app.goo.gl/nWR7GicxoZzR6VbV8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8D%97%E5%B8%82%E5%8C%97%E5%8D%80/102738/"
-    official: "https://www.facebook.com/profile.php?id=100063786410319"
     award:
     - name: "500盤"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "台南市中西區康樂街341號"
     phone: "062239881"
     geo: "22.99896311002549, 120.19653251440673"
+    link: "台南市/中西區/根串燒居酒屋"
     google_map: "https://maps.app.goo.gl/TCYDsQMWYbjFYRYw5"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8D%97%E5%B8%82%E4%B8%AD%E8%A5%BF%E5%8D%80/104884/"
-    official: "https://www.facebook.com/profile.php?id=100064150387154"
     award:
     - name: "500盤"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "台南市中西區國華街三段203號"
     phone: "062261974"
     geo: "22.998320254575674, 120.19895181891286"
+    link: "台南市/中西區/曉璘燒烤"
     google_map: "https://maps.app.goo.gl/Ja6BqqAMwiyeLe9R8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8D%97%E5%B8%82%E4%B8%AD%E8%A5%BF%E5%8D%80/103858/"
-    official: "https://www.facebook.com/lin2261974/"
     award:
     - name: "500盤"
       year: "2024"

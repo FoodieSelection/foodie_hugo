@@ -1,11 +1,12 @@
 ---
-title: "台北市 中山區 所有獎項 所有年份"
+title: "台北市 中山區 所有獎項 所有年份 第1頁"
+description: "台北市 中山區 所有獎項 所有年份 獲獎餐廳 第1頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "台北市"
 district: "中山區"
 award: "所有獎項"
@@ -20,9 +21,9 @@ restaurants:
     address: "台北市中山區中山北路二段39巷3號3樓"
     phone: "0225215000#3236"
     geo: "25.054151528628463, 121.52419389383094"
+    link: "台北市/中山區/晶華軒_Silks_House"
     google_map: "https://maps.app.goo.gl/RcyyZu9cmmkmzSJH6"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/31232/"
-    official: "https://www.regenttaiwan.com/dining/silks-house"
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "台北市中山區中山北路二段39巷3號B2"
     phone: "0225670237"
     geo: "25.054072214606514, 121.52469096491677"
+    link: "台北市/中山區/COAST"
     google_map: "https://maps.app.goo.gl/KxvabBugrVPU1FRw9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/47019/"
-    official: "https://coast.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "台北市中山區樂群三路301號"
     phone: "0285015800"
     geo: "25.08281945475802, 121.5593387767071"
+    link: "台北市/中山區/RAW_暫時關閉_"
     google_map: "https://maps.app.goo.gl/hCHcddkjTbQKy2Ly8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/1511/"
-    official: "https://www.raw.com.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "台北市中山區中山北路二段39巷3號B3"
     phone: ""
     geo: "25.05418847671346, 121.52423927962286"
+    link: "台北市/中山區/fumée"
     google_map: "https://maps.app.goo.gl/7T5J3c4qH8j2msMD6"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/362099/"
-    official: "https://www.facebook.com/p/Fum%C3%A9e-61551692447225/"
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台北市中山區中山北路二段45巷23號"
     phone: ""
     geo: "25.054510077740353, 121.52409925203494"
+    link: "台北市/中山區/Ad_astra"
     google_map: "https://maps.app.goo.gl/ckoSsMNEWfXxbEwRA"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/52852/"
-    official: "https://www.adastra.com.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "台北市中山區雙城街25巷15號1樓"
     phone: "0225923355"
     geo: "25.0662700179023, 121.52535190679987"
+    link: "台北市/中山區/TUTTO_BELLO"
     google_map: "https://maps.app.goo.gl/qXdwx3EQkqstWGeG9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/31289/"
-    official: "http://www.tuttobello.com.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "台北市中山區吉林路422號"
     phone: ""
     geo: "25.066024685201775, 121.53029759906646"
+    link: "台北市/中山區/牛肆"
     google_map: "https://maps.app.goo.gl/NuEGDtwpxNo7xeqr8"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/47043/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "台北市中山區樂群三路200號1樓"
     phone: "0937857869"
     geo: "25.08239805137632, 121.55709045289913"
+    link: "台北市/中山區/La_Vie_by_Thomas_Bühner"
     google_map: "https://maps.app.goo.gl/geFrEGcUpknygmzYA"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/176129/"
-    official: "https://www.laviebythomasbuehner.com/"
     award:
     - name: "500盤"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "台北市中山北路二段39巷3號Regent Galleria B2"
     phone: ""
     geo: "25.054083998737152, 121.52428462415465"
+    link: "台北市/中山區/Curious_Table_永久歇業_"
     google_map: "https://maps.app.goo.gl/UazsyfRFHP5nEYkf8"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/52556/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"

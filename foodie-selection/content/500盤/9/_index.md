@@ -1,11 +1,12 @@
 ---
-title: "所有城市 所有行政區 500盤 所有年份"
+title: "所有城市 所有行政區 500盤 所有年份 第9頁"
+description: "所有城市 所有行政區 500盤 所有年份 獲獎餐廳 第9頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "所有城市"
 district: "所有行政區"
 award: "500盤"
@@ -20,9 +21,9 @@ restaurants:
     address: "台中市西區忠明南路48號"
     phone: "0423262080"
     geo: "24.15543896924409, 120.65830927409148"
+    link: "台中市/西區/鳥苑"
     google_map: "https://maps.app.goo.gl/T26d6GK26xq3qJNE6"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82/131433/"
-    official: "https://www.facebook.com/profile.php?id=100064704997964"
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "台中市南屯區大墩路28號"
     phone: "0424739680"
     geo: "24.137534113599305, 120.6500430134592"
+    link: "台中市/南屯區/霧都老火鍋"
     google_map: "https://maps.app.goo.gl/cuBjpuCZFe5u6BJC9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8D%97%E5%B1%AF%E5%8D%80/103129/"
-    official: "https://www.facebook.com/WUDU.HOTPOT/"
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "高雄市新興區林森二路188號"
     phone: "072810651"
     geo: "22.62226571248129, 120.30588983098578"
+    link: "高雄市/新興區/海天下海產餐廳"
     google_map: "https://maps.app.goo.gl/ULanB9xjikcwfoj17"
     footinder: "https://footinder.com.tw/%E9%AB%98%E9%9B%84%E5%B8%82%E6%96%B0%E8%88%88%E5%8D%80/11708/"
-    official: "https://www.theseaworld.com.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "花蓮縣鳳林鎮鳳鳴一路71號"
     phone: "038762206"
     geo: "23.76096275311694, 121.4382056790448"
+    link: "花蓮縣/鳳林鎮/遺忘的故鄉月廬食堂"
     google_map: "https://maps.app.goo.gl/3m8QfCK9weCCvXSq6"
     footinder: "https://footinder.com.tw/%E8%8A%B1%E8%93%AE%E7%B8%A3%E9%B3%B3%E6%9E%97%E9%8E%AE/14171/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台北市大安區信義路四段175號"
     phone: "0227001958"
     geo: "25.033421405097084, 121.55053866400769"
+    link: "台北市/大安區/de_nuit"
     google_map: "https://maps.app.goo.gl/Ya54yVc8JkWpqMnJ8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/153101/"
-    official: "https://www.denuit.com.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "台北市大安區安和路二段71巷15號"
     phone: "0227322552"
     geo: "25.02998519193155, 121.55300477385548"
+    link: "台北市/大安區/Divino_TAipei"
     google_map: "https://maps.app.goo.gl/CLmouZAxttfTHeXbA"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/47916/"
-    official: "https://www.divinorestaurants.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "台北市信義區松壽路9號6樓"
     phone: "0227588501"
     geo: "25.036295974206595, 121.56685889903974"
+    link: "台北市/信義區/gubami_Social"
     google_map: "https://maps.app.goo.gl/8vemw5RiefZa2FjX9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80/168891/"
-    official: "https://www.facebook.com/gubami.social/"
     award:
     - name: "500盤"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "台北市中山區中山北路二段39巷3號B1"
     phone: "0225212518"
     geo: "25.05417685841221, 121.52423063792575"
+    link: "台北市/中山區/Impromptu_by_Paul_Lee"
     google_map: "https://maps.app.goo.gl/KzbjU6DDMxacNCKE6"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/46994/"
-    official: "http://www.impromptu.com.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "台北市松山區民生東路三段127巷6號1樓"
     phone: ""
     geo: "25.0585159762837, 121.54740499143944"
+    link: "台北市/松山區/M_CO"
     google_map: "https://maps.app.goo.gl/K5ZbXAtKZQ1MWPVu5"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/47863/"
-    official: "https://www.facebook.com/MCOrestaurant"
     award:
     - name: "500盤"
       year: "2024"

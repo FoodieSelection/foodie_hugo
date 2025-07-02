@@ -1,11 +1,12 @@
 ---
-title: "台北市 所有行政區 500盤 2024"
+title: "台北市 所有行政區 500盤 2024 第23頁"
+description: "台北市 所有行政區 500盤 2024 獲獎餐廳 第23頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "台北市"
 district: "所有行政區"
 award: "500盤"
@@ -20,9 +21,9 @@ restaurants:
     address: "台北市中山區建國北路一段61號GF"
     phone: "0225006832"
     geo: "25.050701488352892, 121.53712376115564"
+    link: "台北市/中山區/Molino_de_Urdániz_Taipei_渥達尼斯磨坊"
     google_map: "https://maps.app.goo.gl/y8gUN5w6RCVbN4kKA"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/32099/"
-    official: "https://hotelmvsa.com/dining/molino-de-urdaniz/"
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "台北市中山區樂群二路199號2樓"
     phone: "0221757952"
     geo: "25.08019849946195, 121.55922599189469"
+    link: "台北市/中山區/Mark's_Teppanyaki_台北萬豪酒店"
     google_map: "https://maps.app.goo.gl/YcyxMsJWo8mdDjKF8"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/8940/"
-    official: "https://www.taipeimarriott.com.tw/websev?cat=page&id=4"
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "台北市大安區延吉街239號"
     phone: ""
     geo: "25.03630143352749, 121.55571343152243"
+    link: "台北市/大安區/PIZZAROUND_比薩斜躺"
     google_map: "https://maps.app.goo.gl/kAaMD9aKycnYhfZ37"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/362207/"
-    official: "https://www.facebook.com/pizzaroundtw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "台北市南港區中南街30號"
     phone: "0227851588"
     geo: "25.054555951414603, 121.61521304418571"
+    link: "台北市/南港區/PASTi"
     google_map: "https://maps.app.goo.gl/dU6bjfgAEvZipXSN7"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%8D%97%E6%B8%AF%E5%8D%80/9829/"
-    official: "https://www.pasti.com.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台北市中山區中山北路二段39巷3號2樓"
     phone: "0225238000#3930"
     geo: "25.054178942666436, 121.52425337420513"
+    link: "台北市/中山區/ROBIN'S_鐵板燒_TEPPANYAKI"
     google_map: "https://maps.app.goo.gl/3FzsW8bTLDFBvoqL8"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/52597/"
-    official: "https://www.regenttaiwan.com/dining/robins-teppanyaki"
     award:
     - name: "500盤"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "台北市松山區民生東路三段127巷12號"
     phone: "0227186388"
     geo: "25.058867146767504, 121.54737325080312"
+    link: "台北市/松山區/SENS"
     google_map: "https://maps.app.goo.gl/ReDet4HDQGdy7TgA6"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/47921/"
-    official: "https://www.senstw.com/tw"
     award:
     - name: "500盤"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "台北市中山區樂群三路299號6樓"
     phone: "0285015500"
     geo: "25.082781792178945, 121.55917633710486"
+    link: "台北市/中山區/Taïrroir_態芮"
     google_map: "https://maps.app.goo.gl/3WsCXWuUgrGpj4HR8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/13201/"
-    official: "https://tairroir.com/"
     award:
     - name: "500盤"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "台北市中山區中山北路一段49號"
     phone: "0225632499"
     geo: "25.049295925961175, 121.52156069213282"
+    link: "台北市/中山區/The_Flow"
     google_map: "https://maps.app.goo.gl/Reo93jqnnoYqoS5b7"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/362209/"
-    official: "https://www.facebook.com/theflowtw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "台北市中山區八德路二段332巷16號"
     phone: "0227760322"
     geo: "25.04665608186481, 121.54325632048531"
+    link: "台北市/中山區/YORUよる_by_Dennis_Wang"
     google_map: "https://maps.app.goo.gl/WUZiauA7RPJ6QgkXA"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/105324/"
-    official: "https://www.facebook.com/Yorutaipei"
     award:
     - name: "500盤"
       year: "2024"

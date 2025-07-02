@@ -1,11 +1,12 @@
 ---
-title: "所有城市 所有行政區 所有獎項 2024"
+title: "所有城市 所有行政區 所有獎項 2024 第39頁"
+description: "所有城市 所有行政區 所有獎項 2024 獲獎餐廳 第39頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "所有城市"
 district: "所有行政區"
 award: "所有獎項"
@@ -20,9 +21,9 @@ restaurants:
     address: ""
     phone: ""
     geo: ""
+    link: "//趣味飲食國際有限公司"
     google_map: ""
     footinder: ""
-    official: "https://www.instagram.com/yi.shui2024"
     award:
     - name: "台北國際牛肉麵節"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: ""
     phone: ""
     geo: ""
+    link: "//買多多國際股份有限公司"
     google_map: ""
     footinder: ""
-    official: ""
     award:
     - name: "台北國際牛肉麵節"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: ""
     phone: ""
     geo: ""
+    link: "//創鑫生機股份有限公司"
     google_map: ""
     footinder: ""
-    official: ""
     award:
     - name: "台北國際牛肉麵節"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: ""
     phone: ""
     geo: ""
+    link: "//統一企業_股_公司"
     google_map: ""
     footinder: ""
-    official: ""
     award:
     - name: "台北國際牛肉麵節"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "花蓮縣花蓮市中山路38號C17"
     phone: "0975333282"
     geo: "23.973079728771175, 121.61223292894208"
+    link: "花蓮縣/花蓮市/宜蘭香炸螃蟹_東大門店__C17_"
     google_map: "https://maps.app.goo.gl/Emif3Ufww9iNaMKr7"
     footinder: "https://footinder.com.tw/%E8%8A%B1%E8%93%AE%E7%B8%A3%E8%8A%B1%E8%93%AE%E5%B8%82/164553/"
-    official: "https://www.facebook.com/p/%E8%8A%B1%E8%93%AE-%E5%AE%9C%E8%98%AD%E9%A6%99%E7%82%B8%E8%9E%83%E8%9F%B9-%E6%9D%B1%E5%A4%A7%E9%96%80%E5%BA%97%E6%85%B6%E8%B1%90%E5%BA%97-100063555711992/"
     award:
     - name: "夜市王"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "花蓮縣花蓮市東大門夜市原住民一條街E28"
     phone: ""
     geo: "23.971772714571323, 121.61199023252192"
+    link: "花蓮縣/花蓮市/蚵仔酥煎_E28_"
     google_map: "https://maps.app.goo.gl/eM7i71RvrgRfzATZA"
     footinder: "https://footinder.com.tw/%E8%8A%B1%E8%93%AE%E7%B8%A3%E8%8A%B1%E8%93%AE%E5%B8%82/362065/"
-    official: ""
     award:
     - name: "夜市王"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "花蓮縣花蓮市東大門各省一條街F29"
     phone: ""
     geo: "23.972899636757898, 121.6098427957398"
+    link: "花蓮縣/花蓮市/夜市王_玉里臭豆腐_F29_"
     google_map: "https://maps.app.goo.gl/qGcw8h6uSpeLq8iUA"
     footinder: "https://footinder.com.tw/%E8%8A%B1%E8%93%AE%E7%B8%A3%E8%8A%B1%E8%93%AE%E5%B8%82/362051/"
-    official: ""
     award:
     - name: "夜市王"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "花蓮縣花蓮市中山路50號原住民一條街D21"
     phone: "0955731462"
     geo: "23.97195944554577, 121.61206515846527"
+    link: "花蓮縣/花蓮市/原香嘟論竹筒飯_D21_"
     google_map: "https://maps.app.goo.gl/m1UxLXjWrMLxhpbg6"
     footinder: "https://footinder.com.tw/%E8%8A%B1%E8%93%AE%E7%B8%A3%E8%8A%B1%E8%93%AE%E5%B8%82/362059/"
-    official: "https://www.facebook.com/TORONandHEMAY/"
     award:
     - name: "夜市王"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "花蓮縣花蓮市中山路福町夜市中山門C23"
     phone: "0925557507"
     geo: "23.97299292324586, 121.6121383447965"
+    link: "花蓮縣/花蓮市/蛤蜊波特熱炒燒烤Bar_哈力坡特熱炒燒烤__C23_"
     google_map: "https://maps.app.goo.gl/q3AAsAdPSVpgp4RL6"
     footinder: "https://footinder.com.tw/%E8%8A%B1%E8%93%AE%E7%B8%A3%E8%8A%B1%E8%93%AE%E5%B8%82/104432/"
-    official: "https://www.facebook.com/p/%E8%9B%A4%E8%9C%8A%E6%B3%A2%E7%89%B9-%E6%B5%B7%E9%AE%AE%E7%86%B1%E7%82%92%E5%95%A4%E9%85%92Bar-%E8%8A%B1%E8%93%AE%E6%9D%B1%E5%A4%A7%E9%96%80%E5%A4%9C%E5%B8%82%E4%BA%BA%E6%B0%A3%E7%BE%8E%E9%A3%9F%E5%B0%8F%E5%90%83%E9%A4%90%E9%A4%A8-100057456159104/"
     award:
     - name: "夜市王"
       year: "2024"

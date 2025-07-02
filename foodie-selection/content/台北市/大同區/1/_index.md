@@ -1,11 +1,12 @@
 ---
-title: "台北市 大同區 所有獎項 所有年份"
+title: "台北市 大同區 所有獎項 所有年份 第1頁"
+description: "台北市 大同區 所有獎項 所有年份 獲獎餐廳 第1頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "台北市"
 district: "大同區"
 award: "所有獎項"
@@ -20,9 +21,9 @@ restaurants:
     address: "台北市大同區承德路一段3號17樓"
     phone: "0221819950#3261"
     geo: "25.049151132470683, 121.51686963066113"
+    link: "台北市/大同區/頤宮中餐廳_Le_Palais"
     google_map: "https://maps.app.goo.gl/rdq5ecBtenHNZU1j7"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%90%8c%e5%8d%80/604/"
-    official: "https://www.palaisdechinehotel.com/p/pdc-tw/pages/lepalais"
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "台北市大同區民樂街58號"
     phone: "0225506863"
     geo: "25.05747948001781, 121.51051499826605"
+    link: "台北市/大同區/盈科EIKA"
     google_map: "https://maps.app.goo.gl/qvcHzwEWBfE2aWkF6"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%90%8C%E5%8D%80/362105/"
-    official: "https://eika.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "台北市大同區華陰街227巷2號"
     phone: "0225590721"
     geo: "25.050784107392538, 121.5141177732158"
+    link: "台北市/大同區/元味料理"
     google_map: "https://maps.app.goo.gl/A8eoDHveYgshKE717"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%90%8C%E5%8D%80/7646/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "台北市大同區涼州街72巷2-1號"
     phone: "0225520767"
     geo: "25.06043099024625, 121.51073870555446"
+    link: "台北市/大同區/涼州游嚴行_D-Place"
     google_map: "https://maps.app.goo.gl/8J64RLNgD47S4YN1A"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82/34877/"
-    official: "https://www.facebook.com/p/%E6%B6%BC%E5%B7%9E%E6%B8%B8%E5%9A%B4%E8%A1%8C-100063822170918/"
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台北市大同區西寧北路90之1號2樓"
     phone: "0225591775"
     geo: "25.055318438910497, 121.50880195558803"
+    link: "台北市/大同區/杯底香_永久歇業_"
     google_map: "https://maps.app.goo.gl/rtAcjz7TomKxxhUf8"
     footinder: ""
-    official: "https://www.instagram.com/peitihsiang/"
     award:
     - name: "500盤"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "台北市大同區迪化街一段358之2號"
     phone: "0225577872"
     geo: "25.06284714933567, 121.50909957096867"
+    link: "台北市/大同區/東方饌黔天下貴州主題餐廳"
     google_map: "https://maps.app.goo.gl/LejgiNmG5sWQmCm67"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%90%8c%e5%8d%80/7487/"
-    official: "http://www.ocg.url.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "台北市大同區承德路一段3號6樓"
     phone: "0975684833"
     geo: "25.049143849212033, 121.51686683096352"
+    link: "台北市/大同區/Ciao_by_Fratelli_Pennisi_Macelleria_Sicilia_西西里牛排餐酒館"
     google_map: "https://maps.app.goo.gl/17vBMKB7N4QhHrLk8"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%90%8c%e5%8d%80/7651/"
-    official: "https://www.palaisdechinehotel.com/pdc-tw/pages/26/0/304"
     award:
     - name: "500盤"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "台北市大同區寧夏路58號2樓"
     phone: "0987456794"
     geo: "25.05667749721933, 121.51536314738564"
+    link: "台北市/大同區/寧夏夜市千歲宴"
     google_map: "https://maps.app.goo.gl/5piZfcfCfs4tdboNA"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%90%8c%e5%8d%80/35031/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "台北市大同區民樂街6號"
     phone: ""
     geo: "25.055712283156602, 121.5108171826953"
+    link: "台北市/大同區/江牛樓"
     google_map: "https://maps.app.goo.gl/HeZwPDgFPksGptQd8"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%90%8c%e5%8d%80/362146/"
-    official: "https://www.facebook.com/profile.php?id=61552768012922"
     award:
     - name: "500盤"
       year: "2024"

@@ -1,11 +1,12 @@
 ---
-title: "所有城市 所有行政區 500盤 所有年份"
+title: "所有城市 所有行政區 500盤 所有年份 第34頁"
+description: "所有城市 所有行政區 500盤 所有年份 獲獎餐廳 第34頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "所有城市"
 district: "所有行政區"
 award: "500盤"
@@ -20,9 +21,9 @@ restaurants:
     address: "台北市松山區民生東路三段127巷12號"
     phone: "0227186388"
     geo: "25.058867146767504, 121.54737325080312"
+    link: "台北市/松山區/SENS"
     google_map: "https://maps.app.goo.gl/ReDet4HDQGdy7TgA6"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/47921/"
-    official: "https://www.senstw.com/tw"
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "宜蘭縣宜蘭市舊城東路40號"
     phone: "039361682"
     geo: "24.757430960307346, 121.75652721377436"
+    link: "宜蘭縣/宜蘭市/Slobber囍伯美式餐廳_暫時關閉_"
     google_map: "https://maps.app.goo.gl/dtbDKcZzkKSFfLGy7"
     footinder: "https://footinder.com.tw/%E5%AE%9C%E8%98%AD%E7%B8%A3%E5%AE%9C%E8%98%AD%E5%B8%82/1044/"
-    official: "https://www.facebook.com/SlobberBurger"
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "台東縣長濱鄉"
     phone: "089832558"
     geo: "23.277360797823285, 121.42279232649328"
+    link: "台東縣/長濱鄉/Sinasera_24_永久歇業_"
     google_map: "https://maps.app.goo.gl/xv6yQbSDcU37Jksz9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E6%9D%B1%E7%B8%A3%E9%95%B7%E6%BF%B1%E9%84%89/5698/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "台北市中山區樂群三路299號6樓"
     phone: "0285015500"
     geo: "25.082781792178945, 121.55917633710486"
+    link: "台北市/中山區/Taïrroir_態芮"
     google_map: "https://maps.app.goo.gl/3WsCXWuUgrGpj4HR8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/13201/"
-    official: "https://tairroir.com/"
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台北市中山區中山北路一段49號"
     phone: "0225632499"
     geo: "25.049295925961175, 121.52156069213282"
+    link: "台北市/中山區/The_Flow"
     google_map: "https://maps.app.goo.gl/Reo93jqnnoYqoS5b7"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/362209/"
-    official: "https://www.facebook.com/theflowtw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "台南市中西區西和路289號"
     phone: "063589850"
     geo: "23.003311623866953, 120.19281617437447"
+    link: "台南市/中西區/THINKPIZZA"
     google_map: "https://maps.app.goo.gl/Vo4B4UvvrWBz3qkU9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8D%97%E5%B8%82%E4%B8%AD%E8%A5%BF%E5%8D%80/1943/"
-    official: "https://www.facebook.com/THINKPIZZANYC/"
     award:
     - name: "500盤"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "台中市北屯區崇德一路53號"
     phone: "0910557730"
     geo: "24.176448657274662, 120.68876781424567"
+    link: "台中市/北屯區/TROIS三ー"
     google_map: "https://maps.app.goo.gl/XUqYEvHq18tRNAh27"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8C%97%E5%B1%AF%E5%8D%80/153117/"
-    official: "https://www.facebook.com/p/Trois%E4%B8%89%E4%B8%80-100076135776567"
     award:
     - name: "500盤"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "台南市中西區中華西路二段12巷30號"
     phone: "062998485"
     geo: "22.987403532617666, 120.18754014421596"
+    link: "台南市/中西區/Wom_salone"
     google_map: "https://maps.app.goo.gl/qAL7ECucSyBwGb9z7"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8D%97%E5%B8%82%E4%B8%AD%E8%A5%BF%E5%8D%80/99006/"
-    official: "https://www.instagram.com/wom_salone/"
     award:
     - name: "500盤"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "高雄市鹽埕區五福四路150號"
     phone: "0906956650"
     geo: "22.623297451663703, 120.28447960965849"
+    link: "高雄市/鹽埕區/Хата_HATA烏克蘭廚房_"
     google_map: "https://maps.app.goo.gl/UTnWL4bsAt8mjfa29"
     footinder: "https://footinder.com.tw/%e9%ab%98%e9%9b%84%e5%b8%82%e9%b9%bd%e5%9f%95%e5%8d%80/362211/"
-    official: "https://www.facebook.com/hataresto.ofc/"
     award:
     - name: "500盤"
       year: "2024"

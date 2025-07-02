@@ -1,11 +1,12 @@
 ---
-title: "台中市 所有行政區 所有獎項 2024"
+title: "台中市 所有行政區 所有獎項 2024 第2頁"
+description: "台中市 所有行政區 所有獎項 2024 獲獎餐廳 第2頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "台中市"
 district: "所有行政區"
 award: "所有獎項"
@@ -20,9 +21,9 @@ restaurants:
     address: "台中市西區華美西街一段32號"
     phone: "0423255288"
     geo: "24.15238077453479, 120.65832496746523"
+    link: "台中市/西區/燒肉本氣"
     google_map: "https://maps.app.goo.gl/swqnLgQ55Y29krv59"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E8%A5%BF%E5%8D%80/133066/"
-    official: "https://www.facebook.com/yakinikuhonki/"
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "台中市西區公益路194-1號"
     phone: "0423250588"
     geo: "24.1510111770431, 120.65641646046238"
+    link: "台中市/西區/俺達の肉屋_日本和牛燒肉店"
     google_map: "https://maps.app.goo.gl/2vU3epw9iMbZYw27A"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E8%A5%BF%E5%8D%80/104680/"
-    official: "https://www.facebook.com/oretachinonikuya/"
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "台中市南屯區南屯路二段160號"
     phone: "0424731301"
     geo: "24.136304779338584, 120.65147689127306"
+    link: "台中市/南屯區/阿助鵝肉攤"
     google_map: "https://maps.app.goo.gl/nAfUVrftfQgQkKbF9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8D%97%E5%B1%AF%E5%8D%80/134916/"
-    official: "https://www.facebook.com/p/%E9%98%BF%E5%8A%A9%E9%B5%9D%E8%82%89%E6%B5%B7%E7%94%A2-100069577371965/"
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "台中市北屯區太原路三段191號"
     phone: "0422311699"
     geo: "24.16532814712181, 120.69155050431864"
+    link: "台中市/北屯區/溫叨古早味料理餐廳"
     google_map: "https://maps.app.goo.gl/XWQXxYkR2XsbjfHF6"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8C%97%E5%B1%AF%E5%8D%80/129434/"
-    official: "https://www.facebook.com/mhrstnt.ho"
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台中市南屯區公益路二段783號"
     phone: "0423829128"
     geo: "24.150942231115817, 120.62928844692372"
+    link: "台中市/南屯區/与玥樓頂級粵菜餐廳"
     google_map: "https://maps.app.goo.gl/o7Dtf5YD8hPruhQ26"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8D%97%E5%B1%AF%E5%8D%80/437/"
-    official: "https://yuyuelou.com.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "台中市西屯區重慶路141之3號"
     phone: "0423164891"
     geo: "24.166414309165567, 120.65626423516949"
+    link: "台中市/西屯區/Atipic亞提法式餐廳"
     google_map: "https://maps.app.goo.gl/pmSzVe3f2WmQWPv17"
     footinder: ""
-    official: "https://www.atipic.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "台中市北區健行路86巷7弄33號"
     phone: ""
     geo: "24.16063757267739, 120.68755330068244"
+    link: "台中市/北區/enPure瀞"
     google_map: "https://maps.app.goo.gl/F53yewtrnYWDvkF3A"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e4%b8%ad%e5%b8%82%e5%8c%97%e5%8d%80/362197/"
-    official: "https://www.facebook.com/enpurerestaurant/"
     award:
     - name: "500盤"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "台中市太平區新福十六街68號2樓"
     phone: "0968059811"
     geo: "24.152858019081652, 120.7051389087968"
+    link: "台中市/太平區/L'_atelier_par_Yao"
     google_map: "https://maps.app.goo.gl/XrD3Di6Z9HSjf1dX7"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%A4%AA%E5%B9%B3%E5%8D%80/141568/"
-    official: "https://www.twlatelier.com/"
     award:
     - name: "500盤"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "台中市南屯區益豐路四段689號"
     phone: "0423803357"
     geo: "24.15053043965355, 120.62854686110784"
+    link: "台中市/南屯區/PINOCOCO_皮諾可可"
     google_map: "https://maps.app.goo.gl/JZmMU3Zv4UZnikZVA"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8D%97%E5%B1%AF%E5%8D%80/644/"
-    official: "https://www.facebook.com/pinococo23803357/"
     award:
     - name: "500盤"
       year: "2024"

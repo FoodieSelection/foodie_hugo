@@ -1,11 +1,12 @@
 ---
-title: "台北市 中山區 所有獎項 2024"
+title: "台北市 中山區 所有獎項 2024 第2頁"
+description: "台北市 中山區 所有獎項 2024 獲獎餐廳 第2頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "台北市"
 district: "中山區"
 award: "所有獎項"
@@ -20,9 +21,9 @@ restaurants:
     address: "台北市中山區中山北路二段137巷18-1號"
     phone: "0225629287"
     geo: "25.061657306165262, 121.52426435490648"
+    link: "台北市/中山區/明福台菜"
     google_map: "https://maps.app.goo.gl/QyMYUT9nqXdwE6KH8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/31277/"
-    official: "https://www.facebook.com/profile.php?id=100064062872022"
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "台北市中山區樂群三路303號2樓"
     phone: "0285025522"
     geo: "25.082829503306375, 121.55991323975417"
+    link: "台北市/中山區/朧粵"
     google_map: "https://maps.app.goo.gl/HhMpAuqEXUrsDkqz9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/8935/"
-    official: "https://www.longyuetw.com/"
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "台北市中山區民權東路二段41號B1"
     phone: "0225971234"
     geo: "25.062885061149295, 121.52999084573858"
+    link: "台北市/中山區/天香樓"
     google_map: "https://maps.app.goo.gl/7s39NQC9oKE45Dij8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/13051/"
-    official: "https://taipei.landishotelsresorts.com/chinese-trad/dining-list.php"
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "台北市中山區樂群二路265巷38號"
     phone: "0285029168"
     geo: "25.081119516828522, 121.56043162874795"
+    link: "台北市/中山區/斑泊餐廳"
     google_map: "https://maps.app.goo.gl/PS7J6uornGR3usmz8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/43675/"
-    official: "https://www.facebook.com/banborestaurant/"
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台北市中山區長春路55號"
     phone: "0225815954"
     geo: "25.055024231029858, 121.52608830755406"
+    link: "台北市/中山區/雞家莊本店"
     google_map: "https://maps.app.goo.gl/xpVTT7kSXZ6U8cKF9"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/31241/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "台北市中山區長春路104號"
     phone: "0225410546"
     geo: "25.05479755130303, 121.52806663188414"
+    link: "台北市/中山區/九記港式海鮮餐廳"
     google_map: "https://maps.app.goo.gl/Q3TNGyHd9GHkPA2D9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/8269/"
-    official: "https://www.facebook.com/profile.php?id=100068289518236"
     award:
     - name: "500盤"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "台北市中山區樂群三路303號2F"
     phone: "0285020308"
     geo: "25.082795719787157, 121.56032849401385"
+    link: "台北市/中山區/Birdy_Yakitori_燒鳥狂想曲"
     google_map: "https://maps.app.goo.gl/5zSFtDbZ6PPX2Rzz8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/42538/"
-    official: "https://www.facebook.com/birdyyakitori/"
     award:
     - name: "500盤"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "台北市中山區雙城街25巷6之3號"
     phone: "0225961069"
     geo: "25.066169086535727, 121.52487349398537"
+    link: "台北市/中山區/明壽司"
     google_map: "https://maps.app.goo.gl/xXqyu7pzHrktN7xK8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/31291/"
-    official: "https://www.facebook.com/profile.php?id=100054190377042"
     award:
     - name: "500盤"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "台北市中山區樂群二路199號三樓"
     phone: "0221757918"
     geo: "25.080450827034152, 121.55894180377362"
+    link: "台北市/中山區/台北萬豪酒店_宴客樓中餐廳"
     google_map: "https://maps.app.goo.gl/GM3cgbjFbHit65bH6"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/8805/"
-    official: "https://www.taipeimarriott.com.tw/websev?cat=page&id=45"
     award:
     - name: "500盤"
       year: "2024"

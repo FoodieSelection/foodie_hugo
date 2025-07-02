@@ -1,11 +1,12 @@
 ---
-title: "台北市 所有行政區 500盤 所有年份"
+title: "台北市 所有行政區 500盤 所有年份 第15頁"
+description: "台北市 所有行政區 500盤 所有年份 獲獎餐廳 第15頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "台北市"
 district: "所有行政區"
 award: "500盤"
@@ -20,9 +21,9 @@ restaurants:
     address: "台北市大安區金山南路二段85巷7號1樓之3"
     phone: "0223210138"
     geo: "25.031235168841263, 121.5272835172577"
+    link: "台北市/大安區/犬犬家"
     google_map: "https://maps.app.goo.gl/S5npvieNJTDyCdUK8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/35381/"
-    official: "https://www.facebook.com/kenkenkaya"
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "台北市北投區竹子湖路55之11號往中正山方向"
     phone: "0228619165"
     geo: "25.177408789496663, 121.53086320122738"
+    link: "台北市/北投區/青菜園"
     google_map: "https://maps.app.goo.gl/mCDQwBZZ927hr7uc6"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%8c%97%e6%8a%95%e5%8d%80/6689/"
-    official: "https://www.facebook.com/susan1122s/"
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "台北市大安區大安路一段31巷12號1"
     phone: "0225555299"
     geo: "25.043924170007966, 121.54680602341475"
+    link: "台北市/大安區/鮨崤"
     google_map: "https://maps.app.goo.gl/Msa9iN56PGf1GePz5"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/111124/"
-    official: "https://www.facebook.com/sushikuo/"
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "台北市中正區湖口街1-2號"
     phone: "0223581819"
     geo: "25.03278867603252, 121.51502107590377"
+    link: "台北市/中正區/香色_XIANG_SE"
     google_map: "https://maps.app.goo.gl/EZmGWooWzTDH6ET39"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e6%ad%a3%e5%8d%80/190/"
-    official: "https://xiang-se.com/"
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台北市大安區四維路25號"
     phone: "0223254566"
     geo: "25.03547183867151, 121.54816477935941"
+    link: "台北市/大安區/巷子龍家常菜"
     google_map: "https://maps.app.goo.gl/kBLim7TJ8VGPzLwg7"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/8585/"
-    official: "https://www.facebook.com/talkingheadrestaurant/"
     award:
     - name: "500盤"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "台北市大安區忠孝東路四段216巷27弄17號入口有點難找"
     phone: "0227711110"
     geo: "25.039940977574254, 121.55395254701503"
+    link: "台北市/大安區/千壽_日本料理_懷石X壽司"
     google_map: "https://maps.app.goo.gl/i3Ccj49uQzevho5D8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/13160/"
-    official: "https://www.facebook.com/senjutaipei/"
     award:
     - name: "500盤"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "台北市信義區忠孝東路五段68號2樓"
     phone: "0227239976"
     geo: "25.040502108778398, 121.56656937574235"
+    link: "台北市/信義區/心潮飯店"
     google_map: "https://maps.app.goo.gl/sc5p8KWoJY9GeC2h9"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%bf%a1%e7%be%a9%e5%8d%80/9026/"
-    official: "https://www.facebook.com/sinchaoriceshoppe/"
     award:
     - name: "500盤"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "台北市松山區復興北路313巷37號"
     phone: ""
     geo: "25.059043357293007, 121.54656539245775"
+    link: "台北市/松山區/徐家私廚"
     google_map: "https://maps.app.goo.gl/fUNQCn4QZYsw2VvM8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/168881/"
-    official: "https://www.instagram.com/ouah.hanchi/"
     award:
     - name: "500盤"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "台北市中正區仁愛路二段7號"
     phone: "0223970568"
     geo: "25.038483070157287, 121.52581882558768"
+    link: "台北市/中正區/興鐵板燒_Xing_Teppanyaki"
     google_map: "https://maps.app.goo.gl/XAD2wKJgH2CiNBnb7"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80/31091/"
-    official: "https://www.instagram.com/xing_teppanyaki/"
     award:
     - name: "500盤"
       year: "2024"

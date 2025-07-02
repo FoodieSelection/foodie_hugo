@@ -1,11 +1,12 @@
 ---
-title: "所有城市 所有行政區 500盤 所有年份"
+title: "所有城市 所有行政區 500盤 所有年份 第14頁"
+description: "所有城市 所有行政區 500盤 所有年份 獲獎餐廳 第14頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "所有城市"
 district: "所有行政區"
 award: "500盤"
@@ -20,9 +21,9 @@ restaurants:
     address: "台北市大同區寧夏路58號2樓"
     phone: "0987456794"
     geo: "25.05667749721933, 121.51536314738564"
+    link: "台北市/大同區/寧夏夜市千歲宴"
     google_map: "https://maps.app.goo.gl/5piZfcfCfs4tdboNA"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%90%8c%e5%8d%80/35031/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "台北市大安區忠孝東路四段216巷33弄10號"
     phone: "0227117272"
     geo: "25.03928962564371, 121.55348937874689"
+    link: "台北市/大安區/南村｜私廚‧小酒棧"
     google_map: "https://maps.app.goo.gl/Dx7oHUpgYxi57vsQ8"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/124224/"
-    official: "https://www.facebook.com/44svbistro/"
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "基隆市中山區西定路120號"
     phone: "0224283528"
     geo: "25.134120896413304, 121.73500460931018"
+    link: "基隆市/中山區/李津好。津烹派"
     google_map: "https://maps.app.goo.gl/HX891u1SFFhyQidx7"
     footinder: "https://footinder.com.tw/%e5%9f%ba%e9%9a%86%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/362148/"
-    official: "https://www.facebook.com/profile.php?id=100066463281909&mibextid=LQQJ4d"
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "新北市八里區華富山路14號"
     phone: "0226102445"
     geo: "25.139041676572337, 121.41661319935442"
+    link: "新北市/八里區/落日崖之飄逸居咖啡小屋"
     google_map: "https://maps.app.goo.gl/yPa78sFjduoeNEgb8"
     footinder: "https://footinder.com.tw/%E6%96%B0%E5%8C%97%E5%B8%82%E5%85%AB%E9%87%8C%E5%8D%80/85291/"
-    official: "https://www.facebook.com/elegnatcoffee/"
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台北市北投區竹子湖路67號"
     phone: "0228626408"
     geo: "25.17632351804717, 121.53966463406918"
+    link: "台北市/北投區/冠宸食館"
     google_map: "https://maps.app.goo.gl/Xna1Z1L18DP3xckM8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%8C%97%E6%8A%95%E5%8D%80/8051/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "台北市中山區遼寧街177號2F"
     phone: "0225362370"
     geo: "25.0531219399139, 121.54218040311758"
+    link: "台北市/中山區/國賓中餐廳"
     google_map: "https://maps.app.goo.gl/KHzp5ADf4X7zmeYY6"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/57/"
-    official: "https://www.ambassador-hotels.com/tc/taipei/dining/szechuan-court#story"
     award:
     - name: "500盤"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "台北市大安區建國南路一段160號2樓"
     phone: "0226436306"
     geo: "25.04114358656872, 121.53688398031335"
+    link: "台北市/大安區/格格的幸福廚房"
     google_map: "https://maps.app.goo.gl/vgkzfJpqDrDH832fA"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/362140/"
-    official: "https://www.facebook.com/culinaryarts2017/"
     award:
     - name: "500盤"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "桃園市復興區復興鄉神木路192-8號"
     phone: "0913566218"
     geo: "24.69323528154225, 121.41636709998976"
+    link: "桃園市/復興區/光明農場_馬告磚窯雞_"
     google_map: "https://maps.app.goo.gl/1cen18b5cTtKZgeHA"
     footinder: "https://footinder.com.tw/%E6%A1%83%E5%9C%92%E5%B8%82%E5%BE%A9%E8%88%88%E5%8D%80/13824/"
-    official: "https://www.facebook.com/a033912555/"
     award:
     - name: "500盤"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "台北市大安區敦化南路一段270巷28號-8號"
     phone: "0287720372"
     geo: "25.038922335697148, 121.54677454211945"
+    link: "台北市/大安區/空盤_komboi"
     google_map: "https://maps.app.goo.gl/vHQVDUAG4B4r3qJL7"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/8683/"
-    official: "https://www.instagram.com/komboi_taipei/"
     award:
     - name: "500盤"
       year: "2024"

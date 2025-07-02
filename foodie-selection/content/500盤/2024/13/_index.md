@@ -1,11 +1,12 @@
 ---
-title: "所有城市 所有行政區 500盤 2024"
+title: "所有城市 所有行政區 500盤 2024 第13頁"
+description: "所有城市 所有行政區 500盤 2024 獲獎餐廳 第13頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "所有城市"
 district: "所有行政區"
 award: "500盤"
@@ -20,9 +21,9 @@ restaurants:
     address: "台北市中正區武昌街一段16巷6號"
     phone: "0223615119"
     geo: "25.043560708818415, 121.51255130035192"
+    link: "台北市/中正區/添財日本料理武昌店"
     google_map: "https://maps.app.goo.gl/Bu5ywofJC3PxvUSj9"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e6%ad%a3%e5%8d%80/30353/"
-    official: "https://www.facebook.com/tientsai1957/"
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "台北市中山區樂群二路199號中城廣場2樓"
     phone: "0285011157"
     geo: "25.08019745838038, 121.559133398646"
+    link: "台北市/中山區/天婦羅杉村"
     google_map: "https://maps.app.goo.gl/GW598p5d4WVbARM5A"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/362136/"
-    official: "https://www.taipeimarriott.com.tw/websev?cat=page&id=114"
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "台北市大同區承德路一段3號6樓"
     phone: "0975684833"
     geo: "25.049143849212033, 121.51686683096352"
+    link: "台北市/大同區/Ciao_by_Fratelli_Pennisi_Macelleria_Sicilia_西西里牛排餐酒館"
     google_map: "https://maps.app.goo.gl/17vBMKB7N4QhHrLk8"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%90%8c%e5%8d%80/7651/"
-    official: "https://www.palaisdechinehotel.com/pdc-tw/pages/26/0/304"
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "台北市中正區忠孝東路一段12號17樓"
     phone: "0223211818"
     geo: "25.044656426578722, 121.52170153240529"
+    link: "台北市/中正區/台北喜來登大飯店_請客樓"
     google_map: "https://maps.app.goo.gl/DC7NdPfPSidVhZiu6"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80/7837/"
-    official: "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=2&id=18"
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台北市中正區林森南路61巷17號"
     phone: "0223215939"
     geo: "25.039721429456574, 121.5228709737999"
+    link: "台北市/中正區/台北美味小館"
     google_map: "https://maps.app.goo.gl/isGdem8c9q4PQf5V8"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e6%ad%a3%e5%8d%80/7888/"
-    official: "https://www.facebook.com/profile.php?id=100063749240640"
     award:
     - name: "500盤"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "台北市中山區樂群三路303號3樓"
     phone: "0285027711"
     geo: "25.08279704353928, 121.56032962199026"
+    link: "台北市/中山區/牛琅"
     google_map: "https://maps.app.goo.gl/k4M7Ez7e3c9izAZD7"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/362138/"
-    official: "https://www.newluxebeef.com/"
     award:
     - name: "500盤"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "台北市大安區通安街38-1號"
     phone: "0227081629"
     geo: "25.031664362329458, 121.55323282249057"
+    link: "台北市/大安區/牛吉燒肉_暫時關閉_"
     google_map: "https://maps.app.goo.gl/tLgsoYRJGBkFQo1QA"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/120264/"
-    official: "https://www.facebook.com/profile.php?id=100064009511457"
     award:
     - name: "500盤"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "台北市大安區東豐街64號"
     phone: "0223250660"
     geo: "25.03589691280263, 121.54770382329203"
+    link: "台北市/大安區/牛B燒肉_GyuB_Yakiniku"
     google_map: "https://maps.app.goo.gl/LycmXKQK7jNz9x3w8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/104634/"
-    official: "https://www.facebook.com/GyuB.Yakiniku/"
     award:
     - name: "500盤"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "台北市士林區福華路128巷12號"
     phone: "0228310166"
     geo: "25.102889715468184, 121.52320846457711"
+    link: "台北市/士林區/鳥哲_燒物專門店"
     google_map: "https://maps.app.goo.gl/gEe3qWPVruFSfU9g6"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A3%AB%E6%9E%97%E5%8D%80/7705/"
-    official: "https://www.facebook.com/toritetsu1111/"
     award:
     - name: "500盤"
       year: "2024"

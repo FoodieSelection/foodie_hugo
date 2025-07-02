@@ -1,11 +1,12 @@
 ---
-title: "所有城市 所有行政區 所有獎項 所有年份"
+title: "所有城市 所有行政區 所有獎項 所有年份 第19頁"
+description: "所有城市 所有行政區 所有獎項 所有年份 獲獎餐廳 第19頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "所有城市"
 district: "所有行政區"
 award: "所有獎項"
@@ -20,9 +21,9 @@ restaurants:
     address: "台北市萬華區廣州街104號"
     phone: "0223025588"
     geo: "25.036528085338258, 121.5022076698149"
+    link: "台北市/萬華區/周記肉粥店"
     google_map: "https://maps.app.goo.gl/CyC4X85C91FbKeQa6"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E8%90%AC%E8%8F%AF%E5%8D%80/7467/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: ""
     phone: ""
     geo: ""
+    link: "//國城定潮飯店-正寬法師餐會"
     google_map: "https://maps.app.goo.gl/N7BukKpYZDGvmB2v8"
     footinder: ""
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "分店眾多請自行搜尋"
     phone: ""
     geo: ""
+    link: "台北市/中正區/春水堂"
     google_map: "https://www.google.com/maps/search/%E6%98%A5%E6%B0%B4%E5%A0%82/@25.0417308,121.3938917,10z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/43663/"
-    official: "https://www.chunshuitang.com.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "台北市大安區仁愛路四段48巷30-1號"
     phone: "0227066800"
     geo: "25.036282732036618, 121.54700082650679"
+    link: "台北市/大安區/醇一拉麵"
     google_map: "https://maps.app.goo.gl/3fysJuC5jUdZzdbc7"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/362156/"
-    official: "https://www.instagram.com/chun.ramenshop"
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台北市中山區中山北路二段183巷1-5號"
     phone: "0225930155"
     geo: "25.063860039282382, 121.52300489899268"
+    link: "台北市/中山區/春韭"
     google_map: "https://maps.app.goo.gl/Qmni6uNzNo1H8R9t9"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/362158/"
-    official: "https://www.facebook.com/springleek.tw"
     award:
     - name: "500盤"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "台北市中山區民權東路二段92巷6號"
     phone: "0225221276"
     geo: "25.060878196777995, 121.53167005765596"
+    link: "台北市/中山區/承家私廚"
     google_map: "https://maps.app.goo.gl/TMwqdshzAeN5Jej87"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/176131/"
-    official: "https://www.facebook.com/CHENGJIA1969/"
     award:
     - name: "500盤"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "台北市中山區中山北路一段57號"
     phone: "0225710357"
     geo: "25.049483340243512, 121.52168135403534"
+    link: "台北市/中山區/赤身燒肉_USHIO_Taipei"
     google_map: "https://maps.app.goo.gl/cJ1NvP67rdE76gnT7"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/362160/"
-    official: "https://www.facebook.com/ushio.taipei"
     award:
     - name: "500盤"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "台北市中正區延平南路163巷2號"
     phone: "0223311117"
     geo: "25.03504999206272, 121.50792876911677"
+    link: "台北市/中正區/川揚郁坊小館"
     google_map: "https://maps.app.goo.gl/h1mtBDCE8Jdm22aP6"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80/7460/"
-    official: "https://www.facebook.com/yufang.restaurant/"
     award:
     - name: "500盤"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "台北市信義區松智路17號微風南山46樓"
     phone: "0227220303"
     geo: "25.034280263725563, 121.56687016702816"
+    link: "台北市/信義區/川雅"
     google_map: "https://maps.app.goo.gl/DWjnxi15bCxumJUUA"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%bf%a1%e7%be%a9%e5%8d%80/362162/"
-    official: "https://www.chuan-ya.com/"
     award:
     - name: "500盤"
       year: "2024"

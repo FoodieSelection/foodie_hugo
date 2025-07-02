@@ -1,11 +1,12 @@
 ---
-title: "所有城市 所有行政區 所有獎項 所有年份"
+title: "所有城市 所有行政區 所有獎項 所有年份 第35頁"
+description: "所有城市 所有行政區 所有獎項 所有年份 獲獎餐廳 第35頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "所有城市"
 district: "所有行政區"
 award: "所有獎項"
@@ -20,9 +21,9 @@ restaurants:
     address: "台北市中山區八德路二段332巷16號"
     phone: "0227760322"
     geo: "25.04665608186481, 121.54325632048531"
+    link: "台北市/中山區/YORUよる_by_Dennis_Wang"
     google_map: "https://maps.app.goo.gl/WUZiauA7RPJ6QgkXA"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/105324/"
-    official: "https://www.facebook.com/Yorutaipei"
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "台北市大安區仁愛路四段300巷20弄5號"
     phone: ""
     geo: "25.036342071191104, 121.55410521284944"
+    link: "台北市/大安區/Zea"
     google_map: "https://maps.app.goo.gl/ScwFcevKTtKBrx2S6"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/176069/"
-    official: "https://www.instagram.com/zea.tpe/"
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "110台北市信義區吳興街345巷6號"
     phone: "0227201148"
     geo: "25.02675105456895, 121.56631872872735"
+    link: "台北市/信義區/Zaaptaipei"
     google_map: "https://maps.app.goo.gl/wDBuepocW8tyz51E9"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%bf%a1%e7%be%a9%e5%8d%80/168894/"
-    official: "https://www.facebook.com/zaaptaipei"
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "台北市中山區一江街8號"
     phone: "0225235588"
     geo: "25.05121954599453, 121.53139531601602"
+    link: "台北市/中山區/8號極品海鮮餐廳"
     google_map: "https://maps.app.goo.gl/7HosD4zrGgPbV7oG7"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/8184/"
-    official: "https://www.premium-no8.com/"
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "700台南市中西區保安路22號"
     phone: "062055396"
     geo: "22.990330941273367, 120.19711728075148"
+    link: "台南市/中西區/老龐家傳牛肉麵"
     google_map: "https://maps.app.goo.gl/Ezi8Lsrorr2BtFbE8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8D%97%E5%B8%82%E4%B8%AD%E8%A5%BF%E5%8D%80/181095/"
-    official: "https://www.facebook.com/p/%E8%80%81%E9%BE%90%E5%AE%B6%E5%82%B3%E7%89%9B%E8%82%89%E9%BA%B5-100064117776154/"
     award:
     - name: "台北國際牛肉麵節"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "分店眾多請自行搜尋"
     phone: ""
     geo: ""
+    link: "新竹縣/竹北市/岩漿漢方麻辣火鍋"
     google_map: "https://www.google.com/maps/search/%E5%B2%A9%E6%BC%BF%E6%BC%A2%E6%96%B9%E9%BA%BB%E8%BE%A3%E7%81%AB%E9%8D%8B/@24.5961978,120.7678495,10z?entry=ttu&g_ep=EgoyMDI1MDYyMy4yIKXMDSoASAFQAw%3D%3D"
     footinder: "https://footinder.com.tw/%E6%96%B0%E7%AB%B9%E7%B8%A3%E7%AB%B9%E5%8C%97%E5%B8%82/123043/"
-    official: "https://yenchiang-hotpot.com/"
     award:
     - name: "台北國際牛肉麵節"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "分店眾多請自行搜尋"
     phone: ""
     geo: ""
+    link: "台北市/大安區/八方雲集"
     google_map: "https://www.google.com/maps/search/%E5%85%AB%E6%96%B9%E9%9B%B2%E9%9B%86/@25.0930498,121.5384948,14z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYxNi4wIKXMDSoASAFQAw%3D%3D"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80/180217/"
-    official: "https://www.8way.com.tw/"
     award:
     - name: "台北國際牛肉麵節"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "970花蓮縣花蓮市中美路303巷2號"
     phone: "038227766"
     geo: "23.998933795432528, 121.6320680987923"
+    link: "花蓮縣/花蓮市/六里屯"
     google_map: "https://maps.app.goo.gl/BnDWbsmMxoAV2PTT7"
     footinder: "https://footinder.com.tw/%E8%8A%B1%E8%93%AE%E7%B8%A3%E8%8A%B1%E8%93%AE%E5%B8%82/10010/"
-    official: "https://www.facebook.com/LltMeilun/"
     award:
     - name: "台北國際牛肉麵節"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "807高雄市三民區吉林街243號"
     phone: "073229445"
     geo: "22.64771817418659, 120.30650614059422"
+    link: "高雄市/三民區/渝味食記重慶小麵"
     google_map: "https://maps.app.goo.gl/KT2RTydgXmdwd4uN7"
     footinder: "https://footinder.com.tw/%e9%ab%98%e9%9b%84%e5%b8%82%e4%b8%89%e6%b0%91%e5%8d%80/362213/"
-    official: "https://www.facebook.com/profile.php?id=61563661050239"
     award:
     - name: "台北國際牛肉麵節"
       year: "2024"

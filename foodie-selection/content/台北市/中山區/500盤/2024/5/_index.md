@@ -1,11 +1,12 @@
 ---
-title: "台北市 中山區 500盤 2024"
+title: "台北市 中山區 500盤 2024 第5頁"
+description: "台北市 中山區 500盤 2024 獲獎餐廳 第5頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "台北市"
 district: "中山區"
 award: "500盤"
@@ -20,9 +21,9 @@ restaurants:
     address: "台北市中山區松江路128號"
     phone: "0225428828"
     geo: "25.052787959631914, 121.532792777908"
+    link: "台北市/中山區/養心茶樓_蔬食飲茶"
     google_map: "https://maps.app.goo.gl/sS2XTsmHyJmovFYS6"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/31832/"
-    official: "https://www.ysvege.com/"
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "台北市中山區松江路362巷57號"
     phone: ""
     geo: "25.062021607433522, 121.53117554321011"
+    link: "台北市/中山區/味处初梅_初梅_"
     google_map: "https://maps.app.goo.gl/nJpy35RZpYv7Fm2PA"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/362173/"
-    official: "https://www.facebook.com/profile.php?id=100063701006201"
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "台北市中山區八德路二段312巷13號"
     phone: "0227761008"
     geo: "25.046761515645123, 121.54299162482125"
+    link: "台北市/中山區/吳留手串燒居酒屋"
     google_map: "https://maps.app.goo.gl/WuN4qqhBQw9K5hX2A"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/32415/"
-    official: "https://www.facebook.com/wuliushou1/"
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "台北市中山區雙城街25巷9號1樓"
     phone: "0225859221"
     geo: "25.066281537588416, 121.52497056486794"
+    link: "台北市/中山區/月夜岩_蟹懷石"
     google_map: "https://maps.app.goo.gl/TCfbegMbxJroGo39A"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/46905/"
-    official: "https://tsukiyoiwa.com/"
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台北市中山區林森北路353巷21號"
     phone: "0225811511"
     geo: "25.057073594124688, 121.52630461889929"
+    link: "台北市/中山區/丸滿台灣味手路菜"
     google_map: "https://maps.app.goo.gl/gd2DtqDxpw61WrFe9"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/362177/"
-    official: "https://www.wanman.com.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "台北市中山區遼寧街177號2樓"
     phone: "0225710389"
     geo: "25.053122932062056, 121.5421814115792"
+    link: "台北市/中山區/A_CUT牛排館"
     google_map: "https://maps.app.goo.gl/4gUzPGhf5zCV9BVr7"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/32439/"
-    official: "https://www.ambassador-hotels.com/tc/taipei/dining/a-cut-steakhouse#story"
     award:
     - name: "500盤"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "台北市中山區建國北路一段92巷8號"
     phone: "0225091070"
     geo: "25.049995899619102, 121.53552306787505"
+    link: "台北市/中山區/AKIN_君尹"
     google_map: "https://maps.app.goo.gl/rEsG2E6YAG1oYkq78"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/362191/"
-    official: "https://www.facebook.com/brise.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "台北市中山區中山北路二段39巷3號Regent Galleria B2麗晶精品 B2B2"
     phone: "0225816575"
     geo: "25.05416178477979, 121.52531790867282"
+    link: "台北市/中山區/Circum-"
     google_map: "https://maps.app.goo.gl/6RSqBDYvjGMZRUK5A"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/362195/"
-    official: "https://www.facebook.com/Circumhyphen/"
     award:
     - name: "500盤"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "台北市中山區樂群三路299號1樓"
     phone: "0285026383"
     geo: "25.08284602265379, 121.5591589303933"
+    link: "台北市/中山區/FRASSI"
     google_map: "https://maps.app.goo.gl/5wvjyNiHCT7kRK4HA"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/50250/"
-    official: "https://www.frassi.com.tw/"
     award:
     - name: "500盤"
       year: "2024"

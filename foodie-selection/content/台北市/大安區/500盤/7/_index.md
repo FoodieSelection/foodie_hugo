@@ -1,11 +1,12 @@
 ---
-title: "台北市 大安區 500盤 所有年份"
+title: "台北市 大安區 500盤 所有年份 第7頁"
+description: "台北市 大安區 500盤 所有年份 獲獎餐廳 第7頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "台北市"
 district: "大安區"
 award: "500盤"
@@ -20,9 +21,9 @@ restaurants:
     address: "台北市大安區忠孝東路四段216巷19弄12號"
     phone: "0227215560"
     geo: "25.040238780732103, 121.55369117224443"
+    link: "台北市/大安區/壽司芳_台北_Sushiyoshi_Taipei"
     google_map: "https://maps.app.goo.gl/KTLvcLChsTBH9fdu5"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/110875/"
-    official: "https://www.facebook.com/sushiyoshitaipei/"
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "台北市大安區安和路一段83號"
     phone: "0223253883"
     geo: "25.036609153321766, 121.55233008703554"
+    link: "台北市/大安區/BANKER_Martini_Bar__深夜銀行家牛排館_"
     google_map: "https://maps.app.goo.gl/e7tW5qM1HTNut3tU9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/36448/"
-    official: "https://www.instagram.com/banker_martinibar/"
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "台北市大安區敦化南路一段177巷22號1樓"
     phone: "0227710595"
     geo: "25.043001375359168, 121.55008876697414"
+    link: "台北市/大安區/侍燒肉"
     google_map: "https://maps.app.goo.gl/yVygpqd32E3QZw6Z7"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/362166/"
-    official: "https://www.facebook.com/samuraiyakiniku2023"
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "台北市大安區信義路四段25號2樓"
     phone: "0227038822"
     geo: "25.033581037187666, 121.544639769365"
+    link: "台北市/大安區/榮榮園浙寧餐廳"
     google_map: "https://maps.app.goo.gl/T9SL41jzPjr1FqoY7"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/8589/"
-    official: "https://www.facebook.com/rongrongyuan0227038822"
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台北市大安區延吉街131巷35號"
     phone: "0287720358"
     geo: "25.043005645899484, 121.5557734154559"
+    link: "台北市/大安區/嵩SUNG_台北大安"
     google_map: "https://maps.app.goo.gl/JtKAYUYfMazEJDfn6"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/362168/"
-    official: "https://www.zunhongtw.com/article_d.php?lang=tw&tb=2&id=132"
     award:
     - name: "500盤"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "台北市大安區大安路二段19號"
     phone: "0227061177"
     geo: "25.032283710807754, 121.5461180859745"
+    link: "台北市/大安區/阿嬌海鮮料理"
     google_map: "https://maps.app.goo.gl/ywhRk8dwK9yjZ5n86"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/36286/"
-    official: ""
     award:
     - name: "500盤"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "台北市大安區復興南路二段130號"
     phone: "0223255677"
     geo: "25.029143984320722, 121.54329736375456"
+    link: "台北市/大安區/鵝川_永久歇業_"
     google_map: "https://maps.app.goo.gl/ExqHYcyPiisCtcqGA"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/133635/"
-    official: "https://www.facebook.com/echuan97/"
     award:
     - name: "500盤"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "台北市大安區仁愛路四段345巷4弄36號"
     phone: "0227313439"
     geo: "25.038910754761208, 121.55166428516513"
+    link: "台北市/大安區/圍爐酸菜白肉鍋"
     google_map: "https://maps.app.goo.gl/ffMmmFf3H9qLu88u5"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/33199/"
-    official: "http://www.weiluhotpot.com.tw/"
     award:
     - name: "500盤"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "台北市大安區敦化南路一段233巷11號"
     phone: "0227771976"
     geo: "25.04045467852405, 121.54994560924271"
+    link: "台北市/大安區/1976道地香港美食"
     google_map: "https://maps.app.goo.gl/miga63o4jKNpqd9s6"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/36457/"
-    official: "https://www.facebook.com/profile.php?id=100054368118602"
     award:
     - name: "500盤"
       year: "2024"

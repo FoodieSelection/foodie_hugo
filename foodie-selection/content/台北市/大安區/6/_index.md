@@ -1,11 +1,12 @@
 ---
-title: "台北市 大安區 所有獎項 所有年份"
+title: "台北市 大安區 所有獎項 所有年份 第6頁"
+description: "台北市 大安區 所有獎項 所有年份 獲獎餐廳 第6頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "台北市"
 district: "大安區"
 award: "所有獎項"
@@ -20,9 +21,9 @@ restaurants:
     address: "台北市大安區金山南路二段85巷7號1樓之3"
     phone: "0223210138"
     geo: "25.031235168841263, 121.5272835172577"
+    link: "台北市/大安區/犬犬家"
     google_map: "https://maps.app.goo.gl/S5npvieNJTDyCdUK8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/35381/"
-    official: "https://www.facebook.com/kenkenkaya"
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "台北市大安區大安路一段31巷12號1"
     phone: "0225555299"
     geo: "25.043924170007966, 121.54680602341475"
+    link: "台北市/大安區/鮨崤"
     google_map: "https://maps.app.goo.gl/Msa9iN56PGf1GePz5"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/111124/"
-    official: "https://www.facebook.com/sushikuo/"
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "台北市大安區四維路25號"
     phone: "0223254566"
     geo: "25.03547183867151, 121.54816477935941"
+    link: "台北市/大安區/巷子龍家常菜"
     google_map: "https://maps.app.goo.gl/kBLim7TJ8VGPzLwg7"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/8585/"
-    official: "https://www.facebook.com/talkingheadrestaurant/"
     award:
     - name: "500盤"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "台北市大安區忠孝東路四段216巷27弄17號入口有點難找"
     phone: "0227711110"
     geo: "25.039940977574254, 121.55395254701503"
+    link: "台北市/大安區/千壽_日本料理_懷石X壽司"
     google_map: "https://maps.app.goo.gl/i3Ccj49uQzevho5D8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/13160/"
-    official: "https://www.facebook.com/senjutaipei/"
     award:
     - name: "500盤"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台北市大安區忠孝東路三段282號入口在Dior精品店旁側3樓"
     phone: "0227111328"
     geo: "25.041401565132674, 121.54257655443024"
+    link: "台北市/大安區/夏花餐室_Summer_Flowers_Dining_Room"
     google_map: "https://maps.app.goo.gl/feD9PDWq1FRNiwhQ8"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/362154/"
-    official: "https://www.facebook.com/summerflowerstaipei/"
     award:
     - name: "500盤"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "台北市大安區光復南路574-1號"
     phone: "0223254930"
     geo: "25.033954469683454, 121.55715231169133"
+    link: "台北市/大安區/小林海產"
     google_map: "https://maps.app.goo.gl/9Qc5HDxMUNWtNEMC6"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/9088/"
-    official: "https://www.facebook.com/profile.php?id=100063650422245"
     award:
     - name: "500盤"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "台北市大安區永康街14巷5號1樓"
     phone: "0223581211"
     geo: "25.03141402596876, 121.52919666271427"
+    link: "台北市/大安區/徐羅伐韓式餐廳"
     google_map: "https://maps.app.goo.gl/DbMKPJG3dm78ARwE6"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/31436/"
-    official: "https://www.facebook.com/profile.php?id=100064104812705&fref=ts"
     award:
     - name: "500盤"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "台北市大安區和平東路三段60號"
     phone: "0223777799"
     geo: "25.024359473430987, 121.54908750490029"
+    link: "台北市/大安區/詹記麻辣火鍋"
     google_map: "https://maps.app.goo.gl/bZzYwAbBsEhb7EvV9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/36261/"
-    official: "https://www.facebook.com/ChanChiHotPots/"
     award:
     - name: "500盤"
       year: "2024"
@@ -116,9 +117,9 @@ restaurants:
     address: "台北市大安區仁愛路四段48巷30-1號"
     phone: "0227066800"
     geo: "25.036282732036618, 121.54700082650679"
+    link: "台北市/大安區/醇一拉麵"
     google_map: "https://maps.app.goo.gl/3fysJuC5jUdZzdbc7"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/362156/"
-    official: "https://www.instagram.com/chun.ramenshop"
     award:
     - name: "500盤"
       year: "2024"

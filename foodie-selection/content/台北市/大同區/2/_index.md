@@ -1,11 +1,12 @@
 ---
-title: "台北市 大同區 所有獎項 所有年份"
+title: "台北市 大同區 所有獎項 所有年份 第2頁"
+description: "台北市 大同區 所有獎項 所有年份 獲獎餐廳 第2頁"
 keywords:
   - 美食競賽
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-01"
+dateModified: "2025-07-02"
 city: "台北市"
 district: "大同區"
 award: "所有獎項"
@@ -20,9 +21,9 @@ restaurants:
     address: "台北市大同區迪化街一段21號"
     phone: "0225565276"
     geo: "25.054821063443313, 121.51048663938555"
+    link: "台北市/大同區/丸隆生魚行"
     google_map: "https://maps.app.goo.gl/QufstdKZ22jG2S2f8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%90%8C%E5%8D%80/46579/"
-    official: "https://www.facebook.com/profile.php?id=100063724282954"
     award:
     - name: "500盤"
       year: "2024"
@@ -32,9 +33,9 @@ restaurants:
     address: "台北市大同區重慶北路三段136巷56號"
     phone: "0225980223"
     geo: "25.06757686716401, 121.51219610221672"
+    link: "台北市/大同區/HUGH_dessert_dining"
     google_map: "https://maps.app.goo.gl/JpgyqtcGfw669PY4A"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%90%8c%e5%8d%80/130784/"
-    official: "https://hughdessert.com/dining"
     award:
     - name: "500盤"
       year: "2024"
@@ -44,9 +45,9 @@ restaurants:
     address: "台北市大同區寧夏夜市071號攤位"
     phone: "0988827326"
     geo: "25.05621670586894, 121.51545592782904"
+    link: "台北市/大同區/FUN_SUN_G"
     google_map: "https://maps.app.goo.gl/qnCLBPTRvzPjwGy46"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%90%8C%E5%8D%80/129817/"
-    official: "https://www.facebook.com/profile.php?id=100063696439534"
     award:
     - name: "夜市王"
       year: "2024"
@@ -56,9 +57,9 @@ restaurants:
     address: "台北市大同區寧夏路46號"
     phone: "0225580198"
     geo: "25.056406700884107, 121.51528924577278"
+    link: "台北市/大同區/圓環邊蚵仔煎"
     google_map: "https://maps.app.goo.gl/dcsLBAgdZbyVhtkRA"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%90%8C%E5%8D%80/167062/"
-    official: "https://oystera.com.tw/"
     award:
     - name: "夜市王"
       year: "2024"
@@ -68,9 +69,9 @@ restaurants:
     address: "台北市大同區寧夏路22之9號"
     phone: "0225566466"
     geo: "25.055433646860955, 121.51497364019197"
+    link: "台北市/大同區/李掌伯"
     google_map: "https://maps.app.goo.gl/ohNuvv8QAHSrHU1j9"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%90%8c%e5%8d%80/35027/"
-    official: "https://www.facebook.com/NingxiaLizhangbo"
     award:
     - name: "夜市王"
       year: "2024"
@@ -80,9 +81,9 @@ restaurants:
     address: "台北市大同區寧夏路97號攤位"
     phone: "0936839290"
     geo: "25.05598798622284, 121.51532105379347"
+    link: "台北市/大同區/林振櫂燒麻糬"
     google_map: "https://maps.app.goo.gl/vRnxEvs7Fo93i8mB8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%90%8C%E5%8D%80/109440/"
-    official: "https://www.facebook.com/Mochi097"
     award:
     - name: "夜市王"
       year: "2024"
@@ -92,9 +93,9 @@ restaurants:
     address: "台北市大同區寧夏路12號1樓"
     phone: "0225557638"
     geo: "25.054654412880268, 121.51476057728138"
+    link: "台北市/大同區/飄香牛肉麵館"
     google_map: "https://maps.app.goo.gl/v7AqZQA1at1RPTEV6"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%90%8c%e5%8d%80/30406/"
-    official: "https://www.facebook.com/a25557638/"
     award:
     - name: "夜市王"
       year: "2024"
@@ -104,9 +105,9 @@ restaurants:
     address: "台北市大同區寧夏路007號攤位"
     phone: "0900115593"
     geo: "25.05686103296426, 121.51557884017375"
+    link: "台北市/大同區/先來厚到章魚燒"
     google_map: "https://maps.app.goo.gl/7sfCpfBRAakBzhjh7"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%90%8C%E5%8D%80/362111/"
-    official: "https://www.facebook.com/p/%E5%85%88%E4%BE%86%E5%8E%9A%E5%88%B0%E7%AB%A0%E9%AD%9A%E7%87%92-100054696013318/"
     award:
     - name: "夜市王"
       year: "2024"
