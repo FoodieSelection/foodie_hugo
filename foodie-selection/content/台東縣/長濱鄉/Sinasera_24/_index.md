@@ -1,6 +1,6 @@
 ---
-title: "Sinasera 24(永久歇業)"
-description: "Sinasera 24(永久歇業)"
+title: "Sinasera 24"
+description: "Sinasera 24"
 layout: shop
 keywords:
   - 美食競賽

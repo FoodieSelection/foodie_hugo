@@ -1,6 +1,6 @@
 ---
-title: "癮-自在(暫時關閉)"
-description: "癮-自在(暫時關閉)"
+title: "癮-自在"
+description: "癮-自在"
 layout: shop
 keywords:
   - 美食競賽

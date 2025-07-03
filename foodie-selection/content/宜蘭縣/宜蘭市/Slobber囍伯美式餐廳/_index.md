@@ -1,6 +1,6 @@
 ---
-title: "Slobber囍伯美式餐廳(暫時關閉)"
-description: "Slobber囍伯美式餐廳(暫時關閉)"
+title: "Slobber囍伯美式餐廳"
+description: "Slobber囍伯美式餐廳"
 layout: shop
 keywords:
   - 美食競賽

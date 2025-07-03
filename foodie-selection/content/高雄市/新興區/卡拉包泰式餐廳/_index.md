@@ -1,6 +1,6 @@
 ---
-title: "卡拉包泰式餐廳(永久歇業)"
-description: "卡拉包泰式餐廳(永久歇業)"
+title: "卡拉包泰式餐廳"
+description: "卡拉包泰式餐廳"
 layout: shop
 keywords:
   - 美食競賽

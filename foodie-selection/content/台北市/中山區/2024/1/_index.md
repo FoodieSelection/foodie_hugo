@@ -39,13 +39,13 @@ restaurants:
     award:
     - name: "500盤"
       year: "2024"
-  - name: "RAW(暫時關閉)"
+  - name: "RAW"
     city: "台北市"
     district: "中山區"
     address: "台北市中山區樂群三路301號"
     phone: "0285015800"
     geo: "25.08281945475802, 121.5593387767071"
-    link: "台北市/中山區/RAW_暫時關閉_"
+    link: "台北市/中山區/RAW"
     google_map: "https://maps.app.goo.gl/hCHcddkjTbQKy2Ly8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/1511/"
     award:
@@ -111,13 +111,13 @@ restaurants:
     award:
     - name: "500盤"
       year: "2024"
-  - name: "Curious Table(永久歇業)"
+  - name: "Curious Table"
     city: "台北市"
     district: "中山區"
     address: "台北市中山北路二段39巷3號Regent Galleria B2"
     phone: ""
     geo: "25.054083998737152, 121.52428462415465"
-    link: "台北市/中山區/Curious_Table_永久歇業_"
+    link: "台北市/中山區/Curious_Table"
     google_map: "https://maps.app.goo.gl/UazsyfRFHP5nEYkf8"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/52556/"
     award:

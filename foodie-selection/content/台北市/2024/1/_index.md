@@ -75,13 +75,13 @@ restaurants:
     award:
     - name: "500盤"
       year: "2024"
-  - name: "RAW(暫時關閉)"
+  - name: "RAW"
     city: "台北市"
     district: "中山區"
     address: "台北市中山區樂群三路301號"
     phone: "0285015800"
     geo: "25.08281945475802, 121.5593387767071"
-    link: "台北市/中山區/RAW_暫時關閉_"
+    link: "台北市/中山區/RAW"
     google_map: "https://maps.app.goo.gl/hCHcddkjTbQKy2Ly8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/1511/"
     award:

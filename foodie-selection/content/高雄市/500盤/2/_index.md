@@ -51,13 +51,13 @@ restaurants:
     award:
     - name: "500盤"
       year: "2024"
-  - name: "卡拉包泰式餐廳(永久歇業)"
+  - name: "卡拉包泰式餐廳"
     city: "高雄市"
     district: "新興區"
     address: "高雄市新興區中正三路54號"
     phone: "072367668"
     geo: "22.631106261891045, 120.3090951588807"
-    link: "高雄市/新興區/卡拉包泰式餐廳_永久歇業_"
+    link: "高雄市/新興區/卡拉包泰式餐廳"
     google_map: "https://maps.app.goo.gl/iiGoHinUDjNwHMAK9"
     footinder: "https://footinder.com.tw/%e9%ab%98%e9%9b%84%e5%b8%82%e6%96%b0%e8%88%88%e5%8d%80/11516/"
     award:
@@ -117,7 +117,7 @@ restaurants:
     address: "高雄市鹽埕區五福四路150號"
     phone: "0906956650"
     geo: "22.623297451663703, 120.28447960965849"
-    link: "高雄市/鹽埕區/_____HATA烏克蘭廚房_"
+    link: "高雄市/鹽埕區/Хата_HATA烏克蘭廚房_"
     google_map: "https://maps.app.goo.gl/UTnWL4bsAt8mjfa29"
     footinder: "https://footinder.com.tw/%e9%ab%98%e9%9b%84%e5%b8%82%e9%b9%bd%e5%9f%95%e5%8d%80/362211/"
     award:

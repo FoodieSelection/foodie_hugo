@@ -1,6 +1,6 @@
 ---
-title: "牛吉燒肉(暫時關閉)"
-description: "牛吉燒肉(暫時關閉)"
+title: "牛吉燒肉"
+description: "牛吉燒肉"
 layout: shop
 keywords:
   - 美食競賽

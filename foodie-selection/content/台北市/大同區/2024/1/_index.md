@@ -63,13 +63,13 @@ restaurants:
     award:
     - name: "500盤"
       year: "2024"
-  - name: "杯底香(永久歇業)"
+  - name: "杯底香"
     city: "台北市"
     district: "大同區"
     address: "台北市大同區西寧北路90之1號2樓"
     phone: "0225591775"
     geo: "25.055318438910497, 121.50880195558803"
-    link: "台北市/大同區/杯底香_永久歇業_"
+    link: "台北市/大同區/杯底香"
     google_map: "https://maps.app.goo.gl/rtAcjz7TomKxxhUf8"
     footinder: ""
     award:

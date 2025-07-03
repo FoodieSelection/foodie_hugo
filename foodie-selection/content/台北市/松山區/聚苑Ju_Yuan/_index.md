@@ -1,6 +1,6 @@
 ---
-title: "聚苑Ju Yuan(永久歇業)"
-description: "聚苑Ju Yuan(永久歇業)"
+title: "聚苑Ju Yuan"
+description: "聚苑Ju Yuan"
 layout: shop
 keywords:
   - 美食競賽

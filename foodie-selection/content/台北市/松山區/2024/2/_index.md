@@ -75,13 +75,13 @@ restaurants:
     award:
     - name: "500盤"
       year: "2024"
-  - name: "聚苑Ju Yuan(永久歇業)"
+  - name: "聚苑Ju Yuan"
     city: "台北市"
     district: "松山區"
     address: "台北市松山區民生東路四段131巷21號"
     phone: ""
     geo: "25.05916525863324, 121.55356238163422"
-    link: "台北市/松山區/聚苑Ju_Yuan_永久歇業_"
+    link: "台北市/松山區/聚苑Ju_Yuan"
     google_map: "https://maps.app.goo.gl/TKfbW97UXZJruxmW9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/48047/"
     award:

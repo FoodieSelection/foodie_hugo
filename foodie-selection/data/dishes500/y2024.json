@@ -156,7 +156,7 @@
     {
         "city": "台北市",
         "district": "中山區",
-        "name": "RAW(暫時關閉)",
+        "name": "RAW",
         "food_type": [
             "法式"
         ],
@@ -697,7 +697,7 @@
     {
         "city": "台北市",
         "district": "中山區",
-        "name": "Curious Table(永久歇業)",
+        "name": "Curious Table",
         "food_type": [
             "法式",
             "蔬食"
@@ -2420,7 +2420,7 @@
     {
         "city": "台北市",
         "district": "大同區",
-        "name": "杯底香(永久歇業)",
+        "name": "杯底香",
         "food_type": [
             "中菜"
         ],
@@ -2589,7 +2589,7 @@
     {
         "city": "台北市",
         "district": "中山區",
-        "name": "明水397食堂(暫時關閉)",
+        "name": "明水397食堂",
         "food_type": [
             "台式"
         ],
@@ -2931,7 +2931,7 @@
     {
         "city": "台北市",
         "district": "大安區",
-        "name": "牛吉燒肉(暫時關閉)",
+        "name": "牛吉燒肉",
         "food_type": [
             "日式"
         ],
@@ -3685,7 +3685,7 @@
     {
         "city": "台北市",
         "district": "松山區",
-        "name": "聚苑Ju Yuan(永久歇業)",
+        "name": "聚苑Ju Yuan",
         "food_type": [
             "中菜"
         ],
@@ -4701,7 +4701,7 @@
     {
         "city": "台北市",
         "district": "大安區",
-        "name": "鵝川(永久歇業)",
+        "name": "鵝川",
         "food_type": [
             "中菜"
         ],
@@ -5815,7 +5815,7 @@
     {
         "city": "高雄市",
         "district": "新興區",
-        "name": "卡拉包泰式餐廳(永久歇業)",
+        "name": "卡拉包泰式餐廳",
         "food_type": [
             "台式"
         ],
@@ -6539,7 +6539,7 @@
     {
         "city": "台北市",
         "district": "信義區",
-        "name": "chateau zoe 酒窖餐廳(永久歇業)",
+        "name": "chateau zoe 酒窖餐廳",
         "food_type": [
             "無國界"
         ],
@@ -7383,7 +7383,7 @@
     {
         "city": "宜蘭縣",
         "district": "宜蘭市",
-        "name": "Slobber囍伯美式餐廳(暫時關閉)",
+        "name": "Slobber囍伯美式餐廳",
         "food_type": [
             "美式"
         ],
@@ -7407,7 +7407,7 @@
     {
         "city": "台東縣",
         "district": "長濱鄉",
-        "name": "Sinasera 24(永久歇業)",
+        "name": "Sinasera 24",
         "food_type": [
             "法式"
         ],

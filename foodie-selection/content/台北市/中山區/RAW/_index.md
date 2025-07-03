@@ -1,6 +1,6 @@
 ---
-title: "RAW(暫時關閉)"
-description: "RAW(暫時關閉)"
+title: "RAW"
+description: "RAW"
 layout: shop
 keywords:
   - 美食競賽

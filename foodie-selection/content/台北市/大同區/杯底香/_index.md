@@ -1,6 +1,6 @@
 ---
-title: "杯底香(永久歇業)"
-description: "杯底香(永久歇業)"
+title: "杯底香"
+description: "杯底香"
 layout: shop
 keywords:
   - 美食競賽

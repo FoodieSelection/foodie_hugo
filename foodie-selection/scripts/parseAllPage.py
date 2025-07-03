@@ -166,7 +166,7 @@ restaurants:
     for rest in restaurants:
         # replace_name = re.sub(r'[<>:"/\\|?* ()#%{},;@&=+]', '_', rest.get('name', ''))
         # replace_name = re.sub(r'³', '3', replace_name)
-        replace_name = re.sub(r'[^\u4e00-\u9fff\u3040-\u309f\u30a0-\u30ffa-zA-Z0-9\u00C0-\u017F\-_.]', '_', rest.get('name', ''))
+        replace_name = re.sub(r'[^\u4e00-\u9fff\u3040-\u309f\u30a0-\u30ffa-zA-Z0-9\u00C0-\u017F\u0400-\u04FF\-_.]', '_', rest.get('name', ''))
         md_content += f'''  - name: "{rest.get('name', '')}"
     city: "{rest.get('city', '')}"
     district: "{rest.get('district', '')}"

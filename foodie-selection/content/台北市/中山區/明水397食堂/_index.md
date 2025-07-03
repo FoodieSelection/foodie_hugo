@@ -1,6 +1,6 @@
 ---
-title: "明水397食堂(暫時關閉)"
-description: "明水397食堂(暫時關閉)"
+title: "明水397食堂"
+description: "明水397食堂"
 layout: shop
 keywords:
   - 美食競賽

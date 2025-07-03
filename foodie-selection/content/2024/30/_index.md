@@ -39,13 +39,13 @@ restaurants:
     award:
     - name: "500盤"
       year: "2024"
-  - name: "chateau zoe 酒窖餐廳(永久歇業)"
+  - name: "chateau zoe 酒窖餐廳"
     city: "台北市"
     district: "信義區"
     address: "台北市信義區逸仙路32巷7號1樓"
     phone: "0287869663"
     geo: "25.039898005940966, 121.56227833400445"
-    link: "台北市/信義區/chateau_zoe_酒窖餐廳_永久歇業_"
+    link: "台北市/信義區/chateau_zoe_酒窖餐廳"
     google_map: "https://maps.app.goo.gl/Hejkibae3ndWnC6U7"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80/9034/"
     award:

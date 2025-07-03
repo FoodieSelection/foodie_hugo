@@ -39,13 +39,13 @@ restaurants:
     award:
     - name: "500盤"
       year: "2024"
-  - name: "Slobber囍伯美式餐廳(暫時關閉)"
+  - name: "Slobber囍伯美式餐廳"
     city: "宜蘭縣"
     district: "宜蘭市"
     address: "宜蘭縣宜蘭市舊城東路40號"
     phone: "039361682"
     geo: "24.757430960307346, 121.75652721377436"
-    link: "宜蘭縣/宜蘭市/Slobber囍伯美式餐廳_暫時關閉_"
+    link: "宜蘭縣/宜蘭市/Slobber囍伯美式餐廳"
     google_map: "https://maps.app.goo.gl/dtbDKcZzkKSFfLGy7"
     footinder: "https://footinder.com.tw/%E5%AE%9C%E8%98%AD%E7%B8%A3%E5%AE%9C%E8%98%AD%E5%B8%82/1044/"
     award:

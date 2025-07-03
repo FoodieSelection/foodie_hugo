@@ -1,6 +1,6 @@
 ---
-title: "鵝川(永久歇業)"
-description: "鵝川(永久歇業)"
+title: "鵝川"
+description: "鵝川"
 layout: shop
 keywords:
   - 美食競賽

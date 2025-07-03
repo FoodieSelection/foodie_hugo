@@ -1,6 +1,6 @@
 ---
-title: "chateau zoe 酒窖餐廳(永久歇業)"
-description: "chateau zoe 酒窖餐廳(永久歇業)"
+title: "chateau zoe 酒窖餐廳"
+description: "chateau zoe 酒窖餐廳"
 layout: shop
 keywords:
   - 美食競賽

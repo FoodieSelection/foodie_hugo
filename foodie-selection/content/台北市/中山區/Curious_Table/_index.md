@@ -1,6 +1,6 @@
 ---
-title: "Curious Table(永久歇業)"
-description: "Curious Table(永久歇業)"
+title: "Curious Table"
+description: "Curious Table"
 layout: shop
 keywords:
   - 美食競賽
