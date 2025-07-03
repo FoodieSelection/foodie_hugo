@@ -287,12 +287,24 @@ body {
   flex: 1; 
 }
 
+.restaurant-title-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
 .restaurant-name {
   font-size: 18px;
   font-weight: 550;
   color: #D2691E;
   margin-top: 0;
   margin-bottom: 8px;
+}
+
+.restaurant-distance {
+  font-size: 12px;
+  color: #666;
+  white-space: nowrap;
 }
 
 .restaurant-awards {
@@ -504,6 +516,11 @@ footer {
   font-size: 0.9rem;
 }
 
+.spinner {
+  width: 16px; height: 16px; border: 2px solid #ccc; border-top: 2px solid #333;
+  border-radius: 50%; display: inline-block; animation: spin 1s linear infinite; vertical-align: middle;
+}
+@keyframes spin { 100% { transform: rotate(360deg); } }
 
 @media (max-width: 513px) {
   .header-container {

@@ -181,7 +181,12 @@
       <div id="restaurants-grid" class="restaurants-grid">
         <div class="restaurant-card">
           <div class="restaurant-header">
-            <h1 class="restaurant-name">{{ .Params.title }}</h1>
+            <div class="restaurant-title-row">
+              <h1 class="restaurant-name">{{ .Params.title }}</h1>
+              <div class="restaurant-distance" id="restaurant-distance">
+                <span class="spinner"></span>正在取得距離...
+              </div>
+            </div>
             {{ if .Params.award }}
             {{ range .Params.award }}
             <div class="restaurant-awards">
@@ -514,6 +519,57 @@
 
     // 導航
     window.location.href = path;
+  });
+
+  function parseGeo(geoStr) {
+    const [lat, lng] = geoStr.split(',').map(Number);
+    return { lat, lng };
+  }
+
+  // Haversine 公式
+  function getDistance(lat1, lng1, lat2, lng2) {
+    const toRad = x => x * Math.PI / 180;
+    const R = 6378137; // 地球半徑（公尺）
+    const dLat = toRad(lat2 - lat1);
+    const dLng = toRad(lng2 - lng1);
+    const a = Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+      Math.cos(toRad(lat1)) * Math.cos(toRad(lat2)) *
+      Math.sin(dLng / 2) * Math.sin(dLng / 2);
+    const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+    return R * c; // 單位：公尺
+  }
+
+  // 格式化距離
+  function formatDistance(distance) {
+    if (distance >= 1000) {
+      return (distance / 1000).toFixed(2) + ' 公里';
+    } else {
+      return Math.round(distance) + ' 公尺';
+    }
+  }
+
+  document.addEventListener('DOMContentLoaded', function () {
+    // 用 Hugo 變數帶入 geo 字串
+    const geoStr = '{{ .Params.geo }}';
+    if (!geoStr) return;
+
+    const { lat: shopLat, lng: shopLng } = parseGeo(geoStr);
+
+    if (navigator.geolocation) {
+      navigator.geolocation.getCurrentPosition(function (position) {
+        const userLat = position.coords.latitude;
+        const userLng = position.coords.longitude;
+        const distance = getDistance(userLat, userLng, shopLat, shopLng);
+        document.getElementById('restaurant-distance').textContent =
+          formatDistance(distance);
+      }, function () {
+        document.getElementById('restaurant-distance').textContent =
+          '無法取得您的位置';
+      });
+    } else {
+      document.getElementById('restaurant-distance').textContent =
+        '您的瀏覽器不支援定位功能';
+    }
   });
 </script>
 {{ end }}
