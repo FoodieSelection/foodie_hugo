@@ -505,9 +505,33 @@ footer {
 }
 
 
-@media (max-width: 432px) {
+@media (max-width: 513px) {
   .header-container {
     gap: 0px;
+  }
+
+  .container {
+    padding: 16px;
+  }
+
+  .search-section {
+    padding: 0;
+  }
+
+  .search-container {
+    padding: 16px;
+  }
+
+  .search-filters {
+    gap: 0;
+  }
+
+  .form-label {
+    margin-bottom: 4px;
+  }
+
+  .filter-row {
+    grid-template-columns: repeat(2, 1fr);
   }
 
   .site-logo {
