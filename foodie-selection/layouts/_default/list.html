@@ -608,14 +608,27 @@
   function updateDistance(newLat, newLng) {
     document.querySelectorAll('.restaurant-card').forEach(card => {
       const geoStr = card.getAttribute('data-geo');
-      if (!geoStr) return;
+      const distanceElem = card.querySelector('.restaurant-distance');
+      // 如果 geo 為空或只有空白，直接清空距離區塊
+      if (!geoStr || geoStr.trim() === "") {
+        if (distanceElem) distanceElem.textContent = "";
+        return;
+      }
       const { lat, lng } = parseGeo(geoStr);
       const distance = getDistance(newLat, newLng, lat, lng);
-      card.querySelector('.restaurant-distance').textContent = formatDistance(distance);
+      if (distanceElem) distanceElem.textContent = formatDistance(distance);
     });
   }
 
   document.addEventListener('DOMContentLoaded', function () {
+    document.querySelectorAll('.restaurant-card').forEach(card => {
+      const geoStr = card.getAttribute('data-geo');
+      const distanceElem = card.querySelector('.restaurant-distance');
+      if (!geoStr || geoStr.trim() === "") {
+        if (distanceElem) distanceElem.textContent = "";
+      }
+    });
+
     const loc = getLocationFromCacheOrUpdate(10, function (newLat, newLng) {
       updateDistance(newLat, newLng);
     });

@@ -618,16 +618,26 @@
 
   function updateDistance(newLat, newLng) {
     const geoStr = '{{ .Params.geo }}';
-    if (!geoStr) return;
-
+    const distanceElem = document.getElementById('restaurant-distance');
+    if (!geoStr || geoStr.trim() === "") {
+      // 沒有 geo，直接清空距離欄位
+      if (distanceElem) distanceElem.textContent = "";
+      return;
+    }
     const { lat: shopLat, lng: shopLng } = parseGeo(geoStr);
-
     const distance = getDistance(newLat, newLng, shopLat, shopLng);
-    document.getElementById('restaurant-distance').textContent =
-      formatDistance(distance);
+    if (distanceElem) distanceElem.textContent = formatDistance(distance);
   }
 
   document.addEventListener('DOMContentLoaded', function () {
+    document.querySelectorAll('.restaurant-card').forEach(card => {
+      const geoStr = card.getAttribute('data-geo');
+      const distanceElem = card.querySelector('.restaurant-distance');
+      if (!geoStr || geoStr.trim() === "") {
+        if (distanceElem) distanceElem.textContent = "";
+      }
+    });
+
     const loc = getLocationFromCacheOrUpdate(10, function (newLat, newLng) {
       updateDistance(newLat, newLng);
     });
