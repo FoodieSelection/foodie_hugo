@@ -1,33 +1,92 @@
 {{ define "ldjson" }}
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "WebSite",
-  "name": "{{ .Site.Title }}",
-  "description": "{{ .Params.description }}",
-  "url": "{{ .Site.BaseURL }}",
-  "image": "{{ .Site.BaseURL }}{{ .Site.Params.Logo }}",
-  "inLanguage": "zh-Hant",
-  "datePublished": "{{ .Params.datePublished }}",
-  "dateModified": "{{ .Params.dateModified }}",
-  "publisher": {
-    "@type": "Organization",
-    "name": "{{ .Site.Title }}",
-    "url": "{{ .Site.BaseURL }}",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "{{ .Site.BaseURL }}{{ .Site.Params.Logo }}"
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "{{ .Title }}",
+    "description": "{{ .Params.description }}",
+    "url": "{{ .Permalink }}",
+    "image": "{{ .Site.BaseURL }}{{ .Site.Params.Logo }}",
+    "inLanguage": "zh-Hant",
+    "datePublished": "{{ .Params.datePublished }}",
+    "dateModified": "{{ .Params.dateModified }}",
+    "publisher": {
+      "@type": "Organization",
+      "name": "{{ .Site.Title }}",
+      "url": "{{ .Site.BaseURL }}",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "{{ .Site.BaseURL }}{{ .Site.Params.Logo }}"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "customer service",
+        "email": "{{ .Site.Params.email }}"
+      },
+      "sameAs": [
+      "https://www.facebook.com/profile.php?id=61576588634043"
+      ]
     },
-    "contactPoint": {
-      "@type": "ContactPoint",
-      "contactType": "customer service",
-      "email": "{{ .Site.Params.email }}"
+    "mainEntity": {
+      "@type": "Restaurant",
+      "name": "{{ .Params.title }}"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "首頁",
+        "item": "{{ .Site.BaseURL }}"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "{{ .Params.city }}",
+        "item": "{{ .Site.BaseURL }}{{ .Params.city }}"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "{{ .Params.district }}",
+        "item": "{{ .Site.BaseURL }}{{ .Params.city }}/{{ .Params.district }}"
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "name": "{{ .Params.title }}",
+        "item": "{{ .Permalink }}"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Restaurant",
+    "name": "{{ .Params.title }}",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "{{ .Params.address }}",
+      "addressLocality": "{{ .Params.city }}",
+      "addressRegion": "{{ .Params.district }}",
+      "addressCountry": "TW"
     },
+    "telephone": "{{ .Params.phone }}",
+    "url": "{{ .Params.official }}",
+    "award": [
+      {{- range $index, $award := .Params.award -}}
+      {{- if $index }},{{ end }}"{{ $award.name }} {{ $award.year }}"
+      {{- end -}}
+    ],
     "sameAs": [
-    "https://www.facebook.com/profile.php?id=61576588634043"
+      "{{ .Params.google_map }}",
+      "{{ .Params.footinder }}"
     ]
   }
-}
+]
 </script>
 {{ end }}
 

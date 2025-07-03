@@ -2,7 +2,7 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "WebSite",
+  "@type": "ItemList",
   "name": "{{ .Site.Title }}",
   "description": "{{ .Params.description }}",
   "url": "{{ .Site.BaseURL }}",
@@ -33,6 +33,7 @@
     "@type": "ListItem",
     "item": {
       "@type": "Restaurant",
+      "position": {{ add $index 1 }},
       "name": {{ $r.name }},
       {{- if $r.address }}
       "address": {
@@ -60,16 +61,14 @@
       {{- if $r.footinder }}{{ $sameAs = $sameAs | append $r.footinder }}{{ end -}}
       {{- if $r.official }}{{ $sameAs = $sameAs | append $r.official }}{{ end -}}
       {{- if gt (len $sameAs) 0 }}
-      "sameAs": {{ $sameAs }}
+      "sameAs": {{ $sameAs }},
       {{- end }}
-      {{- $awards := slice -}}
-      {{- range $r.award -}}
-        {{- $awards = $awards | append (dict "@type" "Award" "awardName" .name "awardDate" .year) -}}
+      "award": [
+      {{- range $index, $award := $r.award -}}
+      {{- if $index }},{{ end }}"{{ $award.name }} {{ $award.year }}"
       {{- end -}}
-      {{- if gt (len $awards) 0 }},
-      "award": {{ $awards }},
-      {{- end }}
-      "hasPart": "{{ $.Site.BaseURL }}{{ $r.link }}"
+      ],
+      "url": "{{ $.Site.BaseURL }}{{ $r.link }}"
     }
   }{{ if not (eq $index (sub (len $.Params.restaurants) 1)) }},{{ end }}
 {{- end -}}
