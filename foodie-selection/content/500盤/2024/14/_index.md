@@ -6,7 +6,7 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-02"
+dateModified: "2025-07-03"
 city: "所有城市"
 district: "所有行政區"
 award: "500盤"
@@ -33,7 +33,7 @@ restaurants:
     address: "台北市大安區忠孝東路四段216巷33弄10號"
     phone: "0227117272"
     geo: "25.03928962564371, 121.55348937874689"
-    link: "台北市/大安區/南村｜私廚‧小酒棧"
+    link: "台北市/大安區/南村_私廚_小酒棧"
     google_map: "https://maps.app.goo.gl/Dx7oHUpgYxi57vsQ8"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/124224/"
     award:
@@ -45,7 +45,7 @@ restaurants:
     address: "基隆市中山區西定路120號"
     phone: "0224283528"
     geo: "25.134120896413304, 121.73500460931018"
-    link: "基隆市/中山區/李津好。津烹派"
+    link: "基隆市/中山區/李津好_津烹派"
     google_map: "https://maps.app.goo.gl/HX891u1SFFhyQidx7"
     footinder: "https://footinder.com.tw/%e5%9f%ba%e9%9a%86%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/362148/"
     award:

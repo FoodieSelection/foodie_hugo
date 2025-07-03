@@ -6,7 +6,7 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-02"
+dateModified: "2025-07-03"
 city: "所有城市"
 district: "所有行政區"
 award: "500盤"
@@ -81,7 +81,7 @@ restaurants:
     address: "台中市西屯區安和東路5號"
     phone: "0423586368"
     geo: "24.174323830875057, 120.62373768618482"
-    link: "台中市/西屯區/元紀．台灣菜"
+    link: "台中市/西屯區/元紀_台灣菜"
     google_map: "https://maps.app.goo.gl/KoXqNq9PGGYY3sLG7"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e4%b8%ad%e5%b8%82%e8%a5%bf%e5%b1%af%e5%8d%80/362120/"
     award:

@@ -6,7 +6,7 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-02"
+dateModified: "2025-07-03"
 city: "所有城市"
 district: "所有行政區"
 award: "500盤"
@@ -21,7 +21,7 @@ restaurants:
     address: "高雄市前金區仁義街231號"
     phone: ""
     geo: "22.62049680742647, 120.30097226915365"
-    link: "高雄市/前金區/Marc_L3"
+    link: "高雄市/前金區/Marc_L_"
     google_map: "https://maps.app.goo.gl/cUKQNxUizNdCKf3i7"
     footinder: "https://footinder.com.tw/%E9%AB%98%E9%9B%84%E5%B8%82%E5%89%8D%E9%87%91%E5%8D%80/155022/"
     award:

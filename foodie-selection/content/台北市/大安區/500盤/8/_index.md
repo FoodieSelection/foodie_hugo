@@ -6,7 +6,7 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-02"
+dateModified: "2025-07-03"
 city: "台北市"
 district: "大安區"
 award: "500盤"
@@ -57,7 +57,7 @@ restaurants:
     address: "台北市大安區麗水街13巷2號"
     phone: "0223416767"
     geo: "25.030195114568063, 121.52864799516986"
-    link: "台北市/大安區/Hanekin_麵屋·羽金"
+    link: "台北市/大安區/Hanekin_麵屋_羽金"
     google_map: "https://maps.app.goo.gl/5y6oF1Co91zmf2we9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/47096/"
     award:
@@ -93,7 +93,7 @@ restaurants:
     address: "台北市大安區仁愛路三段143巷25號"
     phone: "0227113881"
     geo: "25.03960909993349, 121.54318238968213"
-    link: "台北市/大安區/L'_AGE_熟成餐廳"
+    link: "台北市/大安區/L__AGE_熟成餐廳"
     google_map: "https://maps.app.goo.gl/ZhCnCVbN1TZ6fCmCA"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/255/"
     award:

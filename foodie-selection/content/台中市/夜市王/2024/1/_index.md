@@ -6,7 +6,7 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-02"
+dateModified: "2025-07-03"
 city: "台中市"
 district: "所有行政區"
 award: "夜市王"
@@ -21,7 +21,7 @@ restaurants:
     address: "台中市西屯區慶和街92-1號"
     phone: "0983687249"
     geo: "24.176052892971956, 120.64654193851347"
-    link: "台中市/西屯區/逢甲發倆醬烤雞排（夯雞排）"
+    link: "台中市/西屯區/逢甲發倆醬烤雞排_夯雞排_"
     google_map: "https://maps.app.goo.gl/NatUGxCFwKhp8Gw9A"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E8%A5%BF%E5%B1%AF%E5%8D%80/362041/"
     award:

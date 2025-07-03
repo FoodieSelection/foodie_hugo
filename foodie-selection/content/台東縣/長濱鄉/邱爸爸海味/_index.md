@@ -7,7 +7,7 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-02"
+dateModified: "2025-07-03"
 city: "台東縣"
 district: "長濱鄉"
 address: "台東縣長濱鄉10之1號"

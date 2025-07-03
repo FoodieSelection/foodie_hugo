@@ -6,7 +6,7 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-02"
+dateModified: "2025-07-03"
 city: "台北市"
 district: "所有行政區"
 award: "500盤"
@@ -117,7 +117,7 @@ restaurants:
     address: "台北市大安區四維路52巷17號"
     phone: "0227068699"
     geo: "25.035128866867577, 121.54710593031817"
-    link: "台北市/大安區/牡丹．極上_天ぷら"
+    link: "台北市/大安區/牡丹_極上_天ぷら"
     google_map: "https://maps.app.goo.gl/oDQU8Z7ek8MxHWhE7"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/105329/"
     award:

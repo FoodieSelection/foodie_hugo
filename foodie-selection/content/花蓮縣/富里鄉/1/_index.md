@@ -6,7 +6,7 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-02"
+dateModified: "2025-07-03"
 city: "花蓮縣"
 district: "富里鄉"
 award: "所有獎項"
@@ -21,7 +21,7 @@ restaurants:
     address: "花蓮縣富里鄉車站街1號"
     phone: "0919830588"
     geo: "23.176415122334912, 121.24818269263858"
-    link: "花蓮縣/富里鄉/邊界。花東"
+    link: "花蓮縣/富里鄉/邊界_花東"
     google_map: "https://maps.app.goo.gl/Rbv7n1mMSiiFHMKc6"
     footinder: ""
     award:

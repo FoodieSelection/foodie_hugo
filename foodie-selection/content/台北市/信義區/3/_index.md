@@ -6,7 +6,7 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-02"
+dateModified: "2025-07-03"
 city: "台北市"
 district: "信義區"
 award: "所有獎項"
@@ -33,7 +33,7 @@ restaurants:
     address: "台北市信義區松仁路28號5樓"
     phone: "0287292628"
     geo: "25.03986254498836, 121.56761965397939"
-    link: "台北市/信義區/L'ATELIER_de_Joel_Robuchon_侯布雄法式餐廳"
+    link: "台北市/信義區/L_ATELIER_de_Joel_Robuchon_侯布雄法式餐廳"
     google_map: "https://maps.app.goo.gl/FskDgajijNvH1QHW8"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%bf%a1%e7%be%a9%e5%8d%80/9247/"
     award:

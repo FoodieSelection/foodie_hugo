@@ -82,8 +82,9 @@ def generate_pages():
     for restaurant in all_restaurants:
         md_content = generate_md_content(restaurant, today)
         # 清理檔名中的非法字元
-        safe_name = re.sub(r'[<>:"/\\|?* ()#%{},;@&=+]', '_', restaurant.get('name', ''))
-        safe_name = safe_name.replace('³', '3')
+        # safe_name = re.sub(r'[<>:"/\\|?* ()#%{},;@&=+]', '_', restaurant.get('name', ''))
+        # safe_name = safe_name.replace('³', '3')
+        safe_name = re.sub(r'[^\u4e00-\u9fff\u3040-\u309f\u30a0-\u30ffa-zA-Z0-9\u00C0-\u017F\-_.]', '_', restaurant.get('name', ''))
         dir_path = os.path.join(
             "../content",
             restaurant.get('city', ''),

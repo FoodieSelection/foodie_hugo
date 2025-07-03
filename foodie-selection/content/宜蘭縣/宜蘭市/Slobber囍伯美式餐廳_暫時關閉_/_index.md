@@ -7,7 +7,7 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-02"
+dateModified: "2025-07-03"
 city: "宜蘭縣"
 district: "宜蘭市"
 address: "宜蘭縣宜蘭市舊城東路40號"

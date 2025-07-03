@@ -6,7 +6,7 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-02"
+dateModified: "2025-07-03"
 city: "台北市"
 district: "所有行政區"
 award: "500盤"
@@ -45,7 +45,7 @@ restaurants:
     address: "台北市大安區樂利路11巷32號1樓"
     phone: "0227323255"
     geo: "25.02826872390276, 121.55244554849739"
-    link: "台北市/大安區/紅皇后川酒·RED_QUEEN_BISTRO"
+    link: "台北市/大安區/紅皇后川酒_RED_QUEEN_BISTRO"
     google_map: "https://maps.app.goo.gl/3WtC6N6ZG8CwFjfW9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/8821/"
     award:

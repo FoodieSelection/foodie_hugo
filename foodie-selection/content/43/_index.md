@@ -6,7 +6,7 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-02"
+dateModified: "2025-07-03"
 city: "所有城市"
 district: "所有行政區"
 award: "所有獎項"
@@ -69,7 +69,7 @@ restaurants:
     address: "台南市東區林森路一段701號"
     phone: "0927206816"
     geo: "22.982780458518466, 120.21925601461872"
-    link: "台南市/東區/德聖炭烤醬燒雞排（大東夜市）"
+    link: "台南市/東區/德聖炭烤醬燒雞排_大東夜市_"
     google_map: "https://maps.app.goo.gl/yxsZqTybYYnbrH438"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8d%97%e5%b8%82%e6%9d%b1%e5%8d%80/362037/"
     award:

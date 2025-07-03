@@ -7,7 +7,7 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-02"
+dateModified: "2025-07-03"
 city: "雲林縣"
 district: "水林鄉"
 address: "雲林縣水林鄉蔦松路8號"

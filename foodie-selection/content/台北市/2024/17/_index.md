@@ -6,7 +6,7 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-02"
+dateModified: "2025-07-03"
 city: "台北市"
 district: "所有行政區"
 award: "所有獎項"
@@ -81,7 +81,7 @@ restaurants:
     address: "台北市松山區敦化北路167號B1"
     phone: "0277076666"
     geo: "25.054766997553862, 121.54941188931664"
-    link: "台北市/松山區/辰壽司·割烹·會席"
+    link: "台北市/松山區/辰壽司_割烹_會席"
     google_map: "https://maps.app.goo.gl/VQVxZzJpD9a8eaL88"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/47741/"
     award:

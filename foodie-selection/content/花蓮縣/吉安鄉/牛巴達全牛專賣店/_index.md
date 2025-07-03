@@ -7,7 +7,7 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-02"
+dateModified: "2025-07-03"
 city: "花蓮縣"
 district: "吉安鄉"
 address: "花蓮縣吉安鄉南海六街7號"

@@ -7,7 +7,7 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-02"
+dateModified: "2025-07-03"
 city: "花蓮縣"
 district: "花蓮市"
 address: "花蓮縣花蓮市中山路50號E35"

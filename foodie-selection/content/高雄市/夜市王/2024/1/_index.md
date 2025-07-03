@@ -6,7 +6,7 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-02"
+dateModified: "2025-07-03"
 city: "高雄市"
 district: "所有行政區"
 award: "夜市王"
@@ -93,7 +93,7 @@ restaurants:
     address: "高雄市左營區裕誠路南屏路"
     phone: "0938795280"
     geo: "22.666417505890433, 120.29992490739875"
-    link: "高雄市/左營區/阿嬤ㄟ麻油雞飯"
+    link: "高雄市/左營區/阿嬤_麻油雞飯"
     google_map: "https://maps.app.goo.gl/E4io7fMDtfz7Xf6e9"
     footinder: "https://footinder.com.tw/%E9%AB%98%E9%9B%84%E5%B8%82%E9%BC%93%E5%B1%B1%E5%8D%80/120932/"
     award:

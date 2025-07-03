@@ -6,7 +6,7 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-02"
+dateModified: "2025-07-03"
 city: "所有城市"
 district: "所有行政區"
 award: "所有獎項"
@@ -21,7 +21,7 @@ restaurants:
     address: "台北市中山區樂群二路199號2樓"
     phone: "0221757952"
     geo: "25.08019849946195, 121.55922599189469"
-    link: "台北市/中山區/Mark's_Teppanyaki_台北萬豪酒店"
+    link: "台北市/中山區/Mark_s_Teppanyaki_台北萬豪酒店"
     google_map: "https://maps.app.goo.gl/YcyxMsJWo8mdDjKF8"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/8940/"
     award:
@@ -117,7 +117,7 @@ restaurants:
     address: "台北市中山區中山北路二段39巷3號2樓"
     phone: "0225238000#3930"
     geo: "25.054178942666436, 121.52425337420513"
-    link: "台北市/中山區/ROBIN'S_鐵板燒_TEPPANYAKI"
+    link: "台北市/中山區/ROBIN_S_鐵板燒_TEPPANYAKI"
     google_map: "https://maps.app.goo.gl/3FzsW8bTLDFBvoqL8"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/52597/"
     award:
