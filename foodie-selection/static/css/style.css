@@ -305,6 +305,7 @@ body {
   font-size: 12px;
   color: #666;
   white-space: nowrap;
+  margin-bottom: 4px;
 }
 
 .restaurant-awards {
