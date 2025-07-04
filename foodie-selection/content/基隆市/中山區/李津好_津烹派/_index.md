@@ -7,7 +7,7 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-04"
+dateModified: "2025-07-05"
 city: "基隆市"
 district: "中山區"
 address: "基隆市中山區西定路120號"

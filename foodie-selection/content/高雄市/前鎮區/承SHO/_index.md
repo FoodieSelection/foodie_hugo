@@ -7,7 +7,7 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-04"
+dateModified: "2025-07-05"
 city: "高雄市"
 district: "前鎮區"
 address: "高雄市前鎮區中華五路806號"

@@ -7,7 +7,7 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-04"
+dateModified: "2025-07-05"
 city: "新竹縣"
 district: "峨眉鄉"
 address: "新竹縣峨眉鄉竹49鄉道"

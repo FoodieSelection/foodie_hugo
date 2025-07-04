@@ -7,7 +7,7 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-04"
+dateModified: "2025-07-05"
 city: "新北市"
 district: "五股區"
 address: "248新北市五股區工商路85巷2號"

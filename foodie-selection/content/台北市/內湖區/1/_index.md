@@ -6,13 +6,13 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-04"
+dateModified: "2025-07-05"
 city: "台北市"
 district: "內湖區"
 award: "所有獎項"
 year: "所有年份"
 page: 1
-count: 8
+count: 7
 
 restaurants:
   - name: "喜相逢麵館"
@@ -72,18 +72,6 @@ restaurants:
     link: "台北市/內湖區/DE_LOIN_德朗火鍋__行善店_"
     google_map: "https://maps.app.goo.gl/k6iWaJWzhhrCsS6z5"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%85%a7%e6%b9%96%e5%8d%80/42802/"
-    award:
-    - name: "500盤"
-      year: "2024"
-  - name: "DE LOIN 德朗火鍋 (信義店)"
-    city: "台北市"
-    district: "內湖區"
-    address: "110台北市信義區信義路五段18-1號"
-    phone: "0285097598"
-    geo: "25.032524366046605, 121.56351717062711"
-    link: "台北市/內湖區/DE_LOIN_德朗火鍋__信義店_"
-    google_map: "https://maps.app.goo.gl/WquLw6ErNFHXikz18"
-    footinder: ""
     award:
     - name: "500盤"
       year: "2024"

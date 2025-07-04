@@ -6,15 +6,27 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-04"
+dateModified: "2025-07-05"
 city: "台北市"
 district: "信義區"
 award: "500盤"
 year: "所有年份"
 page: 3
-count: 24
+count: 25
 
 restaurants:
+  - name: "BURGER OUT"
+    city: "台北市"
+    district: "信義區"
+    address: "台北市信義區忠孝東路四段553巷22弄2號"
+    phone: "0227566860"
+    geo: "25.043165741931137, 121.5630643935445"
+    link: "台北市/信義區/BURGER_OUT"
+    google_map: "https://maps.app.goo.gl/ARbMSjrkXdAK9tds8"
+    footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80/36899/"
+    award:
+    - name: "500盤"
+      year: "2024"
   - name: "chateau zoe 酒窖餐廳"
     city: "台北市"
     district: "信義區"

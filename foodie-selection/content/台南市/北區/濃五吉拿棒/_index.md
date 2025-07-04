@@ -7,7 +7,7 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-04"
+dateModified: "2025-07-05"
 city: "台南市"
 district: "北區"
 address: "台南市北區海安路三段533號花園夜市18排34號"

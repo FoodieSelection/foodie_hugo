@@ -6,13 +6,13 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-04"
+dateModified: "2025-07-05"
 city: "台北市"
 district: "信義區"
 award: "500盤"
 year: "所有年份"
 page: 1
-count: 24
+count: 25
 
 restaurants:
   - name: "鼎泰豐"

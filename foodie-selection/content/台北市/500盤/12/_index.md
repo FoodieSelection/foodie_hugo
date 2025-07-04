@@ -6,7 +6,7 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-04"
+dateModified: "2025-07-05"
 city: "台北市"
 district: "所有行政區"
 award: "500盤"
@@ -113,11 +113,11 @@ restaurants:
       year: "2024"
   - name: "DE LOIN 德朗火鍋 (信義店)"
     city: "台北市"
-    district: "內湖區"
+    district: "信義區"
     address: "110台北市信義區信義路五段18-1號"
     phone: "0285097598"
     geo: "25.032524366046605, 121.56351717062711"
-    link: "台北市/內湖區/DE_LOIN_德朗火鍋__信義店_"
+    link: "台北市/信義區/DE_LOIN_德朗火鍋__信義店_"
     google_map: "https://maps.app.goo.gl/WquLw6ErNFHXikz18"
     footinder: ""
     award:
