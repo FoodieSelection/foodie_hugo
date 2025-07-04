@@ -6,15 +6,27 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-03"
+dateModified: "2025-07-04"
 city: "台南市"
 district: "東區"
 award: "台北國際牛肉麵節"
 year: "2024"
 page: 1
-count: 1
+count: 2
 
 restaurants:
+  - name: "老龐家傳牛肉麵-仁和店"
+    city: "台南市"
+    district: "東區"
+    address: "701台南市東區仁和路39號"
+    phone: "062674658"
+    geo: "22.977828949436404, 120.23024977020305"
+    link: "台南市/東區/老龐家傳牛肉麵-仁和店"
+    google_map: "https://maps.app.goo.gl/RyfXyUaLTFLFE1WE9"
+    footinder: ""
+    award:
+    - name: "台北國際牛肉麵節"
+      year: "2024"
   - name: "黃先生麵舖"
     city: "台南市"
     district: "東區"

@@ -6,13 +6,13 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-03"
+dateModified: "2025-07-04"
 city: "台南市"
 district: "所有行政區"
 award: "所有獎項"
 year: "2024"
 page: 1
-count: 28
+count: 29
 
 restaurants:
   - name: "麥謎食驗室 Bue mi.Lab"
@@ -51,13 +51,13 @@ restaurants:
     award:
     - name: "500盤"
       year: "2024"
-  - name: "根串燒居酒屋"
+  - name: "根 カツ丼 串燒居酒屋"
     city: "台南市"
     district: "中西區"
     address: "台南市中西區康樂街341號"
     phone: "062239881"
     geo: "22.99896311002549, 120.19653251440673"
-    link: "台南市/中西區/根串燒居酒屋"
+    link: "台南市/中西區/根_カツ丼_串燒居酒屋"
     google_map: "https://maps.app.goo.gl/TCYDsQMWYbjFYRYw5"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8D%97%E5%B8%82%E4%B8%AD%E8%A5%BF%E5%8D%80/104884/"
     award:

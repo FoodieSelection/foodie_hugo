@@ -6,13 +6,13 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-03"
+dateModified: "2025-07-04"
 city: "台北市"
 district: "所有行政區"
 award: "所有獎項"
 year: "所有年份"
 page: 3
-count: 234
+count: 257
 
 restaurants:
   - name: "牛肆"
@@ -90,7 +90,7 @@ restaurants:
   - name: "Curious Table"
     city: "台北市"
     district: "中山區"
-    address: "台北市中山北路二段39巷3號Regent Galleria B2"
+    address: "台北市中山區中山北路二段39巷3號Regent Galleria B2"
     phone: ""
     geo: "25.054083998737152, 121.52428462415465"
     link: "台北市/中山區/Curious_Table"
@@ -111,15 +111,15 @@ restaurants:
     award:
     - name: "500盤"
       year: "2024"
-  - name: "富錦樹台菜香檳"
+  - name: "富錦樹台菜香檳 大直店"
     city: "台北市"
-    district: "松山區"
-    address: "台北市松山區敦化北路199巷17號1樓"
-    phone: "0287128770"
-    geo: "25.056527031376323, 121.55272388672925"
-    link: "台北市/松山區/富錦樹台菜香檳"
-    google_map: "https://maps.app.goo.gl/M4DZnfyXXNdF1UTY9"
-    footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/251/"
+    district: "中山區"
+    address: "10491台北市中山區樂群三路303號"
+    phone: "0285022770"
+    geo: "25.082799668955445, 121.56032798890969"
+    link: "台北市/中山區/富錦樹台菜香檳_大直店"
+    google_map: "https://maps.app.goo.gl/ZPLGvLttYvNsWQbr8"
+    footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/8936/"
     award:
     - name: "500盤"
       year: "2024"

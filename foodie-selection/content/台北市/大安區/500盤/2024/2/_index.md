@@ -6,15 +6,27 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-03"
+dateModified: "2025-07-04"
 city: "台北市"
 district: "大安區"
 award: "500盤"
 year: "2024"
 page: 2
-count: 73
+count: 78
 
 restaurants:
+  - name: "橘色涮涮屋二館"
+    city: "台北市"
+    district: "大安區"
+    address: "106台北市大安區仁愛路四段29-2號"
+    phone: "0227710181"
+    geo: "25.03853899065069, 121.5452594313908"
+    link: "台北市/大安區/橘色涮涮屋二館"
+    google_map: "https://maps.app.goo.gl/JhcHCB1m4pmr4qWK7"
+    footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/32711/"
+    award:
+    - name: "500盤"
+      year: "2024"
   - name: "上膳若川"
     city: "台北市"
     district: "大安區"
@@ -108,18 +120,6 @@ restaurants:
     link: "台北市/大安區/渡邊日本料理"
     google_map: "https://maps.app.goo.gl/er8KxSwXRWaEA2Hn8"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/105052/"
-    award:
-    - name: "500盤"
-      year: "2024"
-  - name: "吉兆割烹壽司KITCHO"
-    city: "台北市"
-    district: "大安區"
-    address: "台北市大安區忠孝東路四段181巷48號1樓"
-    phone: "0227711020"
-    geo: "25.04431069844616, 121.55074817379997"
-    link: "台北市/大安區/吉兆割烹壽司KITCHO"
-    google_map: "https://maps.app.goo.gl/iVWj6Zt7emCz7MmbA"
-    footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/36465/"
     award:
     - name: "500盤"
       year: "2024"

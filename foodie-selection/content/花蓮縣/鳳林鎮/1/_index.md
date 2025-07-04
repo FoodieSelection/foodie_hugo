@@ -6,7 +6,7 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-03"
+dateModified: "2025-07-04"
 city: "花蓮縣"
 district: "鳳林鎮"
 award: "所有獎項"

@@ -6,15 +6,27 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-03"
+dateModified: "2025-07-04"
 city: "台中市"
 district: "西屯區"
 award: "500盤"
 year: "2024"
 page: 1
-count: 3
+count: 5
 
 restaurants:
+  - name: "橘色涮涮屋台中館"
+    city: "台中市"
+    district: "西屯區"
+    address: "407台中市西屯區市政路581-8號"
+    phone: "0422585655"
+    geo: "24.160533651943172, 120.63453922654794"
+    link: "台中市/西屯區/橘色涮涮屋台中館"
+    google_map: "https://maps.app.goo.gl/7JUXZEArcipuWwc6A"
+    footinder: ""
+    award:
+    - name: "500盤"
+      year: "2024"
   - name: "元紀．台灣菜"
     city: "台中市"
     district: "西屯區"
@@ -24,6 +36,18 @@ restaurants:
     link: "台中市/西屯區/元紀_台灣菜"
     google_map: "https://maps.app.goo.gl/KoXqNq9PGGYY3sLG7"
     footinder: "https://footinder.com.tw/%e5%8f%b0%e4%b8%ad%e5%b8%82%e8%a5%bf%e5%b1%af%e5%8d%80/362120/"
+    award:
+    - name: "500盤"
+      year: "2024"
+  - name: "三元花園韓式餐廳 台中店"
+    city: "台中市"
+    district: "西屯區"
+    address: "407台中市西屯區台灣大道四段1962號"
+    phone: "0423594066"
+    geo: "24.182908892072682, 120.59914001486979"
+    link: "台中市/西屯區/三元花園韓式餐廳_台中店"
+    google_map: "https://maps.app.goo.gl/VETBVCcF3Ged1M7AA"
+    footinder: "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E8%A5%BF%E5%B1%AF%E5%8D%80/13416/"
     award:
     - name: "500盤"
       year: "2024"

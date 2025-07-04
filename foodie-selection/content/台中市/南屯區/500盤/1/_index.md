@@ -6,7 +6,7 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-03"
+dateModified: "2025-07-04"
 city: "台中市"
 district: "南屯區"
 award: "500盤"
@@ -27,13 +27,13 @@ restaurants:
     award:
     - name: "500盤"
       year: "2024"
-  - name: "霧都老火鍋"
+  - name: "霧都老火鍋(大墩店)"
     city: "台中市"
     district: "南屯區"
     address: "台中市南屯區大墩路28號"
     phone: "0424739680"
     geo: "24.137534113599305, 120.6500430134592"
-    link: "台中市/南屯區/霧都老火鍋"
+    link: "台中市/南屯區/霧都老火鍋_大墩店_"
     google_map: "https://maps.app.goo.gl/cuBjpuCZFe5u6BJC9"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8D%97%E5%B1%AF%E5%8D%80/103129/"
     award:

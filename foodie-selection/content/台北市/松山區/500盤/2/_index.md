@@ -6,15 +6,27 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-03"
+dateModified: "2025-07-04"
 city: "台北市"
 district: "松山區"
 award: "500盤"
 year: "所有年份"
 page: 2
-count: 24
+count: 25
 
 restaurants:
+  - name: "八和和牛燒肉專門店 敦北二號店"
+    city: "台北市"
+    district: "松山區"
+    address: "10547台北市松山區敦化北路100號"
+    phone: "0227123442"
+    geo: "25.052249057921294, 121.548386768228"
+    link: "台北市/松山區/八和和牛燒肉專門店_敦北二號店"
+    google_map: "https://maps.app.goo.gl/WWXY5hVwQRkv2LEq6"
+    footinder: ""
+    award:
+    - name: "500盤"
+      year: "2024"
   - name: "爸爸Kevin美食BBQ"
     city: "台北市"
     district: "松山區"
@@ -108,18 +120,6 @@ restaurants:
     link: "台北市/松山區/祥和蔬食料理"
     google_map: "https://maps.app.goo.gl/ePet1PZ1hFG1HyVu6"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/158981/"
-    award:
-    - name: "500盤"
-      year: "2024"
-  - name: "辰壽司·割烹·會席"
-    city: "台北市"
-    district: "松山區"
-    address: "台北市松山區敦化北路167號B1"
-    phone: "0277076666"
-    geo: "25.054766997553862, 121.54941188931664"
-    link: "台北市/松山區/辰壽司_割烹_會席"
-    google_map: "https://maps.app.goo.gl/VQVxZzJpD9a8eaL88"
-    footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/47741/"
     award:
     - name: "500盤"
       year: "2024"

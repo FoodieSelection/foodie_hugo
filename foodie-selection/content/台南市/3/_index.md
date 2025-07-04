@@ -6,15 +6,27 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-03"
+dateModified: "2025-07-04"
 city: "台南市"
 district: "所有行政區"
 award: "所有獎項"
 year: "所有年份"
 page: 3
-count: 28
+count: 29
 
 restaurants:
+  - name: "老龐家傳牛肉麵-仁和店"
+    city: "台南市"
+    district: "東區"
+    address: "701台南市東區仁和路39號"
+    phone: "062674658"
+    geo: "22.977828949436404, 120.23024977020305"
+    link: "台南市/東區/老龐家傳牛肉麵-仁和店"
+    google_map: "https://maps.app.goo.gl/RyfXyUaLTFLFE1WE9"
+    footinder: ""
+    award:
+    - name: "台北國際牛肉麵節"
+      year: "2024"
   - name: "黃先生麵舖"
     city: "台南市"
     district: "東區"
@@ -108,18 +120,6 @@ restaurants:
     link: "台南市/北區/濃五吉拿棒"
     google_map: "https://maps.app.goo.gl/UwQGtrZ2g41wMSLC6"
     footinder: ""
-    award:
-    - name: "夜市王"
-      year: "2024"
-  - name: "全壘打牛排"
-    city: "台南市"
-    district: "北區"
-    address: "台南市北區海安路三段533號"
-    phone: ""
-    geo: "23.010433694903504, 120.20007547175955"
-    link: "台南市/北區/全壘打牛排"
-    google_map: "https://maps.app.goo.gl/eXKJFwKWStAqW89Q9"
-    footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8D%97%E5%B8%82%E5%8C%97%E5%8D%80/362071/"
     award:
     - name: "夜市王"
       year: "2024"

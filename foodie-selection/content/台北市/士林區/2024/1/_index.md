@@ -6,13 +6,13 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-03"
+dateModified: "2025-07-04"
 city: "台北市"
 district: "士林區"
 award: "所有獎項"
 year: "2024"
 page: 1
-count: 5
+count: 6
 
 restaurants:
   - name: "金蓬萊遵古台菜"
@@ -67,11 +67,23 @@ restaurants:
     city: "台北市"
     district: "士林區"
     address: "111台北市士林區後港街204號"
-    phone: "072360236"
-    geo: "22.637542394178766, 120.30357570183317"
+    phone: "0228814982"
+    geo: "25.088321383805948, 121.52061092365555"
     link: "台北市/士林區/道品牛肉麵"
     google_map: "https://maps.app.goo.gl/bhSS8nbgtDv5iTx89"
-    footinder: "https://footinder.com.tw/%e9%ab%98%e9%9b%84%e5%b8%82%e4%b8%89%e6%b0%91%e5%8d%80/362215/"
+    footinder: ""
+    award:
+    - name: "台北國際牛肉麵節"
+      year: "2024"
+  - name: "道品牛肉麵 士林夜市店"
+    city: "台北市"
+    district: "士林區"
+    address: "111台北市士林區大南路55號"
+    phone: "0963602751"
+    geo: "25.089129348429772, 121.52481887636193"
+    link: "台北市/士林區/道品牛肉麵_士林夜市店"
+    google_map: "https://maps.app.goo.gl/E4GADwSyUDPPDpbSA"
+    footinder: ""
     award:
     - name: "台北國際牛肉麵節"
       year: "2024"

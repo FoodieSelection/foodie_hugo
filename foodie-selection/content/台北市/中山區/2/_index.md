@@ -6,15 +6,27 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-03"
+dateModified: "2025-07-04"
 city: "台北市"
 district: "中山區"
 award: "所有獎項"
 year: "所有年份"
 page: 2
-count: 54
+count: 57
 
 restaurants:
+  - name: "富錦樹台菜香檳 大直店"
+    city: "台北市"
+    district: "中山區"
+    address: "10491台北市中山區樂群三路303號"
+    phone: "0285022770"
+    geo: "25.082799668955445, 121.56032798890969"
+    link: "台北市/中山區/富錦樹台菜香檳_大直店"
+    google_map: "https://maps.app.goo.gl/ZPLGvLttYvNsWQbr8"
+    footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/8936/"
+    award:
+    - name: "500盤"
+      year: "2024"
   - name: "明福台菜"
     city: "台北市"
     district: "中山區"
@@ -75,6 +87,18 @@ restaurants:
     award:
     - name: "500盤"
       year: "2024"
+  - name: "雞家莊六條店"
+    city: "台北市"
+    district: "中山區"
+    address: "10491台北市中山區中山北路一段105巷9號"
+    phone: "0225418261"
+    geo: "25.05089158571083, 121.5230394197599"
+    link: "台北市/中山區/雞家莊六條店"
+    google_map: "https://maps.app.goo.gl/YRiaNEMGCP71qED48"
+    footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/30925/"
+    award:
+    - name: "500盤"
+      year: "2024"
   - name: "九記港式海鮮餐廳"
     city: "台北市"
     district: "中山區"
@@ -96,30 +120,6 @@ restaurants:
     link: "台北市/中山區/Birdy_Yakitori_燒鳥狂想曲"
     google_map: "https://maps.app.goo.gl/5zSFtDbZ6PPX2Rzz8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/42538/"
-    award:
-    - name: "500盤"
-      year: "2024"
-  - name: "明壽司"
-    city: "台北市"
-    district: "中山區"
-    address: "台北市中山區雙城街25巷6之3號"
-    phone: "0225961069"
-    geo: "25.066169086535727, 121.52487349398537"
-    link: "台北市/中山區/明壽司"
-    google_map: "https://maps.app.goo.gl/xXqyu7pzHrktN7xK8"
-    footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80/31291/"
-    award:
-    - name: "500盤"
-      year: "2024"
-  - name: "台北萬豪酒店 宴客樓中餐廳"
-    city: "台北市"
-    district: "中山區"
-    address: "台北市中山區樂群二路199號三樓"
-    phone: "0221757918"
-    geo: "25.080450827034152, 121.55894180377362"
-    link: "台北市/中山區/台北萬豪酒店_宴客樓中餐廳"
-    google_map: "https://maps.app.goo.gl/GM3cgbjFbHit65bH6"
-    footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e5%b1%b1%e5%8d%80/8805/"
     award:
     - name: "500盤"
       year: "2024"

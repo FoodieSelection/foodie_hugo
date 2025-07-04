@@ -6,13 +6,13 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-03"
+dateModified: "2025-07-04"
 city: "所有城市"
 district: "所有行政區"
 award: "500盤"
 year: "所有年份"
 page: 2
-count: 310
+count: 330
 
 restaurants:
   - name: "Ad astra"

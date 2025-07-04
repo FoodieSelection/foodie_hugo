@@ -6,15 +6,27 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-03"
+dateModified: "2025-07-04"
 city: "花蓮縣"
 district: "所有行政區"
 award: "所有獎項"
 year: "所有年份"
 page: 2
-count: 18
+count: 19
 
 restaurants:
+  - name: "宜蘭香炸螃蟹(東大門店)(C17)"
+    city: "花蓮縣"
+    district: "花蓮市"
+    address: "花蓮縣花蓮市中山路38號C17"
+    phone: "0975333282"
+    geo: "23.973079728771175, 121.61223292894208"
+    link: "花蓮縣/花蓮市/宜蘭香炸螃蟹_東大門店__C17_"
+    google_map: "https://maps.app.goo.gl/Emif3Ufww9iNaMKr7"
+    footinder: "https://footinder.com.tw/%E8%8A%B1%E8%93%AE%E7%B8%A3%E8%8A%B1%E8%93%AE%E5%B8%82/164553/"
+    award:
+    - name: "夜市王"
+      year: "2024"
   - name: "蚵仔酥煎(E28)"
     city: "花蓮縣"
     district: "花蓮市"
@@ -108,18 +120,6 @@ restaurants:
     link: "花蓮縣/花蓮市/福町本舖檸檬汁_A35_"
     google_map: "https://maps.app.goo.gl/3Vi5VMSomtBH2dHq5"
     footinder: "https://footinder.com.tw/%E8%8A%B1%E8%93%AE%E7%B8%A3%E8%8A%B1%E8%93%AE%E5%B8%82/170109/"
-    award:
-    - name: "夜市王"
-      year: "2024"
-  - name: "強蛋餅(E79)"
-    city: "花蓮縣"
-    district: "花蓮市"
-    address: "花蓮縣花蓮市明義街E79"
-    phone: "0922288775"
-    geo: "23.97085864409738, 121.61065466838497"
-    link: "花蓮縣/花蓮市/強蛋餅_E79_"
-    google_map: "https://maps.app.goo.gl/imv7R7SK6SbX8nix5"
-    footinder: "https://footinder.com.tw/%E8%8A%B1%E8%93%AE%E7%B8%A3%E8%8A%B1%E8%93%AE%E5%B8%82/121700/"
     award:
     - name: "夜市王"
       year: "2024"

@@ -6,13 +6,13 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-03"
+dateModified: "2025-07-04"
 city: "台北市"
 district: "信義區"
 award: "500盤"
 year: "2024"
 page: 1
-count: 21
+count: 24
 
 restaurants:
   - name: "鼎泰豐"
@@ -48,6 +48,30 @@ restaurants:
     link: "台北市/信義區/Adachi足立壽司"
     google_map: "https://maps.app.goo.gl/5zp3MoMsGV7c77Rp8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80/110724/"
+    award:
+    - name: "500盤"
+      year: "2024"
+  - name: "富錦樹台菜香檳101旗艦店"
+    city: "台北市"
+    district: "信義區"
+    address: "110台北市信義區市府路45號5 樓"
+    phone: "0281017770"
+    geo: "25.034235704553243, 121.56479335089682"
+    link: "台北市/信義區/富錦樹台菜香檳101旗艦店"
+    google_map: "https://maps.app.goo.gl/zTjaiqEAZyWeDVbX9"
+    footinder: ""
+    award:
+    - name: "500盤"
+      year: "2024"
+  - name: "橘色涮涮屋A9館"
+    city: "台北市"
+    district: "信義區"
+    address: "110台北市信義區松壽路9號7樓"
+    phone: "0287896068"
+    geo: "25.03634487928896, 121.56670198745806"
+    link: "台北市/信義區/橘色涮涮屋A9館"
+    google_map: "https://maps.app.goo.gl/qXqY7tj1yRSNRR9L6"
+    footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80/9029/"
     award:
     - name: "500盤"
       year: "2024"
@@ -96,30 +120,6 @@ restaurants:
     link: "台北市/信義區/捌伍添第85TD"
     google_map: "https://maps.app.goo.gl/rkmGsuzE6usX3XzE8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80/9091/"
-    award:
-    - name: "500盤"
-      year: "2024"
-  - name: "gubami Social"
-    city: "台北市"
-    district: "信義區"
-    address: "台北市信義區松壽路9號6樓"
-    phone: "0227588501"
-    geo: "25.036295974206595, 121.56685889903974"
-    link: "台北市/信義區/gubami_Social"
-    google_map: "https://maps.app.goo.gl/8vemw5RiefZa2FjX9"
-    footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80/168891/"
-    award:
-    - name: "500盤"
-      year: "2024"
-  - name: "夜上海 Ye Shanghai (Taipei)"
-    city: "台北市"
-    district: "信義區"
-    address: "台北市信義區松高路19號新光三越5樓"
-    phone: "0223450928"
-    geo: "25.039788389690152, 121.5665901570069"
-    link: "台北市/信義區/夜上海_Ye_Shanghai__Taipei_"
-    google_map: "https://maps.app.goo.gl/WiR37A5CQ3nNWNgt7"
-    footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80/148550/"
     award:
     - name: "500盤"
       year: "2024"

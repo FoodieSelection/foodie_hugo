@@ -7,7 +7,7 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-03"
+dateModified: "2025-07-04"
 city: "苗栗縣"
 district: "頭份市"
 address: "苗栗縣頭份市中正二路210號"

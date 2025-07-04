@@ -6,15 +6,27 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-03"
+dateModified: "2025-07-04"
 city: "台北市"
 district: "南港區"
 award: "500盤"
 year: "所有年份"
 page: 1
-count: 1
+count: 2
 
 restaurants:
+  - name: "漢堡排 嘉 Citylink南港店"
+    city: "台北市"
+    district: "南港區"
+    address: "115台北市南港區忠孝東路七段369號C棟10樓"
+    phone: ""
+    geo: "25.05256317730094, 121.60451909744904"
+    link: "台北市/南港區/漢堡排_嘉_Citylink南港店"
+    google_map: "https://maps.app.goo.gl/vxUD3Yni7CM5UH6k8"
+    footinder: ""
+    award:
+    - name: "500盤"
+      year: "2024"
   - name: "PASTi"
     city: "台北市"
     district: "南港區"

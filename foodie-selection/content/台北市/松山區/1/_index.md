@@ -6,13 +6,13 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-03"
+dateModified: "2025-07-04"
 city: "台北市"
 district: "松山區"
 award: "所有獎項"
 year: "所有年份"
 page: 1
-count: 25
+count: 26
 
 restaurants:
   - name: "鄒記食舖"
@@ -39,15 +39,15 @@ restaurants:
     award:
     - name: "500盤"
       year: "2024"
-  - name: "富錦樹台菜香檳"
+  - name: "富錦樹台菜香檳 敦北店"
     city: "台北市"
     district: "松山區"
-    address: "台北市松山區敦化北路199巷17號1樓"
+    address: "10548台北市松山區敦化北路199巷17號1樓"
     phone: "0287128770"
-    geo: "25.056527031376323, 121.55272388672925"
-    link: "台北市/松山區/富錦樹台菜香檳"
-    google_map: "https://maps.app.goo.gl/M4DZnfyXXNdF1UTY9"
-    footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/251/"
+    geo: "25.05652894749007, 121.55272399882122"
+    link: "台北市/松山區/富錦樹台菜香檳_敦北店"
+    google_map: "https://maps.app.goo.gl/8YrT2a1tjKmBu26R8"
+    footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e6%9d%be%e5%b1%b1%e5%8d%80/251/"
     award:
     - name: "500盤"
       year: "2024"

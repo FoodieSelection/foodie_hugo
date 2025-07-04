@@ -6,13 +6,13 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-03"
+dateModified: "2025-07-04"
 city: "高雄市"
 district: "所有行政區"
 award: "所有獎項"
 year: "所有年份"
 page: 2
-count: 29
+count: 31
 
 restaurants:
   - name: "三禾清豐 心臺菜"

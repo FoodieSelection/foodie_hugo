@@ -6,15 +6,27 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-03"
+dateModified: "2025-07-04"
 city: "台北市"
 district: "大安區"
 award: "500盤"
 year: "2024"
 page: 3
-count: 73
+count: 78
 
 restaurants:
+  - name: "吉兆割烹壽司KITCHO"
+    city: "台北市"
+    district: "大安區"
+    address: "台北市大安區忠孝東路四段181巷48號1樓"
+    phone: "0227711020"
+    geo: "25.04431069844616, 121.55074817379997"
+    link: "台北市/大安區/吉兆割烹壽司KITCHO"
+    google_map: "https://maps.app.goo.gl/iVWj6Zt7emCz7MmbA"
+    footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%ae%89%e5%8d%80/36465/"
+    award:
+    - name: "500盤"
+      year: "2024"
   - name: "小小樹食"
     city: "台北市"
     district: "大安區"
@@ -108,18 +120,6 @@ restaurants:
     link: "台北市/大安區/Divino_TAipei"
     google_map: "https://maps.app.goo.gl/CLmouZAxttfTHeXbA"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/47916/"
-    award:
-    - name: "500盤"
-      year: "2024"
-  - name: "nabo ulv"
-    city: "台北市"
-    district: "大安區"
-    address: "台北市大安區敦化南路一段160巷18號"
-    phone: "0287710828"
-    geo: "25.04350617482437, 121.5476475299198"
-    link: "台北市/大安區/nabo_ulv"
-    google_map: "https://maps.app.goo.gl/PrDH2vAcV7WitEFC8"
-    footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/362128/"
     award:
     - name: "500盤"
       year: "2024"

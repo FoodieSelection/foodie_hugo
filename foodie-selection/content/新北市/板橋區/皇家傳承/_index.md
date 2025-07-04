@@ -7,14 +7,14 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-03"
+dateModified: "2025-07-04"
 city: "新北市"
 district: "板橋區"
-address: "220新北市板橋區新海路134號"
+address: "220新北市板橋區重慶路220-1號"
 phone: "0229563718"
-geo: "25.00201663808108, 121.46265103959249"
-google_map: "https://maps.app.goo.gl/Ep1F3oe8gws2bSBg7"
-footinder: "https://footinder.com.tw/%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80/6380/"
+geo: "25.00201832430965, 121.46265156858681"
+google_map: "https://maps.app.goo.gl/h6dmCYKp2qrHfvYE6"
+footinder: "https://footinder.com.tw/%e6%96%b0%e5%8c%97%e5%b8%82%e6%9d%bf%e6%a9%8b%e5%8d%80/37562/"
 official: "https://www.royal-beefnoodles.com/"
 award:
   - name: "台北國際牛肉麵節"

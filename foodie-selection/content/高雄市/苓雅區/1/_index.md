@@ -6,13 +6,13 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-03"
+dateModified: "2025-07-04"
 city: "高雄市"
 district: "苓雅區"
 award: "所有獎項"
 year: "所有年份"
 page: 1
-count: 1
+count: 2
 
 restaurants:
   - name: "三禾清豐 心臺菜"
@@ -26,5 +26,17 @@ restaurants:
     footinder: "https://footinder.com.tw/%E9%AB%98%E9%9B%84%E5%B8%82%E8%8B%93%E9%9B%85%E5%8D%80/148611/"
     award:
     - name: "500盤"
+      year: "2024"
+  - name: "渝味食記重慶小麵－武廟店"
+    city: "高雄市"
+    district: "苓雅區"
+    address: "802高雄市苓雅區武廟路206號"
+    phone: "077223110"
+    geo: "22.63152816051882, 120.32525785913533"
+    link: "高雄市/苓雅區/渝味食記重慶小麵_武廟店"
+    google_map: "https://maps.app.goo.gl/UCTZ6k5VZ1oFE9rm6"
+    footinder: ""
+    award:
+    - name: "台北國際牛肉麵節"
       year: "2024"
 ---

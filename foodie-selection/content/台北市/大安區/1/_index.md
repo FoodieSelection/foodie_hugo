@@ -6,13 +6,13 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-03"
+dateModified: "2025-07-04"
 city: "台北市"
 district: "大安區"
 award: "所有獎項"
 year: "所有年份"
 page: 1
-count: 76
+count: 81
 
 restaurants:
   - name: "Restaurant A"
@@ -111,14 +111,14 @@ restaurants:
     award:
     - name: "500盤"
       year: "2024"
-  - name: "橘色涮涮屋"
+  - name: "橘色涮涮屋一館"
     city: "台北市"
     district: "大安區"
-    address: "台北市大安區大安路一段135號B1"
+    address: "106台北市大安區大安路一段135號B1"
     phone: "0227761658"
-    geo: "25.03876971276977, 121.54617981162737"
-    link: "台北市/大安區/橘色涮涮屋"
-    google_map: "https://maps.app.goo.gl/fQq38hBWrPXavLth8"
+    geo: "25.038856324478356, 121.54614877949875"
+    link: "台北市/大安區/橘色涮涮屋一館"
+    google_map: "https://maps.app.goo.gl/nUDd3aczCqgQAYZ2A"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80/32704/"
     award:
     - name: "500盤"

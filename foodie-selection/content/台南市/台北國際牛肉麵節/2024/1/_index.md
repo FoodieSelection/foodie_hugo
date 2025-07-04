@@ -6,24 +6,36 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-03"
+dateModified: "2025-07-04"
 city: "台南市"
 district: "所有行政區"
 award: "台北國際牛肉麵節"
 year: "2024"
 page: 1
-count: 2
+count: 3
 
 restaurants:
-  - name: "老龐家傳牛肉麵"
+  - name: "老龐家傳牛肉麵-保安總店"
     city: "台南市"
     district: "中西區"
     address: "700台南市中西區保安路22號"
     phone: "062055396"
     geo: "22.990330941273367, 120.19711728075148"
-    link: "台南市/中西區/老龐家傳牛肉麵"
+    link: "台南市/中西區/老龐家傳牛肉麵-保安總店"
     google_map: "https://maps.app.goo.gl/Ezi8Lsrorr2BtFbE8"
     footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8D%97%E5%B8%82%E4%B8%AD%E8%A5%BF%E5%8D%80/181095/"
+    award:
+    - name: "台北國際牛肉麵節"
+      year: "2024"
+  - name: "老龐家傳牛肉麵-仁和店"
+    city: "台南市"
+    district: "東區"
+    address: "701台南市東區仁和路39號"
+    phone: "062674658"
+    geo: "22.977828949436404, 120.23024977020305"
+    link: "台南市/東區/老龐家傳牛肉麵-仁和店"
+    google_map: "https://maps.app.goo.gl/RyfXyUaLTFLFE1WE9"
+    footinder: ""
     award:
     - name: "台北國際牛肉麵節"
       year: "2024"

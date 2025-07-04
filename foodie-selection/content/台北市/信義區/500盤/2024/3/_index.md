@@ -6,15 +6,51 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-03"
+dateModified: "2025-07-04"
 city: "台北市"
 district: "信義區"
 award: "500盤"
 year: "2024"
 page: 3
-count: 21
+count: 24
 
 restaurants:
+  - name: "chateau zoe 酒窖餐廳"
+    city: "台北市"
+    district: "信義區"
+    address: "台北市信義區逸仙路32巷7號1樓"
+    phone: "0287869663"
+    geo: "25.039898005940966, 121.56227833400445"
+    link: "台北市/信義區/chateau_zoe_酒窖餐廳"
+    google_map: "https://maps.app.goo.gl/Hejkibae3ndWnC6U7"
+    footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80/9034/"
+    award:
+    - name: "500盤"
+      year: "2024"
+  - name: "JOYCE EAST"
+    city: "台北市"
+    district: "信義區"
+    address: "台北市信義區信義路五段128號1樓"
+    phone: "0287896128"
+    geo: "25.03239444153666, 121.56920737741855"
+    link: "台北市/信義區/JOYCE_EAST"
+    google_map: "https://maps.app.goo.gl/wBjgUWuAzf3j2i937"
+    footinder: "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80/9209/"
+    award:
+    - name: "500盤"
+      year: "2024"
+  - name: "KIKI 餐廳"
+    city: "台北市"
+    district: "信義區"
+    address: "110台北市信義區松壽路12號6樓"
+    phone: "0227220388"
+    geo: "25.03547347332171, 121.56607003310049"
+    link: "台北市/信義區/KIKI_餐廳"
+    google_map: "https://maps.app.goo.gl/7Fnc7qH7bB7G37Xw8"
+    footinder: "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%bf%a1%e7%be%a9%e5%8d%80/362203/"
+    award:
+    - name: "500盤"
+      year: "2024"
   - name: "Le Duet Modern Kaiseki 演蒔光"
     city: "台北市"
     district: "信義區"

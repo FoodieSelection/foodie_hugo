@@ -7,7 +7,7 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-03"
+dateModified: "2025-07-04"
 city: "高雄市"
 district: "鼓山區"
 address: "高雄市鼓山區龍水二路9號"

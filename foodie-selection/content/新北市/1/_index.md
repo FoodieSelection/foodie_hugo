@@ -6,13 +6,13 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-03"
+dateModified: "2025-07-04"
 city: "新北市"
 district: "所有行政區"
 award: "所有獎項"
 year: "所有年份"
 page: 1
-count: 18
+count: 24
 
 restaurants:
   - name: "豐華小館"
@@ -111,13 +111,13 @@ restaurants:
     award:
     - name: "500盤"
       year: "2024"
-  - name: "皇家傳承"
+  - name: "皇家傳承牛肉麵"
     city: "新北市"
     district: "板橋區"
     address: "220新北市板橋區新海路134號"
-    phone: "0229563718"
-    geo: "25.00201663808108, 121.46265103959249"
-    link: "新北市/板橋區/皇家傳承"
+    phone: "0282585388"
+    geo: "25.023181305662096, 121.46105415252082"
+    link: "新北市/板橋區/皇家傳承牛肉麵"
     google_map: "https://maps.app.goo.gl/Ep1F3oe8gws2bSBg7"
     footinder: "https://footinder.com.tw/%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80/6380/"
     award:

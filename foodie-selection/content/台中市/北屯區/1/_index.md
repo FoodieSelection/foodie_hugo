@@ -6,15 +6,27 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-03"
+dateModified: "2025-07-04"
 city: "台中市"
 district: "北屯區"
 award: "所有獎項"
 year: "所有年份"
 page: 1
-count: 3
+count: 4
 
 restaurants:
+  - name: "霧都老火鍋(健行店)"
+    city: "台中市"
+    district: "北屯區"
+    address: "404台中市北區健行路449-3號"
+    phone: "0422079497"
+    geo: "24.15900896058529, 120.67939923791026"
+    link: "台中市/北屯區/霧都老火鍋_健行店_"
+    google_map: "https://maps.app.goo.gl/TopfTC2cBWg8wPvJ6"
+    footinder: ""
+    award:
+    - name: "500盤"
+      year: "2024"
   - name: "春日宴 粵菜喜宴"
     city: "台中市"
     district: "北屯區"

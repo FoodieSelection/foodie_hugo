@@ -27,6 +27,6 @@ popd
 endlocal
 
 rem 把public資料移到github資料夾
-robocopy "C:\Users\shawn\workspace\foodie_hugo\foodie-selection\public" "C:\Users\shawn\workspace\FoodieSelection.github.io" /MOVE /E /LOG:log.txt
+robocopy "C:\Users\shawn\workspace\foodie_hugo\foodie-selection\public" "C:\Users\shawn\workspace\FoodieSelection.github.io" /MOVE /E
 
 pause
