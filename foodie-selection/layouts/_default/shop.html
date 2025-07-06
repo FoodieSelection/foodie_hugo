@@ -30,7 +30,25 @@
     },
     "mainEntity": {
       "@type": "Restaurant",
-      "name": "{{ .Params.title }}"
+      "name": "{{ .Params.title }}",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "{{ .Params.address }}",
+        "addressLocality": "{{ .Params.city }}",
+        "addressRegion": "{{ .Params.district }}",
+        "addressCountry": "TW"
+      },
+      "telephone": "{{ .Params.phone }}",
+      "url": "{{ .Params.official }}",
+      "award": [
+        {{- range $index, $award := .Params.award -}}
+        {{- if $index }},{{ end }}"{{ $award.name }} {{ $award.year }}"
+        {{- end -}}
+      ],
+      "sameAs": [
+        "{{ .Params.google_map }}",
+        "{{ .Params.footinder }}"
+      ]
     }
   },
   {

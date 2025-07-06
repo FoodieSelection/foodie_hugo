@@ -31,9 +31,9 @@
     {{- range $index, $r := .Params.restaurants -}}
     {
       "@type": "ListItem",
+      "position": {{ add $index 1 }},
       "item": {
         "@type": "Restaurant",
-        "position": {{ add $index 1 }},
         "name": {{ $r.name }},
         {{- if $r.address }}
         "address": {
