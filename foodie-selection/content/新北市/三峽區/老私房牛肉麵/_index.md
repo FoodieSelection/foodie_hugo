@@ -7,7 +7,7 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-05"
+dateModified: "2025-07-06"
 city: "新北市"
 district: "三峽區"
 address: "237新北市三峽區國際一街66-1號1樓"

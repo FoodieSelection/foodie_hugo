@@ -7,7 +7,7 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-05"
+dateModified: "2025-07-06"
 city: "台北市"
 district: "大安區"
 address: "台北市大安區樂利路11巷32號1樓"

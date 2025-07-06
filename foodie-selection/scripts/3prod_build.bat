@@ -8,11 +8,12 @@ setlocal
 
 set "target_folder=C:\Users\shawn\workspace\FoodieSelection.github.io"
 set "keep1=CNAME"
+set "keep2=829a24b7168846118d06c01c75b76651.txt"
 
 pushd "%target_folder%"
 
 for %%f in (*.*) do (
-    if /I not "%%f"=="%keep1%" (
+    if /I not "%%f"=="%keep1%" if /I not "%%f"=="%keep2%" (
         del /f /q "%%f"
     )
 )

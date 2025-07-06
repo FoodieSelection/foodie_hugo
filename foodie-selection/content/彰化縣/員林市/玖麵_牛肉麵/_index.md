@@ -7,7 +7,7 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-05"
+dateModified: "2025-07-06"
 city: "彰化縣"
 district: "員林市"
 address: "510彰化縣員林市莒光路422號"

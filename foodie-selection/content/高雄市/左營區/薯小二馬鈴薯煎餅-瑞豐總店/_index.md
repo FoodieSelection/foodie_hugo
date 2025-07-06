@@ -7,7 +7,7 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-05"
+dateModified: "2025-07-06"
 city: "高雄市"
 district: "左營區"
 address: "高雄市鼓山區裕誠路1128號"

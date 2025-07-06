@@ -7,7 +7,7 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-05"
+dateModified: "2025-07-06"
 city: "宜蘭縣"
 district: "冬山鄉"
 address: "宜蘭縣冬山鄉八仙一路117號往前20公尺"
