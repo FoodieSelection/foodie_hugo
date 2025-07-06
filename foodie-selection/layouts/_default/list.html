@@ -1,79 +1,79 @@
 {{ define "ldjson" }}
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "ItemList",
-  "name": "{{ .Site.Title }}",
-  "description": "{{ .Params.description }}",
-  "url": "{{ .Site.BaseURL }}",
-  "image": "{{ .Site.BaseURL }}{{ .Site.Params.Logo }}",
-  "inLanguage": "zh-Hant",
-  "datePublished": "{{ .Params.datePublished }}",
-  "dateModified": "{{ .Params.dateModified }}",
-  "publisher": {
-    "@type": "Organization",
-    "name": "{{ .Site.Title }}",
-    "url": "{{ .Site.BaseURL }}",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "{{ .Site.BaseURL }}{{ .Site.Params.Logo }}"
-    },
-    "contactPoint": {
-      "@type": "ContactPoint",
-      "contactType": "customer service",
-      "email": "{{ .Site.Params.email }}"
-    },
-    "sameAs": [
-    "https://www.facebook.com/profile.php?id=61576588634043"
-    ]
-  },
-  "itemListElement": [
-  {{- range $index, $r := .Params.restaurants -}}
   {
-    "@type": "ListItem",
-    "item": {
-      "@type": "Restaurant",
-      "position": {{ add $index 1 }},
-      "name": {{ $r.name }},
-      {{- if $r.address }}
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": {{ $r.address }},
-        "addressLocality": {{ $r.city }},
-        "addressRegion": {{ $r.district }},
-        "addressCountry": "TW"
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "name": "{{ .Site.Title }}",
+    "description": "{{ .Params.description }}",
+    "url": "{{ .Site.BaseURL }}",
+    "image": "{{ .Site.BaseURL }}{{ .Site.Params.Logo }}",
+    "inLanguage": "zh-Hant",
+    "datePublished": "{{ .Params.datePublished }}",
+    "dateModified": "{{ .Params.dateModified }}",
+    "publisher": {
+      "@type": "Organization",
+      "name": "{{ .Site.Title }}",
+      "url": "{{ .Site.BaseURL }}",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "{{ .Site.BaseURL }}{{ .Site.Params.Logo }}"
       },
-      {{- end }}
-      {{- if $r.geo }}
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": {{ (index (split $r.geo ",") 0) }},
-        "longitude": {{ (index (split (replace $r.geo " " "") ",") 1) }}
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "customer service",
+        "email": "{{ .Site.Params.email }}"
       },
-      {{- end }}
-      {{- if $r.phone }}
-      "telephone": {{ $r.phone }},
-      {{- end }}
-      {{- if $r.google_map }}
-      "hasMap": {{ $r.google_map }},
-      {{- end }}
-      {{- $sameAs := slice -}}
-      {{- if $r.footinder }}{{ $sameAs = $sameAs | append $r.footinder }}{{ end -}}
-      {{- if $r.official }}{{ $sameAs = $sameAs | append $r.official }}{{ end -}}
-      {{- if gt (len $sameAs) 0 }}
-      "sameAs": {{ $sameAs }},
-      {{- end }}
-      "award": [
-      {{- range $index, $award := $r.award -}}
-      {{- if $index }},{{ end }}"{{ $award.name }} {{ $award.year }}"
-      {{- end -}}
-      ],
-      "url": "{{ $.Site.BaseURL }}{{ $r.link }}"
-    }
-  }{{ if not (eq $index (sub (len $.Params.restaurants) 1)) }},{{ end }}
-{{- end -}}
-  ]
-}
+      "sameAs": [
+      "https://www.facebook.com/profile.php?id=61576588634043"
+      ]
+    },
+    "itemListElement": [
+    {{- range $index, $r := .Params.restaurants -}}
+    {
+      "@type": "ListItem",
+      "item": {
+        "@type": "Restaurant",
+        "position": {{ add $index 1 }},
+        "name": {{ $r.name }},
+        {{- if $r.address }}
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": {{ $r.address }},
+          "addressLocality": {{ $r.city }},
+          "addressRegion": {{ $r.district }},
+          "addressCountry": "TW"
+        },
+        {{- end }}
+        {{- if $r.geo }}
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": {{ (index (split $r.geo ",") 0) }},
+          "longitude": {{ (index (split (replace $r.geo " " "") ",") 1) }}
+        },
+        {{- end }}
+        {{- if $r.phone }}
+        "telephone": {{ $r.phone }},
+        {{- end }}
+        {{- if $r.google_map }}
+        "hasMap": {{ $r.google_map }},
+        {{- end }}
+        {{- $sameAs := slice -}}
+        {{- if $r.footinder }}{{ $sameAs = $sameAs | append $r.footinder }}{{ end -}}
+        {{- if $r.official }}{{ $sameAs = $sameAs | append $r.official }}{{ end -}}
+        {{- if gt (len $sameAs) 0 }}
+        "sameAs": {{ $sameAs }},
+        {{- end }}
+        "award": [
+        {{- range $index, $award := $r.award -}}
+        {{- if $index }},{{ end }}"{{ $award.name }} {{ $award.year }}"
+        {{- end -}}
+        ],
+        "url": "{{ $.Site.BaseURL }}{{ $r.link }}"
+      }
+    }{{ if not (eq $index (sub (len $.Params.restaurants) 1)) }},{{ end }}
+  {{- end -}}
+    ]
+  }
 </script>
 {{ end }}
 
