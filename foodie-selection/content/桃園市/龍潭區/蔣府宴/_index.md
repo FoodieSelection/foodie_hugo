@@ -7,7 +7,7 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-06"
+dateModified: "2025-07-07"
 city: "桃園市"
 district: "龍潭區"
 address: "325桃園市龍潭區高原路891號"

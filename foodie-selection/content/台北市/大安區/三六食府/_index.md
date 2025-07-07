@@ -7,7 +7,7 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-06"
+dateModified: "2025-07-07"
 city: "台北市"
 district: "大安區"
 address: "台北市大安區師大路92巷13號"

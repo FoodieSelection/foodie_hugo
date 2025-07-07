@@ -7,7 +7,7 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-06"
+dateModified: "2025-07-07"
 city: "宜蘭縣"
 district: "五結鄉"
 address: "宜蘭縣五結鄉溪濱路二段263號"

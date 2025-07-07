@@ -7,7 +7,7 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-06"
+dateModified: "2025-07-07"
 city: "新竹市"
 district: "東區"
 address: "新竹市東區東大路一段136號"

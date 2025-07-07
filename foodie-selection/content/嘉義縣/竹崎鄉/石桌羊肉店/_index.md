@@ -7,7 +7,7 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-06"
+dateModified: "2025-07-07"
 city: "嘉義縣"
 district: "竹崎鄉"
 address: "嘉義縣竹崎鄉中和村石棹21之39號"

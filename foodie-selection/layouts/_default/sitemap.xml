@@ -1,0 +1,10 @@
+{{ printf "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n" | safeHTML }}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{{ range .Site.Pages }}
+  {{ if and (not .Params.sitemap_disable) (or .File (eq .Kind "page")) }}
+    <url>
+      <loc>{{ .Permalink }}</loc>
+    </url>
+  {{ end }}
+{{ end }}
+</urlset>

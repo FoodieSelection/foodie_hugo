@@ -7,7 +7,7 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-06"
+dateModified: "2025-07-07"
 city: "澎湖縣"
 district: "馬公市"
 address: "880澎湖縣馬公市三民路45號"

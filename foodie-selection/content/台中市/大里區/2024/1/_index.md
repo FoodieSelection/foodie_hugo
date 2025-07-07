@@ -6,7 +6,7 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-06"
+dateModified: "2025-07-07"
 city: "台中市"
 district: "大里區"
 award: "所有獎項"

@@ -7,7 +7,7 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-06"
+dateModified: "2025-07-07"
 city: "花蓮縣"
 district: "光復鄉"
 address: "花蓮縣光復鄉大全街62巷16號"

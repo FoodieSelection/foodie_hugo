@@ -6,7 +6,7 @@ keywords:
   - 台灣美食
   - 美食精選
 datePublished: "2025-06-30"
-dateModified: "2025-07-06"
+dateModified: "2025-07-07"
 city: "高雄市"
 district: "苓雅區"
 award: "台北國際牛肉麵節"
