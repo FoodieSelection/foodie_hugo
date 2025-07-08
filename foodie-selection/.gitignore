@@ -1,3 +1,5 @@
 public/
-scripts/dbexport.bat
+scripts/0dbexport.bat
 content/
+backup/
+data/
