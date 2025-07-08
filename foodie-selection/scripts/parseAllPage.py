@@ -174,7 +174,7 @@ restaurants:
     phone: "{rest.get('phone', '')}"
     geo: "{rest.get('geo', '')}"
     link: "{rest.get('city', '')}/{rest.get('district', '')}/{replace_name}"
-    google_map: "{rest.get('google_map', '')}"
+    googleMap: "{rest.get('googleMap', '')}"
     footinder: "{rest.get('footinder', '')}"
     award:
 '''

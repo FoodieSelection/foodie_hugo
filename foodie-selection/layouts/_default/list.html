@@ -54,8 +54,8 @@
         {{- if $r.phone }}
         "telephone": {{ $r.phone }},
         {{- end }}
-        {{- if $r.google_map }}
-        "hasMap": {{ $r.google_map }},
+        {{- if $r.googleMap }}
+        "hasMap": {{ $r.googleMap }},
         {{- end }}
         {{- $sameAs := slice -}}
         {{- if $r.footinder }}{{ $sameAs = $sameAs | append $r.footinder }}{{ end -}}
@@ -205,8 +205,8 @@
               {{ end }}
             </div>
             <div class="restaurant-actions">
-              {{ if .google_map }}
-              <a href="{{ .google_map }}" target="_blank" class="btn btn-primary">
+              {{ if .googleMap }}
+              <a href="{{ .googleMap }}" target="_blank" class="btn btn-primary">
                 Google 地圖
               </a>
               {{ end }}

@@ -27,7 +27,7 @@ def generate_md_content(restaurant, today):
         f'address: "{restaurant.get("address", "")}"',
         f'phone: "{restaurant.get("phone", "")}"',
         f'geo: "{restaurant.get("geo", "")}"',
-        f'google_map: "{restaurant.get("google_map", "")}"',
+        f'googleMap: "{restaurant.get("googleMap", "")}"',
         f'footinder: "{restaurant.get("footinder", "")}"',
         f'official: "{restaurant.get("official", "")}"',
         'award:'
@@ -51,11 +51,11 @@ def generate_md_content(restaurant, today):
                     md_lines.append(f'          - "{d}"')
             elif name == '台北國際牛肉麵節':
                 md_lines.append('      - group: "{}"'.format(a.get('group', '')))
-                md_lines.append('        cooking_style: "{}"'.format(a.get('cooking_style', '')))
+                md_lines.append('        cookingStyle: "{}"'.format(a.get('cookingStyle', '')))
                 md_lines.append('        rank: "{}"'.format(a.get('rank', '')))
             elif name == '夜市王':
                 md_lines.append('      - nightMarket: "{}"'.format(a.get('nightMarket', '')))
-                md_lines.append('        food_type: "{}"'.format(a.get('food_type', '')))
+                md_lines.append('        foodType: "{}"'.format(a.get('foodType', '')))
                 md_lines.append('        rank: "{}"'.format(a.get('rank', '')))
             else:
                 # 若有其他獎項結構，可直接序列化欄位

@@ -1,0 +1,1398 @@
+[
+    {
+        "city": "花蓮縣",
+        "district": "花蓮市",
+        "name": "宜蘭香炸螃蟹(東大門店)(C17)",
+        "foodType": [
+            "夜市",
+            "雞排",
+            "炸物"
+        ],
+        "address": "花蓮縣花蓮市中山路38號C17",
+        "phone": "0975333282",
+        "geo": "23.973079728771175, 121.61223292894208",
+        "googleMap": "https://maps.app.goo.gl/Emif3Ufww9iNaMKr7",
+        "footinder": "https://footinder.com.tw/%E8%8A%B1%E8%93%AE%E7%B8%A3%E8%8A%B1%E8%93%AE%E5%B8%82/164553/",
+        "official": "https://www.facebook.com/p/%E8%8A%B1%E8%93%AE-%E5%AE%9C%E8%98%AD%E9%A6%99%E7%82%B8%E8%9E%83%E8%9F%B9-%E6%9D%B1%E5%A4%A7%E9%96%80%E5%BA%97%E6%85%B6%E8%B1%90%E5%BA%97-100063555711992/",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "東大門夜市",
+                "foodType": "雞排",
+                "rank": "第二名"
+            }
+        ]
+    },
+    {
+        "city": "花蓮縣",
+        "district": "花蓮市",
+        "name": "蚵仔酥煎(E28)",
+        "foodType": [
+            "夜市",
+            "蚵仔煎"
+        ],
+        "address": "花蓮縣花蓮市東大門夜市原住民一條街E28",
+        "phone": "",
+        "geo": "23.971772714571323, 121.61199023252192",
+        "googleMap": "https://maps.app.goo.gl/eM7i71RvrgRfzATZA",
+        "footinder": "https://footinder.com.tw/%E8%8A%B1%E8%93%AE%E7%B8%A3%E8%8A%B1%E8%93%AE%E5%B8%82/362065/",
+        "official": "",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "東大門夜市",
+                "foodType": "蚵仔煎",
+                "rank": "第四名"
+            }
+        ]
+    },
+    {
+        "city": "花蓮縣",
+        "district": "花蓮市",
+        "name": "夜市王 玉里臭豆腐(F29)",
+        "foodType": [
+            "夜市",
+            "臭豆腐"
+        ],
+        "address": "花蓮縣花蓮市東大門各省一條街F29",
+        "phone": "",
+        "geo": "23.972899636757898, 121.6098427957398",
+        "googleMap": "https://maps.app.goo.gl/qGcw8h6uSpeLq8iUA",
+        "footinder": "https://footinder.com.tw/%E8%8A%B1%E8%93%AE%E7%B8%A3%E8%8A%B1%E8%93%AE%E5%B8%82/362051/",
+        "official": "",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "東大門夜市",
+                "foodType": "臭豆腐",
+                "rank": "第一名"
+            }
+        ]
+    },
+    {
+        "city": "花蓮縣",
+        "district": "花蓮市",
+        "name": "原香嘟論竹筒飯(D21)",
+        "foodType": [
+            "夜市"
+        ],
+        "address": "花蓮縣花蓮市中山路50號原住民一條街D21",
+        "phone": "0955731462",
+        "geo": "23.97195944554577, 121.61206515846527",
+        "googleMap": "https://maps.app.goo.gl/m1UxLXjWrMLxhpbg6",
+        "footinder": "https://footinder.com.tw/%E8%8A%B1%E8%93%AE%E7%B8%A3%E8%8A%B1%E8%93%AE%E5%B8%82/362059/",
+        "official": "https://www.facebook.com/TORONandHEMAY/",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "東大門夜市",
+                "foodType": "甜點",
+                "rank": "第六名"
+            }
+        ]
+    },
+    {
+        "city": "花蓮縣",
+        "district": "花蓮市",
+        "name": "蛤蜊波特熱炒燒烤Bar(哈力坡特熱炒燒烤)(C23)",
+        "foodType": [
+            "夜市"
+        ],
+        "address": "花蓮縣花蓮市中山路福町夜市中山門C23",
+        "phone": "0925557507",
+        "geo": "23.97299292324586, 121.6121383447965",
+        "googleMap": "https://maps.app.goo.gl/q3AAsAdPSVpgp4RL6",
+        "footinder": "https://footinder.com.tw/%E8%8A%B1%E8%93%AE%E7%B8%A3%E8%8A%B1%E8%93%AE%E5%B8%82/104432/",
+        "official": "https://www.facebook.com/p/%E8%9B%A4%E8%9C%8A%E6%B3%A2%E7%89%B9-%E6%B5%B7%E9%AE%AE%E7%86%B1%E7%82%92%E5%95%A4%E9%85%92Bar-%E8%8A%B1%E8%93%AE%E6%9D%B1%E5%A4%A7%E9%96%80%E5%A4%9C%E5%B8%82%E4%BA%BA%E6%B0%A3%E7%BE%8E%E9%A3%9F%E5%B0%8F%E5%90%83%E9%A4%90%E9%A4%A8-100057456159104/",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "東大門夜市",
+                "foodType": "牛肉",
+                "rank": "第六名"
+            }
+        ]
+    },
+    {
+        "city": "花蓮縣",
+        "district": "花蓮市",
+        "name": "苡娜廚房(夜市王白帶魚卷)(E6)",
+        "foodType": [
+            "夜市"
+        ],
+        "address": "花蓮縣花蓮市中山路福町夜市中山門E6",
+        "phone": "",
+        "geo": "23.972161470665803, 121.61263639038108",
+        "googleMap": "https://maps.app.goo.gl/9TAwfV8FBdSsy4JZ8",
+        "footinder": "https://footinder.com.tw/%E8%8A%B1%E8%93%AE%E7%B8%A3%E8%8A%B1%E8%93%AE%E5%B8%82/362085/",
+        "official": "https://www.facebook.com/Sefi.Ni.Ina/",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "東大門夜市",
+                "foodType": "海鮮",
+                "rank": "第四名"
+            }
+        ]
+    },
+    {
+        "city": "花蓮縣",
+        "district": "花蓮市",
+        "name": "阿讓原美味月桃飯(E35)",
+        "foodType": [
+            "夜市"
+        ],
+        "address": "花蓮縣花蓮市中山路50號E35",
+        "phone": "",
+        "geo": "23.971277423619906, 121.6113008085267",
+        "googleMap": "https://maps.app.goo.gl/j5CJ431HavqYqvTW8",
+        "footinder": "",
+        "official": "",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "東大門夜市",
+                "foodType": "一飯一湯",
+                "rank": "第一名"
+            }
+        ]
+    },
+    {
+        "city": "花蓮縣",
+        "district": "花蓮市",
+        "name": "烤哇咦燒烤(A32)",
+        "foodType": [
+            "夜市"
+        ],
+        "address": "花蓮縣花蓮市中山路50號A32",
+        "phone": "",
+        "geo": "23.97266953227401, 121.61168028777934",
+        "googleMap": "https://maps.app.goo.gl/oxXJ9Na74Cc69L2j9",
+        "footinder": "https://footinder.com.tw/%E8%8A%B1%E8%93%AE%E7%B8%A3%E8%8A%B1%E8%93%AE%E5%B8%82/104206/",
+        "official": "",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "東大門夜市",
+                "foodType": "一飯一湯",
+                "rank": "第一名"
+            }
+        ]
+    },
+    {
+        "city": "花蓮縣",
+        "district": "花蓮市",
+        "name": "福町本舖檸檬汁(A35)",
+        "foodType": [
+            "夜市"
+        ],
+        "address": "花蓮縣花蓮市970東大門福町夜市A35",
+        "phone": "0927623811",
+        "geo": "23.972698848244583, 121.61173772334215",
+        "googleMap": "https://maps.app.goo.gl/3Vi5VMSomtBH2dHq5",
+        "footinder": "https://footinder.com.tw/%E8%8A%B1%E8%93%AE%E7%B8%A3%E8%8A%B1%E8%93%AE%E5%B8%82/170109/",
+        "official": "https://www.facebook.com/p/%E8%8A%B1%E8%93%AE%E4%BA%BA%E6%B0%A3%E7%BE%8E%E9%A3%9F%E5%B0%8F%E5%90%83%E9%A3%B2%E6%96%99-%E7%A6%8F%E7%94%BA%E6%9C%AC%E8%88%96%E6%AA%B8%E6%AA%AC%E6%B1%81-%E6%9D%B1%E5%A4%A7%E9%96%80%E8%8A%B1%E8%93%AE%E7%B8%BD%E5%BA%97-100063655525762/",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "東大門夜市",
+                "foodType": "老字號",
+                "rank": "第一名"
+            }
+        ]
+    },
+    {
+        "city": "花蓮縣",
+        "district": "花蓮市",
+        "name": "強蛋餅(E79)",
+        "foodType": [
+            "夜市",
+            "蛋餅"
+        ],
+        "address": "花蓮縣花蓮市明義街E79",
+        "phone": "0922288775",
+        "geo": "23.97085864409738, 121.61065466838497",
+        "googleMap": "https://maps.app.goo.gl/imv7R7SK6SbX8nix5",
+        "footinder": "https://footinder.com.tw/%E8%8A%B1%E8%93%AE%E7%B8%A3%E8%8A%B1%E8%93%AE%E5%B8%82/121700/",
+        "official": "https://www.facebook.com/profile.php?id=100057469899289",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "東大門夜市",
+                "foodType": "新創料理",
+                "rank": "第二名"
+            }
+        ]
+    },
+    {
+        "city": "高雄市",
+        "district": "左營區",
+        "name": "天使雞排-瑞豐店",
+        "foodType": [
+            "夜市",
+            "雞排"
+        ],
+        "address": "高雄市左營區裕誠路南屏路",
+        "phone": "0976594881",
+        "geo": "22.665884574256552, 120.29924021723622",
+        "googleMap": "https://maps.app.goo.gl/1poRiAFxUCNe6Zm17",
+        "footinder": "https://footinder.com.tw/%E9%AB%98%E9%9B%84%E5%B8%82%E9%BC%93%E5%B1%B1%E5%8D%80/109326/",
+        "official": "https://www.facebook.com/ANGEL594881/",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "瑞豐夜市",
+                "foodType": "雞排",
+                "rank": "第四名"
+            }
+        ]
+    },
+    {
+        "city": "高雄市",
+        "district": "左營區",
+        "name": "瑞豐昌海鮮燒烤",
+        "foodType": [
+            "夜市",
+            "蚵仔煎"
+        ],
+        "address": "高雄市左營區裕誠路南屏路",
+        "phone": "0986156166",
+        "geo": "22.666589033186966, 120.29936425568603",
+        "googleMap": "https://maps.app.goo.gl/EF5W9DTddxFkzhev6",
+        "footinder": "https://footinder.com.tw/%E9%AB%98%E9%9B%84%E5%B8%82%E5%B7%A6%E7%87%9F%E5%8D%80/362035/",
+        "official": "",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "瑞豐夜市",
+                "foodType": "蚵仔煎",
+                "rank": "第一名"
+            }
+        ]
+    },
+    {
+        "city": "高雄市",
+        "district": "左營區",
+        "name": "好福氣臭豆腐",
+        "foodType": [
+            "夜市",
+            "臭豆腐"
+        ],
+        "address": "高雄市左營區裕誠路南屏路",
+        "phone": "",
+        "geo": "22.666020047832873, 120.29934782534471",
+        "googleMap": "https://maps.app.goo.gl/x8yfcqZSwZxozBhZ7",
+        "footinder": "",
+        "official": "",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "瑞豐夜市",
+                "foodType": "臭豆腐",
+                "rank": "第七名"
+            }
+        ]
+    },
+    {
+        "city": "高雄市",
+        "district": "左營區",
+        "name": "蘋什麼日式蘋果糖Candy Apple",
+        "foodType": [
+            "夜市",
+            "甜點"
+        ],
+        "address": "高雄市左營區裕誠路154號右邊第十四格中間段面對夜市右邊開始算第三排",
+        "phone": "0939554312",
+        "geo": "22.665909784448743, 120.299856339183",
+        "googleMap": "https://maps.app.goo.gl/8PqsdDRr95J1yEW4A",
+        "footinder": "https://footinder.com.tw/%E9%AB%98%E9%9B%84%E5%B8%82%E5%B7%A6%E7%87%9F%E5%8D%80/362053/",
+        "official": "https://www.instagram.com/sweet_candy_apple_",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "瑞豐夜市",
+                "foodType": "甜點",
+                "rank": "第七名"
+            }
+        ]
+    },
+    {
+        "city": "高雄市",
+        "district": "左營區",
+        "name": "長紅牛排 EVER RED Steakhouse",
+        "foodType": [
+            "夜市"
+        ],
+        "address": "高雄市左營區裕誠路南屏路",
+        "phone": "0916077225",
+        "geo": "22.666113865045887, 120.30003453773072",
+        "googleMap": "https://maps.app.goo.gl/Awk9bB9Loxb2y7pb6",
+        "footinder": "https://footinder.com.tw/%E9%AB%98%E9%9B%84%E5%B8%82%E5%B7%A6%E7%87%9F%E5%8D%80/362073/",
+        "official": "https://www.facebook.com/EverRedSteakhouse",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "瑞豐夜市",
+                "foodType": "牛肉",
+                "rank": "第五名"
+            }
+        ]
+    },
+    {
+        "city": "高雄市",
+        "district": "左營區",
+        "name": "沖繩酥炸大魷魚",
+        "foodType": [
+            "夜市"
+        ],
+        "address": "高雄市左營區裕誠路南屏路",
+        "phone": "",
+        "geo": "22.666542969242837, 120.29977140075248",
+        "googleMap": "https://maps.app.goo.gl/NVmkXafUByPQzTz16",
+        "footinder": "https://footinder.com.tw/%E9%AB%98%E9%9B%84%E5%B8%82%E5%B7%A6%E7%87%9F%E5%8D%80/109000/",
+        "official": "https://www.facebook.com/profile.php?id=100057655651468",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "瑞豐夜市",
+                "foodType": "海鮮",
+                "rank": "第三名"
+            }
+        ]
+    },
+    {
+        "city": "高雄市",
+        "district": "左營區",
+        "name": "阿嬤ㄟ麻油雞飯",
+        "foodType": [
+            "夜市"
+        ],
+        "address": "高雄市左營區裕誠路南屏路",
+        "phone": "0938795280",
+        "geo": "22.666417505890433, 120.29992490739875",
+        "googleMap": "https://maps.app.goo.gl/E4io7fMDtfz7Xf6e9",
+        "footinder": "https://footinder.com.tw/%E9%AB%98%E9%9B%84%E5%B8%82%E9%BC%93%E5%B1%B1%E5%8D%80/120932/",
+        "official": "",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "瑞豐夜市",
+                "foodType": "一飯一湯",
+                "rank": "第二名"
+            }
+        ]
+    },
+    {
+        "city": "高雄市",
+        "district": "左營區",
+        "name": "來吃沙威瑪",
+        "foodType": [
+            "夜市"
+        ],
+        "address": "高雄市左營區裕誠路南屏路",
+        "phone": "0908165665",
+        "geo": "22.66596001902006, 120.29972647159076",
+        "googleMap": "https://maps.app.goo.gl/1ntgoxyk5JkkQ8dy7",
+        "footinder": "https://footinder.com.tw/%E9%AB%98%E9%9B%84%E5%B8%82%E9%BC%93%E5%B1%B1%E5%8D%80/362081/",
+        "official": "https://www.instagram.com/turkish_shawarma_tw/",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "瑞豐夜市",
+                "foodType": "老字號",
+                "rank": "第四名"
+            }
+        ]
+    },
+    {
+        "city": "高雄市",
+        "district": "左營區",
+        "name": "薯小二馬鈴薯煎餅-瑞豐總店",
+        "foodType": [
+            "夜市"
+        ],
+        "address": "高雄市鼓山區裕誠路1128號",
+        "phone": "0905167227",
+        "geo": "22.66658969357535, 120.2998883749046",
+        "googleMap": "https://maps.app.goo.gl/AcXLGes8vHnWKcAU8",
+        "footinder": "https://footinder.com.tw/%E9%AB%98%E9%9B%84%E5%B8%82%E9%BC%93%E5%B1%B1%E5%8D%80/362077/",
+        "official": "https://www.instagram.com/two.littlepotatoess/",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "瑞豐夜市",
+                "foodType": "新創料理",
+                "rank": "第三名"
+            }
+        ]
+    },
+    {
+        "city": "新北市",
+        "district": "永和區",
+        "name": "成銘月亮蝦餅",
+        "foodType": [
+            "夜市"
+        ],
+        "address": "新北市永和區保平路18巷2號",
+        "phone": "0979888215",
+        "geo": "25.00835352193154, 121.51146774306527",
+        "googleMap": "https://maps.app.goo.gl/6JugaaFyeRSPZ2uu5",
+        "footinder": "https://footinder.com.tw/%E6%96%B0%E5%8C%97%E5%B8%82%E6%B0%B8%E5%92%8C%E5%8D%80/362039/",
+        "official": "https://www.instagram.com/chmin888/",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "樂華夜市",
+                "foodType": "雞排",
+                "rank": "第六名"
+            },
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "樂華夜市",
+                "foodType": "海鮮",
+                "rank": "第二名"
+            }
+        ]
+    },
+    {
+        "city": "新北市",
+        "district": "永和區",
+        "name": "東石蚵仔煎",
+        "foodType": [
+            "夜市"
+        ],
+        "address": "新北市永和區永平路159號",
+        "phone": "",
+        "geo": "25.00865557804342, 121.51078620570179",
+        "googleMap": "https://maps.app.goo.gl/HtU31fXjZG3p5Qqi6",
+        "footinder": "https://footinder.com.tw/%E6%96%B0%E5%8C%97%E5%B8%82%E6%B0%B8%E5%92%8C%E5%8D%80/362045/",
+        "official": "",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "樂華夜市",
+                "foodType": "蚵仔煎",
+                "rank": "第九名"
+            }
+        ]
+    },
+    {
+        "city": "新北市",
+        "district": "永和區",
+        "name": "方家園臭豆腐",
+        "foodType": [
+            "夜市"
+        ],
+        "address": "新北市永和區永平路26號",
+        "phone": "0222319922",
+        "geo": "25.008913667984267, 121.51328997827133",
+        "googleMap": "https://maps.app.goo.gl/bS8PTyzoeAxGKuGo7",
+        "footinder": "https://footinder.com.tw/%E6%96%B0%E5%8C%97%E5%B8%82%E6%B0%B8%E5%92%8C%E5%8D%80/362067/",
+        "official": "",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "樂華夜市",
+                "foodType": "臭豆腐",
+                "rank": "第二名"
+            }
+        ]
+    },
+    {
+        "city": "新北市",
+        "district": "永和區",
+        "name": "小鹿梅花糕樂華店",
+        "foodType": [
+            "夜市"
+        ],
+        "address": "新北市永和區永平路84號號前",
+        "phone": "",
+        "geo": "25.008618098237566, 121.51218146612096",
+        "googleMap": "https://maps.app.goo.gl/kF8x3pASPzvGhKxTA",
+        "footinder": "https://footinder.com.tw/%E6%96%B0%E5%8C%97%E5%B8%82%E6%B0%B8%E5%92%8C%E5%8D%80/362069/",
+        "official": "https://www.instagram.com/deercake2024",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "樂華夜市",
+                "foodType": "甜點",
+                "rank": "第三名"
+            }
+        ]
+    },
+    {
+        "city": "新北市",
+        "district": "永和區",
+        "name": "阿泰鐵板燒/牛排",
+        "foodType": [
+            "夜市"
+        ],
+        "address": "新北市永和區保平路18巷21號",
+        "phone": "0286603456",
+        "geo": "25.00797063502691, 121.51187453749408",
+        "googleMap": "https://maps.app.goo.gl/qSCPEnuUdzWHTxW19",
+        "footinder": "https://footinder.com.tw/%e6%96%b0%e5%8c%97%e5%b8%82%e6%b0%b8%e5%92%8c%e5%8d%80/7425/",
+        "official": "",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "樂華夜市",
+                "foodType": "牛肉",
+                "rank": "第四名"
+            }
+        ]
+    },
+    {
+        "city": "台中市",
+        "district": "西屯區",
+        "name": "逢甲發倆醬烤雞排（夯雞排）",
+        "foodType": [
+            "夜市"
+        ],
+        "address": "台中市西屯區慶和街92-1號",
+        "phone": "0983687249",
+        "geo": "24.176052892971956, 120.64654193851347",
+        "googleMap": "https://maps.app.goo.gl/NatUGxCFwKhp8Gw9A",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E8%A5%BF%E5%B1%AF%E5%8D%80/362041/",
+        "official": "https://www.facebook.com/profile.php?id=61551905487137",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "逢甲夜市",
+                "foodType": "雞排",
+                "rank": "第九名"
+            }
+        ]
+    },
+    {
+        "city": "台中市",
+        "district": "西屯區",
+        "name": "嵐豐火烤魚",
+        "foodType": [
+            "夜市"
+        ],
+        "address": "台中市西屯區逢甲路20巷8號",
+        "phone": "",
+        "geo": "24.179350592324464, 120.64580755155393",
+        "googleMap": "https://maps.app.goo.gl/i1cEpW2D1nyG3uf57",
+        "footinder": "",
+        "official": "",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "逢甲夜市",
+                "foodType": "蚵仔煎",
+                "rank": "第六名"
+            }
+        ]
+    },
+    {
+        "city": "台中市",
+        "district": "西屯區",
+        "name": "台中甜不辣 逢甲臭豆腐",
+        "foodType": [
+            "夜市"
+        ],
+        "address": "台中市西屯區文華路71號D1",
+        "phone": "",
+        "geo": "24.177482334013394, 120.64628614158246",
+        "googleMap": "https://maps.app.goo.gl/MexQMLWA1L2hVbrM6",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E8%A5%BF%E5%B1%AF%E5%8D%80/362049/",
+        "official": "",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "逢甲夜市",
+                "foodType": "臭豆腐",
+                "rank": "第八名"
+            }
+        ]
+    },
+    {
+        "city": "台中市",
+        "district": "北區",
+        "name": "一中8兩碳烤雞排",
+        "foodType": [
+            "夜市"
+        ],
+        "address": "台中市北區尊賢街9號",
+        "phone": "0923177364 ",
+        "geo": "24.149081762910342, 120.68496511081464",
+        "googleMap": "https://maps.app.goo.gl/udJuSREHVQJeAXS67",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8C%97%E5%8D%80/168283/",
+        "official": "https://www.facebook.com/8BQChicken/",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "一中街夜市",
+                "foodType": "雞排",
+                "rank": "第五名"
+            }
+        ]
+    },
+    {
+        "city": "台中市",
+        "district": "北區",
+        "name": "一中蠔大一口-蚵蛋燒",
+        "foodType": [
+            "夜市"
+        ],
+        "address": "台中市北區一中街261號",
+        "phone": "0956118020",
+        "geo": "24.153726894209537, 120.68673547961365",
+        "googleMap": "https://maps.app.goo.gl/bbLmv7W9LovuJQGb6",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8C%97%E5%8D%80/362061/",
+        "official": "https://www.instagram.com/kirk791205/",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "一中街夜市",
+                "foodType": "蚵仔煎",
+                "rank": "第二名"
+            }
+        ]
+    },
+    {
+        "city": "台中市",
+        "district": "北區",
+        "name": "手工臭豆腐",
+        "foodType": [
+            "夜市"
+        ],
+        "address": "台中市北區一中街21-2號",
+        "phone": "0422234614",
+        "geo": "24.14723632436117, 120.68414831318003",
+        "googleMap": "https://maps.app.goo.gl/5ianHzWsDEYM4khT9",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8C%97%E5%8D%80/362055/",
+        "official": "",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "一中街夜市",
+                "foodType": "臭豆腐",
+                "rank": "第三名"
+            }
+        ]
+    },
+    {
+        "city": "台中市",
+        "district": "北區",
+        "name": "一中豐仁冰",
+        "foodType": [
+            "夜市"
+        ],
+        "address": "台中市北區育才街3巷4-6號",
+        "phone": "0972371659",
+        "geo": "24.148996881217798, 120.68655185208956",
+        "googleMap": "https://maps.app.goo.gl/XbpRUoLBX6qc213W6",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8C%97%E5%8D%80/362057/",
+        "official": "https://www.facebook.com/fengren1946",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "一中街夜市",
+                "foodType": "甜點",
+                "rank": "第一名"
+            }
+        ]
+    },
+    {
+        "city": "台中市",
+        "district": "北區",
+        "name": "蘇坤蔚牛排 Sukhumvit STEAK",
+        "foodType": [
+            "夜市"
+        ],
+        "address": "台中市北區一中街99號",
+        "phone": "0422250003",
+        "geo": "24.150229570482065, 120.68537062420684",
+        "googleMap": "https://maps.app.goo.gl/uXV9DoCZHr1XCe5r6",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8C%97%E5%8D%80/362075/",
+        "official": "https://www.facebook.com/SukhumvitSTEAK",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "一中街夜市",
+                "foodType": "牛肉",
+                "rank": "第七名"
+            }
+        ]
+    },
+    {
+        "city": "台中市",
+        "district": "北區",
+        "name": "益香轟炸魷魚",
+        "foodType": [
+            "夜市"
+        ],
+        "address": "台中市北區一中街43號",
+        "phone": "",
+        "geo": "24.148967855271774, 120.68493632362058",
+        "googleMap": "https://maps.app.goo.gl/Uu6vQAToKHgMJorYA",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8C%97%E5%8D%80/362083/",
+        "official": "",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "一中街夜市",
+                "foodType": "海鮮",
+                "rank": "第四名"
+            }
+        ]
+    },
+    {
+        "city": "台中市",
+        "district": "北區",
+        "name": "食の初-炸蛋雞魯飯職人專門店",
+        "foodType": [
+            "夜市"
+        ],
+        "address": "台中市北區三民路三段126巷3號1F",
+        "phone": "",
+        "geo": "24.15019702388631, 120.68481586986209",
+        "googleMap": "https://maps.app.goo.gl/nyHkGoFcPoxnHrGCA",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8C%97%E5%8D%80/362079/",
+        "official": "https://www.facebook.com/profile.php?id=61552642976611",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "一中街夜市",
+                "foodType": "一飯一湯",
+                "rank": "第三名"
+            }
+        ]
+    },
+    {
+        "city": "台中市",
+        "district": "北區",
+        "name": "盧の堡半月燒餡餅",
+        "foodType": [
+            "夜市"
+        ],
+        "address": "台中市北區育才南街31號",
+        "phone": "0915722388",
+        "geo": "24.14807353852073, 120.68537514286655",
+        "googleMap": "https://maps.app.goo.gl/Dfp73uzswcCyxUMA9",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8C%97%E5%8D%80/362087/",
+        "official": "",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "一中街夜市",
+                "foodType": "老字號",
+                "rank": "第三名"
+            }
+        ]
+    },
+    {
+        "city": "台中市",
+        "district": "北區",
+        "name": "桐生日式可麗餅",
+        "foodType": [
+            "夜市"
+        ],
+        "address": "台中市北區一中街179巷1號",
+        "phone": "0422252665",
+        "geo": "24.151964710260586, 120.68604025849613",
+        "googleMap": "https://maps.app.goo.gl/z1LyQ2dEUJ4BTfWt9",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8C%97%E5%8D%80/137870/",
+        "official": "https://www.kiryucrepe.com/",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "一中街夜市",
+                "foodType": "新創料理",
+                "rank": "第四名"
+            }
+        ]
+    },
+    {
+        "city": "台南市",
+        "district": "東區",
+        "name": "德聖炭烤醬燒雞排（大東夜市）",
+        "foodType": [
+            "夜市"
+        ],
+        "address": "台南市東區林森路一段701號",
+        "phone": "0927206816",
+        "geo": "22.982780458518466, 120.21925601461872",
+        "googleMap": "https://maps.app.goo.gl/yxsZqTybYYnbrH438",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8d%97%e5%b8%82%e6%9d%b1%e5%8d%80/362037/",
+        "official": "https://www.facebook.com/p/%E5%BE%B7%E8%81%96%E9%86%AC%E7%87%92%E9%9B%9E%E6%8E%92-100069026515008/",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "大東夜市",
+                "foodType": "雞排",
+                "rank": "第三名"
+            }
+        ]
+    },
+    {
+        "city": "台南市",
+        "district": "東區",
+        "name": "四草蚵仔煎海產粥",
+        "foodType": [
+            "夜市"
+        ],
+        "address": "台南市東區林森路一段316號",
+        "phone": "0915809885",
+        "geo": "22.98290440365182, 120.21947612764448",
+        "googleMap": "https://maps.app.goo.gl/wH61jw2Y4JkMKwXn6",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8D%97%E5%B8%82%E6%9D%B1%E5%8D%80/114425/",
+        "official": "https://www.facebook.com/p/%E5%9B%9B%E8%8D%89%E8%9A%B5%E4%BB%94%E7%85%8E%E6%A0%AA%E5%BC%8F%E6%9C%83%E7%A4%BE-100054660180752/",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "大東夜市",
+                "foodType": "蚵仔煎",
+                "rank": "第七名"
+            }
+        ]
+    },
+    {
+        "city": "台南市",
+        "district": "東區",
+        "name": "蔡家豬血湯臭豆腐",
+        "foodType": [
+            "夜市"
+        ],
+        "address": "台南市東區林森路一段276號",
+        "phone": "",
+        "geo": "22.982902533852066, 120.21947090638328",
+        "googleMap": "https://maps.app.goo.gl/bYtWBt9Pxns7qPVU8",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8D%97%E5%B8%82%E6%9D%B1%E5%8D%80/362063/",
+        "official": "",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "大東夜市",
+                "foodType": "臭豆腐",
+                "rank": "第九名"
+            }
+        ]
+    },
+    {
+        "city": "台南市",
+        "district": "北區",
+        "name": "碳烤雄大香雞排",
+        "foodType": [
+            "夜市"
+        ],
+        "address": "台南市北區海安路三段533號",
+        "phone": "0938553870",
+        "geo": "23.010591297064956, 120.19969766137017",
+        "googleMap": "https://maps.app.goo.gl/zvuLMnp7WK7TAmG77",
+        "footinder": "",
+        "official": "https://www.facebook.com/profile.php?id=61569993432541",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "花園夜市",
+                "foodType": "雞排",
+                "rank": "第八名"
+            }
+        ]
+    },
+    {
+        "city": "台南市",
+        "district": "北區",
+        "name": "阿三哥蚵仔煎",
+        "foodType": [
+            "夜市"
+        ],
+        "address": "台南市北區海安路三段533號",
+        "phone": "",
+        "geo": "23.01048868287764, 120.19970718673113",
+        "googleMap": "https://maps.app.goo.gl/4GXs8fSc3Vyh5GdF7",
+        "footinder": "",
+        "official": "https://www.facebook.com/p/%E9%98%BF%E4%B8%89%E5%93%A5%E8%9A%B5%E4%BB%94%E7%85%8E%E8%98%BF%E8%94%94%E7%B3%95-100054472284689/",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "花園夜市",
+                "foodType": "蚵仔煎",
+                "rank": "第三名"
+            }
+        ]
+    },
+    {
+        "city": "台南市",
+        "district": "北區",
+        "name": "延記臭豆腐",
+        "foodType": [
+            "夜市"
+        ],
+        "address": "台南市北區海安路三段533號",
+        "phone": "0910098199",
+        "geo": "23.010608493924156, 120.19947294466562",
+        "googleMap": "https://maps.app.goo.gl/KmnjJVWcw2nkkFDj8",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8D%97%E5%B8%82%E5%8C%97%E5%8D%80/110336/",
+        "official": "https://www.facebook.com/p/%E5%BB%B6%E8%A8%98%E8%87%AD%E8%B1%86%E8%85%90-100057585964164/",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "花園夜市",
+                "foodType": "臭豆腐",
+                "rank": "第五名"
+            }
+        ]
+    },
+    {
+        "city": "台南市",
+        "district": "北區",
+        "name": "濃五吉拿棒",
+        "foodType": [
+            "夜市"
+        ],
+        "address": "台南市北區海安路三段533號花園夜市18排34號",
+        "phone": "",
+        "geo": "23.011101775738684, 120.20032064145462",
+        "googleMap": "https://maps.app.goo.gl/UwQGtrZ2g41wMSLC6",
+        "footinder": "",
+        "official": "https://www.instagram.com/nongwu_churros/",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "花園夜市",
+                "foodType": "甜點",
+                "rank": "第五名"
+            }
+        ]
+    },
+    {
+        "city": "台南市",
+        "district": "北區",
+        "name": "全壘打牛排",
+        "foodType": [
+            "夜市"
+        ],
+        "address": "台南市北區海安路三段533號",
+        "phone": "",
+        "geo": "23.010433694903504, 120.20007547175955",
+        "googleMap": "https://maps.app.goo.gl/eXKJFwKWStAqW89Q9",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8D%97%E5%B8%82%E5%8C%97%E5%8D%80/362071/",
+        "official": "https://www.facebook.com/homerunsteak.nightmarket/",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "花園夜市",
+                "foodType": "牛肉",
+                "rank": "第一名"
+            }
+        ]
+    },
+    {
+        "city": "台南市",
+        "district": "北區",
+        "name": "魷皇駕到",
+        "foodType": [
+            "夜市"
+        ],
+        "address": "台南市北區海安路三段533號",
+        "phone": "",
+        "geo": "23.011102702508033, 120.20032149827782",
+        "googleMap": "https://maps.app.goo.gl/KbZRVWhBJpHAC5fq5",
+        "footinder": "",
+        "official": "https://www.facebook.com/p/%E9%AD%B7%E7%9A%87%E9%A7%95%E5%88%B0-100063970423098",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "花園夜市",
+                "foodType": "海鮮",
+                "rank": "第六名"
+            }
+        ]
+    },
+    {
+        "city": "台北市",
+        "district": "中正區",
+        "name": "好吃炸雞",
+        "foodType": [
+            "夜市"
+        ],
+        "address": "台北市中正區中華路二段315巷41號",
+        "phone": "0223055992",
+        "geo": "25.028843081272893, 121.5063911104066",
+        "googleMap": "https://maps.app.goo.gl/ZxNr3GvjPi7f8y5A9",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e6%ad%a3%e5%8d%80/161204/",
+        "official": "",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "南機場夜市",
+                "foodType": "雞排",
+                "rank": "第一名"
+            }
+        ]
+    },
+    {
+        "city": "台北市",
+        "district": "中正區",
+        "name": "銘鄉豬高飯",
+        "foodType": [
+            "夜市"
+        ],
+        "address": "台北市中正區中華路二段311巷",
+        "phone": "0930840640",
+        "geo": "25.028710849274624, 121.50622132683642",
+        "googleMap": "https://maps.app.goo.gl/hxjeQFv68PfFHZUL8",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80/362047/",
+        "official": "https://www.facebook.com/profile.php?id=100069267175195",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "南機場夜市",
+                "foodType": "蚵仔煎",
+                "rank": "第八名"
+            }
+        ]
+    },
+    {
+        "city": "台北市",
+        "district": "中正區",
+        "name": "禾甲蒸豆腐食堂",
+        "foodType": [
+            "夜市"
+        ],
+        "address": "台北市中正區中華路二段313巷18號",
+        "phone": "0223019448",
+        "geo": "25.02834367699148, 121.50644058142598",
+        "googleMap": "https://maps.app.goo.gl/you287hw5x4W3qDh7",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e6%ad%a3%e5%8d%80/34738/",
+        "official": "https://www.facebook.com/p/%E7%A6%BE%E7%94%B2-100063825320865/",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "南機場夜市",
+                "foodType": "臭豆腐",
+                "rank": "第三名"
+            }
+        ]
+    },
+    {
+        "city": "台北市",
+        "district": "中正區",
+        "name": "英姐黑糖珍珠鮮奶",
+        "foodType": [
+            "夜市"
+        ],
+        "address": "台北市中正區中華路二段309巷22號",
+        "phone": "0932292995",
+        "geo": "25.02902115151182, 121.50623058529553",
+        "googleMap": "https://maps.app.goo.gl/AAAc8axcVs1rQK7N9",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80/16435/",
+        "official": "https://www.facebook.com/profile.php?id=100063909369643",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "南機場夜市",
+                "foodType": "甜點",
+                "rank": "第二名"
+            }
+        ]
+    },
+    {
+        "city": "台北市",
+        "district": "中正區",
+        "name": "胖媽大塊牛肉麵",
+        "foodType": [
+            "夜市"
+        ],
+        "address": "台北市中正區中華路二段307巷5號",
+        "phone": "0223092988",
+        "geo": "25.028998622777774, 121.50540516290361",
+        "googleMap": "https://maps.app.goo.gl/9MVNXLPHVFG9DKNj7",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80/52376/",
+        "official": "https://www.facebook.com/profile.php?id=100057698280381",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "南機場夜市",
+                "foodType": "牛肉",
+                "rank": "第三名"
+            }
+        ]
+    },
+    {
+        "city": "台北市",
+        "district": "中正區",
+        "name": "海王烤魚",
+        "foodType": [
+            "夜市"
+        ],
+        "address": "台北市中正區中華路二段315巷21號",
+        "phone": "0978205119",
+        "geo": "25.028401286776475, 121.50679166164532",
+        "googleMap": "https://maps.app.goo.gl/Q537etAtw4w5cdYy8",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80/362089/",
+        "official": "",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "南機場夜市",
+                "foodType": "海鮮",
+                "rank": "第一名"
+            }
+        ]
+    },
+    {
+        "city": "台北市",
+        "district": "中正區",
+        "name": "曉迪筒仔米糕",
+        "foodType": [
+            "夜市"
+        ],
+        "address": "台北市中正區中華路二段307巷22號",
+        "phone": "0935297218",
+        "geo": "25.029210300910854, 121.50608903140437",
+        "googleMap": "https://maps.app.goo.gl/BZHyCdAztxXTB8fs5",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80/107379/",
+        "official": "https://www.instagram.com/xiaodi_taipei/",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "南機場夜市",
+                "foodType": "一飯一湯",
+                "rank": "第四名"
+            }
+        ]
+    },
+    {
+        "city": "台北市",
+        "district": "中正區",
+        "name": "饗咬好佳蚵嗲",
+        "foodType": [
+            "夜市"
+        ],
+        "address": "台北市中正區中華路二段315巷4弄",
+        "phone": "0223017039",
+        "geo": "25.028946816401444, 121.5062926490029",
+        "googleMap": "https://maps.app.goo.gl/bkPyU9uAjAtzuAof6",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e4%b8%ad%e6%ad%a3%e5%8d%80/175422/",
+        "official": "https://www.facebook.com/profile.php?id=100071248564530",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "南機場夜市",
+                "foodType": "老字號",
+                "rank": "第二名"
+            }
+        ]
+    },
+    {
+        "city": "台北市",
+        "district": "中正區",
+        "name": "捲捲村",
+        "foodType": [
+            "夜市"
+        ],
+        "address": "台北市中正區中華路二段313巷5弄20-1號",
+        "phone": "0909353520",
+        "geo": "25.028589285407115, 121.50651110086596",
+        "googleMap": "https://maps.app.goo.gl/bvqdDjeLCw3hrEZHA",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80/119586/",
+        "official": "https://www.facebook.com/rollvillage/",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "南機場夜市",
+                "foodType": "新創料理",
+                "rank": "第一名"
+            }
+        ]
+    },
+    {
+        "city": "台北市",
+        "district": "大同區",
+        "name": "FUN SUN G",
+        "foodType": [
+            "夜市"
+        ],
+        "address": "台北市大同區寧夏夜市071號攤位",
+        "phone": "0988827326",
+        "geo": "25.05621670586894, 121.51545592782904",
+        "googleMap": "https://maps.app.goo.gl/qnCLBPTRvzPjwGy46",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%90%8C%E5%8D%80/129817/",
+        "official": "https://www.facebook.com/profile.php?id=100063696439534",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "寧夏夜市",
+                "foodType": "雞排",
+                "rank": "第六名"
+            }
+        ]
+    },
+    {
+        "city": "台北市",
+        "district": "大同區",
+        "name": "圓環邊蚵仔煎",
+        "foodType": [
+            "夜市"
+        ],
+        "address": "台北市大同區寧夏路46號",
+        "phone": "0225580198",
+        "geo": "25.056406700884107, 121.51528924577278",
+        "googleMap": "https://maps.app.goo.gl/dcsLBAgdZbyVhtkRA",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%90%8C%E5%8D%80/167062/",
+        "official": "https://oystera.com.tw/",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "寧夏夜市",
+                "foodType": "蚵仔煎",
+                "rank": "第五名"
+            }
+        ]
+    },
+    {
+        "city": "台北市",
+        "district": "大同區",
+        "name": "李掌伯",
+        "foodType": [
+            "夜市"
+        ],
+        "address": "台北市大同區寧夏路22之9號",
+        "phone": "0225566466",
+        "geo": "25.055433646860955, 121.51497364019197",
+        "googleMap": "https://maps.app.goo.gl/ohNuvv8QAHSrHU1j9",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%90%8c%e5%8d%80/35027/",
+        "official": "https://www.facebook.com/NingxiaLizhangbo",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "寧夏夜市",
+                "foodType": "臭豆腐",
+                "rank": "第五名"
+            }
+        ]
+    },
+    {
+        "city": "台北市",
+        "district": "大同區",
+        "name": "林振櫂燒麻糬",
+        "foodType": [
+            "夜市"
+        ],
+        "address": "台北市大同區寧夏路97號攤位",
+        "phone": "0936839290",
+        "geo": "25.05598798622284, 121.51532105379347",
+        "googleMap": "https://maps.app.goo.gl/vRnxEvs7Fo93i8mB8",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%90%8C%E5%8D%80/109440/",
+        "official": "https://www.facebook.com/Mochi097",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "寧夏夜市",
+                "foodType": "甜點",
+                "rank": "第四名"
+            }
+        ]
+    },
+    {
+        "city": "台北市",
+        "district": "大同區",
+        "name": "飄香牛肉麵館",
+        "foodType": [
+            "夜市"
+        ],
+        "address": "台北市大同區寧夏路12號1樓",
+        "phone": "0225557638",
+        "geo": "25.054654412880268, 121.51476057728138",
+        "googleMap": "https://maps.app.goo.gl/v7AqZQA1at1RPTEV6",
+        "footinder": "https://footinder.com.tw/%e5%8f%b0%e5%8c%97%e5%b8%82%e5%a4%a7%e5%90%8c%e5%8d%80/30406/",
+        "official": "https://www.facebook.com/a25557638/",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "寧夏夜市",
+                "foodType": "牛肉麵",
+                "rank": "第二名"
+            }
+        ]
+    },
+    {
+        "city": "台北市",
+        "district": "大同區",
+        "name": "先來厚到章魚燒",
+        "foodType": [
+            "夜市"
+        ],
+        "address": "台北市大同區寧夏路007號攤位",
+        "phone": "0900115593",
+        "geo": "25.05686103296426, 121.51557884017375",
+        "googleMap": "https://maps.app.goo.gl/7sfCpfBRAakBzhjh7",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%90%8C%E5%8D%80/362111/",
+        "official": "https://www.facebook.com/p/%E5%85%88%E4%BE%86%E5%8E%9A%E5%88%B0%E7%AB%A0%E9%AD%9A%E7%87%92-100054696013318/",
+        "award": [
+            {
+                "name": "夜市王",
+                "year": 2024,
+                "nightMarket": "寧夏夜市",
+                "foodType": "章魚燒",
+                "rank": "第七名"
+            }
+        ]
+    }
+]

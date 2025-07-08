@@ -1,0 +1,78 @@
+[
+    {
+        "city": "台北市",
+        "district": "松山區",
+        "name": "財神台南擔仔麵",
+        "foodType": [
+            "擔仔麵"
+        ],
+        "address": "105台北市松山區新中街6巷1號",
+        "phone": "0227611887",
+        "geo": "25.058377776565518, 121.56063425882449",
+        "googleMap": "https://maps.app.goo.gl/5wBSGp5uPYXWU14L8",
+        "footinder": "https://footinder.com.tw/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80/33681/",
+        "official": "",
+        "award": [
+            {
+                "name": "500碗",
+                "year": 2024,
+                "count": 3,
+                "dishes": [
+                    "滷肉飯",
+                    "擔仔麵+小菜",
+                    "清湯米粉+天梯"
+                ]
+            }
+        ]
+    },
+    {
+        "city": "台中市",
+        "district": "西區",
+        "name": "功夫上海手工魚丸",
+        "foodType": [
+            "魚丸"
+        ],
+        "address": "403台中市西區中美街380號",
+        "phone": "0932618038",
+        "geo": "24.151936898932465, 120.66027111209435",
+        "googleMap": "https://maps.app.goo.gl/NPhURwbKiCMB4LnZ6",
+        "footinder": "",
+        "official": "",
+        "award": [
+            {
+                "name": "500碗",
+                "year": 2024,
+                "count": 3,
+                "dishes": [
+                    "上海蔥油拌麵",
+                    "白滷豆干"
+                ]
+            }
+        ]
+    },
+    {
+        "city": "彰化縣",
+        "district": "彰化市",
+        "name": "阿添蛤仔麵",
+        "foodType": [
+            "蛤仔麵"
+        ],
+        "address": "500彰化縣彰化市民族路455號",
+        "phone": "047264655",
+        "geo": "24.076232581538346, 120.54011643830387",
+        "googleMap": "https://maps.app.goo.gl/bnjn8NYG8CA5ucnx8",
+        "footinder": "https://footinder.com.tw/%E5%BD%B0%E5%8C%96%E7%B8%A3%E5%BD%B0%E5%8C%96%E5%B8%82/57962/",
+        "official": "",
+        "award": [
+            {
+                "name": "500碗",
+                "year": 2024,
+                "count": 3,
+                "dishes": [
+                    "蛤仔麵",
+                    "骨仔肉湯"
+                ]
+            }
+        ]
+    }
+]

@@ -46,7 +46,7 @@
         {{- end -}}
       ],
       "sameAs": [
-        "{{ .Params.google_map }}",
+        "{{ .Params.googleMap }}",
         "{{ .Params.footinder }}"
       ]
     }
@@ -70,7 +70,7 @@
       {{- end -}}
     ],
     "sameAs": [
-      "{{ .Params.google_map }}",
+      "{{ .Params.googleMap }}",
       "{{ .Params.footinder }}"
     ]
   }
@@ -186,7 +186,7 @@
                 <div class="award-details">
                   <div class="award-detail-item">
                     {{ range .entries }}
-                    <h3 class="award-detail-text">{{ .group }} {{ .cooking_style}} {{ .rank }}</h3>
+                    <h3 class="award-detail-text">{{ .group }} {{ .cookingStyle}} {{ .rank }}</h3>
                     {{ end }}
                   </div>
                 </div>
@@ -206,7 +206,7 @@
                 <div class="award-details">
                   <div class="award-detail-item">
                     {{ range .entries }}
-                    <h3 class="award-detail-text">{{ .nightMarket }} {{ .food_type }} {{ .rank }}</h3>
+                    <h3 class="award-detail-text">{{ .nightMarket }} {{ .foodType }} {{ .rank }}</h3>
                     {{ end }}
                   </div>
                 </div>
@@ -231,8 +231,8 @@
               {{ end }}
             </div>
             <div class="restaurant-actions">
-              {{ if .Params.google_map }}
-              <a href="{{ .Params.google_map }}" target="_blank" class="btn btn-primary">
+              {{ if .Params.googleMap }}
+              <a href="{{ .Params.googleMap }}" target="_blank" class="btn btn-primary">
                 Google 地圖
               </a>
               {{ end }}
