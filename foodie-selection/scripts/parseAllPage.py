@@ -142,10 +142,22 @@ def build_output_path(city, district, award, year, page):
 
 # 生成Markdown內容函式
 def generate_md_content(restaurants, today, city, district, award, year, page, count):
+    title = '';
+    if city != "所有城市":
+        title += city
+    if district != "所有行政區":
+        title += district
+    if year != "所有年份":
+        title += year
+        title += "年度"
+    if award != "所有獎項":
+        title += award
+    title += "獲獎餐廳"
+    
     # 基礎frontmatter
     md_content = f'''---
-title: "{city} {district} {award} {year} 第{page}頁"
-description: "{city} {district} {award} {year} 獲獎餐廳 第{page}頁"
+title: "{title} 第{page}頁"
+description: "收錄{title}，從傳統小吃到精緻料理，帶您品嚐競賽認證的頂級美味。"
 keywords:
   - 美食競賽
   - 台灣美食
@@ -164,8 +176,6 @@ restaurants:
     
     # 添加餐廳資料
     for rest in restaurants:
-        # replace_name = re.sub(r'[<>:"/\\|?* ()#%{},;@&=+]', '_', rest.get('name', ''))
-        # replace_name = re.sub(r'³', '3', replace_name)
         replace_name = re.sub(r'[^\u4e00-\u9fff\u3040-\u309f\u30a0-\u30ffa-zA-Z0-9\u00C0-\u017F\u0400-\u04FF\-_.]', '_', rest.get('name', ''))
         md_content += f'''  - name: "{rest.get('name', '')}"
     city: "{rest.get('city', '')}"

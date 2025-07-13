@@ -19,46 +19,133 @@
       "url": "{{ .Site.BaseURL }}{{ .Site.Params.Logo }}"
     }
   },
-  "hasPart": [
-    {{ range $i, $city := .Params.cities }}
-      {{ if $city.link }}
-        {{ if $i }},{{ end }}
-        {
-          "@type": "CollectionPage",
-          "name": {{ printf "%s美食競賽" $city.name }},
-          "url": {{ (absURL $city.link) }},
-          "description": {{ printf "精選%s在地美食。" $city.name }}
-        }
-      {{ end }}
-    {{ end }}
+  "sameAs": [
+    {{ .Site.Params.fb }}
   ]
 }
 </script>
 {{ end }}
 
 {{ define "css" }}
-<link rel="stylesheet" href="{{ "css/style.css" | absURL }}">
+<link rel="stylesheet" href="{{ "css/index.css" | absURL }}">
 {{ end }}
 
 {{ define "main" }}
-<header class="header">
+<header class="header" id="top">
   <div class="header-container">
-    <div class="site-logo">
+    <a href="#hero" class="site-logo">
       <div class="logo-circle">
         <img src="{{ .Site.BaseURL }}{{ .Site.Params.icon }}" alt="Logo">
       </div>
-    </div>
+    </a>
     <div class="header-text">
       <h1 class="header_title">{{ .Site.Title }}</h1>
       <p class="header_subtitle">{{ .Site.Params.description }}</p>
     </div>
+    <nav class="nav-links" id="navLinks">
+      <a href="#about">關於我們</a>
+      <a href="#features">服務特色</a>
+      <a href="#experience">馬上體驗</a>
+      <a href="#contact">聯絡我們</a>
+    </nav>
+    <button class="hamburger" id="hamburgerBtn" aria-label="主選單切換">
+      ☰
+    </button>
   </div>
 </header>
 
 <main class="main">
-  <div class="container">
-    <section class="search-section">
+  <section class="hero" id="hero">
+    <div class="container hero-content flex flex-col items-center justify-center">
+      <h1>發現台灣美食競賽餐廳</h1>
+      <p class="hero-subtitle">
+        匯聚全台經過專業評審挑選美食，享受競技級美食體驗
+      </p>
+      <a class="btn btn-primary" href="#experience">
+        開始探索
+      </a>
+    </div>
+  </section>
+
+  <!-- ===== About Section ===== -->
+  <section class="about" id="about">
+    <div class="container">
+      <h2 class="section-title">關於吃貨精選</h2>
+      <p class="section-intro">
+        我們專注於搜集全台經過比賽或其他專業評審挑選出的餐廳，讓您輕鬆掌握台灣各地最值得一試的冠軍美味。
+      </p>
+      <div class="competition-cards">
+        <!-- 競賽卡片 -->
+        <div class="card competition-card">
+          <div class="card__body">
+            <h3>500盤</h3>
+            <p>台灣第一份在地觀點的美食評鑑，由各界菁英評選</p>
+            <span class="status status--info">專業評審・多元觀點</span>
+          </div>
+        </div>
+        <div class="card competition-card">
+          <div class="card__body">
+            <h3>台北國際牛肉麵節</h3>
+            <p>台北市年度美食盛事，評選最佳牛肉麵店家</p>
+            <span class="status status--info">歷史悠久・權威認證</span>
+          </div>
+        </div>
+        <div class="card competition-card">
+          <div class="card__body">
+            <h3>夜市王</h3>
+            <p>全台夜市美食競賽，挖掘最強夜市攤商</p>
+            <span class="status status--info">庶民美食・接地氣</span>
+          </div>
+        </div>
+        <div class="card competition-card">
+          <div class="card__body">
+            <h3>更多賽事持續新增</h3>
+            <p>更多美食不容錯過</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="features" id="features">
+    <div class="container">
+      <h2 class="section-title">為什麼選擇我們</h2>
+      <div class="features-grid">
+        <div class="feature-item card">
+          <div class="card__body flex flex-col items-center gap-8">
+            <div class="feature-icon">🏆</div>
+            <h4>權威評選</h4>
+            <p class="text-center">
+              所有餐廳都經過專業評審嚴格挑選，品質有保障
+            </p>
+          </div>
+        </div>
+        <div class="feature-item card">
+          <div class="card__body flex flex-col items-center gap-8">
+            <div class="feature-icon">🔍</div>
+            <h4>智能篩選</h4>
+            <p class="text-center">
+              提供城市、行政區、獎項、年份等多重篩選功能
+            </p>
+          </div>
+        </div>
+        <div class="feature-item card">
+          <div class="card__body flex flex-col items-center gap-8">
+            <div class="feature-icon">📱</div>
+            <h4>即時更新</h4>
+            <p class="text-center">
+              持續更新最新的競賽結果，掌握第一手資訊
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="search-section" id="experience">
+    <div class="container">
       <h2 class="un-seen">餐廳搜尋</h2>
+      <h2 class="section-title">立即體驗搜尋功能</h2>
       <div class="search-container">
         <div class="search-filters">
           <div class="filter-row">
@@ -105,145 +192,30 @@
           <button id="search-btn" class="btn btn-primary">🔍 搜尋</button>
         </div>
       </div>
-    </section>
+    </div>
+  </section>
 
-    <section class="results-summary">
-      <div class="summary-bar">
-        {{ $filters := slice }}
-        {{ if .Params.city }}{{ $filters = $filters | append .Params.city }}{{ end }}
-        {{ if .Params.district }}{{ $filters = $filters | append .Params.district }}{{ end }}
-        {{ if .Params.award }}{{ $filters = $filters | append .Params.award }}{{ end }}
-        {{ if .Params.year }}{{ $filters = $filters | append (string .Params.year) }}{{ end }}
-
-        <div class="result-selected-filter">
-          {{ range $index, $filter := $filters }}
-          {{ if $index }}<span class="separator"> . </span>{{ end }}
-          {{ $filter }}
-          {{ end }}
-        </div>
-        <div id="results-count" class="results-count">找到 {{ .Params.count }} 間餐廳</div>
-      </div>
-    </section>
-
-    <section class="results-section">
-      <h2 class="un-seen">搜尋結果</h2>
-      <div id="restaurants-grid" class="restaurants-grid">
-        {{ range .Params.restaurants }}
-        <div class="restaurant-card">
-          <div class="restaurant-header">
-            <h3 class="restaurant-name">{{ .name }}</h3>
-            {{ if .award }}
-            <div class="restaurant-awards">
-              {{ range .award }}
-              <span class="award-badge">
-                {{ .name }}-{{ .year }}
-              </span>
-              {{ end }}
-            </div>
-            {{ end }}
-          </div>
-          <div class="restaurant-body">
-            <div class="restaurant-info">
-              {{ if .address }}
-              <div class="restaurant-address">
-                <span class="info-item__text">📍{{ .address }}</span>
-              </div>
-              {{ end }}
-
-              {{ if .phone }}
-              <div class="restaurant-phone">
-                <span class="info-item__text">📞{{ .phone }}</span>
-              </div>
-              {{ end }}
-            </div>
-            <div class="restaurant-actions">
-              {{ if .googleMap }}
-              <a href="{{ .googleMap }}" target="_blank" class="btn btn-primary">
-                Google 地圖
-              </a>
-              {{ end }}
-              {{ if .footinder }}
-              <a href="{{ .footinder }}" target="_blank" class="btn btn-primary">
-                Footinder
-              </a>
-              {{ end }}
-              {{ if .official }}
-              <a href="{{ .official }}" target="_blank" class="btn btn-outline">
-                官方網站
-              </a>
-              {{ end }}
-            </div>
+  <section class="stats" id="stats">
+    <div class="container">
+      <div class="stats-grid">
+        <div class="stat-item card">
+          <div class="card__body flex flex-col items-center gap-8">
+            <span class="stat-number" data-target="1500">0</span>
+            <span class="stat-label">收錄餐廳</span>
           </div>
         </div>
-        {{ else }}
-        <div id="no-results" class="no-results hidden">
-          <div class="no-results_content">
-            <p>未找到符合條件的餐廳</p>
+        <div class="stat-item card">
+          <div class="card__body flex flex-col items-center gap-8">
+            <span class="stat-number" data-target="4">0</span>
+            <span class="stat-label">競賽種類</span>
           </div>
         </div>
-        {{ end }}
       </div>
-    </section>
-
-    <section class="pagination-section">
-      <div id="pagination" class="pagination">
-      </div>
-    </section>
-  </div>
+    </div>
+  </section>
 </main>
 
-<footer>
-  <div class="footer-content">
-    <div class="footer-section">
-      <p>任何問題? 歡迎與我們聯絡</p>
-      <div class="contact-links">
-        <button id="copyEmailBtn" class="copy-email-btn">
-          <span>📧</span>
-          <span id="emailText">foodieselectioninfo@gmail.com</span>
-        </button>
-        <span id="copyMsg" class="copy-msg" style="display:none;">已複製 email！ </span>
-      </div>
-      <div class="contact-links">
-        <a href="https://www.facebook.com/people/%E5%90%83%E8%B2%A8%E7%B2%BE%E9%81%B8-Foodie-Selection/61576588634043/"
-          target="_blank" rel="noopener noreferrer"
-          style="display:inline-block;padding:10px 20px;background:#1877f2;color:#fff;border-radius:5px;text-decoration:none;">
-          Facebook 粉絲專頁
-        </a>
-      </div>
-    </div>
-
-    <div class="footer-bottom">
-      <p>&copy; 2025 吃貨精選 - Foodie Selection. 版權所有 | 探索台灣美食競賽的最佳平台</p>
-    </div>
-  </div>
-</footer>
-
 <script>
-  document.getElementById('copyEmailBtn').addEventListener('click', function () {
-    const email = document.getElementById('emailText').innerText;
-    if (navigator.clipboard) {
-      navigator.clipboard.writeText(email).then(function () {
-        showCopyMsg();
-      });
-    } else {
-      const textarea = document.createElement('textarea');
-      textarea.value = email;
-      document.body.appendChild(textarea);
-      textarea.select();
-      document.execCommand('copy');
-      document.body.removeChild(textarea);
-      showCopyMsg();
-    }
-  });
-
-  function showCopyMsg() {
-    const msg = document.getElementById('copyMsg');
-    msg.style.display = 'inline';
-    setTimeout(function () {
-      msg.style.display = 'none';
-    }, 1500);
-  }
-
   // 點擊 select 按鈕時，展開/收合對應的下拉選單
   document.querySelectorAll('.select-button').forEach(button => {
     button.addEventListener('click', function (e) {
@@ -459,5 +431,125 @@
     // 導航
     window.location.href = path;
   });
+
+  document.addEventListener('DOMContentLoaded', function () {
+    initNavigation();
+    initStatsCounter();
+    initScrollAnimations();
+  });
+
+  function initNavigation() {
+    const hamburgerBtn = document.getElementById('hamburgerBtn');
+    const navLinks = document.getElementById('navLinks');
+
+    // Hamburger menu toggle
+    if (hamburgerBtn && navLinks) {
+      hamburgerBtn.addEventListener('click', function (e) {
+        e.preventDefault();
+        navLinks.classList.toggle('active');
+      });
+    }
+
+    // Close mobile menu when clicking outside
+    document.addEventListener('click', function (e) {
+      if (navLinks && !navLinks.contains(e.target) && !hamburgerBtn.contains(e.target)) {
+        navLinks.classList.remove('active');
+      }
+    });
+
+    // Smooth scrolling for navigation links
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+      anchor.addEventListener('click', function (e) {
+        const targetId = this.getAttribute('href');
+        if (targetId.length > 1) {
+          e.preventDefault();
+          const target = document.querySelector(targetId);
+          if (target) {
+            const header = document.querySelector('.header');
+            const headerHeight = header ? header.offsetHeight : 0;
+            const targetPosition = target.getBoundingClientRect().top + window.pageYOffset - headerHeight;
+            window.scrollTo({
+              top: targetPosition,
+              behavior: 'smooth'
+            });
+          }
+
+          if (navLinks) {
+            navLinks.classList.remove('active');
+          }
+        }
+      });
+    });
+  }
+
+  function initStatsCounter() {
+    const statNumbers = document.querySelectorAll('.stat-number');
+
+    function animateCounter(element, target) {
+      const duration = 1200; // 動畫時間可調整
+      const startTime = performance.now();
+      const isThousand = target >= 1000;
+
+      function updateCounter(currentTime) {
+        const elapsed = currentTime - startTime;
+        const progress = Math.min(elapsed / duration, 1);
+        let current = Math.floor(progress * target);
+
+        if (isThousand) {
+          if (current < 1000) {
+            element.textContent = current;
+          } else {
+            const kNum = (current / 1000).toFixed(1).replace(/\.0$/, '');
+            element.textContent = kNum + 'K+';
+          }
+        } else {
+          element.textContent = current + '+';
+        }
+
+        if (progress < 1) {
+          requestAnimationFrame(updateCounter);
+        }
+      }
+
+      requestAnimationFrame(updateCounter);
+    }
+
+    // Intersection Observer for triggering animation
+    const observer = new IntersectionObserver(function (entries) {
+      entries.forEach(function (entry) {
+        if (entry.isIntersecting) {
+          const target = parseInt(entry.target.getAttribute('data-target'));
+          animateCounter(entry.target, target);
+          observer.unobserve(entry.target);
+        }
+      });
+    }, {
+      threshold: 0.5
+    });
+
+    statNumbers.forEach(function (stat) {
+      observer.observe(stat);
+    });
+  }
+
+  function initScrollAnimations() {
+    const animatedElements = document.querySelectorAll('.card, .feature-item, .stat-item');
+
+    const observer = new IntersectionObserver(function (entries) {
+      entries.forEach(function (entry) {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('fade-in', 'visible');
+        }
+      });
+    }, {
+      threshold: 0.1,
+      rootMargin: '0px 0px -50px 0px'
+    });
+
+    animatedElements.forEach(function (element) {
+      element.classList.add('fade-in');
+      observer.observe(element);
+    });
+  }
 </script>
 {{ end }}

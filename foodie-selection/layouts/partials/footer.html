@@ -1,0 +1,52 @@
+<footer>
+    <div class="footer-content" id="contact">
+        <div class="footer-section">
+            <h3>任何問題? 歡迎與我們聯絡</h3>
+            <div class="contact-links">
+                <button id="copyEmailBtn" class="copy-email-btn">
+                    <span>📧</span>
+                    <span id="emailText">{{ .Site.Params.email }}</span>
+                </button>
+                <span id="copyMsg" class="copy-msg" style="display:none;">已複製 email！ </span>
+            </div>
+            <div class="contact-links">
+                <a href={{ .Site.Params.fb }}
+                    target="_blank" rel="noopener noreferrer"
+                    style="display:inline-block;padding:10px 20px;background:#1877f2;color:#fff;border-radius:5px;text-decoration:none;">
+                    Facebook 粉絲專頁
+                </a>
+            </div>
+        </div>
+
+        <div class="footer-bottom">
+            <p>&copy; 2025 吃貨精選 - Foodie Selection. 版權所有 | 探索台灣美食競賽的最佳平台</p>
+        </div>
+    </div>
+</footer>
+
+<script>
+  document.getElementById('copyEmailBtn').addEventListener('click', function () {
+    const email = document.getElementById('emailText').innerText;
+    if (navigator.clipboard) {
+      navigator.clipboard.writeText(email).then(function () {
+        showCopyMsg();
+      });
+    } else {
+      const textarea = document.createElement('textarea');
+      textarea.value = email;
+      document.body.appendChild(textarea);
+      textarea.select();
+      document.execCommand('copy');
+      document.body.removeChild(textarea);
+      showCopyMsg();
+    }
+  });
+
+  function showCopyMsg() {
+    const msg = document.getElementById('copyMsg');
+    msg.style.display = 'inline';
+    setTimeout(function () {
+      msg.style.display = 'none';
+    }, 1500);
+  }
+</script>

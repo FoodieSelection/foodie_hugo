@@ -7,6 +7,7 @@ disablePathToLower = true
 	
 [params]
   fbAppId = "4039430719718327"
+  fb = "https://www.facebook.com/people/%E5%90%83%E8%B2%A8%E7%B2%BE%E9%81%B8-Foodie-Selection/61576588634043/"
   logo = "images/logo512.png"
   icon = "images/logo128.png"
   description = "探索全台美食競賽，發現在地美味，品嚐競技精神"
