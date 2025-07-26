@@ -2,8 +2,9 @@ import json
 import glob
 import os
 import re
-from datetime import datetime
+import yaml
 from collections import defaultdict
+from datetime import datetime
 
 def generate_md_content(restaurant, today):
     """
@@ -92,8 +93,32 @@ def generate_pages():
             safe_name
         )
         os.makedirs(dir_path, exist_ok=True)
+        
+        # 比較檔案內容（忽略 dateModified）
+        file_path = os.path.join(dir_path, '_index.md')
+        if os.path.exists(file_path):
+            with open(file_path, 'r', encoding='utf-8') as f:
+                old_content = f.read()
+            if (remove_date_modified(old_content).strip() ==
+                    remove_date_modified(md_content).strip()):
+                # 內容未實質變動，跳過寫檔
+                continue
+        
         with open(os.path.join(dir_path, '_index.md'), 'w', encoding='utf-8') as f:
             f.write(md_content)
+
+def remove_date_modified(md_content):
+    # 將 frontmatter 以 YAML 載入，移除 dateModified 再回存 string，方便比對
+    sections = md_content.split('---')
+    if len(sections) < 3:
+        return md_content  # 格式非標準 Markdown frontmatter
+    # sections[1] 是 frontmatter，sections[2]是正文
+    frontmatter = yaml.safe_load(sections[1])
+    if 'dateModified' in frontmatter:
+        del frontmatter['dateModified']
+    # 保留序，前後一致
+    frontmatter_str = yaml.dump(frontmatter, allow_unicode=True, sort_keys=False)
+    return f'---\n{frontmatter_str}---{sections[2]}'
 
 if __name__ == "__main__":
     generate_pages()

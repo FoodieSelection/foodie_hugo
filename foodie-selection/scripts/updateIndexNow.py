@@ -7,7 +7,7 @@ SITEMAP_FILE = "../public/sitemap.xml"                     # sitemap 檔案路�
 API_KEY = "829a24b7168846118d06c01c75b76651"           # 將此處改成您的 IndexNow API Key
 HOST = "foodie.selection.com.tw"                         # 您網站的 host（不含 https://）
 ENDPOINT = "https://api.indexnow.org/indexnow"   # IndexNow 批量提交端點
-MAX_URLS_PER_BATCH = 10000                       # 每次提交的最大 URL 數量
+MAX_URLS_PER_BATCH = 20                       # 每次提交的最大 URL 數量
 
 # —— 從 sitemap.xml 解析所有 URL —— #
 def parse_sitemap(file_path):

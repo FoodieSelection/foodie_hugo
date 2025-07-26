@@ -2,6 +2,8 @@ import json
 import glob
 import os
 import re
+import yaml
+from collections import OrderedDict
 from datetime import datetime
 
 # 讀取餐廳資料
@@ -82,6 +84,14 @@ def generate_pages():
                         os.makedirs(dir_path, exist_ok=True)
                         file_path = os.path.join(dir_path, '_index.md')
                         
+                        # 比較檔案內容（忽略 dateModified）
+                        if os.path.exists(file_path):
+                            with open(file_path, 'r', encoding='utf-8') as f:
+                                old_content = f.read()
+                            if (remove_date_modified(old_content).strip() ==
+                                    remove_date_modified(md_content).strip()):
+                                # 內容未實質變動，跳過寫檔
+                                continue
                         # 寫入檔案
                         with open(file_path, 'w', encoding='utf-8') as f:
                             f.write(md_content)
@@ -201,6 +211,19 @@ restaurants:
     
     md_content += '---'
     return md_content
+
+def remove_date_modified(md_content):
+    # 將 frontmatter 以 YAML 載入，移除 dateModified 再回存 string，方便比對
+    sections = md_content.split('---')
+    if len(sections) < 3:
+        return md_content  # 格式非標準 Markdown frontmatter
+    # sections[1] 是 frontmatter，sections[2]是正文
+    frontmatter = yaml.safe_load(sections[1])
+    if 'dateModified' in frontmatter:
+        del frontmatter['dateModified']
+    # 保留序，前後一致
+    frontmatter_str = yaml.dump(frontmatter, allow_unicode=True, sort_keys=False)
+    return f'---\n{frontmatter_str}---{sections[2]}'
 
 # 執行主程式
 generate_pages()
