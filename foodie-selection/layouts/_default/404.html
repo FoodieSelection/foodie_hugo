@@ -217,9 +217,9 @@
     fetch('/data/city_awards.json').then(r => r.json())
   ]).then(([districtData, awardData]) => {
     // 從Hugo模板獲取初始值 - 只定義一次
-    const initialCity = "{{ .Params.city | default "" }}";
-    const initialDistrict = "{{ .Params.district | default "" }}";
-    const initialAward = "{{ .Params.award | default "" }}";
+    const initialCity = "所有城市";
+    const initialDistrict = "";
+    const initialAward = "";
 
     // 取得所需的DOM元素
     const regionDropdown = document.querySelector('.select-dropdown[data-target="region"]');
@@ -358,18 +358,6 @@
       if (initialYear) {
         yearButton.textContent = initialYear;
       }
-
-      // 年分選單點擊事件
-      yearDropdown.addEventListener('click', function (e) {
-        if (e.target.classList.contains('option')) {
-          yearButton.textContent = e.target.textContent;
-          yearDropdown.style.display = 'none';
-
-          // 重設為獎項預設值
-          yearButton.textContent = '所有年份';
-          yearDropdown.innerHTML = '';
-        }
-      });
 
       // 年分選單點擊事件
       yearDropdown.addEventListener('click', function (e) {

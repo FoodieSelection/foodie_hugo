@@ -440,18 +440,6 @@
       yearDropdown.addEventListener('click', function (e) {
         if (e.target.classList.contains('option')) {
           yearButton.textContent = e.target.textContent;
-          yearDropdown.style.display = 'none';
-
-          // 重設為獎項預設值
-          yearButton.textContent = '所有年份';
-          yearDropdown.innerHTML = '';
-        }
-      });
-
-      // 年分選單點擊事件
-      yearDropdown.addEventListener('click', function (e) {
-        if (e.target.classList.contains('option')) {
-          yearButton.textContent = e.target.textContent;
           this.style.display = 'none';
         }
       });

@@ -3,7 +3,6 @@ import glob
 import os
 import re
 import yaml
-from collections import OrderedDict
 from datetime import datetime
 
 # 讀取餐廳資料
@@ -31,6 +30,7 @@ city_awards_dict = {item['city']: item['awards'] for item in city_awards}
 def generate_pages():
     today = datetime.now().strftime("%Y-%m-%d")
     batch_size = 9
+    written_paths = []
     
     # 遍歷所有篩選組合
     for city_data in city_districts:
@@ -95,6 +95,11 @@ def generate_pages():
                         # 寫入檔案
                         with open(file_path, 'w', encoding='utf-8') as f:
                             f.write(md_content)
+                        written_paths.append(dir_path)
+    if written_paths:
+        with open('update_page.txt', 'w', encoding='utf-8') as logf:
+            for p in written_paths:
+                logf.write(p + '\n')
 
 # 餐廳篩選函式
 def filter_restaurants(restaurants, city, district, award, year):

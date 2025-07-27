@@ -74,6 +74,7 @@ def generate_pages():
     """
     json_files = glob.glob('../data/**/*.json', recursive=True)
     all_restaurants = []
+    written_paths = []
     for file in json_files:
         with open(file, 'r', encoding='utf-8') as f:
             data = json.load(f)
@@ -106,6 +107,11 @@ def generate_pages():
         
         with open(os.path.join(dir_path, '_index.md'), 'w', encoding='utf-8') as f:
             f.write(md_content)
+        written_paths.append(dir_path)
+    if written_paths:
+        with open('update_store.txt', 'w', encoding='utf-8') as logf:
+            for p in written_paths:
+                logf.write(p + '\n')
 
 def remove_date_modified(md_content):
     # 將 frontmatter 以 YAML 載入，移除 dateModified 再回存 string，方便比對
