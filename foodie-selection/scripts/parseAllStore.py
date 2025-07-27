@@ -87,6 +87,7 @@ def generate_pages():
         # safe_name = re.sub(r'[<>:"/\\|?* ()#%{},;@&=+]', '_', restaurant.get('name', ''))
         # safe_name = safe_name.replace('³', '3')
         safe_name = re.sub(r'[^\u4e00-\u9fff\u3040-\u309f\u30a0-\u30ffa-zA-Z0-9\u00C0-\u017F\u0400-\u04FF\-_.]', '_', restaurant.get('name', ''))
+        safe_name = re.sub(r'^_+', '', safe_name)
         dir_path = os.path.join(
             "../content",
             restaurant.get('city', ''),
